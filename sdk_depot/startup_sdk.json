@@ -1,0 +1,25 @@
+{
+  "$mapversion": 1,
+  "version": 8,
+
+  "keepDevOnly": true,
+
+  "assetsDir": "sdk_depot/assets_sdk/",
+  "outputDir": "./build/",
+
+  "compressLevel": 0,
+  "compressWorkers": 16,
+
+  "name": "startup_sdk",
+
+  "files": [
+    {
+      "_type": "rlcd",
+      "_path": "lcd_screen_effect/lcd_titanscreen.rpak"
+    },
+    {
+      "_type": "rlcd",
+      "_path": "lcd_screen_effect/lcd_titanscreen_startup.rpak"
+    }
+  ]
+}

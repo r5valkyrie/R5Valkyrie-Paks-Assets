@@ -1,0 +1,1592 @@
+{
+  "$mapversion": 1,
+  "version": 8,
+
+  "keepDevOnly": true,
+
+  "assetsDir": "sdk_depot/assets_sdk/",
+  "outputDir": "./build/",
+
+  "streamFileMandatory": "paks/Win64/common_roots.starpak",
+  "streamFileOptional": "paks/Win64/common_roots.opt.starpak",
+
+  "compressLevel": 6,
+  "compressWorkers": 16,
+
+  "name": "common_roots",
+
+  "files": [
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_scriptAnimWindowArguments_FadeAlphaOverTime_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_scriptAnimWindowArguments_ShadowFormFX_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_base_itemflavor_list_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_scriptAnimWindowArguments_HideWeapons_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_scriptAnimWindowArguments_SetSkin_layout.rpak"
+    },
+    {
+      "_type": "txls",
+      "_path": "texture_list/camo_skins.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/absolution_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/amethyst_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/arachnophobia_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/arctic_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/backdraft_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/bananas_2_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/bananas_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/baroque_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/blacklight_classic_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/bloodline_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/blossom_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/brain_candy_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/calm_seas_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/cardinal_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/checkered_past_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/cheetah_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/circuit_breaker_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/clearwater_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/coastal_waters_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/collider_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/constellations_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/convergence_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/crash_test_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/dark_web_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/daruma_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/death_adder_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/desert_scorpion_2_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/desert_scorpion_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/dire_wolf_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/disruptor_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/dollarbills_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/dot_product_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/electric_synapse_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/energy_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/evergreen_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/feathers_algs_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/fire_support_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/flamingo_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/flower_power_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/founder_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/fracture_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/fresh_reign_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/green_screen_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/head_trip_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/hieroglyph_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/high_frequency_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/hornofplenty_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/hydro_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/hypnotic_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/industrial_logo_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/interdimensional_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/kingslayer_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/koi_pond_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/life_cycle_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/limelight_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/lucky_charm_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/mandarin_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/midnight_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/mint_condition_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/molten_core_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/mortal_coil_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/nebula_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/orchid_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/ornamental_nature_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/perfect_storm_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/pinstripe_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/pinwheels_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/prehistoric_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/psn_01_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/psplus02_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/psplus03_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/psplus04_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/psplus05_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/psplus06_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/psplus07_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/psplus08_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/psplus09_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/psplus10_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/purgatory_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/rage_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/rare_copperhead_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/rare_firedup_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/rare_tbd_s08_01.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/royal_decree_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/royal_wolf_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/sahara_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/scales_of_justice_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/self_organized_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/sherwoodforest_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/sizzle_reel_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/skyward_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/snakeskin_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/space_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/stained_glass_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/sunsetter_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/super_rad_2_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/super_rad_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/sweet_16_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/tartan_fleece_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/tbd01_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/tbd02_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/tbd03_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/thunderclouds_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/tie_dye_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/tight_rope_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/timberland_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/tropic_streak_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/underthewarp_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/unholy_alliance_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/unicornucopia_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/urban_legend_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/varsity_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/veinweb_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/vicious_cycle_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/vino_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/volcanic_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/voodoo_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/warlord_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/white_rose_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/wishbone_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/woodland_warfare_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/yellowblock_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/yellowjacket_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/shared/zebra_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/characters/twitch03/caustic_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season02/alternator_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season02/devotion_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season02/dmr_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season02/eva_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season02/flatline_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season02/g7_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season02/havoc_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season02/hemlok_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season02/kraber_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season02/lstar_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season02/mastiff_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season02/mozambique_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season02/p2020_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season02/peacekeeper_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season02/prowler_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season02/r301_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season02/r99_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season02/re45_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season02/spitfire_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season02/tripletake_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season02/wingman_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season03/alternator_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season03/chargerifle_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season03/devotion_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season03/dmr_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season03/eva_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season03/flatline_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season03/g7_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season03/havoc_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season03/hemlok_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season03/kraber_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season03/lstar_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season03/mastiff_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season03/mozambique_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season03/p2020_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season03/peacekeeper_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season03/prowler_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season03/r301_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season03/r99_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season03/re45_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season03/spitfire_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season03/tripletake_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season03/wingman_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season04/alternator_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season04/chargerifle_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season04/devotion_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season04/dmr_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season04/eva_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season04/flatline_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season04/g7_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season04/havoc_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season04/hemlok_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season04/kraber_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season04/lstar_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season04/mastiff_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season04/mozambique_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season04/p2020_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season04/peacekeeper_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season04/prowler_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season04/r301_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season04/r99_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season04/re45_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season04/sentinel_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season04/spitfire_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season04/tripletake_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season04/wingman_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season05/alternator_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season05/chargerifle_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season05/devotion_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season05/dmr_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season05/eva_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season05/flatline_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season05/g7_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season05/havoc_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season05/hemlok_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season05/kraber_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season05/lstar_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season05/mastiff_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season05/mozambique_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season05/p2020_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season05/peacekeeper_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season05/prowler_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season05/r301_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season05/r99_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season05/re45_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season05/sentinel_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season05/spitfire_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season05/tripletake_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season05/wingman_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season06/alternator_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season06/chargerifle_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season06/devotion_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season06/dmr_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season06/eva_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season06/flatline_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season06/g7_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season06/havoc_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season06/hemlok_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season06/kraber_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season06/lstar_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season06/mastiff_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season06/mozambique_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season06/p2020_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season06/peacekeeper_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season06/prowler_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season06/r301_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season06/r99_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season06/re45_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season06/sentinel_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season06/spitfire_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season06/tripletake_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season06/volt_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season06/wingman_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season07/chargerifle_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season07/devotion_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season07/dmr_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season07/eva_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season07/flatline_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season07/g7_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season07/havoc_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season07/hemlok_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season07/kraber_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season07/lstar_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season07/mastiff_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season07/mozambique_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season07/p2020_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season07/peacekeeper_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season07/prowler_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season07/r301_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season07/r99_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season07/re45_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season07/sentinel_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season07/spitfire_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season07/tripletake_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season07/volt_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season07/wingman_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season08/3030repeater_s08_bp_rare_01_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season08/alternator_s08_bp_rare_01_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season08/chargerifle_s08_bp_rare_01_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season08/devotion_s08_bp_rare_01_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season08/dmr_s08_bp_rare_01_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season08/eva_s08_bp_rare_01_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season08/flatline_s08_bp_rare_01_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season08/g7_s08_bp_rare_01_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season08/havoc_s08_bp_rare_01_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season08/hemlok_s08e01_psplus10_rare_01_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season08/hemlok_s08_bp_rare_01_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season08/kraber_s08_bp_rare_01_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season08/lstar_s08_bp_rare_01_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season08/mastiff_s08_bp_rare_01_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season08/mozambique_s08_bp_rare_01_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season08/p2020_s08_bp_rare_01_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season08/peacekeeper_s08_bp_rare_01_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season08/prowler_s08_bp_rare_01_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season08/r301_s08_bp_rare_01_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season08/r99_s08_bp_rare_01_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season08/re45_s08_bp_rare_01_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season08/Sentinel_s08_bp_rare_01_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season08/spitfire_s08_bp_rare_01_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season08/tripletake_s08_bp_rare_01_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season08/volt_smg_s08e01_psplus10_rare_01_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season08/volt_smg_s08_bp_rare_01_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season08/wingman_s08_bp_rare_01_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season09/3030_s09_bp_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season09/alternator_s09_algs_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season09/alternator_s09_bp_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season09/chargerifle_s09_bp_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season09/devotion_s09_bp_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season09/dmr_s09_bp_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season09/eva_s09_bp_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season09/eva_s09_flash_03_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season09/flatline_s09_bp_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season09/g7_s09_bp_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season09/havoc_s09_bp_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season09/hemlok_s09_bp_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season09/kraber_s09_bp_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season09/lstar_s09_bp_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season09/mastiff_s09_bp_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season09/mozambique_s09_bp_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season09/p2020_s09_bp_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season09/peacekeeper_s09_bp_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season09/prowler_s09_bp_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season09/r301_s09_bp_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season09/r99_s09_bp_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season09/re45_s09_bp_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season09/sentinel_s09_bp_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season09/spitfire_s09_bp_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season09/tripletake_s09_bp_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season09/volt_s09_bp_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/season09/wingman_s09_bp_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/camo_common_01_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/camo_common_02_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/camo_common_03_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/camo_common_04_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/camo_common_05_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/camo_common_06_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/camo_common_07_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/camo_common_08_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/camo_common_09_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/camo_common_10_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/camo_common_11_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/camo_common_12_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/camo_common_13_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/camo_common_14_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/camo_common_15_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/psplus02_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/psplus03_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/psplus04_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/psplus05_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/psplus06_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/psplus07_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/psplus08_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/psplus09_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/weapon_psn_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/season01/a_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/season01/b_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/season01/c_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/set_a/camo_rare_01_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/set_a/camo_rare_02_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/set_a/camo_rare_03_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/set_a/camo_rare_04_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/set_a/camo_rare_05_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/set_a/camo_rare_06_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/set_a/camo_rare_07_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/set_a/camo_rare_08_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/set_a/camo_rare_09_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/set_a/camo_rare_10_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/set_a/camo_rare_11_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/set_a/camo_rare_12_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/set_a/camo_rare_13_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/set_a/camo_rare_14_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/set_a/camo_rare_15_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/set_b/camo_rare_01_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/set_b/camo_rare_02_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/set_b/camo_rare_03_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/set_b/camo_rare_04_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/set_b/camo_rare_05_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/set_b/camo_rare_06_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/set_b/camo_rare_07_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/set_b/camo_rare_08_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/set_b/camo_rare_09_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/set_b/camo_rare_10_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/set_b/camo_rare_11_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/set_b/camo_rare_12_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/set_b/camo_rare_13_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/set_b/camo_rare_14_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/set_b/camo_rare_15_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/set_c/camo_rare_01_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/set_c/camo_rare_02_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/set_c/camo_rare_03_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/set_c/camo_rare_04_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/set_c/camo_rare_05_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/set_c/camo_rare_06_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/set_c/camo_rare_07_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/set_c/camo_rare_08_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/set_c/camo_rare_09_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/set_c/camo_rare_10_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/set_c/camo_rare_11_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/set_c/camo_rare_12_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/set_c/camo_rare_13_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/set_c/camo_rare_14_col.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/camo_skins_r5/weapons/shared/set_c/camo_rare_15_col.rpak"
+    }
+  ]
+}

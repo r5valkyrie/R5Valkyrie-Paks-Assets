@@ -1,0 +1,91 @@
+ 
+
+{
+    "version": 8,
+    "keepDevOnly": false,
+
+    "outputDir": "./paks/Win64/",
+
+    "streamFileMandatory": "paks/Win64/pc_all.starpak",
+    "streamFileOptional": "paks/Win64/pc_all.opt.starpak",
+
+    "showDebugInfo": false,
+
+    "paks": [
+        //ENGINE PAKS
+        //"sdk_depot/others/common.json",//Rebuilt Core Rpak
+        "sdk_depot/others/common_mp.json",//Rebuilt Core Rpak
+        "sdk_depot/patch_master.json",
+
+        //MAP PAKS
+        "map_depot/mp_lobby_s3.1.json",//Season 3 Lobby
+        "map_depot/mp_rr_canyonlands_staging.json",//Season 14 Firing Range
+        "sdk_depot/others/mp_rr_canyonlands_mu1.json",//Canyonlands MU1, Original S3 variant
+        "sdk_depot/others/mp_rr_canyonlands_64k_x_64k.json",//Canyonlands 64K, Original S3 variant
+        "sdk_depot/others/mp_rr_canyonlands_mu1_night.json",//Canyonlands MU1 Night, Original S3 variant
+        "map_depot/mp_rr_canyonlands_64k_x_64k_ps4.json",
+        "map_depot/mp_rr_canyonlands_mu2.json",
+        "map_depot/mp_rr_canyonlands_mu2_tt.json",
+        "sdk_depot/others/mp_rr_desertlands_64k_x_64k.json",//Desertlands 64K, Original S3 variant
+        "map_depot/mp_rr_desertlands_64k_x_64k_nx.json",
+        "map_depot/mp_rr_desertlands_64k_x_64k_tt.json",
+        "map_depot/mp_rr_desertlands_64k_x_64k_mv.json",
+        "map_depot/mp_rr_desertlands_holiday.json",
+        "map_depot/mp_rr_desertlands_mu1.json",
+        "map_depot/mp_rr_desertlands_mu1_tt.json",
+        "map_depot/mp_rr_desertlands_mu2.json",
+        "map_depot/mp_rr_olympus.json",
+        "map_depot/mp_rr_olympus_tt.json",
+        "map_depot/mp_rr_olympus_mu1.json",
+        "map_depot/mp_rr_aqueduct.json",
+        "map_depot/mp_rr_party_crasher.json",
+        "map_depot/mp_rr_arena_composite.json",
+        "map_depot/mp_rr_arena_phase_runner.json",
+        "map_depot/mp_rr_arena_skygarden.json",
+
+        "sdk_depot/others/flowstate/mp_rr_arena_empty.json",
+
+        //UI ASSET PAKS
+        "sdk_depot/ui_mainmenu.json",
+        "map_depot/mp_lobby_loadscreen.json",
+        "map_depot/mp_rr_canyonlands_staging_loadscreen.json",
+        "map_depot/mp_rr_canyonlands_64k_x_64k_ps4_loadscreen.json",
+        "map_depot/mp_rr_canyonlands_mu2_loadscreen.json",
+        "map_depot/mp_rr_canyonlands_mu2_tt_loadscreen.json",
+        "map_depot/mp_rr_desertlands_64k_x_64k_nx_loadscreen.json",
+        "map_depot/mp_rr_desertlands_64k_x_64k_tt_loadscreen.json",
+        "map_depot/mp_rr_desertlands_64k_x_64k_mv_loadscreen.json",
+        "map_depot/mp_rr_desertlands_mu1_loadscreen.json",
+        "map_depot/mp_rr_desertlands_mu1_tt_loadscreen.json",
+        "map_depot/mp_rr_desertlands_mu2_loadscreen.json",
+        "map_depot/mp_rr_desertlands_night_loadscreen.json",
+        "map_depot/mp_rr_olympus_loadscreen.json",
+        "map_depot/mp_rr_olympus_tt_loadscreen.json",
+        "map_depot/mp_rr_olympus_mu1_loadscreen.json",
+        "map_depot/mp_rr_aqueduct_loadscreen.json",
+        "map_depot/mp_rr_party_crasher_loadscreen.json",
+        "map_depot/mp_rr_arena_composite_loadscreen.json",
+        "map_depot/mp_rr_arena_phase_runner_loadscreen.json",
+        "sdk_depot/gcards/gcard_frame_rampart_common_01.json",
+        "sdk_depot/gcards/gcard_frame_rampart_common_02.json",
+        "sdk_depot/gcards/gcard_frame_rampart_common_03.json",
+        "sdk_depot/gcards/gcard_frame_rampart_common_04.json",
+        "sdk_depot/gcards/gcard_frame_rampart_common_05.json",
+        "sdk_depot/gcards/gcard_frame_loba_common_01.json",
+        "sdk_depot/gcards/gcard_frame_loba_common_02.json",
+        "sdk_depot/gcards/gcard_frame_loba_common_03.json",
+        "sdk_depot/gcards/gcard_frame_loba_common_04.json",
+        "sdk_depot/gcards/gcard_frame_loba_common_05.json",
+        "sdk_depot/gcards/gcard_frame_loba_rare_01.json",
+        "sdk_depot/gcards/gcard_frame_loba_rare_02.json",
+        "sdk_depot/gcards/gcard_frame_loba_rare_03.json",
+        "sdk_depot/gcards/gcard_frame_loba_rare_04.json",
+        "sdk_depot/gcards/gcard_frame_loba_rare_05.json",
+        "sdk_depot/gcards/gcard_frame_loba_s05bp_epic_01.json",
+        "sdk_depot/gcards/gcard_frame_valkyrie_common_01.json",
+        "sdk_depot/gcards/gcard_frame_valkyrie_common_02.json",
+        "sdk_depot/gcards/gcard_frame_valkyrie_common_03.json",
+        "sdk_depot/gcards/gcard_frame_valkyrie_common_04.json",
+        "sdk_depot/gcards/gcard_frame_valkyrie_common_05.json"
+    ]
+}

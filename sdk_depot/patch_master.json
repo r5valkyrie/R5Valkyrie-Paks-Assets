@@ -1,0 +1,71 @@
+{
+  "version": 8,
+  "keepDevOnly": true,
+  "name": "patch_master",
+  "assetsDir": "sdk_depot/assets_sdk/",
+  "outputDir": "./build/",
+  "files": [
+    {
+      "_type": "Ptch",
+      "_path": "patch_master",
+      "entries": [
+        {
+          "name": "loadscreen_custom_01.rpak",
+          "version": 2
+        },
+        {
+          "name": "loadscreen_custom_02.rpak",
+          "version": 2
+        },
+        {
+          "name": "loadscreen_custom_03.rpak",
+          "version": 2
+        },
+        {
+          "name": "loadscreen_custom_04.rpak",
+          "version": 2
+        },
+        {
+          "name": "loadscreen_custom_05.rpak",
+          "version": 2
+        },
+        {
+          "name": "loadscreen_custom_06.rpak",
+          "version": 2
+        },
+        {
+          "name": "loadscreen_custom_07.rpak",
+          "version": 2
+        },
+        {
+          "name": "loadscreen_custom_08.rpak",
+          "version": 2
+        },
+        {
+          "name": "loadscreen_custom_09.rpak",
+          "version": 2
+        },
+        {
+          "name": "loadscreen_custom_10.rpak",
+          "version": 2
+        },
+        {
+          "name": "loadscreen_custom_kings_canyon_mu1.rpak",
+          "version": 2
+        },
+        {
+          "name": "loadscreen_custom_kings_canyon_og.rpak",
+          "version": 2
+        },
+        {
+          "name": "loadscreen_custom_s03bp_06.rpak",
+          "version": 1
+        },
+        {
+          "name": "loadscreen_custom_s03bp_10.rpak",
+          "version": 1
+        }
+      ]
+    }
+  ]
+}

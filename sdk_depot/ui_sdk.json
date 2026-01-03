@@ -1,0 +1,2282 @@
+{
+  "version": 8,
+
+  "assetsDir": "sdk_depot/assets_sdk/",
+  "outputDir": "./build/",
+  
+  "compressLevel": 6,
+  "compressWorkers": 16,
+
+  "name": "ui_sdk",
+
+  "files": [
+   {
+      "_type": "uimg",
+      "_path": "ui_image_atlas/titan_cockpit.rpak",
+      "atlas": "texture/ui_atlas/rui/hud_icons/r2_titan/titan_cockpit.rpak",
+      "images": [
+        {
+          "path": "models/titans_r2/titan_cockpit/titan_cockpit_rui_base",
+          "posX": 20,
+          "posY": 20,
+          "width": 1023,
+          "height": 608
+        },
+        {
+          "path": "models/titans_r2/titan_cockpit/titan_cockpit_rui_stair_ticks",
+          "posX": 20,
+          "posY": 668,
+          "width": 486,
+          "height": 666
+        },
+        {
+          "path": "models/titans_r2/titan_cockpit/titan_cockpit_rui_concentric",
+          "posX": 546,
+          "posY": 668,
+          "width": 1079,
+          "height": 230
+        },
+        {
+          "path": "models/titans_r2/titan_cockpit/titan_cockpit_rui_concentric_large",
+          "posX": 546,
+          "posY": 938,
+          "width": 1017,
+          "height": 202
+        },
+        {
+          "path": "models/titans_r2/titan_cockpit/titan_cockpit_rui_pitch_stair_bracket",
+          "posX": 1603,
+          "posY": 938,
+          "width": 319,
+          "height": 319
+        },
+        {
+          "path": "models/titans_r2/titan_cockpit/titan_cockpit_rui_lower_compass",
+          "posX": 1665,
+          "posY": 20,
+          "width": 257,
+          "height": 257
+        },
+        {
+          "path": "models/titans_r2/titan_cockpit/titan_cockpit_rui_compass_arrow",
+          "posX": 1665,
+          "posY": 317,
+          "width": 255,
+          "height": 255
+        },
+        {
+          "path": "models/titans_r2/titan_cockpit/titan_cockpit_rui_top_ticks",
+          "posX": 1665,
+          "posY": 612,
+          "width": 255,
+          "height": 255
+        },
+        {
+          "path": "models/titans_r2/titan_cockpit/titan_cockpit_rui_style_arrow",
+          "posX": 1083,
+          "posY": 20,
+          "width": 255,
+          "height": 250
+        },
+        {
+          "path": "models/titans_r2/titan_cockpit/titan_cockpit_rui_shield_bar_7",
+          "posX": 546,
+          "posY": 1297,
+          "width": 825,
+          "height": 31
+        },
+        {
+          "path": "models/titans_r2/titan_cockpit/titan_cockpit_rui_half_circle",
+          "posX": 1960,
+          "posY": 317,
+          "width": 199,
+          "height": 199
+        },
+        {
+          "path": "models/titans_r2/titan_cockpit/titan_cockpit_rui_health_bar_7",
+          "posX": 546,
+          "posY": 1180,
+          "width": 824,
+          "height": 21
+        },
+        {
+          "path": "models/titans_r2/titan_cockpit/titan_cockpit_rui_doomed_bar_7",
+          "posX": 546,
+          "posY": 1368,
+          "width": 825,
+          "height": 18
+        },
+        {
+          "path": "models/titans_r2/titan_cockpit/titan_cockpit_rui_side_compass",
+          "posX": 1962,
+          "posY": 20,
+          "width": 181,
+          "height": 181
+        },
+        {
+          "path": "models/titans_r2/titan_cockpit/titan_cockpit_rui_health_bar_6",
+          "posX": 1411,
+          "posY": 1297,
+          "width": 682,
+          "height": 21
+        },
+        {
+          "path": "models/titans_r2/titan_cockpit/titan_cockpit_rui_ornate_arrow2",
+          "posX": 1960,
+          "posY": 556,
+          "width": 159,
+          "height": 179
+        },
+        {
+          "path": "models/titans_r2/titan_cockpit/titan_cockpit_rui_doomed_bar_6",
+          "posX": 1411,
+          "posY": 1358,
+          "width": 685,
+          "height": 20
+        },
+        {
+          "path": "models/titans_r2/titan_cockpit/titan_cockpit_rui_ornate_arrow",
+          "posX": 1962,
+          "posY": 775,
+          "width": 195,
+          "height": 137
+        },
+        {
+          "path": "models/titans_r2/titan_cockpit/titan_cockpit_rui_cg_meter",
+          "posX": 1083,
+          "posY": 310,
+          "width": 299,
+          "height": 76
+        },
+        {
+          "path": "models/titans_r2/titan_cockpit/titan_cockpit_rui_health_bar",
+          "posX": 1411,
+          "posY": 1418,
+          "width": 590,
+          "height": 21
+        },
+        {
+          "path": "models/titans_r2/titan_cockpit/titan_cockpit_rui_doomed_bar",
+          "posX": 20,
+          "posY": 1426,
+          "width": 591,
+          "height": 20
+        },
+        {
+          "path": "models/titans_r2/titan_cockpit/titan_cockpit_rui_shield_bar_6",
+          "posX": 651,
+          "posY": 1426,
+          "width": 575,
+          "height": 18
+        },
+        {
+          "path": "models/titans_r2/titan_cockpit/titan_cockpit_rui_doomed_bar_4",
+          "posX": 1083,
+          "posY": 426,
+          "width": 455,
+          "height": 31
+        },
+        {
+          "path": "models/titans_r2/titan_cockpit/titan_cockpit_rui_health_bar_6_bg",
+          "posX": 1266,
+          "posY": 1479,
+          "width": 553,
+          "height": 19
+        },
+        {
+          "path": "models/titans_r2/titan_cockpit/titan_cockpit_rui_health_bar_7_bg",
+          "posX": 651,
+          "posY": 1484,
+          "width": 553,
+          "height": 19
+        },
+        {
+          "path": "models/titans_r2/titan_cockpit/titan_cockpit_rui_tick_bar",
+          "posX": 1083,
+          "posY": 497,
+          "width": 354,
+          "height": 42
+        },
+        {
+          "path": "models/titans_r2/titan_cockpit/titan_cockpit_rui_health_bar_4",
+          "posX": 20,
+          "posY": 1486,
+          "width": 455,
+          "height": 21
+        },
+        {
+          "path": "models/titans_r2/titan_cockpit/titan_cockpit_rui_shield_bar",
+          "posX": 1083,
+          "posY": 579,
+          "width": 458,
+          "height": 18
+        },
+        {
+          "path": "models/titans_r2/titan_cockpit/titan_cockpit_rui_shield_bar_premul",
+          "posX": 1244,
+          "posY": 1538,
+          "width": 458,
+          "height": 18
+        },
+        {
+          "path": "models/titans_r2/titan_cockpit/titan_cockpit_rui_health_bar_bg",
+          "posX": 515,
+          "posY": 1543,
+          "width": 447,
+          "height": 19
+        },
+        {
+          "path": "models/titans_r2/titan_cockpit/titan_instrument_radar_spinner",
+          "posX": 1962,
+          "posY": 952,
+          "width": 127,
+          "height": 127
+        },
+        {
+          "path": "models/titans_r2/titan_cockpit/titan_instrument_radar_static",
+          "posX": 1962,
+          "posY": 1119,
+          "width": 127,
+          "height": 127
+        },
+        {
+          "path": "models/titans_r2/titan_cockpit/titan_instrument_radar_tracker",
+          "posX": 1378,
+          "posY": 20,
+          "width": 127,
+          "height": 127
+        },
+        {
+          "path": "models/titans_r2/titan_cockpit/titan_instrument_radar_tracker2",
+          "posX": 1422,
+          "posY": 187,
+          "width": 127,
+          "height": 127
+        },
+        {
+          "path": "models/titans_r2/titan_cockpit/titan_cockpit_rui_upper_tick",
+          "posX": 1002,
+          "posY": 1543,
+          "width": 149,
+          "height": 101
+        },
+        {
+          "path": "models/titans_r2/titan_cockpit/titan_cockpit_rui_side_arrow",
+          "posX": 2041,
+          "posY": 1418,
+          "width": 108,
+          "height": 140
+        },
+        {
+          "path": "models/titans_r2/titan_cockpit/titan_cockpit_rui_dash_bar",
+          "posX": 546,
+          "posY": 1241,
+          "width": 418,
+          "height": 15
+        },
+        {
+          "path": "models/titans_r2/titan_cockpit/titan_cockpit_rui_shield_bar_4",
+          "posX": 20,
+          "posY": 1547,
+          "width": 372,
+          "height": 18
+        },
+        {
+          "path": "models/titans_r2/titan_cockpit/titan_cockpit_rui_health_bar_4_bg",
+          "posX": 432,
+          "posY": 1602,
+          "width": 361,
+          "height": 19
+        },
+        {
+          "path": "models/titans_r2/titan_cockpit/titan_cockpit_rui_health_bar_3",
+          "posX": 20,
+          "posY": 1605,
+          "width": 341,
+          "height": 21
+        },
+        {
+          "path": "models/titans_r2/titan_cockpit/titan_cockpit_rui_doomed_bar_3",
+          "posX": 401,
+          "posY": 1661,
+          "width": 342,
+          "height": 20
+        },
+        {
+          "path": "models/titans_r2/titan_cockpit/titan_cockpit_rui_health_bar_backer",
+          "posX": 20,
+          "posY": 1374,
+          "width": 424,
+          "height": 8
+        },
+        {
+          "path": "models/titans_r2/titan_cockpit/titan_cockpit_rui_lower_tick",
+          "posX": 1410,
+          "posY": 1180,
+          "width": 149,
+          "height": 67
+        },
+        {
+          "path": "models/titans_r2/titan_cockpit/titan_cockpit_rui_shield_bar_3",
+          "posX": 20,
+          "posY": 1666,
+          "width": 287,
+          "height": 18
+        },
+        {
+          "path": "models/titans_r2/titan_cockpit/titan_cockpit_rui_health_bar_3_bg",
+          "posX": 783,
+          "posY": 1684,
+          "width": 276,
+          "height": 19
+        },
+        {
+          "path": "models/titans_r2/titan_cockpit/titan_cockpit_rui_upper_tick_precolored",
+          "posX": 1859,
+          "posY": 1479,
+          "width": 99,
+          "height": 49
+        },
+        {
+          "path": "models/titans_r2/titan_cockpit/titan_cockpit_rui_lower_tick_precolored",
+          "posX": 833,
+          "posY": 1602,
+          "width": 78,
+          "height": 34
+        },
+        {
+          "path": "models/titans_r2/titan_cockpit/titan_cockpit_rui_side_compass_arrow",
+          "posX": 1191,
+          "posY": 1543,
+          "width": 7,
+          "height": 127
+        },
+        {
+          "path": "white_titan_cockpit",
+          "posX": 484,
+          "posY": 1374,
+          "width": 4,
+          "height": 4
+        }
+      ]
+    },
+    {
+      "_type": "uimg",
+      "_path": "ui_image_atlas/rui/hud_icons/r2/hud_icons.rpak",
+      "atlas": "texture/ui_atlas/rui/hud_icons/r2/hud_icons.rpak",
+      "images": [
+        {
+          "path": "models/weapons/attachments/aog_reticle_windage_bright",
+          "posX": 20,
+          "posY": 20,
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "rui/hud/crosshairs/crosshair_triangle",
+          "posX": 572,
+          "posY": 20,
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "rui/hud/crosshairs/crosshair_triangle_afterburner",
+          "posX": 20,
+          "posY": 572,
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "rui/hud/crosshairs/crosshair_triangle_afterburner_shadow",
+          "posX": 572,
+          "posY": 572,
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "rui/hud/crosshairs/crosshair_triangle_shadow",
+          "posX": 1124,
+          "posY": 20,
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "rui/hud/smart_ammo_bracket",
+          "posX": 1124,
+          "posY": 572,
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "rui/hud/smart_core/smart_ammo_lock_image",
+          "posX": 20,
+          "posY": 1124,
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "rui/hud/smart_core/smart_ammo_measure",
+          "posX": 572,
+          "posY": 1124,
+          "width": 512,
+          "height": 512
+        },
+        {
+          "path": "r2_ui/menus/loadout_icons/primary_weapon/primary_r101_aog",
+          "posX": 1124,
+          "posY": 1124,
+          "width": 640,
+          "height": 320
+        },
+        {
+          "path": "r2_ui/menus/loadout_icons/titan_weapon/titan_weapon_leadwall",
+          "posX": 1676,
+          "posY": 20,
+          "width": 640,
+          "height": 320
+        },
+        {
+          "path": "r2_ui/menus/loadout_icons/titan_weapon/titan_weapon_particle_ac",
+          "posX": 1676,
+          "posY": 380,
+          "width": 640,
+          "height": 320
+        },
+        {
+          "path": "r2_ui/menus/loadout_icons/titan_weapon/titan_weapon_predator",
+          "posX": 1676,
+          "posY": 740,
+          "width": 640,
+          "height": 320
+        },
+        {
+          "path": "r2_ui/menus/loadout_icons/titan_weapon/titan_weapon_quad",
+          "posX": 1124,
+          "posY": 1484,
+          "width": 640,
+          "height": 320
+        },
+        {
+          "path": "r2_ui/menus/loadout_icons/titan_weapon/titan_weapon_railgun",
+          "posX": 20,
+          "posY": 1676,
+          "width": 640,
+          "height": 320
+        },
+        {
+          "path": "r2_ui/menus/loadout_icons/titan_weapon/titan_weapon_thermite_cannon",
+          "posX": 20,
+          "posY": 2036,
+          "width": 640,
+          "height": 320
+        },
+        {
+          "path": "r2_ui/menus/loadout_icons/titan_weapon/titan_weapon_xo16",
+          "posX": 700,
+          "posY": 1844,
+          "width": 640,
+          "height": 320
+        },
+        {
+          "path": "r2_ui/menus/loadout_icons/titan_weapon/titan_weapon_xo16_arc",
+          "posX": 1380,
+          "posY": 1844,
+          "width": 640,
+          "height": 320
+        },
+        {
+          "path": "r2_ui/menus/loadout_icons/titan_weapon/titan_weapon_xo16_br_upgrade",
+          "posX": 1804,
+          "posY": 1100,
+          "width": 640,
+          "height": 320
+        },
+        {
+          "path": "r2_ui/menus/loadout_icons/titan_weapon/titan_weapon_xo16_combo",
+          "posX": 1804,
+          "posY": 1460,
+          "width": 640,
+          "height": 320
+        },
+        {
+          "path": "r2_ui/menus/loadout_icons/primary_weapon/weapon_car",
+          "posX": 2060,
+          "posY": 1820,
+          "width": 640,
+          "height": 320
+        },
+        {
+          "path": "r2_ui/menus/loadout_icons/anti_titan/at_arcball",
+          "posX": 2356,
+          "posY": 316,
+          "width": 512,
+          "height": 256
+        },
+        {
+          "path": "r2_ui/menus/loadout_icons/anti_titan/at_mgl",
+          "posX": 2356,
+          "posY": 612,
+          "width": 512,
+          "height": 256
+        },
+        {
+          "path": "r2_ui/menus/loadout_icons/primary_weapon/primary_coldwar",
+          "posX": 2484,
+          "posY": 908,
+          "width": 512,
+          "height": 256
+        },
+        {
+          "path": "r2_ui/menus/loadout_icons/anti_titan/at_sidewinder",
+          "posX": 2484,
+          "posY": 1204,
+          "width": 512,
+          "height": 256
+        },
+        {
+          "path": "models/weapons/attachments/mgl_range",
+          "posX": 2740,
+          "posY": 1500,
+          "width": 167,
+          "height": 467
+        },
+        {
+          "path": "models/weapons/attachments/hemlok_panel_bleed",
+          "posX": 2740,
+          "posY": 2007,
+          "width": 256,
+          "height": 256
+        },
+        {
+          "path": "models/weapons/attachments/hemlok_travel_bar",
+          "posX": 2060,
+          "posY": 2180,
+          "width": 256,
+          "height": 256
+        },
+        {
+          "path": "models/weapons/attachments/pulse_lmg_ammo_bars",
+          "posX": 2356,
+          "posY": 2180,
+          "width": 256,
+          "height": 256
+        },
+        {
+          "path": "rui/hud/crosshairs/smart_ammo_corner",
+          "posX": 2652,
+          "posY": 2303,
+          "width": 256,
+          "height": 256
+        },
+        {
+          "path": "models/weapons/attachments/pulse_lmg_charge_bar",
+          "posX": 700,
+          "posY": 1676,
+          "width": 256,
+          "height": 128
+        },
+        {
+          "path": "r2_ui/menus/loadout_icons/primary_weapon/primary_arc_tool",
+          "posX": 20,
+          "posY": 2476,
+          "width": 256,
+          "height": 128
+        },
+        {
+          "path": "r2_ui/menus/loadout_icons/anti_titan/at_archer",
+          "posX": 316,
+          "posY": 2476,
+          "width": 256,
+          "height": 128
+        },
+        {
+          "path": "r2_ui/menus/loadout_icons/primary_weapon/primary_epg1",
+          "posX": 612,
+          "posY": 2396,
+          "width": 256,
+          "height": 128
+        },
+        {
+          "path": "rui/weapon_icons/r5/weapon_smart_pistol",
+          "posX": 700,
+          "posY": 2204,
+          "width": 256,
+          "height": 128
+        },
+        {
+          "path": "r2_ui/menus/loadout_icons/primary_weapon/primary_softball",
+          "posX": 908,
+          "posY": 2372,
+          "width": 256,
+          "height": 128
+        },
+        {
+          "path": "models/weapons/attachments/pulse_lmg_buttons1",
+          "posX": 2484,
+          "posY": 1500,
+          "width": 204,
+          "height": 111
+        },
+        {
+          "path": "rui/hud/crosshairs/crosshair_rect",
+          "posX": 2484,
+          "posY": 1651,
+          "width": 128,
+          "height": 128
+        },
+        {
+          "path": "rui/hud/crosshairs/crosshair_rect_shadow",
+          "posX": 996,
+          "posY": 2204,
+          "width": 128,
+          "height": 128
+        },
+        {
+          "path": "rui/hud/crosshairs/crosshair_small_rect",
+          "posX": 1164,
+          "posY": 2204,
+          "width": 128,
+          "height": 128
+        },
+        {
+          "path": "rui/hud/crosshairs/crosshair_small_rect_shadow",
+          "posX": 1204,
+          "posY": 2372,
+          "width": 128,
+          "height": 128
+        },
+        {
+          "path": "models/weapons/attachments/hemlok_3x_burst",
+          "posX": 1332,
+          "posY": 2204,
+          "width": 128,
+          "height": 128
+        },
+        {
+          "path": "models/weapons/attachments/hemlok_star_burst",
+          "posX": 1372,
+          "posY": 2372,
+          "width": 128,
+          "height": 128
+        },
+        {
+          "path": "rui/hud/tactical_icons/pilot_tactical_3dash",
+          "posX": 1500,
+          "posY": 2204,
+          "width": 128,
+          "height": 128
+        },
+        {
+          "path": "rui/hud/tactical_icons/pilot_tactical_particle_wall",
+          "posX": 1540,
+          "posY": 2372,
+          "width": 128,
+          "height": 128
+        },
+        {
+          "path": "rui/pilot_loadout/ordnance/satchel",
+          "posX": 1668,
+          "posY": 2204,
+          "width": 128,
+          "height": 128
+        },
+        {
+          "path": "models/weapons/attachments/pulse_lmg_ammo_lines",
+          "posX": 2356,
+          "posY": 908,
+          "width": 64,
+          "height": 148
+        },
+        {
+          "path": "rui/hud/charge_rifle/charge_rifle_meter_bg",
+          "posX": 996,
+          "posY": 1676,
+          "width": 64,
+          "height": 128
+        },
+        {
+          "path": "rui/hud/crosshairs/titan_triple_threat_horizontal",
+          "posX": 1836,
+          "posY": 2204,
+          "width": 128,
+          "height": 64
+        },
+        {
+          "path": "rui/hud/charge_rifle/charge_rifle_meter",
+          "posX": 2652,
+          "posY": 1651,
+          "width": 32,
+          "height": 128
+        },
+        {
+          "path": "models/weapons/attachments/epg_burst",
+          "posX": 1836,
+          "posY": 2308,
+          "width": 64,
+          "height": 64
+        },
+        {
+          "path": "models/weapons/attachments/epg_burst_background",
+          "posX": 1708,
+          "posY": 2372,
+          "width": 64,
+          "height": 64
+        },
+        {
+          "path": "models/weapons/attachments/pulse_lmg_gear",
+          "posX": 1940,
+          "posY": 2308,
+          "width": 64,
+          "height": 64
+        },
+        {
+          "path": "rui/hud/crosshairs/crosshair_arc",
+          "posX": 2652,
+          "posY": 2180,
+          "width": 32,
+          "height": 32
+        }
+      ]
+    },
+    {
+      "_type": "uimg",
+      "_path": "ui_image_atlas/misc.rpak",
+      "atlas": "texture/ui_atlas/rui/menu/misc/atlas_misc.rpak",
+      "images": [
+        {
+          "path": "rui/contributors/CafeFPS",
+          "posX": 20,
+          "posY": 20,
+          "width": 460,
+          "height": 460
+        },
+        {
+          "path": "rui/contributors/amos",
+          "posX": 520,
+          "posY": 20,
+          "width": 460,
+          "height": 460
+        },
+        {
+          "path": "rui/contributors/humansas",
+          "posX": 20,
+          "posY": 520,
+          "width": 460,
+          "height": 460
+        },
+        {
+          "path": "rui/contributors/icepixel",
+          "posX": 520,
+          "posY": 520,
+          "width": 460,
+          "height": 460
+        },
+        {
+          "path": "rui/contributors/julefox",
+          "posX": 1020,
+          "posY": 20,
+          "width": 460,
+          "height": 460
+        },
+        {
+          "path": "rui/contributors/kralrindo",
+          "posX": 1020,
+          "posY": 520,
+          "width": 460,
+          "height": 460
+        },
+        {
+          "path": "rui/contributors/macktheboatman",
+          "posX": 20,
+          "posY": 1020,
+          "width": 460,
+          "height": 460
+        },
+        {
+          "path": "rui/contributors/mkos",
+          "posX": 520,
+          "posY": 1020,
+          "width": 460,
+          "height": 460
+        },
+        {
+          "path": "rui/contributors/mostlyfireproof",
+          "posX": 1020,
+          "posY": 1020,
+          "width": 460,
+          "height": 460
+        },
+        {
+          "path": "rui/contributors/neeflow",
+          "posX": 1520,
+          "posY": 20,
+          "width": 460,
+          "height": 460
+        },
+        {
+          "path": "rui/contributors/orobotic",
+          "posX": 1520,
+          "posY": 520,
+          "width": 460,
+          "height": 460
+        },
+        {
+          "path": "rui/contributors/reglitched",
+          "posX": 1520,
+          "posY": 1020,
+          "width": 460,
+          "height": 460
+        },
+        {
+          "path": "rui/contributors/rexx",
+          "posX": 20,
+          "posY": 1520,
+          "width": 460,
+          "height": 460
+        },
+        {
+          "path": "rui/contributors/sal",
+          "posX": 520,
+          "posY": 1520,
+          "width": 460,
+          "height": 460
+        },
+        {
+          "path": "rui/contributors/samlsop",
+          "posX": 1020,
+          "posY": 1520,
+          "width": 460,
+          "height": 460
+        },
+        {
+          "path": "rui/contributors/zee",
+          "posX": 1520,
+          "posY": 1520,
+          "width": 460,
+          "height": 460
+        },
+        {
+          "path": "rui/death_recap/icon_deathrecap_specialcase_prowler",
+          "posX": 2020,
+          "posY": 20,
+          "width": 381,
+          "height": 519
+        },
+        {
+          "path": "rui/death_recap/icon_deathrecap_specialcase_spider_melee",
+          "posX": 2020,
+          "posY": 579,
+          "width": 381,
+          "height": 519
+        },
+        {
+          "path": "rui/death_recap/icon_deathrecap_specialcase_spider_ranged",
+          "posX": 2020,
+          "posY": 1138,
+          "width": 381,
+          "height": 519
+        },
+        {
+          "path": "rui/death_recap/icon_deathrecap_specialcase_toxin",
+          "posX": 2020,
+          "posY": 1697,
+          "width": 381,
+          "height": 519
+        },
+        {
+          "path": "rui/death_recap/icon_deathrecap_specialcases_vault_defences",
+          "posX": 20,
+          "posY": 2020,
+          "width": 381,
+          "height": 519
+        }
+      ]
+    },
+    {
+      "_type": "uimg",
+      "_path": "ui_image_atlas/shadow_squad.rpak",
+      "atlas": "texture/ui_atlas/rui/gamemodes/shadow_squad/shadowfall.rpak",
+      "images": [
+        {
+          "path": "rui/gamemodes/shadow_squad/player_info_custom_treatment",
+          "posX": 14,
+          "posY": 274,
+          "width": 401,
+          "height": 113
+        },
+        {
+          "path": "rui/gamemodes/shadow_squad/generic_shadow_character",
+          "posX": 14,
+          "posY": 415,
+          "width": 390,
+          "height": 208
+        },
+        {
+          "path": "rui/gamemodes/shadow_squad/shadow_icon_orange",
+          "posX": 443,
+          "posY": 274,
+          "width": 256,
+          "height": 232
+        },
+        {
+          "path": "rui/gamemodes/shadow_squad/shadow_icon_spawn",
+          "posX": 14,
+          "posY": 651,
+          "width": 236,
+          "height": 250
+        },
+        {
+          "path": "rui/gamemodes/shadow_squad/shadow_icon_spawn_temp",
+          "posX": 278,
+          "posY": 651,
+          "width": 236,
+          "height": 250
+        },
+        {
+          "path": "rui/gamemodes/shadow_squad/legend_icon",
+          "posX": 542,
+          "posY": 534,
+          "width": 237,
+          "height": 226
+        },
+        {
+          "path": "rui/hud/gametype_icons/ltm/deathpos_skull_legend",
+          "posX": 542,
+          "posY": 788,
+          "width": 128,
+          "height": 106
+        },
+        {
+          "path": "rui/hud/gametype_icons/ltm/enemy_nemesis",
+          "posX": 858,
+          "posY": 14,
+          "width": 127,
+          "height": 128
+        },
+        {
+          "path": "rui/hud/gametype_icons/ltm/enemy_nemesis_color",
+          "posX": 858,
+          "posY": 170,
+          "width": 127,
+          "height": 128
+        },
+        {
+          "path": "rui/gamemodes/shadow_squad/shadow_icon_small",
+          "posX": 807,
+          "posY": 326,
+          "width": 128,
+          "height": 115
+        },
+        {
+          "path": "rui/gamemodes/shadow_squad/evac_countdown",
+          "posX": 807,
+          "posY": 469,
+          "width": 113,
+          "height": 127
+        },
+        {
+          "path": "rui/gamemodes/shadow_squad/icon_direction_pointer_outline",
+          "posX": 698,
+          "posY": 788,
+          "width": 123,
+          "height": 72
+        },
+        {
+          "path": "rui/hud/gametype_icons/ltm/deathpos_skull_default",
+          "posX": 807,
+          "posY": 624,
+          "width": 93,
+          "height": 111
+        },
+        {
+          "path": "rui/hud/gametype_icons/ltm/deathpos_skull_default_color",
+          "posX": 849,
+          "posY": 763,
+          "width": 93,
+          "height": 111
+        },
+        {
+          "path": "rui/gamemodes/shadow_squad/shadow_fire_glow_tile",
+          "posX": 14,
+          "posY": 929,
+          "width": 93,
+          "height": 93
+        },
+        {
+          "path": "rui/gamemodes/shadow_squad/legend_icon_small_shadow",
+          "posX": 432,
+          "posY": 534,
+          "width": 64,
+          "height": 64
+        },
+        {
+          "path": "rui/gamemodes/shadow_squad/legend_icon_small",
+          "posX": 135,
+          "posY": 929,
+          "width": 61,
+          "height": 58
+        },
+        {
+          "path": "rui/hud/unitframes/shadow_squad/unitframe_shadow_squad_border",
+          "posX": 928,
+          "posY": 624,
+          "width": 56,
+          "height": 48
+        },
+        {
+          "path": "rui/hud/unitframes/shadow_squad/unitframe_shadow_squad_mask",
+          "posX": 224,
+          "posY": 929,
+          "width": 56,
+          "height": 48
+        },
+        {
+          "path": "rui/hud/revenant_shadow_effects/player_info_shadow_mode",
+          "posX": 14,
+          "posY": 14,
+          "width": 816,
+          "height": 232
+        }
+      ]
+    },
+    {
+      "_type": "uimg",
+      "_path": "ui_image_atlas/character_shared_sdk.rpak",
+      "atlas": "texture/ui_atlas/rui/menu/characters/character_shared_sdk.rpak",
+      "images": [
+				{
+					"path": "rui/menu/character_select/lockstep/locked_portraits/locked_portrait_ash",
+					"posX": 20,
+					"posY": 20,
+					"width": 908,
+					"height": 303
+				},
+				{
+					"path": "rui/menu/character_select/lockstep/locked_portraits/locked_portrait_dummie",
+					"posX": 20,
+					"posY": 363,
+					"width": 908,
+					"height": 303
+				},
+				{
+					"path": "rui/menu/character_select/lockstep/locked_portraits/locked_portrait_fuse",
+					"posX": 20,
+					"posY": 706,
+					"width": 908,
+					"height": 303
+				},
+				{
+					"path": "rui/menu/character_select/lockstep/locked_portraits/locked_portrait_horizon",
+					"posX": 968,
+					"posY": 20,
+					"width": 908,
+					"height": 303
+				},
+				{
+					"path": "rui/menu/character_select/lockstep/locked_portraits/locked_portrait_loba",
+					"posX": 968,
+					"posY": 363,
+					"width": 908,
+					"height": 303
+				},
+				{
+					"path": "rui/menu/character_select/lockstep/locked_portraits/locked_portrait_rampart",
+					"posX": 968,
+					"posY": 706,
+					"width": 908,
+					"height": 303
+				},
+				{
+					"path": "rui/menu/character_select/lockstep/locked_portraits/locked_portrait_revenant",
+					"posX": 20,
+					"posY": 1049,
+					"width": 908,
+					"height": 303
+				},
+				{
+					"path": "rui/menu/character_select/lockstep/locked_portraits/locked_portrait_valkyrie",
+					"posX": 968,
+					"posY": 1049,
+					"width": 908,
+					"height": 303
+				},
+				{
+					"path": "rui/hud/passive_icons/passive_ash",
+					"posX": 20,
+					"posY": 1392,
+					"width": 512,
+					"height": 512
+				},
+				{
+					"path": "rui/hud/passive_icons/passive_dummie_mode",
+					"posX": 572,
+					"posY": 1392,
+					"width": 512,
+					"height": 512
+				},
+				{
+					"path": "rui/hud/passive_icons/passive_fuse",
+					"posX": 1124,
+					"posY": 1392,
+					"width": 512,
+					"height": 512
+				},
+				{
+					"path": "rui/hud/passive_icons/passive_loba",
+					"posX": 1676,
+					"posY": 1392,
+					"width": 512,
+					"height": 512
+				},
+				{
+					"path": "rui/hud/passive_icons/passive_nova",
+					"posX": 1916,
+					"posY": 20,
+					"width": 512,
+					"height": 512
+				},
+				{
+					"path": "rui/hud/passive_icons/passive_rampart",
+					"posX": 1916,
+					"posY": 572,
+					"width": 512,
+					"height": 512
+				},
+				{
+					"path": "rui/hud/passive_icons/passive_revenant",
+					"posX": 20,
+					"posY": 1944,
+					"width": 512,
+					"height": 512
+				},
+				{
+					"path": "rui/hud/passive_icons/passive_valk",
+					"posX": 572,
+					"posY": 1944,
+					"width": 512,
+					"height": 512
+				},
+				{
+					"path": "rui/hud/tactical_icons/rampart_logo",
+					"posX": 1124,
+					"posY": 1944,
+					"width": 512,
+					"height": 512
+				},
+				{
+					"path": "rui/hud/tactical_icons/tactical_ash",
+					"posX": 1676,
+					"posY": 1944,
+					"width": 512,
+					"height": 512
+				},
+				{
+					"path": "rui/hud/tactical_icons/tactical_dummie_mode",
+					"posX": 2228,
+					"posY": 1124,
+					"width": 512,
+					"height": 512
+				},
+				{
+					"path": "rui/hud/tactical_icons/tactical_fuse",
+					"posX": 2468,
+					"posY": 20,
+					"width": 512,
+					"height": 512
+				},
+				{
+					"path": "rui/hud/tactical_icons/tactical_loba",
+					"posX": 2468,
+					"posY": 572,
+					"width": 512,
+					"height": 512
+				},
+				{
+					"path": "rui/hud/tactical_icons/tactical_nova",
+					"posX": 2228,
+					"posY": 1676,
+					"width": 512,
+					"height": 512
+				},
+				{
+					"path": "rui/hud/tactical_icons/tactical_rampart",
+					"posX": 2228,
+					"posY": 2228,
+					"width": 512,
+					"height": 512
+				},
+				{
+					"path": "rui/hud/tactical_icons/tactical_revenant",
+					"posX": 20,
+					"posY": 2496,
+					"width": 512,
+					"height": 512
+				},
+				{
+					"path": "rui/hud/tactical_icons/tactical_valk",
+					"posX": 572,
+					"posY": 2496,
+					"width": 512,
+					"height": 512
+				},
+				{
+					"path": "rui/hud/ultimate_icons/ultimate_ash",
+					"posX": 1124,
+					"posY": 2496,
+					"width": 512,
+					"height": 512
+				},
+				{
+					"path": "rui/hud/ultimate_icons/ultimate_dummie_mode",
+					"posX": 1676,
+					"posY": 2496,
+					"width": 512,
+					"height": 512
+				},
+				{
+					"path": "rui/hud/ultimate_icons/ultimate_loba",
+					"posX": 2780,
+					"posY": 1124,
+					"width": 512,
+					"height": 512
+				},
+				{
+					"path": "rui/hud/ultimate_icons/ultimate_nova",
+					"posX": 3020,
+					"posY": 20,
+					"width": 512,
+					"height": 512
+				},
+				{
+					"path": "rui/hud/ultimate_icons/ultimate_nova_black_hole",
+					"posX": 3020,
+					"posY": 572,
+					"width": 512,
+					"height": 512
+				},
+				{
+					"path": "rui/hud/ultimate_icons/ultimate_rampart",
+					"posX": 2780,
+					"posY": 1676,
+					"width": 512,
+					"height": 512
+				},
+				{
+					"path": "rui/hud/ultimate_icons/ultimate_revenant",
+					"posX": 2780,
+					"posY": 2228,
+					"width": 512,
+					"height": 512
+				},
+				{
+					"path": "rui/hud/ultimate_icons/ultimate_valk",
+					"posX": 2228,
+					"posY": 2780,
+					"width": 512,
+					"height": 512
+				},
+				{
+					"path": "rui/menu/character_select/lockstep/locked_portraits/locked_portrait_revenant_shadow",
+					"posX": 20,
+					"posY": 3048,
+					"width": 846,
+					"height": 303
+				},
+				{
+					"path": "rui/menu/buttons/lobby_character_select/ash",
+					"posX": 2780,
+					"posY": 2780,
+					"width": 390,
+					"height": 208
+				},
+				{
+					"path": "rui/menu/buttons/lobby_character_select/ash_bg",
+					"posX": 2780,
+					"posY": 3028,
+					"width": 390,
+					"height": 208
+				},
+				{
+					"path": "rui/menu/buttons/lobby_character_select/dummie",
+					"posX": 2780,
+					"posY": 3276,
+					"width": 390,
+					"height": 208
+				},
+				{
+					"path": "rui/menu/buttons/lobby_character_select/dummie_bg",
+					"posX": 906,
+					"posY": 3332,
+					"width": 390,
+					"height": 208
+				},
+				{
+					"path": "rui/menu/buttons/lobby_character_select/fuse",
+					"posX": 906,
+					"posY": 3048,
+					"width": 390,
+					"height": 208
+				},
+				{
+					"path": "rui/menu/buttons/lobby_character_select/fuse_bg",
+					"posX": 1336,
+					"posY": 3332,
+					"width": 390,
+					"height": 208
+				},
+				{
+					"path": "rui/menu/buttons/lobby_character_select/loba",
+					"posX": 1336,
+					"posY": 3048,
+					"width": 390,
+					"height": 208
+				},
+				{
+					"path": "rui/menu/buttons/lobby_character_select/loba_bg",
+					"posX": 1766,
+					"posY": 3048,
+					"width": 390,
+					"height": 208
+				},
+				{
+					"path": "rui/menu/buttons/lobby_character_select/nova",
+					"posX": 1766,
+					"posY": 3296,
+					"width": 390,
+					"height": 208
+				},
+				{
+					"path": "rui/menu/buttons/lobby_character_select/nova_bg",
+					"posX": 2196,
+					"posY": 3332,
+					"width": 390,
+					"height": 208
+				},
+				{
+					"path": "rui/menu/buttons/lobby_character_select/rampart",
+					"posX": 3210,
+					"posY": 2780,
+					"width": 390,
+					"height": 208
+				},
+				{
+					"path": "rui/menu/buttons/lobby_character_select/rampart_bg",
+					"posX": 3210,
+					"posY": 3028,
+					"width": 390,
+					"height": 208
+				},
+				{
+					"path": "rui/menu/buttons/lobby_character_select/revenant",
+					"posX": 3210,
+					"posY": 3276,
+					"width": 390,
+					"height": 208
+				},
+				{
+					"path": "rui/menu/buttons/lobby_character_select/revenant_bg",
+					"posX": 3332,
+					"posY": 1124,
+					"width": 390,
+					"height": 208
+				},
+				{
+					"path": "rui/menu/buttons/lobby_character_select/valk",
+					"posX": 3572,
+					"posY": 20,
+					"width": 390,
+					"height": 208
+				},
+				{
+					"path": "rui/menu/buttons/lobby_character_select/valk_bg",
+					"posX": 3572,
+					"posY": 268,
+					"width": 390,
+					"height": 208
+				},
+				{
+					"path": "rui/menu/buttons/battlepass/character_skin_fuse",
+					"posX": 3572,
+					"posY": 516,
+					"width": 256,
+					"height": 256
+				},
+				{
+					"path": "rui/menu/buttons/battlepass/character_skin_horizon",
+					"posX": 3572,
+					"posY": 812,
+					"width": 256,
+					"height": 256
+				},
+				{
+					"path": "rui/menu/buttons/battlepass/character_skin_rampart",
+					"posX": 3640,
+					"posY": 1372,
+					"width": 256,
+					"height": 256
+				},
+				{
+					"path": "rui/menu/buttons/battlepass/character_skin_valk",
+					"posX": 3332,
+					"posY": 1372,
+					"width": 256,
+					"height": 256
+				},
+				{
+					"path": "rui/menu/character_select/pilot_portraits/portrait_ash",
+					"posX": 3640,
+					"posY": 1668,
+					"width": 256,
+					"height": 256
+				},
+				{
+					"path": "rui/menu/character_select/pilot_portraits/portrait_nova",
+					"posX": 3332,
+					"posY": 1668,
+					"width": 256,
+					"height": 256
+				},
+				{
+					"path": "rui/menu/buttons/battlepass/character_skin_revenant",
+					"posX": 3762,
+					"posY": 1108,
+					"width": 200,
+					"height": 155
+				},
+				{
+					"path": "rui/hud/ultimate_icons/ultimate_fuse",
+					"posX": 1916,
+					"posY": 1124,
+					"width": 131,
+					"height": 128
+				},
+				{
+					"path": "rui/hud/ultimate_icons/fuse_out_of_range",
+					"posX": 20,
+					"posY": 3391,
+					"width": 128,
+					"height": 128
+				},
+				{
+					"path": "rui/menu/buttons/battlepass/character_skin_loba",
+					"posX": 188,
+					"posY": 3391,
+					"width": 122,
+					"height": 122
+				},
+				{
+					"path": "rui/hud/tactical_icons/fuse_aerial_clearance",
+					"posX": 2087,
+					"posY": 1124,
+					"width": 92,
+					"height": 88
+				}
+      ]
+    },
+    {
+      "_type": "uimg",
+      "_path": "ui_image_atlas/promoatlas.rpak",
+      "atlas": "texture/ui_atlas/rui/promo/promoatlas.rpak",
+      "images": [
+        {
+          "path": "rui/promo/sdk_0",
+          "posX": 0,
+          "posY": 0,
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "path": "rui/promo/sdk_1",
+          "posX": 0,
+          "posY": 720,
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "path": "rui/promo/sdk_2",
+          "posX": 1280,
+          "posY": 0,
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "path": "rui/promo/sdk_3",
+          "posX": 1280,
+          "posY": 720,
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "path": "rui/promo/sdk_4",
+          "posX": 0,
+          "posY": 1440,
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "path": "rui/promo/sdk_5",
+          "posX": 1280,
+          "posY": 1440,
+          "width": 1280,
+          "height": 720
+        }
+      ]
+    },
+    {
+      "_type": "uimg",
+      "_path": "ui_image_atlas/hud_icons.rpak",
+      "atlas": "texture/ui_atlas/rui/hud_icons/r5/hud_icons.rpak",
+      "images": [
+        {
+          "path": "rui/menu/buttons/weapon_categories/marksman",
+          "posX": 20,
+          "posY": 20,
+          "width": 802,
+          "height": 440
+        },
+        {
+          "path": "rui/menu/buttons/weapon_categories/sniper_new",
+          "posX": 20,
+          "posY": 500,
+          "width": 802,
+          "height": 440
+        },
+        {
+          "path": "rui/weapon_icons/r5/weapon_sentinel",
+          "posX": 862,
+          "posY": 20,
+          "width": 640,
+          "height": 360
+        },
+        {
+          "path": "rui/weapon_icons/r5/weapon_3030repeater",
+          "posX": 862,
+          "posY": 420,
+          "width": 640,
+          "height": 320
+        },
+        {
+          "path": "rui/weapon_icons/r5/weapon_bow",
+          "posX": 862,
+          "posY": 780,
+          "width": 640,
+          "height": 320
+        },
+        {
+          "path": "rui/weapon_icons/r5/weapon_dragon",
+          "posX": 20,
+          "posY": 980,
+          "width": 640,
+          "height": 320
+        },
+        {
+          "path": "rui/weapon_icons/r5/weapon_nemesis",
+          "posX": 700,
+          "posY": 1140,
+          "width": 640,
+          "height": 320
+        },
+        {
+          "path": "rui/weapon_icons/r5/weapon_rampart_turret",
+          "posX": 20,
+          "posY": 1340,
+          "width": 640,
+          "height": 320
+        },
+        {
+          "path": "rui/weapon_icons/r5/weapon_volt_smg",
+          "posX": 1380,
+          "posY": 1140,
+          "width": 640,
+          "height": 320
+        },
+        {
+          "path": "rui/menu/logo_valkyrie",
+          "posX": 1542,
+          "posY": 20,
+          "width": 630,
+          "height": 204
+        },
+        {
+          "path": "rui/cqb_reticle_volt",
+          "posX": 1542,
+          "posY": 264,
+          "width": 256,
+          "height": 256
+        },
+        {
+          "path": "models/weapons/attachments/diamond_reticle_rear",
+          "posX": 1838,
+          "posY": 264,
+          "width": 256,
+          "height": 256
+        },
+        {
+          "path": "rui/hud/gametype_icons/survival/sur_ammo_arrows",
+          "posX": 1542,
+          "posY": 560,
+          "width": 256,
+          "height": 256
+        },
+        {
+          "path": "rui/hud/gametype_icons/survival/sur_ammo_explosive",
+          "posX": 1838,
+          "posY": 560,
+          "width": 256,
+          "height": 256
+        },
+        {
+          "path": "rui/hud/gametype_icons/survival/sur_ammo_sniper",
+          "posX": 20,
+          "posY": 1700,
+          "width": 256,
+          "height": 256
+        },
+        {
+          "path": "models/weapons/attachments/volt_triangle_bars",
+          "posX": 316,
+          "posY": 1700,
+          "width": 256,
+          "height": 256
+        },
+        {
+          "path": "rui/weapon_icons/r5/weapon_throwingknife",
+          "posX": 1542,
+          "posY": 856,
+          "width": 256,
+          "height": 128
+        },
+        {
+          "path": "r2_ui/menus/loadout_icons/primary_weapon/primary_wingman_elite",
+          "posX": 1838,
+          "posY": 856,
+          "width": 256,
+          "height": 128
+        },
+        {
+          "path": "rui/hud/gametype_icons/survival/sur_ammo_crate_boomjuice",
+          "posX": 612,
+          "posY": 1700,
+          "width": 170,
+          "height": 170
+        },
+        {
+          "path": "rui/hud/gametype_icons/survival/sur_ammo_crate_heavy",
+          "posX": 822,
+          "posY": 1500,
+          "width": 170,
+          "height": 170
+        },
+        {
+          "path": "rui/hud/gametype_icons/survival/sur_ammo_crate_kraber",
+          "posX": 822,
+          "posY": 1710,
+          "width": 170,
+          "height": 170
+        },
+        {
+          "path": "rui/hud/gametype_icons/survival/sur_ammo_crate_light",
+          "posX": 1032,
+          "posY": 1500,
+          "width": 170,
+          "height": 170
+        },
+        {
+          "path": "rui/hud/gametype_icons/survival/sur_ammo_crate_shotgun",
+          "posX": 1032,
+          "posY": 1710,
+          "width": 170,
+          "height": 170
+        },
+        {
+          "path": "rui/hud/gametype_icons/survival/sur_ammo_crate_special",
+          "posX": 1242,
+          "posY": 1500,
+          "width": 170,
+          "height": 170
+        },
+        {
+          "path": "rui/pilot_loadout/mods/empty_laser_sight",
+          "posX": 1242,
+          "posY": 1710,
+          "width": 152,
+          "height": 152
+        },
+        {
+          "path": "rui/pilot_loadout/mods/empty_mag_sniper",
+          "posX": 1434,
+          "posY": 1710,
+          "width": 152,
+          "height": 152
+        },
+        {
+          "path": "rui/pilot_loadout/mods/laser_sight",
+          "posX": 1452,
+          "posY": 1500,
+          "width": 152,
+          "height": 152
+        },
+        {
+          "path": "rui/hud/loot/loot_marvin_arm",
+          "posX": 1626,
+          "posY": 1692,
+          "width": 152,
+          "height": 152
+        },
+        {
+          "path": "rui/pilot_loadout/mods/sniper_mag",
+          "posX": 1644,
+          "posY": 1500,
+          "width": 152,
+          "height": 152
+        },
+        {
+          "path": "rui/menu/logo_small",
+          "posX": 1818,
+          "posY": 1692,
+          "width": 122,
+          "height": 135
+        },
+        {
+          "path": "models/weapons/attachments/aog_reticle_dot",
+          "posX": 1836,
+          "posY": 1500,
+          "width": 128,
+          "height": 128
+        },
+        {
+          "path": "rui/menu/lobby/blog_icon",
+          "posX": 1980,
+          "posY": 1668,
+          "width": 128,
+          "height": 128
+        },
+        {
+          "path": "rui/cqb_dot_front_col",//not being used
+          "posX": 2004,
+          "posY": 1500,
+          "width": 128,
+          "height": 128
+        },
+        {
+          "path": "rui/menu/lobby/dc_icon",
+          "posX": 612,
+          "posY": 1910,
+          "width": 128,
+          "height": 128
+        },
+        {
+          "path": "rui/hud/gametype_icons/survival/mobile_respawn_beacon_icon",
+          "posX": 1980,
+          "posY": 1836,
+          "width": 128,
+          "height": 128
+        },
+        {
+          "path": "rui/hud/custom_badges/valk_badge",
+          "posX": 1626,
+          "posY": 1884,
+          "width": 128,
+          "height": 128
+        },
+        {
+          "path": "rui/hud/gamestate/spectate_icon",
+          "posX": 700,
+          "posY": 1500,
+          "width": 64,
+          "height": 64
+        }
+      ]
+    },
+    {
+      "_type": "uimg",
+      "_path": "ui_image_atlas/generic_map_icons.rpak",
+      "atlas": "texture/ui_atlas/rui/menu/maps/generic_map_icons.rpak",
+      "images": [
+				{
+					"path": "rui/menu/maps/select_map",
+					"posX": 20,
+					"posY": 20,
+					"width": 1024,
+					"height": 1024
+				},
+				{
+					"path": "rui/menu/maps/map_not_found_big_icon",
+					"posX": 1084,
+					"posY": 20,
+					"width": 818,
+					"height": 460
+				},
+				{
+					"path": "rui/menu/maps/mp_rr_aqueduct_big_icon",
+					"posX": 1084,
+					"posY": 520,
+					"width": 818,
+					"height": 460
+				},
+				{
+					"path": "rui/menu/maps/mp_rr_arena_composite_big_icon",
+					"posX": 1084,
+					"posY": 1020,
+					"width": 818,
+					"height": 460
+				},
+				{
+					"path": "rui/menu/maps/mp_rr_arena_phase_runner_big_icon",
+					"posX": 20,
+					"posY": 1084,
+					"width": 818,
+					"height": 460
+				},
+				{
+					"path": "rui/menu/maps/mp_rr_arena_skygarden_big_icon",
+					"posX": 878,
+					"posY": 1520,
+					"width": 818,
+					"height": 460
+				},
+				{
+					"path": "rui/menu/maps/mp_rr_canyonlands_64k_x_64k_big_icon",
+					"posX": 20,
+					"posY": 1584,
+					"width": 818,
+					"height": 460
+				},
+				{
+					"path": "rui/menu/maps/mp_rr_canyonlands_mu1_big_icon",
+					"posX": 1736,
+					"posY": 1520,
+					"width": 818,
+					"height": 460
+				},
+				{
+					"path": "rui/menu/maps/mp_rr_canyonlands_mu1_night_big_icon",
+					"posX": 1942,
+					"posY": 20,
+					"width": 818,
+					"height": 460
+				},
+				{
+					"path": "rui/menu/maps/mp_rr_canyonlands_mu2_big_icon",
+					"posX": 1942,
+					"posY": 520,
+					"width": 818,
+					"height": 460
+				},
+				{
+					"path": "rui/menu/maps/mp_rr_canyonlands_mu2_mv_big_icon",
+					"posX": 1942,
+					"posY": 1020,
+					"width": 818,
+					"height": 460
+				},
+				{
+					"path": "rui/menu/maps/mp_rr_canyonlands_mu2_tt_big_icon",
+					"posX": 878,
+					"posY": 2020,
+					"width": 818,
+					"height": 460
+				},
+				{
+					"path": "rui/menu/maps/mp_rr_canyonlands_mu2_ufo_big_icon",
+					"posX": 20,
+					"posY": 2084,
+					"width": 818,
+					"height": 460
+				},
+				{
+					"path": "rui/menu/maps/mp_rr_canyonlands_staging_big_icon",
+					"posX": 1736,
+					"posY": 2020,
+					"width": 818,
+					"height": 460
+				},
+				{
+					"path": "rui/menu/maps/mp_rr_desertlands_64k_x_64k_big_icon",
+					"posX": 878,
+					"posY": 2520,
+					"width": 818,
+					"height": 460
+				},
+				{
+					"path": "rui/menu/maps/mp_rr_desertlands_64k_x_64k_mv_big_icon",
+					"posX": 20,
+					"posY": 2584,
+					"width": 818,
+					"height": 460
+				},
+				{
+					"path": "rui/menu/maps/mp_rr_desertlands_64k_x_64k_nx_big_icon",
+					"posX": 1736,
+					"posY": 2520,
+					"width": 818,
+					"height": 460
+				},
+				{
+					"path": "rui/menu/maps/mp_rr_desertlands_64k_x_64k_tt_big_icon",
+					"posX": 2594,
+					"posY": 1520,
+					"width": 818,
+					"height": 460
+				},
+				{
+					"path": "rui/menu/maps/mp_rr_desertlands_holiday_big_icon",
+					"posX": 2594,
+					"posY": 2020,
+					"width": 818,
+					"height": 460
+				},
+				{
+					"path": "rui/menu/maps/mp_rr_desertlands_mu1_big_icon",
+					"posX": 2594,
+					"posY": 2520,
+					"width": 818,
+					"height": 460
+				},
+				{
+					"path": "rui/menu/maps/mp_rr_desertlands_mu1_tt_big_icon",
+					"posX": 2800,
+					"posY": 20,
+					"width": 818,
+					"height": 460
+				},
+				{
+					"path": "rui/menu/maps/mp_rr_desertlands_mu2_big_icon",
+					"posX": 2800,
+					"posY": 520,
+					"width": 818,
+					"height": 460
+				},
+				{
+					"path": "rui/menu/maps/mp_rr_olympus_big_icon",
+					"posX": 2800,
+					"posY": 1020,
+					"width": 818,
+					"height": 460
+				},
+				{
+					"path": "rui/menu/maps/mp_rr_olympus_mu1_big_icon",
+					"posX": 878,
+					"posY": 3020,
+					"width": 818,
+					"height": 460
+				},
+				{
+					"path": "rui/menu/maps/mp_rr_olympus_tt_big_icon",
+					"posX": 20,
+					"posY": 3084,
+					"width": 818,
+					"height": 460
+				},
+				{
+					"path": "rui/menu/maps/mp_rr_party_crasher_big_icon",
+					"posX": 1736,
+					"posY": 3020,
+					"width": 818,
+					"height": 460
+				},
+				{
+					"path": "rui/menu/maps/aim_trainer",
+					"posX": 2594,
+					"posY": 3020,
+					"width": 360,
+					"height": 360
+				},
+				{
+					"path": "rui/menu/maps/map_not_found_square_icon",
+					"posX": 2994,
+					"posY": 3020,
+					"width": 360,
+					"height": 360
+				},
+				{
+					"path": "rui/menu/maps/mp_rr_aqueduct_square_icon",
+					"posX": 2594,
+					"posY": 3420,
+					"width": 360,
+					"height": 360
+				},
+				{
+					"path": "rui/menu/maps/mp_rr_arena_composite_square_icon",
+					"posX": 2994,
+					"posY": 3420,
+					"width": 360,
+					"height": 360
+				},
+				{
+					"path": "rui/menu/maps/mp_rr_arena_phase_runner_square_icon",
+					"posX": 878,
+					"posY": 3520,
+					"width": 360,
+					"height": 360
+				},
+				{
+					"path": "rui/menu/maps/mp_rr_arena_skygarden_square_icon",
+					"posX": 20,
+					"posY": 3584,
+					"width": 360,
+					"height": 360
+				},
+				{
+					"path": "rui/menu/maps/mp_rr_canyonlands_64k_x_64k_square_icon",
+					"posX": 420,
+					"posY": 3584,
+					"width": 360,
+					"height": 360
+				},
+				{
+					"path": "rui/menu/maps/mp_rr_canyonlands_mu1_night_square_icon",
+					"posX": 1278,
+					"posY": 3520,
+					"width": 360,
+					"height": 360
+				},
+				{
+					"path": "rui/menu/maps/mp_rr_canyonlands_mu1_square_icon",
+					"posX": 1678,
+					"posY": 3520,
+					"width": 360,
+					"height": 360
+				},
+				{
+					"path": "rui/menu/maps/mp_rr_canyonlands_mu2_mv_square_icon",
+					"posX": 2078,
+					"posY": 3520,
+					"width": 360,
+					"height": 360
+				},
+				{
+					"path": "rui/menu/maps/mp_rr_canyonlands_mu2_square_icon",
+					"posX": 3394,
+					"posY": 3020,
+					"width": 360,
+					"height": 360
+				},
+				{
+					"path": "rui/menu/maps/mp_rr_canyonlands_mu2_tt_square_icon",
+					"posX": 3394,
+					"posY": 3420,
+					"width": 360,
+					"height": 360
+				},
+				{
+					"path": "rui/menu/maps/mp_rr_canyonlands_mu2_ufo_square_icon",
+					"posX": 3452,
+					"posY": 1520,
+					"width": 360,
+					"height": 360
+				},
+				{
+					"path": "rui/menu/maps/mp_rr_canyonlands_staging_square_icon",
+					"posX": 3658,
+					"posY": 20,
+					"width": 360,
+					"height": 360
+				},
+				{
+					"path": "rui/menu/maps/mp_rr_desertlands_64k_x_64k_mv_square_icon",
+					"posX": 3658,
+					"posY": 420,
+					"width": 360,
+					"height": 360
+				},
+				{
+					"path": "rui/menu/maps/mp_rr_desertlands_64k_x_64k_nx_square_icon",
+					"posX": 3658,
+					"posY": 820,
+					"width": 360,
+					"height": 360
+				},
+				{
+					"path": "rui/menu/maps/mp_rr_desertlands_64k_x_64k_square_icon",
+					"posX": 3452,
+					"posY": 1920,
+					"width": 360,
+					"height": 360
+				},
+				{
+					"path": "rui/menu/maps/mp_rr_desertlands_64k_x_64k_tt_square_icon",
+					"posX": 3452,
+					"posY": 2320,
+					"width": 360,
+					"height": 360
+				},
+				{
+					"path": "rui/menu/maps/mp_rr_desertlands_holiday_square_icon",
+					"posX": 3794,
+					"posY": 2720,
+					"width": 360,
+					"height": 360
+				},
+				{
+					"path": "rui/menu/maps/mp_rr_desertlands_mu1_square_icon",
+					"posX": 3794,
+					"posY": 3120,
+					"width": 360,
+					"height": 360
+				},
+				{
+					"path": "rui/menu/maps/mp_rr_desertlands_mu1_tt_square_icon",
+					"posX": 3794,
+					"posY": 3520,
+					"width": 360,
+					"height": 360
+				},
+				{
+					"path": "rui/menu/maps/mp_rr_desertlands_mu2_square_icon",
+					"posX": 3852,
+					"posY": 1220,
+					"width": 360,
+					"height": 360
+				},
+				{
+					"path": "rui/menu/maps/mp_rr_olympus_mu1_square_icon",
+					"posX": 4058,
+					"posY": 20,
+					"width": 360,
+					"height": 360
+				},
+				{
+					"path": "rui/menu/maps/mp_rr_olympus_square_icon",
+					"posX": 4058,
+					"posY": 420,
+					"width": 360,
+					"height": 360
+				},
+				{
+					"path": "rui/menu/maps/mp_rr_olympus_tt_square_icon",
+					"posX": 4058,
+					"posY": 820,
+					"width": 360,
+					"height": 360
+				},
+				{
+					"path": "rui/menu/maps/mp_rr_party_crasher_square_icon",
+					"posX": 3852,
+					"posY": 1620,
+					"width": 360,
+					"height": 360
+				}
+      ]
+    },
+    {
+      "_type": "uimg",
+      "_path": "ui_image_atlas/icons.rpak",
+      "atlas": "texture/ui_atlas/rui/menu/icons/tags_n_icons.rpak",
+      "images": [
+				{
+					"path": "rui/menu/battlepass/s04/musicpack_portrait",
+					"posX": 20,
+					"posY": 20,
+					"width": 560,
+					"height": 303
+				},
+				{
+					"path": "rui/events/s04e01/musicpack_portrait",
+					"posX": 20,
+					"posY": 363,
+					"width": 560,
+					"height": 303
+				},
+				{
+					"path": "rui/events/s05bp/musicpack_portrait",
+					"posX": 620,
+					"posY": 20,
+					"width": 560,
+					"height": 303
+				},
+				{
+					"path": "rui/events/s06bp/musicpack_portrait",
+					"posX": 620,
+					"posY": 363,
+					"width": 560,
+					"height": 303
+				},
+				{
+					"path": "rui/events/s06e01/musicpack_portrait",
+					"posX": 20,
+					"posY": 706,
+					"width": 560,
+					"height": 303
+				},
+				{
+					"path": "rui/events/s06e02/musicpack_portrait",
+					"posX": 620,
+					"posY": 706,
+					"width": 560,
+					"height": 303
+				},
+				{
+					"path": "rui/events/s09bp/musicpack_portrait",
+					"posX": 20,
+					"posY": 1049,
+					"width": 560,
+					"height": 303
+				},
+				{
+					"path": "rui/events/s09e01/musicpack_portrait",
+					"posX": 620,
+					"posY": 1049,
+					"width": 560,
+					"height": 303
+				},
+				{
+					"path": "rui/events/s02e01/musicpack_portrait",
+					"posX": 1220,
+					"posY": 20,
+					"width": 407,
+					"height": 237
+				},
+				{
+					"path": "rui/events/s04e02/musicpack_portrait",
+					"posX": 1220,
+					"posY": 297,
+					"width": 407,
+					"height": 237
+				},
+				{
+					"path": "rui/events/s05e01/musicpack_portrait",
+					"posX": 1220,
+					"posY": 574,
+					"width": 407,
+					"height": 237
+				},
+				{
+					"path": "rui/events/s03e02/item_source_icon",
+					"posX": 1220,
+					"posY": 851,
+					"width": 96,
+					"height": 96
+				},
+				{
+					"path": "rui/events/s04bp/iitem_source_icon",
+					"posX": 1356,
+					"posY": 851,
+					"width": 96,
+					"height": 96
+				},
+				{
+					"path": "rui/events/s04e01/item_source_icon",
+					"posX": 1492,
+					"posY": 851,
+					"width": 96,
+					"height": 96
+				},
+				{
+					"path": "rui/events/s04e02/item_source_icon",
+					"posX": 1220,
+					"posY": 987,
+					"width": 96,
+					"height": 96
+				},
+				{
+					"path": "rui/custom/sdk/item_source_icon",
+					"posX": 1220,
+					"posY": 1123,
+					"width": 96,
+					"height": 96
+				}
+      ]
+    }
+  ]
+}
