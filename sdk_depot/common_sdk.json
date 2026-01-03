@@ -19,6 +19,7 @@
   "compressWorkers": 16,
 
   "files": [
+    ///BOCEK BOW////
     {
       "_type": "mdl_",
       "_path": "mdl/weapons_r5/loot/_master/w_loot_wep_arrow_single.rmdl"
