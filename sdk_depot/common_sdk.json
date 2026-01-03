@@ -1683,6 +1683,10 @@
       "_path": "settings/player/mp/pilot_survival_ash.rpak"
     },
     {
+      "_type": "stgs",
+      "_path": "settings/base_itemflavors.rpak"
+    },
+    {
       "_type": "shdr",
       "_path": "shader/0xADBA4E67E71A1898.rpak",
       "$guid": "0xADBA4E67E71A1898"

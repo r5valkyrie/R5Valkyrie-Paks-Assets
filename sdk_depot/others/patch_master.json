@@ -1,0 +1,16 @@
+{
+  "version": 8,
+  "keepDevOnly": true,
+  "name": "patch_master",
+  "assetsDir": "sdk_depot/others//common/",
+  "outputDir": "./build/",
+  "files": [
+    {
+      "_type": "Ptch",
+      "_path": "patch_master",
+      "entries": [
+
+      ]
+    }
+  ]
+}

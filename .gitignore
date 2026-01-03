@@ -8,7 +8,14 @@
 /map_depot/assetss8
 /map_depot/assetss9
 /sdk_depot/assets_sdk
-/sdk_depot/others
+/sdk_depot/others/canyonlands_64k
+/sdk_depot/others/canyonlands_mu1
+/sdk_depot/others/canyonlands_night
+/sdk_depot/others/common
+/sdk_depot/others/common_mp
+/sdk_depot/others/common_new
+/sdk_depot/others/desertlands_64k
+/sdk_depot/others/flowstate
 *.dds
 *.rrig
 *.rseq
@@ -16,4 +23,5 @@
 /paks
 *.exe
 *.pdb
+*.bak
 /sdk_depot/mods
