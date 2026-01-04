@@ -2309,6 +2309,11 @@
     },
     {
       "_type": "shdr",
+      "_path": "shader/0x455F6E7F150F04A7.rpak",
+      "$guid": "0x455F6E7F150F04A7"
+    },
+    {
+      "_type": "shdr",
       "_path": "shader/0x47324CAF5734C4C3.rpak",
       "$guid": "0x47324CAF5734C4C3"
     },
@@ -2924,6 +2929,11 @@
     },
     {
       "_type": "shdr",
+      "_path": "shader/0x93CA21BAEE4D8B1C.rpak",
+      "$guid": "0x93CA21BAEE4D8B1C"
+    },
+    {
+      "_type": "shdr",
       "_path": "shader/0x93EC8C45D8171BE.rpak",
       "$guid": "0x93EC8C45D8171BE"
     },
@@ -3116,6 +3126,11 @@
       "_type": "shdr",
       "_path": "shader/0xAC97A154AA8F6644.rpak",
       "$guid": "0xAC97A154AA8F6644"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xACE3EA4C79C2FB34.rpak",
+      "$guid": "0xACE3EA4C79C2FB34"
     },
     {
       "_type": "shdr",
@@ -10899,6 +10914,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0x9D8D8105D0FFC65D.rpak",
+      "$guid": "0x9D8D8105D0FFC65D"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0x9DCD4A63D538EEEF.rpak",
       "$guid": "0x9DCD4A63D538EEEF"
     },
@@ -12224,6 +12244,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0xC1E6E58816F3C75.rpak",
+      "$guid": "0xC1E6E58816F3C75"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0xC22485A62DAFF3E7.rpak",
       "$guid": "0xC22485A62DAFF3E7"
     },
@@ -13116,6 +13141,11 @@
       "_type": "txtr",
       "_path": "texture/0xDBB8316A03DB5C43.rpak",
       "$guid": "0xDBB8316A03DB5C43"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xDBDD966638881047.rpak",
+      "$guid": "0xDBDD966638881047"
     },
     {
       "_type": "txtr",
@@ -14294,6 +14324,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0xF7FD5082D91A19E3.rpak",
+      "$guid": "0xF7FD5082D91A19E3"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0xF81E6677FAFB780.rpak",
       "$guid": "0xF81E6677FAFB780"
     },
@@ -14643,22 +14678,6 @@
       "$guid": "0xFFFC33675984FFA3"
     },
     {
-      "_type": "txtr",
-      "_path": "texture/holo_cross_square.rpak"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/holo_map_grid.rpak"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/defaults/ao.rpak"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/models/camo_skins_r5/characters/shared/sunsetter_col.rpak"
-    },
-    {
       "_type": "matl",
       "_path": "material/depth/models/angel_city/ground_pile_trash_01_shadow_rgdp.rpak"
     },
@@ -14820,7 +14839,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/depth/world/decal/skygarden_decal_02_shadow_rgdp.rpak"
+      "_path": "material/depth/world/decal/desertlands_holiday_lights_01_shadow_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -15076,7 +15095,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/depth/world/decal/skygarden_decal_02_prepass_rgdp.rpak"
+      "_path": "material/depth/world/decal/desertlands_holiday_lights_01_prepass_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -15332,7 +15351,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/depth/world/decal/skygarden_decal_02_vsm_rgdp.rpak"
+      "_path": "material/depth/world/decal/desertlands_holiday_lights_01_vsm_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -15588,7 +15607,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/depth/world/decal/skygarden_decal_02_tightshadow_rgdp.rpak"
+      "_path": "material/depth/world/decal/desertlands_holiday_lights_01_tightshadow_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -16436,19 +16455,11 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/rocks/rock_desert_04_desertlands_snow_04_nosub_bm_wld_colpass_rgdp.rpak"
-    },
-    {
-      "_type": "matl",
       "_path": "material/models/rocks/rock_desert_04_desertlands_snow_04_nosub_colpass_rgdp.rpak"
     },
     {
       "_type": "matl",
       "_path": "material/models/rocks/rock_desert_04_sand_desert_02_bm_colpass_rgdp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/rocks/rock_desert_04_sand_desert_02_red_bm_wld_colpass_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -18348,19 +18359,11 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/rocks/rock_desert_04_desertlands_snow_04_nosub_bm_wld_rgdp.rpak"
-    },
-    {
-      "_type": "matl",
       "_path": "material/models/rocks/rock_desert_04_desertlands_snow_04_nosub_rgdp.rpak"
     },
     {
       "_type": "matl",
       "_path": "material/models/rocks/rock_desert_04_sand_desert_02_bm_rgdp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/rocks/rock_desert_04_sand_desert_02_red_bm_wld_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -18375,9 +18378,6 @@
       "_path": "material/models/rocks/rock_desert_05_sand_desert_02_bm_rgdp.rpak"
     },
     {
-      "_type": "matl",
-      "_path": "material/models/rocks/rock_desert_05_sand_desert_02_red_bm_wld_rgdp.rpak"
-    },
     {
       "_type": "matl",
       "_path": "material/models/rocks/rock_desert_05_soot_burnt_01_bm_rgdp.rpak"
@@ -19400,11 +19400,11 @@
     },
     {
       "_type": "matl",
-      "_path": "material/world/sand/sand_desert_01_red_desertlands_snow_04_nosub_bm_wld_wldc.rpak"
+      "_path": "material/world/sand/sand_desert_01_red_sand_desert_02_red_bm_wld_wldc.rpak"
     },
     {
       "_type": "matl",
-      "_path": "material/world/sand/sand_desert_01_red_sand_desert_02_red_bm_wld_wldc.rpak"
+      "_path": "material/world/sand/sand_desert_01_sand_desert_02_bm_wld_wldc.rpak"
     },
     {
       "_type": "matl",
