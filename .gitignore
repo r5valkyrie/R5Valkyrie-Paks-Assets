@@ -25,3 +25,4 @@
 *.pdb
 *.bak
 /sdk_depot/mods
+/sdk_depot/others/common_mp_new
