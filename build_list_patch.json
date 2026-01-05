@@ -17,5 +17,6 @@
     ],
     "paks": [
         //QUICK PATCHING FOR EXIST RPAKS
+        "sdk_depot/others/common_new.json"//Rebuilt Core Rpak
     ]
 }
