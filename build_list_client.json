@@ -16,8 +16,8 @@
         "sdk_depot/patch_master.json",
         "sdk_depot/startup_sdk.json",
         "sdk_depot/common_roots.json",
-        "sdk_depot/others/common_new.json",//Rebuilt Core Rpak
-        "sdk_depot/others/common_mp_new.json",//Rebuilt Core Rpak
+        "sdk_depot/others/common.json",//Rebuilt Core Rpak
+        "sdk_depot/others/common_mp.json",//Rebuilt Core Rpak
 
         //MAP PAKS
         "map_depot/mp_lobby_s3.1.json",//Season 3 Christmas Lobby
