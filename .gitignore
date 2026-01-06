@@ -20,6 +20,8 @@
 *.rrig
 *.rseq
 *.anir
+*.rpak
+*.starpak
 /paks
 *.exe
 *.pdb
