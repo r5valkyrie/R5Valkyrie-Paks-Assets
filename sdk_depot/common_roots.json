@@ -18,6 +18,10 @@
   "files": [
     {
       "_type": "stlt",
+      "_path": "settings_layout/settings_scriptAnimWindowArguments_Callback_layout.rpak"
+    },
+    {
+      "_type": "stlt",
       "_path": "settings_layout/settings_scriptAnimWindowArguments_FadeAlphaOverTime_layout.rpak"
     },
     {
