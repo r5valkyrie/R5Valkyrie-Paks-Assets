@@ -175,6 +175,122 @@
     },
     {
       "_type": "mdl_",
+      "_path": "mdl/fx/geo_sphere_soft.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/nova_flare_ring.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/nova_flare_torusknot.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/rampart_amp_edge.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/rampart_amp_fill_mid.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/rampart_amp_fill_near.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/rampart_amp_start_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/rampart_amp_start_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/rampart_amp_start_03.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/rampart_amp_start_04.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/rampart_amp_start_05.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/rampart_shield_wire.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/imc_base/door_lock_large_IMC_01_gib02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/imc_base/door_lock_large_IMC_01_gib03.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/weapons_r5/misc_rampart_cover_wall/rampart_wall_dmg_panel_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/weapons_r5/misc_rampart_cover_wall/rampart_wall_dmg_panel_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/weapons_r5/misc_rampart_cover_wall/rampart_wall_dmg_panel_03.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/weapons_r5/misc_rampart_cover_wall/rampart_wall_dmg_panel_04.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/weapons_r5/misc_rampart_cover_wall/rampart_wall_exp_bot.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/weapons_r5/misc_rampart_cover_wall/rampart_wall_exp_bot_l.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/weapons_r5/misc_rampart_cover_wall/rampart_wall_exp_bot_r.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/weapons_r5/misc_rampart_cover_wall/rampart_wall_exp_emitter.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/weapons_r5/misc_rampart_cover_wall/rampart_wall_exp_emitter_top.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/weapons_r5/misc_rampart_cover_wall/rampart_wall_exp_side_l.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/weapons_r5/misc_rampart_cover_wall/rampart_wall_exp_side_rb.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/weapons_r5/misc_rampart_cover_wall/rampart_wall_exp_side_rt.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/weapons_r5/misc_rampart_cover_wall/rampart_wall_exp_top.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/weapons_r5/misc_rampart_cover_wall/rampart_wall_exp_top_l.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/weapons_r5/misc_rampart_cover_wall/rampart_wall_exp_top_r.rmdl"
+    },
+    {
+      "_type": "mdl_",
       "_path": "mdl/techart/mshop/weapons/class/assault/nemesis/nemesis_base_v.rmdl",
       "$animrigs": [
         "animrig/weapons/nemesis/ptpov_nemesis.rrig"
@@ -314,6 +430,151 @@
       "_type": "shdr",
       "_path": "shader/0xF395BA5CC70E0A29.rpak",
       "$guid": "0xF395BA5CC70E0A29"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x1EC688B7DBC10E63.rpak",
+      "$guid": "0x1EC688B7DBC10E63"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x24E6DD83262FAF92.rpak",
+      "$guid": "0x24E6DD83262FAF92"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x2A219109182C884C.rpak",
+      "$guid": "0x2A219109182C884C"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x34FB58D7BC61998D.rpak",
+      "$guid": "0x34FB58D7BC61998D"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x458CF4AB4CCC7B68.rpak",
+      "$guid": "0x458CF4AB4CCC7B68"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x79B352EE7C5B77.rpak",
+      "$guid": "0x79B352EE7C5B77"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x80232384288685D.rpak",
+      "$guid": "0x80232384288685D"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x86D6CE5C562D6AE0.rpak",
+      "$guid": "0x86D6CE5C562D6AE0"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xA1B397D2C7688034.rpak",
+      "$guid": "0xA1B397D2C7688034"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xE3217E40AE66373E.rpak",
+      "$guid": "0xE3217E40AE66373E"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xF0E3447AE9300D37.rpak",
+      "$guid": "0xF0E3447AE9300D37"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xFDC4744C4DD28425.rpak",
+      "$guid": "0xFDC4744C4DD28425"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x5A150C12BDA0C8B2.rpak",
+      "$guid": "0x5A150C12BDA0C8B2"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x4046BF546463B6F1.rpak",
+      "$guid": "0x4046BF546463B6F1"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x93C520F768325351.rpak",
+      "$guid": "0x93C520F768325351"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xB5440E86CBF64239.rpak",
+      "$guid": "0xB5440E86CBF64239"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xB66DE8C1DC5A975F.rpak",
+      "$guid": "0xB66DE8C1DC5A975F"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xED06282B172B460E.rpak",
+      "$guid": "0xED06282B172B460E"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xFF17EDAF33A2B98A.rpak",
+      "$guid": "0xFF17EDAF33A2B98A"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x644DF58395DE5B3F.rpak",
+      "$guid": "0x644DF58395DE5B3F"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x37B9BC06425B7A8F.rpak",
+      "$guid": "0x37B9BC06425B7A8F"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x3ECB6DF464867A8D.rpak",
+      "$guid": "0x3ECB6DF464867A8D"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x630C66655DF8B5D0.rpak",
+      "$guid": "0x630C66655DF8B5D0"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x769D28A836175DE6.rpak",
+      "$guid": "0x769D28A836175DE6"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x7E34008247F6443B.rpak",
+      "$guid": "0x7E34008247F6443B"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x888CFBF580356AE4.rpak",
+      "$guid": "0x888CFBF580356AE4"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x98854468C51EB3C9.rpak",
+      "$guid": "0x98854468C51EB3C9"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xEB89118025D1B202.rpak",
+      "$guid": "0xEB89118025D1B202"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xF2BFEC3E381183D6.rpak",
+      "$guid": "0xF2BFEC3E381183D6"
     },
     {
       "_type": "shds",
@@ -566,11 +827,6 @@
       "$guid": "0x6E2A85DB501A4B2F"
     },
     {
-      "_type": "txtr",
-      "_path": "texture/0xDE759AB80D3C81AD.rpak",
-      "$guid": "0xDE759AB80D3C81AD"
-    },
-    {
       "_type": "mdl_",
       "_path": "mdl/error.rmdl"
     },
@@ -746,6 +1002,189 @@
       "_type": "txtr",
       "_path": "texture/0xC50AC6200026BA2C.rpak",
       "$guid": "0xC50AC6200026BA2C"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x28A7E1CC56D7DC37.rpak",
+      "$guid": "0x28A7E1CC56D7DC37"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x3F82A54F8D47EE16.rpak",
+      "$guid": "0x3F82A54F8D47EE16"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x6E80235CC6843394.rpak",
+      "$guid": "0x6E80235CC6843394"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x833B9C581D99044.rpak",
+      "$guid": "0x833B9C581D99044"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x85EFCD734F214E05.rpak",
+      "$guid": "0x85EFCD734F214E05"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x948EEB82023D36C8.rpak",
+      "$guid": "0x948EEB82023D36C8"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xBEB87142DA576C67.rpak",
+      "$guid": "0xBEB87142DA576C67"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xDE759AB80D3C81AD.rpak",
+      "$guid": "0xDE759AB80D3C81AD"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xEAAF1A1290FD93D1.rpak",
+      "$guid": "0xEAAF1A1290FD93D1"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x8BAC34B09E8CCF1B.rpak",
+      "$guid": "0x8BAC34B09E8CCF1B"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x924C3A4E18B7BB32.rpak",
+      "$guid": "0x924C3A4E18B7BB32"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/particle/glows/glow_grating_card_ptcu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/particle/glows/rectangle_glow_01_trail_ob15_noz_ptcs.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/particle/glows/rectangle_glow_01_trail_ob15_ptcu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/particle/icons/ar_marker_base_OB6_noz_ptcu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/particle/icons/ar_marker_base_OB6_ptcu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/particle/icons/ar_marker_base_ptcu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/particle/leaf/flower_petal_orange_db32_ptcu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/particle/leaf/flower_petal_pink_db32_ptcu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/particle/smoke/fog_thin_perlin_add_DB16_nodoftsaa_ptcu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/particle/glows/glare_spike_ob6_ptcs.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/particle/muzzleflash/flash_core_card_blend_mult_ptcs.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_rampart_cover_wall/rampart_cover_wall_shadow_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_rampart_cover_wall/rampart_cover_wall_prepass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_rampart_cover_wall/rampart_cover_wall_vsm_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_rampart_cover_wall/rampart_cover_wall_tightshadow_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/imc_base/imc_door_lock_large_01_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/misc_rampart_cover_wall/rampart_cover_wall_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/effects/nova_flare_ring_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/effects/rampart_amp_destroy_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/effects/rampart_amp_edge_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/effects/rampart_amp_fill_mid_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/effects/rampart_amp_fill_near_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/effects/rampart_shield_wire_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/fx/geo_sphere_soft_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/imc_base/imc_door_lock_large_01_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/misc_rampart_cover_wall/rampart_cover_wall_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/particle/glows/glare_spike_trail_ob6_db5_distfade_ptcs.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/particle/glows/glow_abstract_ring_01_add_noz_ptcu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/particle/glows/glow_ring_01_db64_ptcu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/particle/smoke/fog_thin_perlin_DB128_trail_ptcs.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/particle/smoke/fog_thin_perlin_DB1_ptcu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/particle/smoke/smoke_charge02_LP_DB512_nearcull_ptcu.rpak"
     },
     {
       "_type": "matl",
@@ -36684,6 +37123,11 @@
     },
     {
       "_type": "txtr",
+      "_path": "texture/0xBEEBF70A241BA743.rpak",
+      "$guid": "0xBEEBF70A241BA743"
+    },
+    {
+      "_type": "txtr",
       "_path": "texture/0x16BC68FF7E6EEF9D.rpak",
       "$guid": "0x16BC68FF7E6EEF9D"
     },
@@ -66846,6 +67290,11 @@
       "_type": "txtr",
       "_path": "texture/0x792841FD697A6D59.rpak",
       "$guid": "0x792841FD697A6D59"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x20D14F806D5F8A51.rpak",
+      "$guid": "0x20D14F806D5F8A51"
     },
     {
       "_type": "txtr",
