@@ -4,7 +4,7 @@
   "name": "mp_rr_arena_skygarden",
   "streamFileMandatory": "paks/Win64/mp_rr_arena_skygarden.starpak",
   "streamFileOptional": "paks/Win64/mp_rr_arena_skygarden.opt.starpak",
-  "assetsDir": "./assets/mp_rr_arena_skygarden",
+  "assetsDir": "map_depot/assets/mp_rr_arena_skygarden",
   "outputDir": "./build/",
   "compressLevel": 6,
   "compressWorkers": 16,

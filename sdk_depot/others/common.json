@@ -175,6 +175,34 @@
     },
     {
       "_type": "mdl_",
+      "_path": "mdl/fx/geo_sphere_soft_noz.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/nova_light_bend_plane.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/nova_warped_geo_bright.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/portal_ring_warn_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/portal_ring_warn_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/rampart_shield_edge.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/weapons_r5/misc_crypto_drone/crypto_drone_swordswipe.rmdl"
+    },
+    {
+      "_type": "mdl_",
       "_path": "mdl/fx/geo_sphere_soft.rmdl"
     },
     {
@@ -525,6 +553,243 @@
       "_type": "txtr",
       "_path": "texture/0xFF17EDAF33A2B98A.rpak",
       "$guid": "0xFF17EDAF33A2B98A"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x1E140A63EBCBAF4C.rpak",
+      "$guid": "0x1E140A63EBCBAF4C"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x34245AA5EEFF164F.rpak",
+      "$guid": "0x34245AA5EEFF164F"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x35160FA646CFD642.rpak",
+      "$guid": "0x35160FA646CFD642"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x36A84025927DA4AB.rpak",
+      "$guid": "0x36A84025927DA4AB"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x3F5B4C4830CF9851.rpak",
+      "$guid": "0x3F5B4C4830CF9851"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x57ECF0B3D48423F6.rpak",
+      "$guid": "0x57ECF0B3D48423F6"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x5A89769E038BB9F0.rpak",
+      "$guid": "0x5A89769E038BB9F0"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x64F76A0E8D5F1071.rpak",
+      "$guid": "0x64F76A0E8D5F1071"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x7CDB24BAB1F6B307.rpak",
+      "$guid": "0x7CDB24BAB1F6B307"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xA5CFB98395A38333.rpak",
+      "$guid": "0xA5CFB98395A38333"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xC11EA08F40D7457F.rpak",
+      "$guid": "0xC11EA08F40D7457F"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xEC5B8EDF4C322B9F.rpak",
+      "$guid": "0xEC5B8EDF4C322B9F"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xEE36FCB144E9EC81.rpak",
+      "$guid": "0xEE36FCB144E9EC81"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xFD2C631C0F462459.rpak",
+      "$guid": "0xFD2C631C0F462459"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x1E1FCE9FD5C280E1.rpak",
+      "$guid": "0x1E1FCE9FD5C280E1"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x2156964225E6B6C8.rpak",
+      "$guid": "0x2156964225E6B6C8"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x2B2CDFCCC8DC1996.rpak",
+      "$guid": "0x2B2CDFCCC8DC1996"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x2FADCE1B24DB2599.rpak",
+      "$guid": "0x2FADCE1B24DB2599"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x702223180DB12451.rpak",
+      "$guid": "0x702223180DB12451"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x90751DD9F16B60A0.rpak",
+      "$guid": "0x90751DD9F16B60A0"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x9B8E07F29964BE71.rpak",
+      "$guid": "0x9B8E07F29964BE71"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xBE357F9968ACF6A9.rpak",
+      "$guid": "0xBE357F9968ACF6A9"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xF286DAF14D56721.rpak",
+      "$guid": "0xF286DAF14D56721"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x2FD6F5D10C74FC15.rpak",
+      "$guid": "0x2FD6F5D10C74FC15"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x6BEB357A5F31E0F5.rpak",
+      "$guid": "0x6BEB357A5F31E0F5"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x6D642D0989B55B0D.rpak",
+      "$guid": "0x6D642D0989B55B0D"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x74732FE50E2EBADE.rpak",
+      "$guid": "0x74732FE50E2EBADE"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x891F65603FF35C3B.rpak",
+      "$guid": "0x891F65603FF35C3B"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x8C0943A4543A7382.rpak",
+      "$guid": "0x8C0943A4543A7382"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x1502E307C2A7116B.rpak",
+      "$guid": "0x1502E307C2A7116B"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x8FD5999E4237D2AE.rpak",
+      "$guid": "0x8FD5999E4237D2AE"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xC79FCB4540E1BC11.rpak",
+      "$guid": "0xC79FCB4540E1BC11"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xFBF70A8446BC1D6F.rpak",
+      "$guid": "0xFBF70A8446BC1D6F"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/effects/rampart_shield_edge_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/fx/oly_portal_ring_inner_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/fx/oly_portal_ring_lights_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/fx/oly_portal_ring_warn_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/fx/geo_sphere_soft_noz_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/fx/nova_light_bend_scroll_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/fx/nova_warped_geo_bright_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/particle/beam/solar_flare_arc_ptcs.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/particle/Energy/energy_nebula_trail_ramp_white_ob100_ptcs.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/particle/glows/flare_hex_close_ramp_add_DB10_OB5_ptcu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/particle/glows/glow_pointlight_blend_ob10_min005_ptcu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/particle/glows/pfx_glow_05_Add_15OB_db170_ptcu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/particle/glows/pfx_glow_05_Add_15OB_db1_ptcu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/particle/icons/bubble_round_holo_OB16_ptcu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/particle/refract/simple_ring_wide_outer_nml_ptcu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/particle/refract/warp_nml_noz_ptcu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/particle/swipes/crypto_swordswipe_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/vgui/hud/vignette_rgdu.rpak"
     },
     {
       "_type": "shds",
@@ -55595,6 +55860,31 @@
       "_type": "txtr",
       "_path": "texture/0x4FB67F15706685C2.rpak",
       "$guid": "0x4FB67F15706685C2"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xB8765ADD694A4B79.rpak",
+      "$guid": "0xB8765ADD694A4B79"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x8F9A054AF0895AF4.rpak",
+      "$guid": "0x8F9A054AF0895AF4"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xC56E68E87755DCA4.rpak",
+      "$guid": "0xC56E68E87755DCA4"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x572FFB9A70703948.rpak",
+      "$guid": "0x572FFB9A70703948"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x8AA6E077008CC0EE.rpak",
+      "$guid": "0x8AA6E077008CC0EE"
     },
     {
       "_type": "txtr",
