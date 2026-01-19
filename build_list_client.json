@@ -40,9 +40,9 @@
         "map_depot/mp_rr_olympus_tt.json",
         "map_depot/mp_rr_olympus_mu1.json",
         "map_depot/mp_rr_aqueduct.json",
-        "map_depot/mp_rr_party_crasher.json",
+        "map_depot/mp_rr_party_crasher_new.json",
         "map_depot/mp_rr_arena_composite.json",
-        "map_depot/mp_rr_arena_phase_runner.json",
+        "map_depot/mp_rr_arena_phase_runner_new.json",
         "map_depot/mp_rr_arena_skygarden.json",
 
         "sdk_depot/others/flowstate/mp_rr_arena_empty.json"
