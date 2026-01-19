@@ -4,7 +4,7 @@
   "name": "mp_rr_arena_phase_runner",
   "streamFileMandatory": "paks/Win64/mp_rr_arena_phase_runner.starpak",
   "streamFileOptional": "paks/Win64/mp_rr_arena_phase_runner.opt.starpak",
-  "assetsDir": "map_depot/assetss9/",
+  "assetsDir": "./assets/mp_rr_arena_phase_runner/",
   "outputDir": "./build/",
   "compressLevel": 6,
   "compressWorkers": 16,
@@ -12921,74 +12921,6 @@
     {
       "_type": "matl",
       "_path": "material/models/world/utility/wire_cluster_rgdp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/explosions/exp_fire_alpha_full_add_ob_db256_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/explosions/exp_fire_ramp_blue_add_db_15_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/glows/flare_hoop02_add_noz_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/glows/flare_hoop03_add_noz_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/leaf/floret_blend_db32_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/smoke/fog_thin_perlin_add_db128_nearcull_nodoftsaa_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/smoke/fog_thin_perlin_DB512_nearcull_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/smoke/fog_thin_perlin_DB60_nearcull65_nodoftsaa_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/smoke/fog_thin_perlin_DB_nearcull2_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/smoke/smoke_puff_01_DB1024_nearcull_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/smoke/smoke_puff_01_DB128_NC2_nodoftsaa_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/star_max01_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/water/rain_streak_trail_noOB_TSAA_ptcs.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/water/rain_streak_trail_noOB_TSAA_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/water/splash_foam_db128_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/water/water_splash_erode_trail_db5_ptcs.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/wildlife/fly_trail_ptcs.rpak"
     },
     {
       "_type": "matl",

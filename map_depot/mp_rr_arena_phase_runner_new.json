@@ -4,7 +4,7 @@
   "name": "mp_rr_arena_phase_runner",
   "streamFileMandatory": "paks/Win64/mp_rr_arena_phase_runner.starpak",
   "streamFileOptional": "paks/Win64/mp_rr_arena_phase_runner.opt.starpak",
-  "assetsDir": "./assets/mp_rr_arena_phase_runner/",
+  "assetsDir": "map_depot/assets/mp_rr_arena_phase_runner/",
   "outputDir": "./build/",
   "compressLevel": 6,
   "compressWorkers": 16,

@@ -33568,34 +33568,6 @@
     },
     {
       "_type": "matl",
-      "_path": "material/particle/blood/splatter_erode_white_ob20_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/glows/flare_hex_crisp_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/smoke/fog_thin_perlin_DB50_nofog_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/smoke/fog_thin_perlin_DB_nearcull2_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/smoke/rocket_trail_soft_edge_db60_ptcs.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/smoke/smoke_puff_01_DB1024_nearcull_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/smoke/smoke_puff_01_DB128_NC2_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
       "_path": "material/tools/toolsblack_wldc.rpak"
     },
     {

@@ -31130,55 +31130,7 @@
     },
     {
       "_type": "matl",
-      "_path": "material/particle/blood/splatter_erode_white_ob20_ptcs.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/blood/splatter_erode_white_ob20_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/explosions/firework_fountain_ptcs.rpak"
-    },
-    {
-      "_type": "matl",
       "_path": "material/particle/explosions/firework_interlace_03_rgdp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/explosions/firework_sky_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/glows/flare_hex_crisp_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/glows/flare_streak01_add_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/impact/fleks_ptcs.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/smoke/fog_thin_perlin_DB50_nofog_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/smoke/fog_thin_perlin_DB_nearcull2_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/smoke/rocket_trail_soft_edge_db60_ptcs.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/smoke/smoke_puff_01_DB1024_nearcull_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/smoke/smoke_puff_01_DB128_NC2_ptcu.rpak"
     },
     {
       "_type": "matl",
