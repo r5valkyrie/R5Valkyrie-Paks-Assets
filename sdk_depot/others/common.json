@@ -10,6 +10,415 @@
   "files": [
     {
       "_type": "mdl_",
+      "_path": "mdl/fx/void_ring_beam.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/void_ring_beam_dmg.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/void_ring_fury_top_dmg.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/void_ring_preview.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/void_ring_top.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/void_ring_top_cap.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/void_ring_top_dmg.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/Weapons/void_ring/projectile_void_ring.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/props/void_ring/loot_void_ring.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/Weapons/void_ring/ptpov_void_ring_held.rmdl",
+      "$animrigs": [
+        "animrig/weapons/void_ring/ptpov_void_ring_held.rrig"
+      ]
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/Weapons/void_ring/w_void_ring.rmdl"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x13BA61BA61A6C204.rpak",
+      "$guid": "0x13BA61BA61A6C204"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x16ECD11A1FEFF780.rpak",
+      "$guid": "0x16ECD11A1FEFF780"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x3674A1CC375200F6.rpak",
+      "$guid": "0x3674A1CC375200F6"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x4D97FB4244CCFBEF.rpak",
+      "$guid": "0x4D97FB4244CCFBEF"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x4FE6091E0B99DFBB.rpak",
+      "$guid": "0x4FE6091E0B99DFBB"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x52457B7ADBE3DAAF.rpak",
+      "$guid": "0x52457B7ADBE3DAAF"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x7A3F16979DCB0EFF.rpak",
+      "$guid": "0x7A3F16979DCB0EFF"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x7C83FD4932C1BD89.rpak",
+      "$guid": "0x7C83FD4932C1BD89"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x87DA6D70AC96815D.rpak",
+      "$guid": "0x87DA6D70AC96815D"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x9AAC49CE5D81270D.rpak",
+      "$guid": "0x9AAC49CE5D81270D"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x9D24C701FCD36B1E.rpak",
+      "$guid": "0x9D24C701FCD36B1E"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xB7A467430E37B2BC.rpak",
+      "$guid": "0xB7A467430E37B2BC"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xCDFD6CB0C9A2E3B2.rpak",
+      "$guid": "0xCDFD6CB0C9A2E3B2"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xDF27392CB53861EB.rpak",
+      "$guid": "0xDF27392CB53861EB"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x13BE727F3B68371.rpak",
+      "$guid": "0x13BE727F3B68371"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x42ADE7A74F4C8A84.rpak",
+      "$guid": "0x42ADE7A74F4C8A84"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x49E80843392F58E.rpak",
+      "$guid": "0x49E80843392F58E"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x616010DD9C864965.rpak",
+      "$guid": "0x616010DD9C864965"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x6CE037E59E22B7B.rpak",
+      "$guid": "0x6CE037E59E22B7B"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x8BD211A615E22D66.rpak",
+      "$guid": "0x8BD211A615E22D66"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x8BD7055463A09975.rpak",
+      "$guid": "0x8BD7055463A09975"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x9EE13745981FDEB9.rpak",
+      "$guid": "0x9EE13745981FDEB9"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xC6E2D66062B5D3B8.rpak",
+      "$guid": "0xC6E2D66062B5D3B8"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xE202441961FC3C3.rpak",
+      "$guid": "0xE202441961FC3C3"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xF182AE72F96C72FF.rpak",
+      "$guid": "0xF182AE72F96C72FF"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x19F18104FD13CFBF.rpak",
+      "$guid": "0x19F18104FD13CFBF"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x2931ECDCFAD36142.rpak",
+      "$guid": "0x2931ECDCFAD36142"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x40FC8ABC3B7ACA8A.rpak",
+      "$guid": "0x40FC8ABC3B7ACA8A"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x521CF78AC3451980.rpak",
+      "$guid": "0x521CF78AC3451980"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x6DAF65C779340CCB.rpak",
+      "$guid": "0x6DAF65C779340CCB"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x8BC21AD0FA96CB9.rpak",
+      "$guid": "0x8BC21AD0FA96CB9"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xC5AF56C6E6FFBA36.rpak",
+      "$guid": "0xC5AF56C6E6FFBA36"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xE5B1762D2AF76A9B.rpak",
+      "$guid": "0xE5B1762D2AF76A9B"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xFEE1C9009857322F.rpak",
+      "$guid": "0xFEE1C9009857322F"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_void_ring_generator/misc_void_ring_generator_on_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_void_ring_generator/misc_void_ring_generator_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_void_ring_generator/misc_void_ring_generator_shadow_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_void_ring_generator/misc_void_ring_generator_on_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_void_ring_generator/misc_void_ring_generator_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_void_ring_generator/misc_void_ring_generator_prepass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_void_ring_generator/misc_void_ring_generator_on_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_void_ring_generator/misc_void_ring_generator_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_void_ring_generator/misc_void_ring_generator_vsm_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_void_ring_generator/misc_void_ring_generator_on_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_void_ring_generator/misc_void_ring_generator_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_void_ring_generator/misc_void_ring_generator_tightshadow_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/misc_void_ring_generator/misc_void_ring_generator_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/misc_void_ring_generator/misc_void_ring_generator_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/misc_void_ring_generator/misc_void_ring_generator_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/misc_void_ring_generator/misc_void_ring_generator_on_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/fx/void_ring_fury_inner_dmg_rgdc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/fx/void_ring_fury_top_dmg_color_rgdc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/fx/void_ring_fury_top_dmg_noclip_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/fx/void_ring_inner_dmg_rgdc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/fx/void_ring_top_dmg_color_rgdc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/fx/void_ring_top_dmg_noclip_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/fx/void_ring_beam_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/fx/void_ring_inner_combined_noclip_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/fx/void_ring_inner_combined_rgdc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/fx/void_ring_preview_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/fx/void_ring_top_color_noclip_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/fx/void_ring_top_color_rgdc.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/misc_void_ring_generator/misc_void_ring_generator_on_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/misc_void_ring_generator/misc_void_ring_generator_sknp.rpak"
+    },
+    {
+      "_type": "arig",
+      "_path": "animrig/weapons/void_ring/ptpov_void_ring_held.rrig",
+      "$sequences": [
+        "animseq/weapons/void_ring/ptpov_void_ring_held/draw_to_crouch.rseq",
+        "animseq/weapons/void_ring/ptpov_void_ring_held/draw_to_crouch_gibby.rseq",
+        "animseq/weapons/void_ring/ptpov_void_ring_held/draw_to_hold.rseq",
+        "animseq/weapons/void_ring/ptpov_void_ring_held/draw_to_hold_gibby.rseq",
+        "animseq/weapons/void_ring/ptpov_void_ring_held/draw_to_hold_onehanded.rseq",
+        "animseq/weapons/void_ring/ptpov_void_ring_held/draw_to_sprint.rseq",
+        "animseq/weapons/void_ring/ptpov_void_ring_held/draw_to_sprint_gibby.rseq",
+        "animseq/weapons/void_ring/ptpov_void_ring_held/holster_seq.rseq",
+        "animseq/weapons/void_ring/ptpov_void_ring_held/holster_seq_onehanded.rseq",
+        "animseq/weapons/void_ring/ptpov_void_ring_held/jump.rseq",
+        "animseq/weapons/void_ring/ptpov_void_ring_held/land.rseq",
+        "animseq/weapons/void_ring/ptpov_void_ring_held/land_high.rseq",
+        "animseq/weapons/void_ring/ptpov_void_ring_held/land_low.rseq",
+        "animseq/weapons/void_ring/ptpov_void_ring_held/land_med.rseq",
+        "animseq/weapons/void_ring/ptpov_void_ring_held/lower.rseq",
+        "animseq/weapons/void_ring/ptpov_void_ring_held/raise.rseq",
+        "animseq/weapons/void_ring/ptpov_void_ring_held/raise_from_melee.rseq",
+        "animseq/weapons/void_ring/ptpov_void_ring_held/raise_from_melee_onehanded.rseq",
+        "animseq/weapons/void_ring/ptpov_void_ring_held/raise_idle.rseq",
+        "animseq/weapons/void_ring/ptpov_void_ring_held/raise_to_sprint.rseq",
+        "animseq/weapons/void_ring/ptpov_void_ring_held/regrip_crouch_1.rseq",
+        "animseq/weapons/void_ring/ptpov_void_ring_held/regrip_crouch_1_onehanded.rseq",
+        "animseq/weapons/void_ring/ptpov_void_ring_held/regrip_crouch_2.rseq",
+        "animseq/weapons/void_ring/ptpov_void_ring_held/regrip_crouch_2_onehanded.rseq",
+        "animseq/weapons/void_ring/ptpov_void_ring_held/sprint_to_hold.rseq",
+        "animseq/weapons/void_ring/ptpov_void_ring_held/sprinting_seq.rseq",
+        "animseq/weapons/void_ring/ptpov_void_ring_held/sprinting_seq_heavy.rseq",
+        "animseq/weapons/void_ring/ptpov_void_ring_held/switch_to_onehanded.rseq",
+        "animseq/weapons/void_ring/ptpov_void_ring_held/switch_to_twohanded.rseq",
+        "animseq/weapons/void_ring/ptpov_void_ring_held/toss_hold_crouch_one_handed_seq.rseq",
+        "animseq/weapons/void_ring/ptpov_void_ring_held/toss_hold_crouch_seq.rseq",
+        "animseq/weapons/void_ring/ptpov_void_ring_held/toss_hold_one_handed_seq.rseq",
+        "animseq/weapons/void_ring/ptpov_void_ring_held/toss_hold_seq.rseq",
+        "animseq/weapons/void_ring/ptpov_void_ring_held/toss_hold_slide_seq.rseq",
+        "animseq/weapons/void_ring/ptpov_void_ring_held/toss_prep_pullout_seq.rseq",
+        "animseq/weapons/void_ring/ptpov_void_ring_held/toss_prep_pullout_seq_gibby.rseq",
+        "animseq/weapons/void_ring/ptpov_void_ring_held/toss_prep_pullout_seq_gibby_sprinting.rseq",
+        "animseq/weapons/void_ring/ptpov_void_ring_held/toss_prep_pullout_seq_onehanded.rseq",
+        "animseq/weapons/void_ring/ptpov_void_ring_held/toss_prep_pullout_seq_raise_onehanded.rseq",
+        "animseq/weapons/void_ring/ptpov_void_ring_held/toss_prep_pullout_seq_sprinting.rseq",
+        "animseq/weapons/void_ring/ptpov_void_ring_held/toss_seq.rseq",
+        "animseq/weapons/void_ring/ptpov_void_ring_held/toss_seq_gibby.rseq",
+        "animseq/weapons/void_ring/ptpov_void_ring_held/toss_seq_onehanded.rseq",
+        "animseq/weapons/void_ring/ptpov_void_ring_held/toss_to_holster.rseq",
+        "animseq/weapons/void_ring/ptpov_void_ring_held/zipline_mount.rseq"
+      ]
+    },
+    {
+      "_type": "arig",
+      "_path" : "animrig/props/void_ring/void_ring.rrig",
+      "$sequences" : [
+        "animseq/props/void_ring/void_ring/idle.rseq",
+        "animseq/props/void_ring/void_ring/prop_void_ring_deploy.rseq",
+        "animseq/props/void_ring/void_ring/prop_void_ring_deploy_idle.rseq",
+        "animseq/props/void_ring/void_ring/prop_void_ring_deploy_idle_alt.rseq",
+        "animseq/props/void_ring/void_ring/prop_void_ring_deploy_idle_warning.rseq",
+        "animseq/props/void_ring/void_ring/prop_void_ring_deploy_trans.rseq",
+        "animseq/props/void_ring/void_ring/prop_void_ring_shutdown.rseq",
+        "animseq/props/void_ring/void_ring/prop_void_ring_shutdown_idle.rseq"
+      ]
+    },
+    {
+      "_type": "mdl_",
+      "_path" : "mdl/props/void_ring/void_ring.rmdl",
+      "$animrigs" : [
+        "animrig/props/void_ring/void_ring.rrig"
+      ]
+    },
+    {
+      "_type": "mdl_",
       "_path": "mdl/fx/drone_tube_dark.rmdl"
     },
     {
@@ -5058,6 +5467,10 @@
     {
       "_type": "matl",
       "_path": "material/particle/icons/menu_broken_ring_01_OB6_ptcu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/particle/icons/menu_broken_ring_01_OB6_noz_ptcu.rpak"
     },
     {
       "_type": "matl",
@@ -43033,6 +43446,11 @@
       "_type": "shds",
       "_path": "shaderset/0xAA857B6252CA3950.rpak",
       "$guid": "0xAA857B6252CA3950"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x5DC31F191CE9947E.rpak",
+      "$guid": "0x5DC31F191CE9947E"
     },
     {
       "_type": "shds",
@@ -178578,198 +178996,57 @@
     },
     {
       "_type": "arig",
-      "_path": "animrig/weapons/p2011/ptpov_p2011.rrig",
-      "$sequences": [
-        "animseq/weapons/p2011/ptpov_p2011/ads_in_crouch_lefthand.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/ads_in_crouch_righthand.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/ads_in_lefthand.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/ads_in_righthand.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/ads_out_crouch_lefthand.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/ads_out_crouch_righthand.rseq",
+      "_path" : "animrig/weapons/p2011/ptpov_p2011.rrig",
+      "$sequences" : [
         "animseq/weapons/p2011/ptpov_p2011/ads_out_lefthand.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/ads_out_righthand.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/ads_to_crouch_l.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/ads_to_crouch_r.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/ads_to_idle_l.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/ads_to_idle_r.rseq",
         "animseq/weapons/p2011/ptpov_p2011/crouch_TEMP.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/crouch_to_idle_l.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/crouch_to_idle_r.rseq",
         "animseq/weapons/p2011/ptpov_p2011/crouch_to_idle_TEMP.rseq",
         "animseq/weapons/p2011/ptpov_p2011/draw.rseq",
-        //"animseq/weapons/p2011/ptpov_p2011/draw_first_alter_lefthand.rseq",//TODO
-        //"animseq/weapons/p2011/ptpov_p2011/draw_first_alter_righthand.rseq",//We don't have her ported yet
-        "animseq/weapons/p2011/ptpov_p2011/draw_first_lefthand.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/draw_first_lefthand_alt.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/draw_first_onehanded.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/draw_first_righthand.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/draw_first_righthand_alt.rseq",
         "animseq/weapons/p2011/ptpov_p2011/draw_lefthand.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/draw_lefthand_2.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/draw_lefthand_neversawitcoming.rseq",
         "animseq/weapons/p2011/ptpov_p2011/draw_onehanded.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/draw_righthand.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/draw_righthand_2.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/draw_righthand_neversawitcoming.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/draw_to_sprint_lefthand.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/draw_to_sprint_medium_r.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/draw_to_sprint_r.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/draw_to_sprint_righthand.rseq",
         "animseq/weapons/p2011/ptpov_p2011/drawfirst.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/fire_ads_crouch_lefthand.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/fire_ads_crouch_righthand.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/fire_ads_lefthand.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/fire_ads_righthand.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/fire_crouch_lefthand.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/fire_crouch_righthand.rseq",
         "animseq/weapons/p2011/ptpov_p2011/fire_lefthand.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/fire_righthand.rseq",
         "animseq/weapons/p2011/ptpov_p2011/holster.rseq",
         "animseq/weapons/p2011/ptpov_p2011/holster_lefthand.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/holster_lefthand_spin.rseq",
         "animseq/weapons/p2011/ptpov_p2011/holster_onehanded.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/holster_righthand.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/holster_righthand_spin.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/idle_ads_crouch_lefthand.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/idle_ads_crouch_righthand.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/idle_ads_lefthand.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/idle_ads_righthand.rseq",
         "animseq/weapons/p2011/ptpov_p2011/idle_crouch_lefthand.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/idle_crouch_righthand.rseq",
         "animseq/weapons/p2011/ptpov_p2011/idle_lefthand.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/idle_righthand.rseq",
         "animseq/weapons/p2011/ptpov_p2011/idle_TEMP.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/idle_to_ads_l.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/idle_to_ads_r.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/idle_to_crouch_l.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/idle_to_crouch_r.rseq",
         "animseq/weapons/p2011/ptpov_p2011/idle_to_crouch_TEMP.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/idle_to_mediumsprint_l.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/idle_to_mediumsprint_r.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/idle_to_sprint_l.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/idle_to_sprint_r.rseq",
         "animseq/weapons/p2011/ptpov_p2011/inspect.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/inspect_basic.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/inspect_dry.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/inspect_tactical.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/inspect_tactical_dry.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/jump_ads_onehanded.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/jump_onehanded.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/land_ads_onehanded.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/land_ads_onehanded_high.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/land_ads_onehanded_low.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/land_ads_onehanded_med.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/land_onehanded.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/land_onehanded_high.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/land_onehanded_low.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/land_onehanded_med.rseq",
         "animseq/weapons/p2011/ptpov_p2011/lower.rseq",
         "animseq/weapons/p2011/ptpov_p2011/lower_lefthand.rseq",
         "animseq/weapons/p2011/ptpov_p2011/lower_onehanded.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/lower_righthand.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/medium_sprint_lefthand_anim.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/medium_sprint_righthand_anim.rseq",
         "animseq/weapons/p2011/ptpov_p2011/meleeraise.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/onehanded_jump.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/onehanded_jump_crouch.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/onehanded_land.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/onehanded_land_crouch.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/onehanded_land_high_crouch.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/onehanded_land_low_crouch.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/onehanded_land_medium_crouch.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/overheat_ballistic_akimbo_left.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/overheat_ballistic_akimbo_right.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/p2020akimbo_gesture_presscheck_l.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/p2020akimbo_gesture_presscheck_r.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/p2020akimbo_gesture_taunt_l.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/p2020akimbo_gesture_taunt_r.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/p2020akimbo_inspect_mirage_l.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/p2020akimbo_inspect_mirage_r.rseq",
         "animseq/weapons/p2011/ptpov_p2011/raise.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/raise_from_melee_lefthand.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/raise_from_melee_righthand.rseq",
         "animseq/weapons/p2011/ptpov_p2011/raise_lefthand.rseq",
         "animseq/weapons/p2011/ptpov_p2011/raise_onehanded.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/raise_righthand.rseq",
         "animseq/weapons/p2011/ptpov_p2011/reload.rseq",
         "animseq/weapons/p2011/ptpov_p2011/reload_empty.rseq",
         "animseq/weapons/p2011/ptpov_p2011/reload_empty_late1.rseq",
         "animseq/weapons/p2011/ptpov_p2011/reload_empty_late1_lefthand.rseq",
         "animseq/weapons/p2011/ptpov_p2011/reload_empty_late1_onehanded.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/reload_empty_late1_righthand.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/reload_empty_late2_lefthand.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/reload_empty_late2_righthand.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/reload_empty_lefthand_01.rseq",
+        "animseq/weapons/p2011/ptpov_p2011/reload_empty_lefthand.rseq",
         "animseq/weapons/p2011/ptpov_p2011/reload_empty_onehanded.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/reload_empty_righthand_01.rseq",
         "animseq/weapons/p2011/ptpov_p2011/reload_late1.rseq",
         "animseq/weapons/p2011/ptpov_p2011/reload_late1_lefthand.rseq",
         "animseq/weapons/p2011/ptpov_p2011/reload_late1_onehanded.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/reload_late1_righthand.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/reload_lefthand_01.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/reload_offhand01.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/reload_offhand01_empty.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/reload_offhand01_empty_late1.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/reload_offhand01_empty_late2.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/reload_offhand01_late.rseq",
+        "animseq/weapons/p2011/ptpov_p2011/reload_lefthand.rseq",
         "animseq/weapons/p2011/ptpov_p2011/reload_onehanded.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/reload_righthand_01.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/reload_style_empty_lefthand.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/reload_style_empty_righthand.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/reload_style_lefthand.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/reload_style_righthand.rseq",
         "animseq/weapons/p2011/ptpov_p2011/run_layer_reload.rseq",
         "animseq/weapons/p2011/ptpov_p2011/run_layer_reload.rseq",
+        "animseq/weapons/p2011/ptpov_p2011/sprint_lefthand.rseq",
         "animseq/weapons/p2011/ptpov_p2011/sprint_lefthand_anim.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/sprint_lefthand_heavy.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/sprint_lefthand_medium.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/sprint_righthand_heavy.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/sprint_righthand_medium.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/sprint_to_ads_l.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/sprint_to_ads_r.rseq",
         "animseq/weapons/p2011/ptpov_p2011/sprintdraw.rseq",
         "animseq/weapons/p2011/ptpov_p2011/sprintholster.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/sprintholster_lefthand.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/sprintholster_righthand.rseq",
         "animseq/weapons/p2011/ptpov_p2011/sprintraise.rseq",
         "animseq/weapons/p2011/ptpov_p2011/sprintraise_lefthand.rseq",
         "animseq/weapons/p2011/ptpov_p2011/sprintraise_onehanded.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/sprintraise_righthand.rseq",
         "animseq/weapons/p2011/ptpov_p2011/sprintslide.rseq",
         "animseq/weapons/p2011/ptpov_p2011/sprintslide_lefthand.rseq",
         "animseq/weapons/p2011/ptpov_p2011/sprintslide_onehanded.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/sprintslide_righthand.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/switch_off_akimbo.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/switch_off_akimbo_l.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/switch_to_jump_ads_lefthand.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/switch_to_jump_ads_righthand.rseq",
         "animseq/weapons/p2011/ptpov_p2011/switch_to_jump_lefthand.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/switch_to_jump_righthand.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/switch_to_land_ads_lefthand.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/switch_to_land_ads_righthand.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/switch_to_land_crouch_lefthand.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/switch_to_land_crouch_righthand.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/switch_to_land_high_ads_lefthand.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/switch_to_land_high_ads_righthand.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/switch_to_land_high_crouch_lefthand.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/switch_to_land_high_crouch_righthand.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/switch_to_land_high_lefthand.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/switch_to_land_high_righthand.rseq",
         "animseq/weapons/p2011/ptpov_p2011/switch_to_land_lefthand.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/switch_to_land_low_ads_lefthand.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/switch_to_land_low_ads_righthand.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/switch_to_land_low_crouch_lefthand.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/switch_to_land_low_crouch_righthand.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/switch_to_land_low_lefthand.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/switch_to_land_low_righthand.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/switch_to_land_med_ads_lefthand.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/switch_to_land_med_ads_righthand.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/switch_to_land_med_crouch_lefthand.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/switch_to_land_med_crouch_righthand.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/switch_to_land_med_lefthand.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/switch_to_land_med_righthand.rseq",
-        "animseq/weapons/p2011/ptpov_p2011/switch_to_land_righthand.rseq",
-        "animseq/weapons/p2011_akimbo/ptpov_p2011_akimbo/sprint_righthand_anim.rseq",
         "animseq_derived/weapons/p2011/ptpov_p2011/ads_in.rseq",
         "animseq_derived/weapons/p2011/ptpov_p2011/ads_in_onehanded.rseq",
         "animseq_derived/weapons/p2011/ptpov_p2011/ads_out.rseq",
@@ -178798,12 +179075,10 @@
         "animseq_derived/weapons/p2011/ptpov_p2011/mod_remove.rseq",
         "animseq_derived/weapons/p2011/ptpov_p2011/optic_add.rseq",
         "animseq_derived/weapons/p2011/ptpov_p2011/optic_remove.rseq",
-        "animseq_derived/weapons/p2011/ptpov_p2011/overheat_ballistic.rseq",
         "animseq_derived/weapons/p2011/ptpov_p2011/run_layer_wall.rseq",
         "animseq_derived/weapons/p2011/ptpov_p2011/run_wall_layer.rseq",
         "animseq_derived/weapons/p2011/ptpov_p2011/sprint.rseq",
         "animseq_derived/weapons/p2011/ptpov_p2011/sprint_heavy.rseq",
-        "animseq_derived/weapons/p2011/ptpov_p2011/sprint_heavy_fast_2.rseq",
         "animseq_derived/weapons/p2011/ptpov_p2011/sprint_onehanded.rseq",
         "animseq_derived/weapons/p2011/ptpov_p2011/switch_to_onehanded.rseq",
         "animseq_derived/weapons/p2011/ptpov_p2011/switch_to_twohanded.rseq",
