@@ -10,6 +10,32 @@
   "files": [
     {
       "_type": "mdl_",
+      "_path": "mdl/props/rampart_cover_wall_replacement/rampart_cover_wall_invisible_collision_40x15_phys.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/props/rampart_turret_vehicle_clip/rampart_turret_vehicle_clip_static.rmdl"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x9BB652D63E2C4B0C.rpak",
+      "$guid": "0x9BB652D63E2C4B0C"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x8808EEC18F1E75C0.rpak",
+      "$guid": "0x8808EEC18F1E75C0"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/world/plastic/plastic_white_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/world/plastic/plastic_white_rgdp.rpak"
+    },
+    {
+      "_type": "mdl_",
       "_path": "mdl/props/bullets/bullets_v02.rmdl",
       "$sequences": [
         "animseq/props/bullets/prop_bullet_bangalore_menu_ready_up.rseq"
