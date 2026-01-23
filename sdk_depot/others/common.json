@@ -10,6 +10,156 @@
   "files": [
     {
       "_type": "mdl_",
+      "_path": "mdl/fx/sentry_turret_shield.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/props/editor_ref_camera/editor_ref_camera.rmdl",
+      "$sequences": [
+        "animseq/props/editor_ref_camera/editor_ref_camera/CC_ccStart_cam0.rseq",
+        "animseq/props/editor_ref_camera/editor_ref_camera/CC_ccStart_cam1.rseq",
+        "animseq/props/editor_ref_camera/editor_ref_camera/CC_ccStart_cam2.rseq",
+        "animseq/props/editor_ref_camera/editor_ref_camera/CC_ccStart_cam3.rseq",
+        "animseq/props/editor_ref_camera/editor_ref_camera/mp_cam_victory.rseq"
+      ]
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/weapons_r5/misc_rampart_cover_wall/rampart_turret_ar_spread.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/weapons_r5/misc_rampart_turret/rampart_tur_dest_ammo.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/weapons_r5/misc_rampart_turret/rampart_tur_dest_barrel.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/weapons_r5/misc_rampart_turret/rampart_tur_dest_body.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/weapons_r5/misc_rampart_turret_base/rampart_base_des_base.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/weapons_r5/misc_rampart_turret_base/rampart_base_des_pedal.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/weapons_r5/misc_rampart_turret_base/rampart_base_des_pivot.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/weapons_r5/misc_rampart_turret_base/rampart_base_des_top.rmdl"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x8A3F4DDD01FDDDCA.rpak",
+      "$guid": "0x8A3F4DDD01FDDDCA"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xB07C4E4189ADC713.rpak",
+      "$guid": "0xB07C4E4189ADC713"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x532F85981451135D.rpak",
+      "$guid": "0x532F85981451135D"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xC6A01460FAAF7CD4.rpak",
+      "$guid": "0xC6A01460FAAF7CD4"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xCEBB4168AECE02EC.rpak",
+      "$guid": "0xCEBB4168AECE02EC"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xF8BF178E5268A4C7.rpak",
+      "$guid": "0xF8BF178E5268A4C7"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xCB496F47049EC323.rpak",
+      "$guid": "0xCB496F47049EC323"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_rampart_turret/rampart_turret_shadow_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_rampart_turret_base/rampart_turret_base_shadow_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_rampart_turret/rampart_turret_prepass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_rampart_turret_base/rampart_turret_base_prepass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_rampart_turret/rampart_turret_vsm_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_rampart_turret_base/rampart_turret_base_vsm_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_rampart_turret/rampart_turret_tightshadow_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_rampart_turret_base/rampart_turret_base_tightshadow_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/misc_rampart_turret/rampart_turret_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/misc_rampart_turret_base/rampart_turret_base_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/world/dev/dev_grey_512_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/fx/ar_rampart_range_edge_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/fx/ar_rampart_range_fill_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/fx/sentry_turret_shield_front_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/misc_rampart_turret/rampart_turret_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/misc_rampart_turret_base/rampart_turret_base_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/world/dev/dev_grey_512_sknp.rpak"
+    },
+    {
+      "_type": "mdl_",
       "_path": "mdl/props/rampart_cover_wall_replacement/rampart_cover_wall_invisible_collision_40x15_phys.rmdl"
     },
     {
