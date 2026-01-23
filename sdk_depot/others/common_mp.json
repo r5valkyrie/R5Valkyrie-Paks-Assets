@@ -8,6 +8,22 @@
   "compressWorkers": 16,
   "files": [
     {
+      "_type": "anir",
+      "_path": "anim_recording/survival_training_cave_to_platform.rpak"
+    },
+    {
+      "_type": "anir",
+      "_path": "anim_recording/survival_training_cave_to_platform2.rpak"
+    },
+    {
+      "_type": "anir",
+      "_path": "anim_recording/survival_training_cave_to_platform3.rpak"
+    },
+    {
+      "_type": "anir",
+      "_path": "anim_recording/survival_training_dummie_dropship.rpak"
+    },
+    {
       "_type": "mdl_",
       "_path": "mdl/barriers/fence_wire_holder_double.rmdl"
     },
@@ -2412,38 +2428,13 @@
     },
     {
       "_type": "dtbl",
-      "_path": "datatable/0x9648FA7488F40DA0.rpak",
-      "$guid": "0x9648FA7488F40DA0"
-    },
-    {
-      "_type": "dtbl",
       "_path": "datatable/0x980967C891E276E0.rpak",
       "$guid": "0x980967C891E276E0"
     },
     {
       "_type": "dtbl",
-      "_path": "datatable/0xBFB17C757760FE08.rpak",
-      "$guid": "0xBFB17C757760FE08"
-    },
-    {
-      "_type": "dtbl",
-      "_path": "datatable/0xCADAC7D029E19EF.rpak",
-      "$guid": "0xCADAC7D029E19EF"
-    },
-    {
-      "_type": "dtbl",
-      "_path": "datatable/0xE415E211A51B07D.rpak",
-      "$guid": "0xE415E211A51B07D"
-    },
-    {
-      "_type": "dtbl",
       "_path": "datatable/0xE7C3CC7CFFC408F2.rpak",
       "$guid": "0xE7C3CC7CFFC408F2"
-    },
-    {
-      "_type": "dtbl",
-      "_path": "datatable/0xE861B7C77949555A.rpak",
-      "$guid": "0xE861B7C77949555A"
     },
     {
       "_type": "dtbl",
