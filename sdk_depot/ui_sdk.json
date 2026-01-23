@@ -1044,433 +1044,433 @@
       "_path": "ui_image_atlas/character_shared_sdk.rpak",
       "atlas": "texture/ui_atlas/rui/menu/characters/character_shared_sdk.rpak",
       "images": [
-				{
-					"path": "rui/menu/character_select/lockstep/locked_portraits/locked_portrait_ash",
-					"posX": 20,
-					"posY": 20,
-					"width": 908,
-					"height": 303
-				},
-				{
-					"path": "rui/menu/character_select/lockstep/locked_portraits/locked_portrait_dummie",
-					"posX": 20,
-					"posY": 363,
-					"width": 908,
-					"height": 303
-				},
-				{
-					"path": "rui/menu/character_select/lockstep/locked_portraits/locked_portrait_fuse",
-					"posX": 20,
-					"posY": 706,
-					"width": 908,
-					"height": 303
-				},
-				{
-					"path": "rui/menu/character_select/lockstep/locked_portraits/locked_portrait_horizon",
-					"posX": 968,
-					"posY": 20,
-					"width": 908,
-					"height": 303
-				},
-				{
-					"path": "rui/menu/character_select/lockstep/locked_portraits/locked_portrait_loba",
-					"posX": 968,
-					"posY": 363,
-					"width": 908,
-					"height": 303
-				},
-				{
-					"path": "rui/menu/character_select/lockstep/locked_portraits/locked_portrait_rampart",
-					"posX": 968,
-					"posY": 706,
-					"width": 908,
-					"height": 303
-				},
-				{
-					"path": "rui/menu/character_select/lockstep/locked_portraits/locked_portrait_revenant",
-					"posX": 20,
-					"posY": 1049,
-					"width": 908,
-					"height": 303
-				},
-				{
-					"path": "rui/menu/character_select/lockstep/locked_portraits/locked_portrait_valkyrie",
-					"posX": 968,
-					"posY": 1049,
-					"width": 908,
-					"height": 303
-				},
-				{
-					"path": "rui/hud/passive_icons/passive_ash",
-					"posX": 20,
-					"posY": 1392,
-					"width": 512,
-					"height": 512
-				},
-				{
-					"path": "rui/hud/passive_icons/passive_dummie_mode",
-					"posX": 572,
-					"posY": 1392,
-					"width": 512,
-					"height": 512
-				},
-				{
-					"path": "rui/hud/passive_icons/passive_fuse",
-					"posX": 1124,
-					"posY": 1392,
-					"width": 512,
-					"height": 512
-				},
-				{
-					"path": "rui/hud/passive_icons/passive_loba",
-					"posX": 1676,
-					"posY": 1392,
-					"width": 512,
-					"height": 512
-				},
-				{
-					"path": "rui/hud/passive_icons/passive_nova",
-					"posX": 1916,
-					"posY": 20,
-					"width": 512,
-					"height": 512
-				},
-				{
-					"path": "rui/hud/passive_icons/passive_rampart",
-					"posX": 1916,
-					"posY": 572,
-					"width": 512,
-					"height": 512
-				},
-				{
-					"path": "rui/hud/passive_icons/passive_revenant",
-					"posX": 20,
-					"posY": 1944,
-					"width": 512,
-					"height": 512
-				},
-				{
-					"path": "rui/hud/passive_icons/passive_valk",
-					"posX": 572,
-					"posY": 1944,
-					"width": 512,
-					"height": 512
-				},
-				{
-					"path": "rui/hud/tactical_icons/rampart_logo",
-					"posX": 1124,
-					"posY": 1944,
-					"width": 512,
-					"height": 512
-				},
-				{
-					"path": "rui/hud/tactical_icons/tactical_ash",
-					"posX": 1676,
-					"posY": 1944,
-					"width": 512,
-					"height": 512
-				},
-				{
-					"path": "rui/hud/tactical_icons/tactical_dummie_mode",
-					"posX": 2228,
-					"posY": 1124,
-					"width": 512,
-					"height": 512
-				},
-				{
-					"path": "rui/hud/tactical_icons/tactical_fuse",
-					"posX": 2468,
-					"posY": 20,
-					"width": 512,
-					"height": 512
-				},
-				{
-					"path": "rui/hud/tactical_icons/tactical_loba",
-					"posX": 2468,
-					"posY": 572,
-					"width": 512,
-					"height": 512
-				},
-				{
-					"path": "rui/hud/tactical_icons/tactical_nova",
-					"posX": 2228,
-					"posY": 1676,
-					"width": 512,
-					"height": 512
-				},
-				{
-					"path": "rui/hud/tactical_icons/tactical_rampart",
-					"posX": 2228,
-					"posY": 2228,
-					"width": 512,
-					"height": 512
-				},
-				{
-					"path": "rui/hud/tactical_icons/tactical_revenant",
-					"posX": 20,
-					"posY": 2496,
-					"width": 512,
-					"height": 512
-				},
-				{
-					"path": "rui/hud/tactical_icons/tactical_valk",
-					"posX": 572,
-					"posY": 2496,
-					"width": 512,
-					"height": 512
-				},
-				{
-					"path": "rui/hud/ultimate_icons/ultimate_ash",
-					"posX": 1124,
-					"posY": 2496,
-					"width": 512,
-					"height": 512
-				},
-				{
-					"path": "rui/hud/ultimate_icons/ultimate_dummie_mode",
-					"posX": 1676,
-					"posY": 2496,
-					"width": 512,
-					"height": 512
-				},
-				{
-					"path": "rui/hud/ultimate_icons/ultimate_loba",
-					"posX": 2780,
-					"posY": 1124,
-					"width": 512,
-					"height": 512
-				},
-				{
-					"path": "rui/hud/ultimate_icons/ultimate_nova",
-					"posX": 3020,
-					"posY": 20,
-					"width": 512,
-					"height": 512
-				},
-				{
-					"path": "rui/hud/ultimate_icons/ultimate_nova_black_hole",
-					"posX": 3020,
-					"posY": 572,
-					"width": 512,
-					"height": 512
-				},
-				{
-					"path": "rui/hud/ultimate_icons/ultimate_rampart",
-					"posX": 2780,
-					"posY": 1676,
-					"width": 512,
-					"height": 512
-				},
-				{
-					"path": "rui/hud/ultimate_icons/ultimate_revenant",
-					"posX": 2780,
-					"posY": 2228,
-					"width": 512,
-					"height": 512
-				},
-				{
-					"path": "rui/hud/ultimate_icons/ultimate_valk",
-					"posX": 2228,
-					"posY": 2780,
-					"width": 512,
-					"height": 512
-				},
-				{
-					"path": "rui/menu/character_select/lockstep/locked_portraits/locked_portrait_revenant_shadow",
-					"posX": 20,
-					"posY": 3048,
-					"width": 846,
-					"height": 303
-				},
-				{
-					"path": "rui/menu/buttons/lobby_character_select/ash",
-					"posX": 2780,
-					"posY": 2780,
-					"width": 390,
-					"height": 208
-				},
-				{
-					"path": "rui/menu/buttons/lobby_character_select/ash_bg",
-					"posX": 2780,
-					"posY": 3028,
-					"width": 390,
-					"height": 208
-				},
-				{
-					"path": "rui/menu/buttons/lobby_character_select/dummie",
-					"posX": 2780,
-					"posY": 3276,
-					"width": 390,
-					"height": 208
-				},
-				{
-					"path": "rui/menu/buttons/lobby_character_select/dummie_bg",
-					"posX": 906,
-					"posY": 3332,
-					"width": 390,
-					"height": 208
-				},
-				{
-					"path": "rui/menu/buttons/lobby_character_select/fuse",
-					"posX": 906,
-					"posY": 3048,
-					"width": 390,
-					"height": 208
-				},
-				{
-					"path": "rui/menu/buttons/lobby_character_select/fuse_bg",
-					"posX": 1336,
-					"posY": 3332,
-					"width": 390,
-					"height": 208
-				},
-				{
-					"path": "rui/menu/buttons/lobby_character_select/loba",
-					"posX": 1336,
-					"posY": 3048,
-					"width": 390,
-					"height": 208
-				},
-				{
-					"path": "rui/menu/buttons/lobby_character_select/loba_bg",
-					"posX": 1766,
-					"posY": 3048,
-					"width": 390,
-					"height": 208
-				},
-				{
-					"path": "rui/menu/buttons/lobby_character_select/nova",
-					"posX": 1766,
-					"posY": 3296,
-					"width": 390,
-					"height": 208
-				},
-				{
-					"path": "rui/menu/buttons/lobby_character_select/nova_bg",
-					"posX": 2196,
-					"posY": 3332,
-					"width": 390,
-					"height": 208
-				},
-				{
-					"path": "rui/menu/buttons/lobby_character_select/rampart",
-					"posX": 3210,
-					"posY": 2780,
-					"width": 390,
-					"height": 208
-				},
-				{
-					"path": "rui/menu/buttons/lobby_character_select/rampart_bg",
-					"posX": 3210,
-					"posY": 3028,
-					"width": 390,
-					"height": 208
-				},
-				{
-					"path": "rui/menu/buttons/lobby_character_select/revenant",
-					"posX": 3210,
-					"posY": 3276,
-					"width": 390,
-					"height": 208
-				},
-				{
-					"path": "rui/menu/buttons/lobby_character_select/revenant_bg",
-					"posX": 3332,
-					"posY": 1124,
-					"width": 390,
-					"height": 208
-				},
-				{
-					"path": "rui/menu/buttons/lobby_character_select/valk",
-					"posX": 3572,
-					"posY": 20,
-					"width": 390,
-					"height": 208
-				},
-				{
-					"path": "rui/menu/buttons/lobby_character_select/valk_bg",
-					"posX": 3572,
-					"posY": 268,
-					"width": 390,
-					"height": 208
-				},
-				{
-					"path": "rui/menu/buttons/battlepass/character_skin_fuse",
-					"posX": 3572,
-					"posY": 516,
-					"width": 256,
-					"height": 256
-				},
-				{
-					"path": "rui/menu/buttons/battlepass/character_skin_horizon",
-					"posX": 3572,
-					"posY": 812,
-					"width": 256,
-					"height": 256
-				},
-				{
-					"path": "rui/menu/buttons/battlepass/character_skin_rampart",
-					"posX": 3640,
-					"posY": 1372,
-					"width": 256,
-					"height": 256
-				},
-				{
-					"path": "rui/menu/buttons/battlepass/character_skin_valk",
-					"posX": 3332,
-					"posY": 1372,
-					"width": 256,
-					"height": 256
-				},
-				{
-					"path": "rui/menu/character_select/pilot_portraits/portrait_ash",
-					"posX": 3640,
-					"posY": 1668,
-					"width": 256,
-					"height": 256
-				},
-				{
-					"path": "rui/menu/character_select/pilot_portraits/portrait_nova",
-					"posX": 3332,
-					"posY": 1668,
-					"width": 256,
-					"height": 256
-				},
-				{
-					"path": "rui/menu/buttons/battlepass/character_skin_revenant",
-					"posX": 3762,
-					"posY": 1108,
-					"width": 200,
-					"height": 155
-				},
-				{
-					"path": "rui/hud/ultimate_icons/ultimate_fuse",
-					"posX": 1916,
-					"posY": 1124,
-					"width": 131,
-					"height": 128
-				},
-				{
-					"path": "rui/hud/ultimate_icons/fuse_out_of_range",
-					"posX": 20,
-					"posY": 3391,
-					"width": 128,
-					"height": 128
-				},
-				{
-					"path": "rui/menu/buttons/battlepass/character_skin_loba",
-					"posX": 188,
-					"posY": 3391,
-					"width": 122,
-					"height": 122
-				},
-				{
-					"path": "rui/hud/tactical_icons/fuse_aerial_clearance",
-					"posX": 2087,
-					"posY": 1124,
-					"width": 92,
-					"height": 88
-				}
+		{
+			"path": "rui/menu/character_select/lockstep/locked_portraits/locked_portrait_ash",
+			"posX": 20,
+			"posY": 20,
+			"width": 908,
+			"height": 303
+		},
+		{
+			"path": "rui/menu/character_select/lockstep/locked_portraits/locked_portrait_dummie",
+			"posX": 20,
+			"posY": 363,
+			"width": 908,
+			"height": 303
+		},
+		{
+			"path": "rui/menu/character_select/lockstep/locked_portraits/locked_portrait_fuse",
+			"posX": 20,
+			"posY": 706,
+			"width": 908,
+			"height": 303
+		},
+		{
+			"path": "rui/menu/character_select/lockstep/locked_portraits/locked_portrait_horizon",
+			"posX": 968,
+			"posY": 20,
+			"width": 908,
+			"height": 303
+		},
+		{
+			"path": "rui/menu/character_select/lockstep/locked_portraits/locked_portrait_loba",
+			"posX": 968,
+			"posY": 363,
+			"width": 908,
+			"height": 303
+		},
+		{
+			"path": "rui/menu/character_select/lockstep/locked_portraits/locked_portrait_rampart",
+			"posX": 968,
+			"posY": 706,
+			"width": 908,
+			"height": 303
+		},
+		{
+			"path": "rui/menu/character_select/lockstep/locked_portraits/locked_portrait_revenant",
+			"posX": 20,
+			"posY": 1049,
+			"width": 908,
+			"height": 303
+		},
+		{
+			"path": "rui/menu/character_select/lockstep/locked_portraits/locked_portrait_valkyrie",
+			"posX": 968,
+			"posY": 1049,
+			"width": 908,
+			"height": 303
+		},
+		{
+			"path": "rui/hud/passive_icons/passive_ash",
+			"posX": 20,
+			"posY": 1392,
+			"width": 512,
+			"height": 512
+		},
+		{
+			"path": "rui/hud/passive_icons/passive_dummie_mode",
+			"posX": 572,
+			"posY": 1392,
+			"width": 512,
+			"height": 512
+		},
+		{
+			"path": "rui/hud/passive_icons/passive_fuse",
+			"posX": 1124,
+			"posY": 1392,
+			"width": 512,
+			"height": 512
+		},
+		{
+			"path": "rui/hud/passive_icons/passive_loba",
+			"posX": 1676,
+			"posY": 1392,
+			"width": 512,
+			"height": 512
+		},
+		{
+			"path": "rui/hud/passive_icons/passive_nova",
+			"posX": 1916,
+			"posY": 20,
+			"width": 512,
+			"height": 512
+		},
+		{
+			"path": "rui/hud/passive_icons/passive_rampart",
+			"posX": 1916,
+			"posY": 572,
+			"width": 512,
+			"height": 512
+		},
+		{
+			"path": "rui/hud/passive_icons/passive_revenant",
+			"posX": 20,
+			"posY": 1944,
+			"width": 512,
+			"height": 512
+		},
+		{
+			"path": "rui/hud/passive_icons/passive_valk",
+			"posX": 572,
+			"posY": 1944,
+			"width": 512,
+			"height": 512
+		},
+		{
+			"path": "rui/hud/tactical_icons/rampart_logo",
+			"posX": 1124,
+			"posY": 1944,
+			"width": 512,
+			"height": 512
+		},
+		{
+			"path": "rui/hud/tactical_icons/tactical_ash",
+			"posX": 1676,
+			"posY": 1944,
+			"width": 512,
+			"height": 512
+		},
+		{
+			"path": "rui/hud/tactical_icons/tactical_dummie_mode",
+			"posX": 2228,
+			"posY": 1124,
+			"width": 512,
+			"height": 512
+		},
+		{
+			"path": "rui/hud/tactical_icons/tactical_fuse",
+			"posX": 2468,
+			"posY": 20,
+			"width": 512,
+			"height": 512
+		},
+		{
+			"path": "rui/hud/tactical_icons/tactical_loba",
+			"posX": 2468,
+			"posY": 572,
+			"width": 512,
+			"height": 512
+		},
+		{
+			"path": "rui/hud/tactical_icons/tactical_nova",
+			"posX": 2228,
+			"posY": 1676,
+			"width": 512,
+			"height": 512
+		},
+		{
+			"path": "rui/hud/tactical_icons/tactical_rampart",
+			"posX": 2228,
+			"posY": 2228,
+			"width": 512,
+			"height": 512
+		},
+		{
+			"path": "rui/hud/tactical_icons/tactical_revenant",
+			"posX": 20,
+			"posY": 2496,
+			"width": 512,
+			"height": 512
+		},
+		{
+			"path": "rui/hud/tactical_icons/tactical_valk",
+			"posX": 572,
+			"posY": 2496,
+			"width": 512,
+			"height": 512
+		},
+		{
+			"path": "rui/hud/ultimate_icons/ultimate_ash",
+			"posX": 1124,
+			"posY": 2496,
+			"width": 512,
+			"height": 512
+		},
+		{
+			"path": "rui/hud/ultimate_icons/ultimate_dummie_mode",
+			"posX": 1676,
+			"posY": 2496,
+			"width": 512,
+			"height": 512
+		},
+		{
+			"path": "rui/hud/ultimate_icons/ultimate_loba",
+			"posX": 2780,
+			"posY": 1124,
+			"width": 512,
+			"height": 512
+		},
+		{
+			"path": "rui/hud/ultimate_icons/ultimate_nova",
+			"posX": 3020,
+			"posY": 20,
+			"width": 512,
+			"height": 512
+		},
+		{
+			"path": "rui/hud/ultimate_icons/ultimate_nova_black_hole",
+			"posX": 3020,
+			"posY": 572,
+			"width": 512,
+			"height": 512
+		},
+		{
+			"path": "rui/hud/ultimate_icons/ultimate_rampart",
+			"posX": 2780,
+			"posY": 1676,
+			"width": 512,
+			"height": 512
+		},
+		{
+			"path": "rui/hud/ultimate_icons/ultimate_revenant",
+			"posX": 2780,
+			"posY": 2228,
+			"width": 512,
+			"height": 512
+		},
+		{
+			"path": "rui/hud/ultimate_icons/ultimate_valk",
+			"posX": 2228,
+			"posY": 2780,
+			"width": 512,
+			"height": 512
+		},
+		{
+			"path": "rui/menu/character_select/lockstep/locked_portraits/locked_portrait_revenant_shadow",
+			"posX": 20,
+			"posY": 3048,
+			"width": 846,
+			"height": 303
+		},
+		{
+			"path": "rui/menu/buttons/lobby_character_select/ash",
+			"posX": 2780,
+			"posY": 2780,
+			"width": 390,
+			"height": 208
+		},
+		{
+			"path": "rui/menu/buttons/lobby_character_select/ash_bg",
+			"posX": 2780,
+			"posY": 3028,
+			"width": 390,
+			"height": 208
+		},
+		{
+			"path": "rui/menu/buttons/lobby_character_select/dummie",
+			"posX": 2780,
+			"posY": 3276,
+			"width": 390,
+			"height": 208
+		},
+		{
+			"path": "rui/menu/buttons/lobby_character_select/dummie_bg",
+			"posX": 906,
+			"posY": 3332,
+			"width": 390,
+			"height": 208
+		},
+		{
+			"path": "rui/menu/buttons/lobby_character_select/fuse",
+			"posX": 906,
+			"posY": 3048,
+			"width": 390,
+			"height": 208
+		},
+		{
+			"path": "rui/menu/buttons/lobby_character_select/fuse_bg",
+			"posX": 1336,
+			"posY": 3332,
+			"width": 390,
+			"height": 208
+		},
+		{
+			"path": "rui/menu/buttons/lobby_character_select/loba",
+			"posX": 1336,
+			"posY": 3048,
+			"width": 390,
+			"height": 208
+		},
+		{
+			"path": "rui/menu/buttons/lobby_character_select/loba_bg",
+			"posX": 1766,
+			"posY": 3048,
+			"width": 390,
+			"height": 208
+		},
+		{
+			"path": "rui/menu/buttons/lobby_character_select/nova",
+			"posX": 1766,
+			"posY": 3296,
+			"width": 390,
+			"height": 208
+		},
+		{
+			"path": "rui/menu/buttons/lobby_character_select/nova_bg",
+			"posX": 2196,
+			"posY": 3332,
+			"width": 390,
+			"height": 208
+		},
+		{
+			"path": "rui/menu/buttons/lobby_character_select/rampart",
+			"posX": 3210,
+			"posY": 2780,
+			"width": 390,
+			"height": 208
+		},
+		{
+			"path": "rui/menu/buttons/lobby_character_select/rampart_bg",
+			"posX": 3210,
+			"posY": 3028,
+			"width": 390,
+			"height": 208
+		},
+		{
+			"path": "rui/menu/buttons/lobby_character_select/revenant",
+			"posX": 3210,
+			"posY": 3276,
+			"width": 390,
+			"height": 208
+		},
+		{
+			"path": "rui/menu/buttons/lobby_character_select/revenant_bg",
+			"posX": 3332,
+			"posY": 1124,
+			"width": 390,
+			"height": 208
+		},
+		{
+			"path": "rui/menu/buttons/lobby_character_select/valk",
+			"posX": 3572,
+			"posY": 20,
+			"width": 390,
+			"height": 208
+		},
+		{
+			"path": "rui/menu/buttons/lobby_character_select/valk_bg",
+			"posX": 3572,
+			"posY": 268,
+			"width": 390,
+			"height": 208
+		},
+		{
+			"path": "rui/menu/buttons/battlepass/character_skin_fuse",
+			"posX": 3572,
+			"posY": 516,
+			"width": 256,
+			"height": 256
+		},
+		{
+			"path": "rui/menu/buttons/battlepass/character_skin_horizon",
+			"posX": 3572,
+			"posY": 812,
+			"width": 256,
+			"height": 256
+		},
+		{
+			"path": "rui/menu/buttons/battlepass/character_skin_rampart",
+			"posX": 3640,
+			"posY": 1372,
+			"width": 256,
+			"height": 256
+		},
+		{
+			"path": "rui/menu/buttons/battlepass/character_skin_valk",
+			"posX": 3332,
+			"posY": 1372,
+			"width": 256,
+			"height": 256
+		},
+		{
+			"path": "rui/menu/character_select/pilot_portraits/portrait_ash",
+			"posX": 3640,
+			"posY": 1668,
+			"width": 256,
+			"height": 256
+		},
+		{
+			"path": "rui/menu/character_select/pilot_portraits/portrait_nova",
+			"posX": 3332,
+			"posY": 1668,
+			"width": 256,
+			"height": 256
+		},
+		{
+			"path": "rui/menu/buttons/battlepass/character_skin_revenant",
+			"posX": 3762,
+			"posY": 1108,
+			"width": 200,
+			"height": 155
+		},
+		{
+			"path": "rui/hud/ultimate_icons/ultimate_fuse",
+			"posX": 1916,
+			"posY": 1124,
+			"width": 131,
+			"height": 128
+		},
+		{
+			"path": "rui/hud/ultimate_icons/fuse_out_of_range",
+			"posX": 20,
+			"posY": 3391,
+			"width": 128,
+			"height": 128
+		},
+		{
+			"path": "rui/menu/buttons/battlepass/character_skin_loba",
+			"posX": 188,
+			"posY": 3391,
+			"width": 122,
+			"height": 122
+		},
+		{
+			"path": "rui/hud/tactical_icons/fuse_aerial_clearance",
+			"posX": 2087,
+			"posY": 1124,
+			"width": 92,
+			"height": 88
+		}
       ]
     },
     {
@@ -1527,265 +1527,293 @@
       "_path": "ui_image_atlas/hud_icons.rpak",
       "atlas": "texture/ui_atlas/rui/hud_icons/r5/hud_icons.rpak",
       "images": [
-        {
-          "path": "rui/menu/buttons/weapon_categories/marksman",
-          "posX": 20,
-          "posY": 20,
-          "width": 802,
-          "height": 440
-        },
-        {
-          "path": "rui/menu/buttons/weapon_categories/sniper_new",
-          "posX": 20,
-          "posY": 500,
-          "width": 802,
-          "height": 440
-        },
-        {
-          "path": "rui/weapon_icons/r5/weapon_sentinel",
-          "posX": 862,
-          "posY": 20,
-          "width": 640,
-          "height": 360
-        },
-        {
-          "path": "rui/weapon_icons/r5/weapon_3030repeater",
-          "posX": 862,
-          "posY": 420,
-          "width": 640,
-          "height": 320
-        },
-        {
-          "path": "rui/weapon_icons/r5/weapon_bow",
-          "posX": 862,
-          "posY": 780,
-          "width": 640,
-          "height": 320
-        },
-        {
-          "path": "rui/weapon_icons/r5/weapon_dragon",
-          "posX": 20,
-          "posY": 980,
-          "width": 640,
-          "height": 320
-        },
-        {
-          "path": "rui/weapon_icons/r5/weapon_nemesis",
-          "posX": 700,
-          "posY": 1140,
-          "width": 640,
-          "height": 320
-        },
-        {
-          "path": "rui/weapon_icons/r5/weapon_rampart_turret",
-          "posX": 20,
-          "posY": 1340,
-          "width": 640,
-          "height": 320
-        },
-        {
-          "path": "rui/weapon_icons/r5/weapon_volt_smg",
-          "posX": 1380,
-          "posY": 1140,
-          "width": 640,
-          "height": 320
-        },
-        {
-          "path": "rui/menu/logo_valkyrie",
-          "posX": 1542,
-          "posY": 20,
-          "width": 630,
-          "height": 204
-        },
-        {
-          "path": "rui/cqb_reticle_volt",
-          "posX": 1542,
-          "posY": 264,
-          "width": 256,
-          "height": 256
-        },
-        {
-          "path": "models/weapons/attachments/diamond_reticle_rear",
-          "posX": 1838,
-          "posY": 264,
-          "width": 256,
-          "height": 256
-        },
-        {
-          "path": "rui/hud/gametype_icons/survival/sur_ammo_arrows",
-          "posX": 1542,
-          "posY": 560,
-          "width": 256,
-          "height": 256
-        },
-        {
-          "path": "rui/hud/gametype_icons/survival/sur_ammo_explosive",
-          "posX": 1838,
-          "posY": 560,
-          "width": 256,
-          "height": 256
-        },
-        {
-          "path": "rui/hud/gametype_icons/survival/sur_ammo_sniper",
-          "posX": 20,
-          "posY": 1700,
-          "width": 256,
-          "height": 256
-        },
-        {
-          "path": "models/weapons/attachments/volt_triangle_bars",
-          "posX": 316,
-          "posY": 1700,
-          "width": 256,
-          "height": 256
-        },
-        {
-          "path": "rui/weapon_icons/r5/weapon_throwingknife",
-          "posX": 1542,
-          "posY": 856,
-          "width": 256,
-          "height": 128
-        },
-        {
-          "path": "r2_ui/menus/loadout_icons/primary_weapon/primary_wingman_elite",
-          "posX": 1838,
-          "posY": 856,
-          "width": 256,
-          "height": 128
-        },
-        {
-          "path": "rui/hud/gametype_icons/survival/sur_ammo_crate_boomjuice",
-          "posX": 612,
-          "posY": 1700,
-          "width": 170,
-          "height": 170
-        },
-        {
-          "path": "rui/hud/gametype_icons/survival/sur_ammo_crate_heavy",
-          "posX": 822,
-          "posY": 1500,
-          "width": 170,
-          "height": 170
-        },
-        {
-          "path": "rui/hud/gametype_icons/survival/sur_ammo_crate_kraber",
-          "posX": 822,
-          "posY": 1710,
-          "width": 170,
-          "height": 170
-        },
-        {
-          "path": "rui/hud/gametype_icons/survival/sur_ammo_crate_light",
-          "posX": 1032,
-          "posY": 1500,
-          "width": 170,
-          "height": 170
-        },
-        {
-          "path": "rui/hud/gametype_icons/survival/sur_ammo_crate_shotgun",
-          "posX": 1032,
-          "posY": 1710,
-          "width": 170,
-          "height": 170
-        },
-        {
-          "path": "rui/hud/gametype_icons/survival/sur_ammo_crate_special",
-          "posX": 1242,
-          "posY": 1500,
-          "width": 170,
-          "height": 170
-        },
-        {
-          "path": "rui/pilot_loadout/mods/empty_laser_sight",
-          "posX": 1242,
-          "posY": 1710,
-          "width": 152,
-          "height": 152
-        },
-        {
-          "path": "rui/pilot_loadout/mods/empty_mag_sniper",
-          "posX": 1434,
-          "posY": 1710,
-          "width": 152,
-          "height": 152
-        },
-        {
-          "path": "rui/pilot_loadout/mods/laser_sight",
-          "posX": 1452,
-          "posY": 1500,
-          "width": 152,
-          "height": 152
-        },
-        {
-          "path": "rui/hud/loot/loot_marvin_arm",
-          "posX": 1626,
-          "posY": 1692,
-          "width": 152,
-          "height": 152
-        },
-        {
-          "path": "rui/pilot_loadout/mods/sniper_mag",
-          "posX": 1644,
-          "posY": 1500,
-          "width": 152,
-          "height": 152
-        },
-        {
-          "path": "rui/menu/logo_small",
-          "posX": 1818,
-          "posY": 1692,
-          "width": 122,
-          "height": 135
-        },
-        {
-          "path": "models/weapons/attachments/aog_reticle_dot",
-          "posX": 1836,
-          "posY": 1500,
-          "width": 128,
-          "height": 128
-        },
-        {
-          "path": "rui/menu/lobby/blog_icon",
-          "posX": 1980,
-          "posY": 1668,
-          "width": 128,
-          "height": 128
-        },
-        {
-          "path": "rui/cqb_dot_front_col",//not being used
-          "posX": 2004,
-          "posY": 1500,
-          "width": 128,
-          "height": 128
-        },
-        {
-          "path": "rui/menu/lobby/dc_icon",
-          "posX": 612,
-          "posY": 1910,
-          "width": 128,
-          "height": 128
-        },
-        {
-          "path": "rui/hud/gametype_icons/survival/mobile_respawn_beacon_icon",
-          "posX": 1980,
-          "posY": 1836,
-          "width": 128,
-          "height": 128
-        },
-        {
-          "path": "rui/hud/custom_badges/valk_badge",
-          "posX": 1626,
-          "posY": 1884,
-          "width": 128,
-          "height": 128
-        },
-        {
-          "path": "rui/hud/gamestate/spectate_icon",
-          "posX": 700,
-          "posY": 1500,
-          "width": 64,
-          "height": 64
-        }
+		{
+			"path": "rui/menu/buttons/weapon_categories/marksman",
+			"posX": 20,
+			"posY": 20,
+			"width": 802,
+			"height": 440
+		},
+		{
+			"path": "rui/menu/buttons/weapon_categories/sniper_new",
+			"posX": 20,
+			"posY": 500,
+			"width": 802,
+			"height": 440
+		},
+		{
+			"path": "rui/weapon_icons/r5/weapon_sentinel",
+			"posX": 20,
+			"posY": 980,
+			"width": 640,
+			"height": 360
+		},
+		{
+			"path": "rui/weapon_icons/r5/weapon_3030repeater",
+			"posX": 20,
+			"posY": 1380,
+			"width": 640,
+			"height": 320
+		},
+		{
+			"path": "rui/weapon_icons/r5/weapon_bow",
+			"posX": 20,
+			"posY": 1740,
+			"width": 640,
+			"height": 320
+		},
+		{
+			"path": "rui/weapon_icons/r5/weapon_dragon",
+			"posX": 700,
+			"posY": 980,
+			"width": 640,
+			"height": 320
+		},
+		{
+			"path": "rui/weapon_icons/r5/weapon_nemesis",
+			"posX": 700,
+			"posY": 1340,
+			"width": 640,
+			"height": 320
+		},
+		{
+			"path": "rui/weapon_icons/r5/weapon_rampart_turret",
+			"posX": 700,
+			"posY": 1700,
+			"width": 640,
+			"height": 320
+		},
+		{
+			"path": "rui/hud/gamestate/spectate_icon",
+			"posX": 700,
+			"posY": 2060,
+			"width": 64,
+			"height": 64
+		},
+		{
+			"path": "rui/weapon_icons/r5/weapon_volt_smg",
+			"posX": 862,
+			"posY": 20,
+			"width": 640,
+			"height": 320
+		},
+		{
+			"path": "rui/cqb_reticle_volt",
+			"posX": 862,
+			"posY": 380,
+			"width": 256,
+			"height": 256
+		},
+		{
+			"path": "models/weapons/attachments/diamond_reticle_rear",
+			"posX": 862,
+			"posY": 676,
+			"width": 256,
+			"height": 256
+		},
+		{
+			"path": "rui/hud/gametype_icons/survival/sur_ammo_arrows",
+			"posX": 1158,
+			"posY": 380,
+			"width": 256,
+			"height": 256
+		},
+		{
+			"path": "rui/hud/gametype_icons/survival/sur_ammo_explosive",
+			"posX": 1158,
+			"posY": 676,
+			"width": 256,
+			"height": 256
+		},
+		{
+			"path": "rui/hud/gametype_icons/survival/sur_ammo_sniper",
+			"posX": 1454,
+			"posY": 676,
+			"width": 256,
+			"height": 256
+		},
+		{
+			"path": "models/weapons/attachments/volt_triangle_bars",
+			"posX": 1454,
+			"posY": 380,
+			"width": 256,
+			"height": 256
+		},
+		{
+			"path": "rui/menu/logo_valkyrie",
+			"posX": 1750,
+			"posY": 380,
+			"width": 630,
+			"height": 204
+		},
+		{
+			"path": "rui/hud/ping/icon_ping_heat_shield",
+			"posX": 1542,
+			"posY": 20,
+			"width": 192,
+			"height": 192
+		},
+		{
+			"path": "rui/hud/ping/icon_ping_heat_shield_shadow",
+			"posX": 1774,
+			"posY": 20,
+			"width": 192,
+			"height": 192
+		},
+		{
+			"path": "rui/hud/gametype_icons/survival/sur_ammo_crate_boomjuice",
+			"posX": 2006,
+			"posY": 20,
+			"width": 170,
+			"height": 170
+		},
+		{
+			"path": "rui/hud/gametype_icons/survival/sur_ammo_crate_heavy",
+			"posX": 2216,
+			"posY": 20,
+			"width": 170,
+			"height": 170
+		},
+		{
+			"path": "rui/hud/gametype_icons/survival/sur_ammo_crate_kraber",
+			"posX": 1380,
+			"posY": 972,
+			"width": 170,
+			"height": 170
+		},
+		{
+			"path": "rui/hud/gametype_icons/survival/sur_ammo_crate_light",
+			"posX": 1380,
+			"posY": 1182,
+			"width": 170,
+			"height": 170
+		},
+		{
+			"path": "rui/hud/gametype_icons/survival/sur_ammo_crate_shotgun",
+			"posX": 1380,
+			"posY": 1392,
+			"width": 170,
+			"height": 170
+		},
+		{
+			"path": "rui/hud/gametype_icons/survival/sur_ammo_crate_special",
+			"posX": 1380,
+			"posY": 1602,
+			"width": 170,
+			"height": 170
+		},
+		{
+			"path": "rui/pilot_loadout/mods/empty_laser_sight",
+			"posX": 1380,
+			"posY": 1812,
+			"width": 152,
+			"height": 152
+		},
+		{
+			"path": "rui/menu/logo_small",
+			"posX": 1380,
+			"posY": 2004,
+			"width": 122,
+			"height": 135
+		},
+		{
+			"path": "rui/weapon_icons/r5/weapon_throwingknife",
+			"posX": 1542,
+			"posY": 2004,
+			"width": 256,
+			"height": 128
+		},
+		{
+			"path": "rui/pilot_loadout/mods/empty_mag_sniper",
+			"posX": 1572,
+			"posY": 1812,
+			"width": 152,
+			"height": 152
+		},
+		{
+			"path": "rui/pilot_loadout/mods/laser_sight",
+			"posX": 1764,
+			"posY": 1812,
+			"width": 152,
+			"height": 152
+		},
+		{
+			"path": "rui/hud/loot/weapon_wingman_n",
+			"posX": 1838,
+			"posY": 2004,
+			"width": 256,
+			"height": 128
+		},
+		{
+			"path": "rui/hud/loot/loot_marvin_arm",
+			"posX": 1956,
+			"posY": 1812,
+			"width": 152,
+			"height": 152
+		},
+		{
+			"path": "models/weapons/attachments/aog_reticle_dot",
+			"posX": 2134,
+			"posY": 2004,
+			"width": 128,
+			"height": 128
+		},
+		{
+			"path": "rui/pilot_loadout/mods/sniper_mag",
+			"posX": 1590,
+			"posY": 972,
+			"width": 152,
+			"height": 152
+		},
+		{
+			"path": "rui/hud/gametype_icons/survival/void_ring_icon",
+			"posX": 1750,
+			"posY": 624,
+			"width": 152,
+			"height": 152
+		},
+		{
+			"path": "rui/hud/gametype_icons/survival/void_ring_icon_no_color",
+			"posX": 1590,
+			"posY": 1164,
+			"width": 152,
+			"height": 152
+		},
+		{
+			"path": "rui/menu/lobby/blog_icon",
+			"posX": 1590,
+			"posY": 1356,
+			"width": 128,
+			"height": 128
+		},
+		{
+			"path": "rui/cqb_dot_front_col",//not being used
+			"posX": 1590,
+			"posY": 1524,
+			"width": 128,
+			"height": 128
+		},
+		{
+			"path": "rui/menu/lobby/dc_icon",
+			"posX": 1758,
+			"posY": 1356,
+			"width": 128,
+			"height": 128
+		},
+		{
+			"path": "rui/hud/gametype_icons/survival/mobile_respawn_beacon_icon",
+			"posX": 1758,
+			"posY": 1524,
+			"width": 128,
+			"height": 128
+		},
+		{
+			"path": "rui/hud/custom_badges/valk_badge",
+			"posX": 1926,
+			"posY": 1524,
+			"width": 128,
+			"height": 128
+		}
       ]
     },
     {
@@ -1793,370 +1821,370 @@
       "_path": "ui_image_atlas/generic_map_icons.rpak",
       "atlas": "texture/ui_atlas/rui/menu/maps/generic_map_icons.rpak",
       "images": [
-				{
-					"path": "rui/menu/maps/select_map",
-					"posX": 20,
-					"posY": 20,
-					"width": 1024,
-					"height": 1024
-				},
-				{
-					"path": "rui/menu/maps/map_not_found_big_icon",
-					"posX": 1084,
-					"posY": 20,
-					"width": 818,
-					"height": 460
-				},
-				{
-					"path": "rui/menu/maps/mp_rr_aqueduct_big_icon",
-					"posX": 1084,
-					"posY": 520,
-					"width": 818,
-					"height": 460
-				},
-				{
-					"path": "rui/menu/maps/mp_rr_arena_composite_big_icon",
-					"posX": 1084,
-					"posY": 1020,
-					"width": 818,
-					"height": 460
-				},
-				{
-					"path": "rui/menu/maps/mp_rr_arena_phase_runner_big_icon",
-					"posX": 20,
-					"posY": 1084,
-					"width": 818,
-					"height": 460
-				},
-				{
-					"path": "rui/menu/maps/mp_rr_arena_skygarden_big_icon",
-					"posX": 878,
-					"posY": 1520,
-					"width": 818,
-					"height": 460
-				},
-				{
-					"path": "rui/menu/maps/mp_rr_canyonlands_64k_x_64k_big_icon",
-					"posX": 20,
-					"posY": 1584,
-					"width": 818,
-					"height": 460
-				},
-				{
-					"path": "rui/menu/maps/mp_rr_canyonlands_mu1_big_icon",
-					"posX": 1736,
-					"posY": 1520,
-					"width": 818,
-					"height": 460
-				},
-				{
-					"path": "rui/menu/maps/mp_rr_canyonlands_mu1_night_big_icon",
-					"posX": 1942,
-					"posY": 20,
-					"width": 818,
-					"height": 460
-				},
-				{
-					"path": "rui/menu/maps/mp_rr_canyonlands_mu2_big_icon",
-					"posX": 1942,
-					"posY": 520,
-					"width": 818,
-					"height": 460
-				},
-				{
-					"path": "rui/menu/maps/mp_rr_canyonlands_mu2_mv_big_icon",
-					"posX": 1942,
-					"posY": 1020,
-					"width": 818,
-					"height": 460
-				},
-				{
-					"path": "rui/menu/maps/mp_rr_canyonlands_mu2_tt_big_icon",
-					"posX": 878,
-					"posY": 2020,
-					"width": 818,
-					"height": 460
-				},
-				{
-					"path": "rui/menu/maps/mp_rr_canyonlands_mu2_ufo_big_icon",
-					"posX": 20,
-					"posY": 2084,
-					"width": 818,
-					"height": 460
-				},
-				{
-					"path": "rui/menu/maps/mp_rr_canyonlands_staging_big_icon",
-					"posX": 1736,
-					"posY": 2020,
-					"width": 818,
-					"height": 460
-				},
-				{
-					"path": "rui/menu/maps/mp_rr_desertlands_64k_x_64k_big_icon",
-					"posX": 878,
-					"posY": 2520,
-					"width": 818,
-					"height": 460
-				},
-				{
-					"path": "rui/menu/maps/mp_rr_desertlands_64k_x_64k_mv_big_icon",
-					"posX": 20,
-					"posY": 2584,
-					"width": 818,
-					"height": 460
-				},
-				{
-					"path": "rui/menu/maps/mp_rr_desertlands_64k_x_64k_nx_big_icon",
-					"posX": 1736,
-					"posY": 2520,
-					"width": 818,
-					"height": 460
-				},
-				{
-					"path": "rui/menu/maps/mp_rr_desertlands_64k_x_64k_tt_big_icon",
-					"posX": 2594,
-					"posY": 1520,
-					"width": 818,
-					"height": 460
-				},
-				{
-					"path": "rui/menu/maps/mp_rr_desertlands_holiday_big_icon",
-					"posX": 2594,
-					"posY": 2020,
-					"width": 818,
-					"height": 460
-				},
-				{
-					"path": "rui/menu/maps/mp_rr_desertlands_mu1_big_icon",
-					"posX": 2594,
-					"posY": 2520,
-					"width": 818,
-					"height": 460
-				},
-				{
-					"path": "rui/menu/maps/mp_rr_desertlands_mu1_tt_big_icon",
-					"posX": 2800,
-					"posY": 20,
-					"width": 818,
-					"height": 460
-				},
-				{
-					"path": "rui/menu/maps/mp_rr_desertlands_mu2_big_icon",
-					"posX": 2800,
-					"posY": 520,
-					"width": 818,
-					"height": 460
-				},
-				{
-					"path": "rui/menu/maps/mp_rr_olympus_big_icon",
-					"posX": 2800,
-					"posY": 1020,
-					"width": 818,
-					"height": 460
-				},
-				{
-					"path": "rui/menu/maps/mp_rr_olympus_mu1_big_icon",
-					"posX": 878,
-					"posY": 3020,
-					"width": 818,
-					"height": 460
-				},
-				{
-					"path": "rui/menu/maps/mp_rr_olympus_tt_big_icon",
-					"posX": 20,
-					"posY": 3084,
-					"width": 818,
-					"height": 460
-				},
-				{
-					"path": "rui/menu/maps/mp_rr_party_crasher_big_icon",
-					"posX": 1736,
-					"posY": 3020,
-					"width": 818,
-					"height": 460
-				},
-				{
-					"path": "rui/menu/maps/aim_trainer",
-					"posX": 2594,
-					"posY": 3020,
-					"width": 360,
-					"height": 360
-				},
-				{
-					"path": "rui/menu/maps/map_not_found_square_icon",
-					"posX": 2994,
-					"posY": 3020,
-					"width": 360,
-					"height": 360
-				},
-				{
-					"path": "rui/menu/maps/mp_rr_aqueduct_square_icon",
-					"posX": 2594,
-					"posY": 3420,
-					"width": 360,
-					"height": 360
-				},
-				{
-					"path": "rui/menu/maps/mp_rr_arena_composite_square_icon",
-					"posX": 2994,
-					"posY": 3420,
-					"width": 360,
-					"height": 360
-				},
-				{
-					"path": "rui/menu/maps/mp_rr_arena_phase_runner_square_icon",
-					"posX": 878,
-					"posY": 3520,
-					"width": 360,
-					"height": 360
-				},
-				{
-					"path": "rui/menu/maps/mp_rr_arena_skygarden_square_icon",
-					"posX": 20,
-					"posY": 3584,
-					"width": 360,
-					"height": 360
-				},
-				{
-					"path": "rui/menu/maps/mp_rr_canyonlands_64k_x_64k_square_icon",
-					"posX": 420,
-					"posY": 3584,
-					"width": 360,
-					"height": 360
-				},
-				{
-					"path": "rui/menu/maps/mp_rr_canyonlands_mu1_night_square_icon",
-					"posX": 1278,
-					"posY": 3520,
-					"width": 360,
-					"height": 360
-				},
-				{
-					"path": "rui/menu/maps/mp_rr_canyonlands_mu1_square_icon",
-					"posX": 1678,
-					"posY": 3520,
-					"width": 360,
-					"height": 360
-				},
-				{
-					"path": "rui/menu/maps/mp_rr_canyonlands_mu2_mv_square_icon",
-					"posX": 2078,
-					"posY": 3520,
-					"width": 360,
-					"height": 360
-				},
-				{
-					"path": "rui/menu/maps/mp_rr_canyonlands_mu2_square_icon",
-					"posX": 3394,
-					"posY": 3020,
-					"width": 360,
-					"height": 360
-				},
-				{
-					"path": "rui/menu/maps/mp_rr_canyonlands_mu2_tt_square_icon",
-					"posX": 3394,
-					"posY": 3420,
-					"width": 360,
-					"height": 360
-				},
-				{
-					"path": "rui/menu/maps/mp_rr_canyonlands_mu2_ufo_square_icon",
-					"posX": 3452,
-					"posY": 1520,
-					"width": 360,
-					"height": 360
-				},
-				{
-					"path": "rui/menu/maps/mp_rr_canyonlands_staging_square_icon",
-					"posX": 3658,
-					"posY": 20,
-					"width": 360,
-					"height": 360
-				},
-				{
-					"path": "rui/menu/maps/mp_rr_desertlands_64k_x_64k_mv_square_icon",
-					"posX": 3658,
-					"posY": 420,
-					"width": 360,
-					"height": 360
-				},
-				{
-					"path": "rui/menu/maps/mp_rr_desertlands_64k_x_64k_nx_square_icon",
-					"posX": 3658,
-					"posY": 820,
-					"width": 360,
-					"height": 360
-				},
-				{
-					"path": "rui/menu/maps/mp_rr_desertlands_64k_x_64k_square_icon",
-					"posX": 3452,
-					"posY": 1920,
-					"width": 360,
-					"height": 360
-				},
-				{
-					"path": "rui/menu/maps/mp_rr_desertlands_64k_x_64k_tt_square_icon",
-					"posX": 3452,
-					"posY": 2320,
-					"width": 360,
-					"height": 360
-				},
-				{
-					"path": "rui/menu/maps/mp_rr_desertlands_holiday_square_icon",
-					"posX": 3794,
-					"posY": 2720,
-					"width": 360,
-					"height": 360
-				},
-				{
-					"path": "rui/menu/maps/mp_rr_desertlands_mu1_square_icon",
-					"posX": 3794,
-					"posY": 3120,
-					"width": 360,
-					"height": 360
-				},
-				{
-					"path": "rui/menu/maps/mp_rr_desertlands_mu1_tt_square_icon",
-					"posX": 3794,
-					"posY": 3520,
-					"width": 360,
-					"height": 360
-				},
-				{
-					"path": "rui/menu/maps/mp_rr_desertlands_mu2_square_icon",
-					"posX": 3852,
-					"posY": 1220,
-					"width": 360,
-					"height": 360
-				},
-				{
-					"path": "rui/menu/maps/mp_rr_olympus_mu1_square_icon",
-					"posX": 4058,
-					"posY": 20,
-					"width": 360,
-					"height": 360
-				},
-				{
-					"path": "rui/menu/maps/mp_rr_olympus_square_icon",
-					"posX": 4058,
-					"posY": 420,
-					"width": 360,
-					"height": 360
-				},
-				{
-					"path": "rui/menu/maps/mp_rr_olympus_tt_square_icon",
-					"posX": 4058,
-					"posY": 820,
-					"width": 360,
-					"height": 360
-				},
-				{
-					"path": "rui/menu/maps/mp_rr_party_crasher_square_icon",
-					"posX": 3852,
-					"posY": 1620,
-					"width": 360,
-					"height": 360
-				}
+		{
+			"path": "rui/menu/maps/select_map",
+			"posX": 20,
+			"posY": 20,
+			"width": 1024,
+			"height": 1024
+		},
+		{
+			"path": "rui/menu/maps/map_not_found_big_icon",
+			"posX": 1084,
+			"posY": 20,
+			"width": 818,
+			"height": 460
+		},
+		{
+			"path": "rui/menu/maps/mp_rr_aqueduct_big_icon",
+			"posX": 1084,
+			"posY": 520,
+			"width": 818,
+			"height": 460
+		},
+		{
+			"path": "rui/menu/maps/mp_rr_arena_composite_big_icon",
+			"posX": 1084,
+			"posY": 1020,
+			"width": 818,
+			"height": 460
+		},
+		{
+			"path": "rui/menu/maps/mp_rr_arena_phase_runner_big_icon",
+			"posX": 20,
+			"posY": 1084,
+			"width": 818,
+			"height": 460
+		},
+		{
+			"path": "rui/menu/maps/mp_rr_arena_skygarden_big_icon",
+			"posX": 878,
+			"posY": 1520,
+			"width": 818,
+			"height": 460
+		},
+		{
+			"path": "rui/menu/maps/mp_rr_canyonlands_64k_x_64k_big_icon",
+			"posX": 20,
+			"posY": 1584,
+			"width": 818,
+			"height": 460
+		},
+		{
+			"path": "rui/menu/maps/mp_rr_canyonlands_mu1_big_icon",
+			"posX": 1736,
+			"posY": 1520,
+			"width": 818,
+			"height": 460
+		},
+		{
+			"path": "rui/menu/maps/mp_rr_canyonlands_mu1_night_big_icon",
+			"posX": 1942,
+			"posY": 20,
+			"width": 818,
+			"height": 460
+		},
+		{
+			"path": "rui/menu/maps/mp_rr_canyonlands_mu2_big_icon",
+			"posX": 1942,
+			"posY": 520,
+			"width": 818,
+			"height": 460
+		},
+		{
+			"path": "rui/menu/maps/mp_rr_canyonlands_mu2_mv_big_icon",
+			"posX": 1942,
+			"posY": 1020,
+			"width": 818,
+			"height": 460
+		},
+		{
+			"path": "rui/menu/maps/mp_rr_canyonlands_mu2_tt_big_icon",
+			"posX": 878,
+			"posY": 2020,
+			"width": 818,
+			"height": 460
+		},
+		{
+			"path": "rui/menu/maps/mp_rr_canyonlands_mu2_ufo_big_icon",
+			"posX": 20,
+			"posY": 2084,
+			"width": 818,
+			"height": 460
+		},
+		{
+			"path": "rui/menu/maps/mp_rr_canyonlands_staging_big_icon",
+			"posX": 1736,
+			"posY": 2020,
+			"width": 818,
+			"height": 460
+		},
+		{
+			"path": "rui/menu/maps/mp_rr_desertlands_64k_x_64k_big_icon",
+			"posX": 878,
+			"posY": 2520,
+			"width": 818,
+			"height": 460
+		},
+		{
+			"path": "rui/menu/maps/mp_rr_desertlands_64k_x_64k_mv_big_icon",
+			"posX": 20,
+			"posY": 2584,
+			"width": 818,
+			"height": 460
+		},
+		{
+			"path": "rui/menu/maps/mp_rr_desertlands_64k_x_64k_nx_big_icon",
+			"posX": 1736,
+			"posY": 2520,
+			"width": 818,
+			"height": 460
+		},
+		{
+			"path": "rui/menu/maps/mp_rr_desertlands_64k_x_64k_tt_big_icon",
+			"posX": 2594,
+			"posY": 1520,
+			"width": 818,
+			"height": 460
+		},
+		{
+			"path": "rui/menu/maps/mp_rr_desertlands_holiday_big_icon",
+			"posX": 2594,
+			"posY": 2020,
+			"width": 818,
+			"height": 460
+		},
+		{
+			"path": "rui/menu/maps/mp_rr_desertlands_mu1_big_icon",
+			"posX": 2594,
+			"posY": 2520,
+			"width": 818,
+			"height": 460
+		},
+		{
+			"path": "rui/menu/maps/mp_rr_desertlands_mu1_tt_big_icon",
+			"posX": 2800,
+			"posY": 20,
+			"width": 818,
+			"height": 460
+		},
+		{
+			"path": "rui/menu/maps/mp_rr_desertlands_mu2_big_icon",
+			"posX": 2800,
+			"posY": 520,
+			"width": 818,
+			"height": 460
+		},
+		{
+			"path": "rui/menu/maps/mp_rr_olympus_big_icon",
+			"posX": 2800,
+			"posY": 1020,
+			"width": 818,
+			"height": 460
+		},
+		{
+			"path": "rui/menu/maps/mp_rr_olympus_mu1_big_icon",
+			"posX": 878,
+			"posY": 3020,
+			"width": 818,
+			"height": 460
+		},
+		{
+			"path": "rui/menu/maps/mp_rr_olympus_tt_big_icon",
+			"posX": 20,
+			"posY": 3084,
+			"width": 818,
+			"height": 460
+		},
+		{
+			"path": "rui/menu/maps/mp_rr_party_crasher_big_icon",
+			"posX": 1736,
+			"posY": 3020,
+			"width": 818,
+			"height": 460
+		},
+		{
+			"path": "rui/menu/maps/aim_trainer",
+			"posX": 2594,
+			"posY": 3020,
+			"width": 360,
+			"height": 360
+		},
+		{
+			"path": "rui/menu/maps/map_not_found_square_icon",
+			"posX": 2994,
+			"posY": 3020,
+			"width": 360,
+			"height": 360
+		},
+		{
+			"path": "rui/menu/maps/mp_rr_aqueduct_square_icon",
+			"posX": 2594,
+			"posY": 3420,
+			"width": 360,
+			"height": 360
+		},
+		{
+			"path": "rui/menu/maps/mp_rr_arena_composite_square_icon",
+			"posX": 2994,
+			"posY": 3420,
+			"width": 360,
+			"height": 360
+		},
+		{
+			"path": "rui/menu/maps/mp_rr_arena_phase_runner_square_icon",
+			"posX": 878,
+			"posY": 3520,
+			"width": 360,
+			"height": 360
+		},
+		{
+			"path": "rui/menu/maps/mp_rr_arena_skygarden_square_icon",
+			"posX": 20,
+			"posY": 3584,
+			"width": 360,
+			"height": 360
+		},
+		{
+			"path": "rui/menu/maps/mp_rr_canyonlands_64k_x_64k_square_icon",
+			"posX": 420,
+			"posY": 3584,
+			"width": 360,
+			"height": 360
+		},
+		{
+			"path": "rui/menu/maps/mp_rr_canyonlands_mu1_night_square_icon",
+			"posX": 1278,
+			"posY": 3520,
+			"width": 360,
+			"height": 360
+		},
+		{
+			"path": "rui/menu/maps/mp_rr_canyonlands_mu1_square_icon",
+			"posX": 1678,
+			"posY": 3520,
+			"width": 360,
+			"height": 360
+		},
+		{
+			"path": "rui/menu/maps/mp_rr_canyonlands_mu2_mv_square_icon",
+			"posX": 2078,
+			"posY": 3520,
+			"width": 360,
+			"height": 360
+		},
+		{
+			"path": "rui/menu/maps/mp_rr_canyonlands_mu2_square_icon",
+			"posX": 3394,
+			"posY": 3020,
+			"width": 360,
+			"height": 360
+		},
+		{
+			"path": "rui/menu/maps/mp_rr_canyonlands_mu2_tt_square_icon",
+			"posX": 3394,
+			"posY": 3420,
+			"width": 360,
+			"height": 360
+		},
+		{
+			"path": "rui/menu/maps/mp_rr_canyonlands_mu2_ufo_square_icon",
+			"posX": 3452,
+			"posY": 1520,
+			"width": 360,
+			"height": 360
+		},
+		{
+			"path": "rui/menu/maps/mp_rr_canyonlands_staging_square_icon",
+			"posX": 3658,
+			"posY": 20,
+			"width": 360,
+			"height": 360
+		},
+		{
+			"path": "rui/menu/maps/mp_rr_desertlands_64k_x_64k_mv_square_icon",
+			"posX": 3658,
+			"posY": 420,
+			"width": 360,
+			"height": 360
+		},
+		{
+			"path": "rui/menu/maps/mp_rr_desertlands_64k_x_64k_nx_square_icon",
+			"posX": 3658,
+			"posY": 820,
+			"width": 360,
+			"height": 360
+		},
+		{
+			"path": "rui/menu/maps/mp_rr_desertlands_64k_x_64k_square_icon",
+			"posX": 3452,
+			"posY": 1920,
+			"width": 360,
+			"height": 360
+		},
+		{
+			"path": "rui/menu/maps/mp_rr_desertlands_64k_x_64k_tt_square_icon",
+			"posX": 3452,
+			"posY": 2320,
+			"width": 360,
+			"height": 360
+		},
+		{
+			"path": "rui/menu/maps/mp_rr_desertlands_holiday_square_icon",
+			"posX": 3794,
+			"posY": 2720,
+			"width": 360,
+			"height": 360
+		},
+		{
+			"path": "rui/menu/maps/mp_rr_desertlands_mu1_square_icon",
+			"posX": 3794,
+			"posY": 3120,
+			"width": 360,
+			"height": 360
+		},
+		{
+			"path": "rui/menu/maps/mp_rr_desertlands_mu1_tt_square_icon",
+			"posX": 3794,
+			"posY": 3520,
+			"width": 360,
+			"height": 360
+		},
+		{
+			"path": "rui/menu/maps/mp_rr_desertlands_mu2_square_icon",
+			"posX": 3852,
+			"posY": 1220,
+			"width": 360,
+			"height": 360
+		},
+		{
+			"path": "rui/menu/maps/mp_rr_olympus_mu1_square_icon",
+			"posX": 4058,
+			"posY": 20,
+			"width": 360,
+			"height": 360
+		},
+		{
+			"path": "rui/menu/maps/mp_rr_olympus_square_icon",
+			"posX": 4058,
+			"posY": 420,
+			"width": 360,
+			"height": 360
+		},
+		{
+			"path": "rui/menu/maps/mp_rr_olympus_tt_square_icon",
+			"posX": 4058,
+			"posY": 820,
+			"width": 360,
+			"height": 360
+		},
+		{
+			"path": "rui/menu/maps/mp_rr_party_crasher_square_icon",
+			"posX": 3852,
+			"posY": 1620,
+			"width": 360,
+			"height": 360
+		}
       ]
     },
     {
@@ -2164,118 +2192,118 @@
       "_path": "ui_image_atlas/icons.rpak",
       "atlas": "texture/ui_atlas/rui/menu/icons/tags_n_icons.rpak",
       "images": [
-				{
-					"path": "rui/menu/battlepass/s04/musicpack_portrait",
-					"posX": 20,
-					"posY": 20,
-					"width": 560,
-					"height": 303
-				},
-				{
-					"path": "rui/events/s04e01/musicpack_portrait",
-					"posX": 20,
-					"posY": 363,
-					"width": 560,
-					"height": 303
-				},
-				{
-					"path": "rui/events/s05bp/musicpack_portrait",
-					"posX": 620,
-					"posY": 20,
-					"width": 560,
-					"height": 303
-				},
-				{
-					"path": "rui/events/s06bp/musicpack_portrait",
-					"posX": 620,
-					"posY": 363,
-					"width": 560,
-					"height": 303
-				},
-				{
-					"path": "rui/events/s06e01/musicpack_portrait",
-					"posX": 20,
-					"posY": 706,
-					"width": 560,
-					"height": 303
-				},
-				{
-					"path": "rui/events/s06e02/musicpack_portrait",
-					"posX": 620,
-					"posY": 706,
-					"width": 560,
-					"height": 303
-				},
-				{
-					"path": "rui/events/s09bp/musicpack_portrait",
-					"posX": 20,
-					"posY": 1049,
-					"width": 560,
-					"height": 303
-				},
-				{
-					"path": "rui/events/s09e01/musicpack_portrait",
-					"posX": 620,
-					"posY": 1049,
-					"width": 560,
-					"height": 303
-				},
-				{
-					"path": "rui/events/s02e01/musicpack_portrait",
-					"posX": 1220,
-					"posY": 20,
-					"width": 407,
-					"height": 237
-				},
-				{
-					"path": "rui/events/s04e02/musicpack_portrait",
-					"posX": 1220,
-					"posY": 297,
-					"width": 407,
-					"height": 237
-				},
-				{
-					"path": "rui/events/s05e01/musicpack_portrait",
-					"posX": 1220,
-					"posY": 574,
-					"width": 407,
-					"height": 237
-				},
-				{
-					"path": "rui/events/s03e02/item_source_icon",
-					"posX": 1220,
-					"posY": 851,
-					"width": 96,
-					"height": 96
-				},
-				{
-					"path": "rui/events/s04bp/iitem_source_icon",
-					"posX": 1356,
-					"posY": 851,
-					"width": 96,
-					"height": 96
-				},
-				{
-					"path": "rui/events/s04e01/item_source_icon",
-					"posX": 1492,
-					"posY": 851,
-					"width": 96,
-					"height": 96
-				},
-				{
-					"path": "rui/events/s04e02/item_source_icon",
-					"posX": 1220,
-					"posY": 987,
-					"width": 96,
-					"height": 96
-				},
-				{
-					"path": "rui/custom/sdk/item_source_icon",
-					"posX": 1220,
-					"posY": 1123,
-					"width": 96,
-					"height": 96
-				}
+		{
+			"path": "rui/menu/battlepass/s04/musicpack_portrait",
+			"posX": 20,
+			"posY": 20,
+			"width": 560,
+			"height": 303
+		},
+		{
+			"path": "rui/events/s04e01/musicpack_portrait",
+			"posX": 20,
+			"posY": 363,
+			"width": 560,
+			"height": 303
+		},
+		{
+			"path": "rui/events/s05bp/musicpack_portrait",
+			"posX": 620,
+			"posY": 20,
+			"width": 560,
+			"height": 303
+		},
+		{
+			"path": "rui/events/s06bp/musicpack_portrait",
+			"posX": 620,
+			"posY": 363,
+			"width": 560,
+			"height": 303
+		},
+		{
+			"path": "rui/events/s06e01/musicpack_portrait",
+			"posX": 20,
+			"posY": 706,
+			"width": 560,
+			"height": 303
+		},
+		{
+			"path": "rui/events/s06e02/musicpack_portrait",
+			"posX": 620,
+			"posY": 706,
+			"width": 560,
+			"height": 303
+		},
+		{
+			"path": "rui/events/s09bp/musicpack_portrait",
+			"posX": 20,
+			"posY": 1049,
+			"width": 560,
+			"height": 303
+		},
+		{
+			"path": "rui/events/s09e01/musicpack_portrait",
+			"posX": 620,
+			"posY": 1049,
+			"width": 560,
+			"height": 303
+		},
+		{
+			"path": "rui/events/s02e01/musicpack_portrait",
+			"posX": 1220,
+			"posY": 20,
+			"width": 407,
+			"height": 237
+		},
+		{
+			"path": "rui/events/s04e02/musicpack_portrait",
+			"posX": 1220,
+			"posY": 297,
+			"width": 407,
+			"height": 237
+		},
+		{
+			"path": "rui/events/s05e01/musicpack_portrait",
+			"posX": 1220,
+			"posY": 574,
+			"width": 407,
+			"height": 237
+		},
+		{
+			"path": "rui/events/s03e02/item_source_icon",
+			"posX": 1220,
+			"posY": 851,
+			"width": 96,
+			"height": 96
+		},
+		{
+			"path": "rui/events/s04bp/iitem_source_icon",
+			"posX": 1356,
+			"posY": 851,
+			"width": 96,
+			"height": 96
+		},
+		{
+			"path": "rui/events/s04e01/item_source_icon",
+			"posX": 1492,
+			"posY": 851,
+			"width": 96,
+			"height": 96
+		},
+		{
+			"path": "rui/events/s04e02/item_source_icon",
+			"posX": 1220,
+			"posY": 987,
+			"width": 96,
+			"height": 96
+		},
+		{
+			"path": "rui/custom/sdk/item_source_icon",
+			"posX": 1220,
+			"posY": 1123,
+			"width": 96,
+			"height": 96
+		}
       ]
     }
   ]
