@@ -14178,6 +14178,10 @@
     },
     {
       "_type": "mdl_",
+      "_path": "mdl/Weapons/shellejects/shelleject_ramp_turret.rmdl"
+    },
+    {
+      "_type": "mdl_",
       "_path": "mdl/Weapons/shellejects/shelleject_assault_rifle.rmdl"
     },
     {
@@ -155382,6 +155386,10 @@
     {
       "_type": "matl",
       "_path": "material/decals/bullets/glass/shot1_rgdu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/dev/empty_sknp.rpak"
     },
     {
       "_type": "matl",
