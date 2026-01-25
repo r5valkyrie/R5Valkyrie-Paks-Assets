@@ -9,6 +9,129 @@
 
   "files": [
     {
+      "_type": "mdl_",
+      "_path": "mdl/fx/arena_gloves.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/arena_gloves_neon.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/arena_laser_draw.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/arena_text_streak.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/pathfinder_tt_ring_fx.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/pathfinder_tt_ropes_fx.rmdl"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x22CA21F7B096043A.rpak",
+      "$guid": "0x22CA21F7B096043A"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x28949AD5AA0A411B.rpak",
+      "$guid": "0x28949AD5AA0A411B"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x2F07FA58CC1CFBEB.rpak",
+      "$guid": "0x2F07FA58CC1CFBEB"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x3DCD3CF5F814433D.rpak",
+      "$guid": "0x3DCD3CF5F814433D"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x751E42CB5957B7D5.rpak",
+      "$guid": "0x751E42CB5957B7D5"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x8E20D3FD371702B.rpak",
+      "$guid": "0x8E20D3FD371702B"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xDA8A93558F681E6A.rpak",
+      "$guid": "0xDA8A93558F681E6A"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/uberUnlitVcolaEmiEmlEntcolmaAdfAefAddUv0m0m0InterpPSSamp222_rgdp.rpak"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/uberUnlitVcoletVcolaEmiEmlEntcolmeEntcolmdAdfAefAddUv0m0Uv1m0tUv2m0tm0InterpUV3012PSSamp222_rgdp.rpak"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/uberUnlitVcoletVcolaEmiEmlEntcolmeEntcolmdAdfEefAddUv0m0Uv1m0tUv2m0tm0InterpUV3012PSSamp222_rgdp.rpak"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/uberUnlitVcoletVcolaEmiEmlEntcolmeEntcolmdAdfEefAddUvd1PsTsvnUv1m1tUv2m0dtUv3m0tUv4m0tm0Interpm1InterpUV51234PSSamp2222_rgdp.rpak"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/uberUnlitVcoletVcolaVnrmNoInterpEmiEmlEntcolmeEntcolmdAddUv0m0Uv1m0tUv2m0tm0InterpUV3012PSSamp222_rgdp.rpak"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/uberUnlitVcoletVcolaVnrmNoInterpEmiEntcolmeEntcolmdAddUv0m0m0InterpPSSamp22_rgdp.rpak"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/uberUnlitVcoltalbVcolaEntcolmaAefTransUv0m0m0InterpPSSamp2_rgdp.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/models/weapons_r5/misc_pathfinder_heirloom/pathfinder_heirloom_fx_add.rpak"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/effects/arena_laser_edge.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/effects/arena_border_edge_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/effects/holo_arena_gloves_add_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/effects/holo_arena_gloves_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/effects/holo_arena_laser_edge_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/effects/holo_arena_streaks_gloves_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/effects/holo_arena_streaks_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/fx/pathfinder_tt_shield_ropes_rgdp.rpak"
+    },
+    {
       "_type": "shdr",
       "_path": "shader/0x26E8B81DB98E2544.rpak",
       "$guid": "0x26E8B81DB98E2544"
