@@ -4,7 +4,7 @@
   "name": "mp_rr_tropic_island",
   "streamFileMandatory": "paks/Win64/mp_rr_tropic_island.starpak",
   "streamFileOptional": "paks/Win64/mp_rr_tropic_island.opt.starpak",
-  "assetsDir": "./assets/mp_rr_tropic_island/",
+  "assetsDir": "map_depot/assets/mp_rr_tropic_island/",
   "outputDir": "./build/",
   "compressLevel": 0,
   "compressWorkers": 16,

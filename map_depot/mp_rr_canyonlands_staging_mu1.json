@@ -4,7 +4,7 @@
   "name": "mp_rr_canyonlands_staging_mu1",
   "streamFileMandatory": "paks/Win64/mp_rr_canyonlands_staging_mu1.starpak",
   "streamFileOptional": "paks/Win64/mp_rr_canyonlands_staging_mu1.opt.starpak",
-  "assetsDir": "./assets/mp_rr_canyonlands_staging_mu1/",
+  "assetsDir": "map_depot/assets/mp_rr_canyonlands_staging_mu1/",
   "outputDir": "./build/",
   "compressLevel": 6,
   "compressWorkers": 16,

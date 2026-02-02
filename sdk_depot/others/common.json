@@ -37149,6 +37149,10 @@
     },
     {
       "_type": "stgs",
+      "_path": "settings/scriptAnimWindow/fx_wattson_exec_rocks.rpak"
+    },
+    {
+      "_type": "stgs",
       "_path": "settings/scriptAnimWindow/fx_wattson_menu_hand_elec_CP.rpak"
     },
     {
@@ -170748,8 +170752,8 @@
         "animseq/humans/class/light/pilot_light_wattson/wattson_gladcard_animated_electricfence_idel.rseq",
         "animseq/humans/class/light/pilot_light_wattson/wattson_gladcard_animated_Fix.rseq",
         "animseq/humans/class/light/pilot_light_wattson/wattson_gladcard_animated_Fix_Idle.rseq",
-        "animseq/humans/class/light/pilot_light_wattson/wattson_gladcard_animated_racer.rseq",
-        "animseq/humans/class/light/pilot_light_wattson/wattson_gladcard_animated_racer_Idle.rseq",
+        //"animseq/humans/class/light/pilot_light_wattson/wattson_gladcard_animated_racer.rseq",
+        //"animseq/humans/class/light/pilot_light_wattson/wattson_gladcard_animated_racer_Idle.rseq",
         "animseq/humans/class/light/pilot_light_wattson/wattson_gladcard_animated_shii.rseq",
         "animseq/humans/class/light/pilot_light_wattson/wattson_gladcard_animated_shii_idle.rseq",
         "animseq/humans/class/light/pilot_light_wattson/wattson_gladcard_animated_spin.rseq",
@@ -173097,8 +173101,8 @@
         "animseq/humans/class/medium/pilot_medium_holo/mirage_holo_gladcard_animated_heirloom_idle.rseq",
         "animseq/humans/class/medium/pilot_medium_holo/mirage_holo_gladcard_animated_holiday.rseq",
         "animseq/humans/class/medium/pilot_medium_holo/mirage_holo_gladcard_animated_holiday_idle.rseq",
-        "animseq/humans/class/medium/pilot_medium_holo/mirage_holo_gladcard_animated_matador.rseq",
-        "animseq/humans/class/medium/pilot_medium_holo/mirage_holo_gladcard_animated_matador_idle.rseq",
+        //"animseq/humans/class/medium/pilot_medium_holo/mirage_holo_gladcard_animated_matador.rseq",
+        //"animseq/humans/class/medium/pilot_medium_holo/mirage_holo_gladcard_animated_matador_idle.rseq",
         "animseq/humans/class/medium/pilot_medium_holo/mirage_holo_gladcard_animated_quickdraw.rseq",
         "animseq/humans/class/medium/pilot_medium_holo/mirage_holo_gladcard_animated_quickdraw_idle.rseq",
         "animseq/humans/class/medium/pilot_medium_holo/mirage_holo_gladcard_static_balance.rseq",

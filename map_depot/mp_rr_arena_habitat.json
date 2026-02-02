@@ -4,7 +4,7 @@
   "name": "mp_rr_arena_habitat",
   "streamFileMandatory": "paks/Win64/mp_rr_arena_habitat.starpak",
   "streamFileOptional": "paks/Win64/mp_rr_arena_habitat.opt.starpak",
-  "assetsDir": "./assets/mp_rr_arena_habitat/",
+  "assetsDir": "map_depot/assets/mp_rr_arena_habitat/",
   "outputDir": "./build/",
   "compressLevel": 0,
   "compressWorkers": 16,
@@ -13234,6 +13234,20 @@
       "$sequences": [
         "animseq/creatures/leviathan/leviathan_animated/lev_idle_lookup_noloop_kingscanyon_preview.rseq",
         "animseq/creatures/leviathan/leviathan_animated/lev_idle_noloop_kingscanyon_preview.rseq"
+      ]
+    },
+    {
+      "_type": "uimg",
+      "_path": "ui_image_atlas/overviews/mp_rr_arena_habitat",
+      "atlas": "texture/ui_atlas/overviews/mp_rr_arena_habitat.rpak",
+      "images": [
+        {
+          "path": "overviews/mp_rr_arena_habitat",
+          "width": 4096,
+          "height": 4096,
+          "posX": 0,
+          "posY": 0
+        }
       ]
     }
   ]

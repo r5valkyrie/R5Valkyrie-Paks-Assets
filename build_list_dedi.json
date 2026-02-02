@@ -14,15 +14,13 @@
         "sdk_depot/others/patch_master.json",
         "sdk_depot/startup_sdk.json",
         "sdk_depot/common_roots.json",
-        "sdk_depot/effects_sdk.json",
         "sdk_depot/others/common.json",
         "sdk_depot/others/common_mp.json",
-        "sdk_depot/common_sdk.json",
-        "sdk_depot/common_r5valk.json",//Custom SDK Rpak
 
         //MAP PAKS
-        "map_depot/mp_lobby_s3.json",
+        "map_depot/mp_lobby_s3.1.json",
         "map_depot/mp_rr_canyonlands_staging.json",
+        "map_depot/mp_rr_canyonlands_staging_mu1.json",
         "sdk_depot/others/mp_rr_canyonlands_64k_x_64k.json",
         "sdk_depot/others/mp_rr_canyonlands_mu1.json",
         "sdk_depot/others/mp_rr_canyonlands_mu1_night.json",
@@ -45,6 +43,7 @@
         "map_depot/mp_rr_arena_composite.json",
         "map_depot/mp_rr_arena_phase_runner.json",
         "map_depot/mp_rr_arena_skygarden.json",
+        "map_depot/mp_rr_arena_habitat.json",
         "sdk_depot/others/flowstate/mp_rr_arena_empty.json"//Flowstate Main Map
     ]
 }

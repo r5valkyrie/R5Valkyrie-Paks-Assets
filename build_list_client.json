@@ -22,6 +22,7 @@
         //MAP PAKS
         "map_depot/mp_lobby_s3.1.json",//Season 3 Christmas Lobby
         "map_depot/mp_rr_canyonlands_staging.json",//Season 14 Firing Range
+        "map_depot/mp_rr_canyonlands_staging_mu1.json",//Season 17 Firing Range
         "sdk_depot/others/mp_rr_canyonlands_mu1.json",//Canyonlands MU1, Original S3 variant
         "sdk_depot/others/mp_rr_canyonlands_64k_x_64k.json",//Canyonlands 64K, Original S3 variant
         "sdk_depot/others/mp_rr_canyonlands_mu1_night.json",//Canyonlands MU1 Night, Original S3 variant
@@ -40,10 +41,11 @@
         "map_depot/mp_rr_olympus_tt.json",
         "map_depot/mp_rr_olympus_mu1.json",
         "map_depot/mp_rr_aqueduct.json",
-        "map_depot/mp_rr_party_crasher_new.json",
+        "map_depot/mp_rr_party_crasher.json",
         "map_depot/mp_rr_arena_composite.json",
-        "map_depot/mp_rr_arena_phase_runner_new.json",
+        "map_depot/mp_rr_arena_phase_runner.json",
         "map_depot/mp_rr_arena_skygarden.json",
+        "map_depot/mp_rr_arena_habitat.json",
 
         "sdk_depot/others/flowstate/mp_rr_arena_empty.json"
     ]
