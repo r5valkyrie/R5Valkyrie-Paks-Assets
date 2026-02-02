@@ -2,7 +2,7 @@
   "$mapversion": 1,
   "version": 8,
 
-  "assetsDir": "./assets_common",
+  "assetsDir": "map_depot/assets_common",
   "outputDir": ".\\build\\",
 
   "compressLevel": 6,
