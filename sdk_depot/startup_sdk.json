@@ -4,15 +4,598 @@
 
   "keepDevOnly": true,
 
-  "assetsDir": "sdk_depot/others/startup_sdk",
+  "assetsDir": "./others/startup_sdk",
   "outputDir": "./build/",
-
+  "buildDate": 4004773717,
   "compressLevel": 0,
   "compressWorkers": 16,
+
+    "streamFileMandatory": "paks/Win64/pc_all(02).starpak",
+    "streamFileOptional": "paks/Win64/pc_all(02).opt.starpak",
+
+    "showDebugInfo": false,
+    "streamCache": "cache/pc_all.starmap",
+    "streamCacheFilter": [
+        "paks/Win64/pc_all.starpak",
+        "paks/Win64/pc_all.opt.starpak"
+    ],
 
   "name": "startup_sdk",
 
   "files": [
+    {
+      "_type": "shdr",
+      "_path": "shader/0x11C9E928C65213E.rpak",
+      "$guid": "0x11C9E928C65213E"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x1D9FDB94EAC72F9F.rpak",
+      "$guid": "0x1D9FDB94EAC72F9F"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x21643CBBF0EEC857.rpak",
+      "$guid": "0x21643CBBF0EEC857"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x4F3B935BABEC8231.rpak",
+      "$guid": "0x4F3B935BABEC8231"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x74AD465C3CFE155C.rpak",
+      "$guid": "0x74AD465C3CFE155C"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x7927ADEC31DD541D.rpak",
+      "$guid": "0x7927ADEC31DD541D"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x8D29A7C60884AF61.rpak",
+      "$guid": "0x8D29A7C60884AF61"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xA8A77734A79F28EF.rpak",
+      "$guid": "0xA8A77734A79F28EF"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xE15E491FC4A1F100.rpak",
+      "$guid": "0xE15E491FC4A1F100"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xE4FEDC3C88426037.rpak",
+      "$guid": "0xE4FEDC3C88426037"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xEC6FED83984B1F7C.rpak",
+      "$guid": "0xEC6FED83984B1F7C"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x2CBB9F90F1AAAC47.rpak",
+      "$guid": "0x2CBB9F90F1AAAC47"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x3E6B1F50BB691268.rpak",
+      "$guid": "0x3E6B1F50BB691268"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x4BD8CB2E702AC502.rpak",
+      "$guid": "0x4BD8CB2E702AC502"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x93F19E8E2772AA60.rpak",
+      "$guid": "0x93F19E8E2772AA60"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xB6F941BD84B1C6F2.rpak",
+      "$guid": "0xB6F941BD84B1C6F2"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xBD91A2789AB780A5.rpak",
+      "$guid": "0xBD91A2789AB780A5"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xCEAB5A85D389CB21.rpak",
+      "$guid": "0xCEAB5A85D389CB21"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xE045899ED9FBC179.rpak",
+      "$guid": "0xE045899ED9FBC179"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xF397943D1A6E4882.rpak",
+      "$guid": "0xF397943D1A6E4882"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x11125F8C7B9E4935.rpak",
+      "$guid": "0x11125F8C7B9E4935"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x15F33CCC691757E5.rpak",
+      "$guid": "0x15F33CCC691757E5"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x1613D49E288F4ED4.rpak",
+      "$guid": "0x1613D49E288F4ED4"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x1DCB49F271DE3A9A.rpak",
+      "$guid": "0x1DCB49F271DE3A9A"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x2050F2EE53E14E05.rpak",
+      "$guid": "0x2050F2EE53E14E05"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x21776EAC7ECB4F15.rpak",
+      "$guid": "0x21776EAC7ECB4F15"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x240143F16263AC0C.rpak",
+      "$guid": "0x240143F16263AC0C"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x246B88BA81744EEC.rpak",
+      "$guid": "0x246B88BA81744EEC"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x27C19898397423BC.rpak",
+      "$guid": "0x27C19898397423BC"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x27C1FA1B7FCDF6E5.rpak",
+      "$guid": "0x27C1FA1B7FCDF6E5"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x28E22131A6B26DEA.rpak",
+      "$guid": "0x28E22131A6B26DEA"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x2B0158E49860C0B9.rpak",
+      "$guid": "0x2B0158E49860C0B9"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x2BBBA2C9A56059A1.rpak",
+      "$guid": "0x2BBBA2C9A56059A1"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x30FE95DDCA369671.rpak",
+      "$guid": "0x30FE95DDCA369671"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x3247B412A948CA80.rpak",
+      "$guid": "0x3247B412A948CA80"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x36AE5BD7483465DF.rpak",
+      "$guid": "0x36AE5BD7483465DF"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x3716A0DCAB30FF6A.rpak",
+      "$guid": "0x3716A0DCAB30FF6A"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x3EEE5C4C13CF5195.rpak",
+      "$guid": "0x3EEE5C4C13CF5195"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x422181E38D293A90.rpak",
+      "$guid": "0x422181E38D293A90"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x43ED7A42B0FBF948.rpak",
+      "$guid": "0x43ED7A42B0FBF948"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x44F1B29B34F92C84.rpak",
+      "$guid": "0x44F1B29B34F92C84"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x45720D6E959A0408.rpak",
+      "$guid": "0x45720D6E959A0408"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x4740B5E695479D0.rpak",
+      "$guid": "0x4740B5E695479D0"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x49D8F737A4D976CE.rpak",
+      "$guid": "0x49D8F737A4D976CE"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x503EF9B2937677B6.rpak",
+      "$guid": "0x503EF9B2937677B6"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x53574C36DEB92B57.rpak",
+      "$guid": "0x53574C36DEB92B57"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x556001E2EBAFD73E.rpak",
+      "$guid": "0x556001E2EBAFD73E"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x5B223BC0A0F07923.rpak",
+      "$guid": "0x5B223BC0A0F07923"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x5E5561583F8165C4.rpak",
+      "$guid": "0x5E5561583F8165C4"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x5E67F933C051EC9A.rpak",
+      "$guid": "0x5E67F933C051EC9A"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x623196F8A3ADACFC.rpak",
+      "$guid": "0x623196F8A3ADACFC"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x632DDE177A3BDA8D.rpak",
+      "$guid": "0x632DDE177A3BDA8D"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x655369413FB5B88A.rpak",
+      "$guid": "0x655369413FB5B88A"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x6901CDFF2276067.rpak",
+      "$guid": "0x6901CDFF2276067"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x6A3BAEF26123F4B0.rpak",
+      "$guid": "0x6A3BAEF26123F4B0"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x6C9876173FE59E2E.rpak",
+      "$guid": "0x6C9876173FE59E2E"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x6EA298BB9BCE410D.rpak",
+      "$guid": "0x6EA298BB9BCE410D"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x70FF5FE099931840.rpak",
+      "$guid": "0x70FF5FE099931840"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x72CE2E560C5FF027.rpak",
+      "$guid": "0x72CE2E560C5FF027"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x7326E878972E1D6F.rpak",
+      "$guid": "0x7326E878972E1D6F"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x765A0E0FBFE6292D.rpak",
+      "$guid": "0x765A0E0FBFE6292D"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x7806F5D0451B8DF8.rpak",
+      "$guid": "0x7806F5D0451B8DF8"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x830BD732868726D2.rpak",
+      "$guid": "0x830BD732868726D2"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x85D5AC4E20386C60.rpak",
+      "$guid": "0x85D5AC4E20386C60"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x86F8E21CEBD1E713.rpak",
+      "$guid": "0x86F8E21CEBD1E713"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x8A3C961735ABB517.rpak",
+      "$guid": "0x8A3C961735ABB517"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x8C9647619E10E9A6.rpak",
+      "$guid": "0x8C9647619E10E9A6"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x96173B4334C17E9B.rpak",
+      "$guid": "0x96173B4334C17E9B"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x9A4D51214DE16377.rpak",
+      "$guid": "0x9A4D51214DE16377"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x9D8076B8A8381EBD.rpak",
+      "$guid": "0x9D8076B8A8381EBD"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xA0CCF0E4A17D3530.rpak",
+      "$guid": "0xA0CCF0E4A17D3530"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xA35448765469D5A9.rpak",
+      "$guid": "0xA35448765469D5A9"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xA9061FA80F1F3590.rpak",
+      "$guid": "0xA9061FA80F1F3590"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xA9FDE5EAC5FF1D4F.rpak",
+      "$guid": "0xA9FDE5EAC5FF1D4F"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xABB6DB368BC46617.rpak",
+      "$guid": "0xABB6DB368BC46617"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xB73E0C5C92417AB2.rpak",
+      "$guid": "0xB73E0C5C92417AB2"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xBEA5BF9B7289C8EE.rpak",
+      "$guid": "0xBEA5BF9B7289C8EE"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xC26AAAFF2B114147.rpak",
+      "$guid": "0xC26AAAFF2B114147"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xCA2CF0C1856E896B.rpak",
+      "$guid": "0xCA2CF0C1856E896B"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xCCDA9E2A061720EC.rpak",
+      "$guid": "0xCCDA9E2A061720EC"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xD4F726412452F1DC.rpak",
+      "$guid": "0xD4F726412452F1DC"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xE6F516BB7CC0F0C5.rpak",
+      "$guid": "0xE6F516BB7CC0F0C5"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xE7365C4E5EA49186.rpak",
+      "$guid": "0xE7365C4E5EA49186"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xF0E495FE52EB4F24.rpak",
+      "$guid": "0xF0E495FE52EB4F24"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xF12EB2C70CB90C9E.rpak",
+      "$guid": "0xF12EB2C70CB90C9E"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xF8C1D2E92DE01FC7.rpak",
+      "$guid": "0xF8C1D2E92DE01FC7"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xF924CF34BCA0D3FB.rpak",
+      "$guid": "0xF924CF34BCA0D3FB"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xF94A19073EA3F090.rpak",
+      "$guid": "0xF94A19073EA3F090"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xFA2540B351D1A03F.rpak",
+      "$guid": "0xFA2540B351D1A03F"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/decals/blood1_wldu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/decals/blood2_wldu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/decals/bullets/concrete/shot1_wldu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/decals/bullets/default/shot1_wldu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/decals/bullets/energy/shot1_green_rgdu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/decals/bullets/energy/shot2_green_rgdu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/decals/bullets/flesh/shot1_wldu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/decals/bullets/flesh/shot2_wldu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/decals/bullets/glass/shot1_wldu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/decals/bullets/glass/shot2_wldu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/decals/bullets/glass/shot3_wldu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/decals/bullets/lstar/shot1_rgdu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/decals/bullets/lstar/shot2_rgdu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/decals/bullets/metal/shot1_wldu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/decals/bullets/metal/shot2_wldu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/decals/bullets/metal_titan/shot1_rgdu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/decals/bullets/metal_titan/shot2_rgdu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/decals/bullets/particle_accelerator/shot1_rgdu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/decals/bullets/particle_accelerator/shot2_rgdu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/decals/bullets/plasma/shot1_rgdu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/decals/bullets/thermite/shot1_rgdu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/decals/bullets/thermite/shot1_short_life_rgdu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/decals/bullets/thermite/shot2_rgdu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/decals/bullets/thermite/shot2_short_life_rgdu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/decals/bullets/wood/shot1_wldu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/decals/bullets/wood/shot2_wldu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/decals/bullets/wood/shot3_wldu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/decals/giant/concrete/shot1_wldu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/decals/giant/concrete/shot2_wldu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/decals/giant/wood/shot1_wldu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/decals/scorch1_rgdu.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/decals/scorch2_rgdu.rpak"
+    },
     {
       "_type": "rlcd",
       "_path": "lcd_screen_effect/lcd_titanscreen.rpak"
