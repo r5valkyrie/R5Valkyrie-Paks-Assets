@@ -17,6 +17,5 @@
     ],
     "paks": [
         //QUICK PATCHING FOR EXIST RPAKS
-        "map_depot/mp_rr_tropic_island.json"
     ]
 }

@@ -187551,11 +187551,12 @@
     },
     {
       "_type": "arig",
-      "_path": "animrig/weapons/mastiff_stgn/ptpov_mastiff.rrig",
-      "$sequences": [
+      "_path" : "animrig/weapons/mastiff_stgn/ptpov_mastiff.rrig",
+      "$sequences" : [
         "animseq/weapons/mastiff_stgn/ptpov_mastiff/draw.rseq",
         "animseq/weapons/mastiff_stgn/ptpov_mastiff/draw_onehanded.rseq",
         "animseq/weapons/mastiff_stgn/ptpov_mastiff/drawfirst.rseq",
+        "animseq/weapons/mastiff_stgn/ptpov_mastiff/drawfirst_maggie.rseq",
         "animseq/weapons/mastiff_stgn/ptpov_mastiff/drawfirst_onehanded.rseq",
         "animseq/weapons/mastiff_stgn/ptpov_mastiff/holster.rseq",
         "animseq/weapons/mastiff_stgn/ptpov_mastiff/holster_onehanded.rseq",
@@ -187592,6 +187593,7 @@
         "animseq_derived/weapons/mastiff_stgn/ptpov_mastiff/ads_out.rseq",
         "animseq_derived/weapons/mastiff_stgn/ptpov_mastiff/ads_out_onehanded.rseq",
         "animseq_derived/weapons/mastiff_stgn/ptpov_mastiff/ads_out_wallrun_onehanded.rseq",
+        "animseq_derived/weapons/mastiff_stgn/ptpov_mastiff/crouch.rseq",
         "animseq_derived/weapons/mastiff_stgn/ptpov_mastiff/crouch_to_idle.rseq",
         "animseq_derived/weapons/mastiff_stgn/ptpov_mastiff/doublejump.rseq",
         "animseq_derived/weapons/mastiff_stgn/ptpov_mastiff/fire.rseq",
@@ -187601,8 +187603,6 @@
         "animseq_derived/weapons/mastiff_stgn/ptpov_mastiff/fire_select_on.rseq",
         "animseq_derived/weapons/mastiff_stgn/ptpov_mastiff/idle.rseq",
         "animseq_derived/weapons/mastiff_stgn/ptpov_mastiff/idle_check.rseq",
-        "animseq_derived/weapons/mastiff_stgn/ptpov_mastiff/idle_crouch.rseq",
-        "animseq_derived/weapons/mastiff_stgn/ptpov_mastiff/idle_crouch_onehanded.rseq",
         "animseq_derived/weapons/mastiff_stgn/ptpov_mastiff/idle_onehanded.rseq",
         "animseq_derived/weapons/mastiff_stgn/ptpov_mastiff/idle_to_crouch.rseq",
         "animseq_derived/weapons/mastiff_stgn/ptpov_mastiff/jump.rseq",

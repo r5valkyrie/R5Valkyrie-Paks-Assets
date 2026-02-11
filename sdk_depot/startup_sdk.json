@@ -4,7 +4,7 @@
 
   "keepDevOnly": true,
 
-  "assetsDir": "./others/startup_sdk",
+  "assetsDir": "sdk_depot/others/startup_sdk",
   "outputDir": "./build/",
   "buildDate": 4004773717,
   "compressLevel": 0,
