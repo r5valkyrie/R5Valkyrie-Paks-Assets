@@ -1497,370 +1497,370 @@
       "_path": "ui_image_atlas/generic_map_icons.rpak",
       "atlas": "texture/ui_atlas/rui/menu/maps/generic_map_icons.rpak",
       "images": [
-		{
-			"path": "rui/menu/maps/select_map",
-			"posX": 20,
-			"posY": 20,
-			"width": 1024,
-			"height": 1024
-		},
-		{
-			"path": "rui/menu/maps/map_not_found_big_icon",
-			"posX": 1084,
-			"posY": 20,
-			"width": 818,
-			"height": 460
-		},
-		{
-			"path": "rui/menu/maps/mp_rr_aqueduct_big_icon",
-			"posX": 1084,
-			"posY": 520,
-			"width": 818,
-			"height": 460
-		},
-		{
-			"path": "rui/menu/maps/mp_rr_arena_composite_big_icon",
-			"posX": 1084,
-			"posY": 1020,
-			"width": 818,
-			"height": 460
-		},
-		{
-			"path": "rui/menu/maps/mp_rr_arena_phase_runner_big_icon",
-			"posX": 20,
-			"posY": 1084,
-			"width": 818,
-			"height": 460
-		},
-		{
-			"path": "rui/menu/maps/mp_rr_arena_skygarden_big_icon",
-			"posX": 878,
-			"posY": 1520,
-			"width": 818,
-			"height": 460
-		},
-		{
-			"path": "rui/menu/maps/mp_rr_canyonlands_64k_x_64k_big_icon",
-			"posX": 20,
-			"posY": 1584,
-			"width": 818,
-			"height": 460
-		},
-		{
-			"path": "rui/menu/maps/mp_rr_canyonlands_mu1_big_icon",
-			"posX": 1736,
-			"posY": 1520,
-			"width": 818,
-			"height": 460
-		},
-		{
-			"path": "rui/menu/maps/mp_rr_canyonlands_mu1_night_big_icon",
-			"posX": 1942,
-			"posY": 20,
-			"width": 818,
-			"height": 460
-		},
-		{
-			"path": "rui/menu/maps/mp_rr_canyonlands_mu2_big_icon",
-			"posX": 1942,
-			"posY": 520,
-			"width": 818,
-			"height": 460
-		},
-		{
-			"path": "rui/menu/maps/mp_rr_canyonlands_mu2_mv_big_icon",
-			"posX": 1942,
-			"posY": 1020,
-			"width": 818,
-			"height": 460
-		},
-		{
-			"path": "rui/menu/maps/mp_rr_canyonlands_mu2_tt_big_icon",
-			"posX": 878,
-			"posY": 2020,
-			"width": 818,
-			"height": 460
-		},
-		{
-			"path": "rui/menu/maps/mp_rr_canyonlands_mu2_ufo_big_icon",
-			"posX": 20,
-			"posY": 2084,
-			"width": 818,
-			"height": 460
-		},
-		{
-			"path": "rui/menu/maps/mp_rr_canyonlands_staging_big_icon",
-			"posX": 1736,
-			"posY": 2020,
-			"width": 818,
-			"height": 460
-		},
-		{
-			"path": "rui/menu/maps/mp_rr_desertlands_64k_x_64k_big_icon",
-			"posX": 878,
-			"posY": 2520,
-			"width": 818,
-			"height": 460
-		},
-		{
-			"path": "rui/menu/maps/mp_rr_desertlands_64k_x_64k_mv_big_icon",
-			"posX": 20,
-			"posY": 2584,
-			"width": 818,
-			"height": 460
-		},
-		{
-			"path": "rui/menu/maps/mp_rr_desertlands_64k_x_64k_nx_big_icon",
-			"posX": 1736,
-			"posY": 2520,
-			"width": 818,
-			"height": 460
-		},
-		{
-			"path": "rui/menu/maps/mp_rr_desertlands_64k_x_64k_tt_big_icon",
-			"posX": 2594,
-			"posY": 1520,
-			"width": 818,
-			"height": 460
-		},
-		{
-			"path": "rui/menu/maps/mp_rr_desertlands_holiday_big_icon",
-			"posX": 2594,
-			"posY": 2020,
-			"width": 818,
-			"height": 460
-		},
-		{
-			"path": "rui/menu/maps/mp_rr_desertlands_mu1_big_icon",
-			"posX": 2594,
-			"posY": 2520,
-			"width": 818,
-			"height": 460
-		},
-		{
-			"path": "rui/menu/maps/mp_rr_desertlands_mu1_tt_big_icon",
-			"posX": 2800,
-			"posY": 20,
-			"width": 818,
-			"height": 460
-		},
-		{
-			"path": "rui/menu/maps/mp_rr_desertlands_mu2_big_icon",
-			"posX": 2800,
-			"posY": 520,
-			"width": 818,
-			"height": 460
-		},
-		{
-			"path": "rui/menu/maps/mp_rr_olympus_big_icon",
-			"posX": 2800,
-			"posY": 1020,
-			"width": 818,
-			"height": 460
-		},
-		{
-			"path": "rui/menu/maps/mp_rr_olympus_mu1_big_icon",
-			"posX": 878,
-			"posY": 3020,
-			"width": 818,
-			"height": 460
-		},
-		{
-			"path": "rui/menu/maps/mp_rr_olympus_tt_big_icon",
-			"posX": 20,
-			"posY": 3084,
-			"width": 818,
-			"height": 460
-		},
-		{
-			"path": "rui/menu/maps/mp_rr_party_crasher_big_icon",
-			"posX": 1736,
-			"posY": 3020,
-			"width": 818,
-			"height": 460
-		},
-		{
-			"path": "rui/menu/maps/aim_trainer",
-			"posX": 2594,
-			"posY": 3020,
-			"width": 360,
-			"height": 360
-		},
-		{
-			"path": "rui/menu/maps/map_not_found_square_icon",
-			"posX": 2994,
-			"posY": 3020,
-			"width": 360,
-			"height": 360
-		},
-		{
-			"path": "rui/menu/maps/mp_rr_aqueduct_square_icon",
-			"posX": 2594,
-			"posY": 3420,
-			"width": 360,
-			"height": 360
-		},
-		{
-			"path": "rui/menu/maps/mp_rr_arena_composite_square_icon",
-			"posX": 2994,
-			"posY": 3420,
-			"width": 360,
-			"height": 360
-		},
-		{
-			"path": "rui/menu/maps/mp_rr_arena_phase_runner_square_icon",
-			"posX": 878,
-			"posY": 3520,
-			"width": 360,
-			"height": 360
-		},
-		{
-			"path": "rui/menu/maps/mp_rr_arena_skygarden_square_icon",
-			"posX": 20,
-			"posY": 3584,
-			"width": 360,
-			"height": 360
-		},
-		{
-			"path": "rui/menu/maps/mp_rr_canyonlands_64k_x_64k_square_icon",
-			"posX": 420,
-			"posY": 3584,
-			"width": 360,
-			"height": 360
-		},
-		{
-			"path": "rui/menu/maps/mp_rr_canyonlands_mu1_night_square_icon",
-			"posX": 1278,
-			"posY": 3520,
-			"width": 360,
-			"height": 360
-		},
-		{
-			"path": "rui/menu/maps/mp_rr_canyonlands_mu1_square_icon",
-			"posX": 1678,
-			"posY": 3520,
-			"width": 360,
-			"height": 360
-		},
-		{
-			"path": "rui/menu/maps/mp_rr_canyonlands_mu2_mv_square_icon",
-			"posX": 2078,
-			"posY": 3520,
-			"width": 360,
-			"height": 360
-		},
-		{
-			"path": "rui/menu/maps/mp_rr_canyonlands_mu2_square_icon",
-			"posX": 3394,
-			"posY": 3020,
-			"width": 360,
-			"height": 360
-		},
-		{
-			"path": "rui/menu/maps/mp_rr_canyonlands_mu2_tt_square_icon",
-			"posX": 3394,
-			"posY": 3420,
-			"width": 360,
-			"height": 360
-		},
-		{
-			"path": "rui/menu/maps/mp_rr_canyonlands_mu2_ufo_square_icon",
-			"posX": 3452,
-			"posY": 1520,
-			"width": 360,
-			"height": 360
-		},
-		{
-			"path": "rui/menu/maps/mp_rr_canyonlands_staging_square_icon",
-			"posX": 3658,
-			"posY": 20,
-			"width": 360,
-			"height": 360
-		},
-		{
-			"path": "rui/menu/maps/mp_rr_desertlands_64k_x_64k_mv_square_icon",
-			"posX": 3658,
-			"posY": 420,
-			"width": 360,
-			"height": 360
-		},
-		{
-			"path": "rui/menu/maps/mp_rr_desertlands_64k_x_64k_nx_square_icon",
-			"posX": 3658,
-			"posY": 820,
-			"width": 360,
-			"height": 360
-		},
-		{
-			"path": "rui/menu/maps/mp_rr_desertlands_64k_x_64k_square_icon",
-			"posX": 3452,
-			"posY": 1920,
-			"width": 360,
-			"height": 360
-		},
-		{
-			"path": "rui/menu/maps/mp_rr_desertlands_64k_x_64k_tt_square_icon",
-			"posX": 3452,
-			"posY": 2320,
-			"width": 360,
-			"height": 360
-		},
-		{
-			"path": "rui/menu/maps/mp_rr_desertlands_holiday_square_icon",
-			"posX": 3794,
-			"posY": 2720,
-			"width": 360,
-			"height": 360
-		},
-		{
-			"path": "rui/menu/maps/mp_rr_desertlands_mu1_square_icon",
-			"posX": 3794,
-			"posY": 3120,
-			"width": 360,
-			"height": 360
-		},
-		{
-			"path": "rui/menu/maps/mp_rr_desertlands_mu1_tt_square_icon",
-			"posX": 3794,
-			"posY": 3520,
-			"width": 360,
-			"height": 360
-		},
-		{
-			"path": "rui/menu/maps/mp_rr_desertlands_mu2_square_icon",
-			"posX": 3852,
-			"posY": 1220,
-			"width": 360,
-			"height": 360
-		},
-		{
-			"path": "rui/menu/maps/mp_rr_olympus_mu1_square_icon",
-			"posX": 4058,
-			"posY": 20,
-			"width": 360,
-			"height": 360
-		},
-		{
-			"path": "rui/menu/maps/mp_rr_olympus_square_icon",
-			"posX": 4058,
-			"posY": 420,
-			"width": 360,
-			"height": 360
-		},
-		{
-			"path": "rui/menu/maps/mp_rr_olympus_tt_square_icon",
-			"posX": 4058,
-			"posY": 820,
-			"width": 360,
-			"height": 360
-		},
-		{
-			"path": "rui/menu/maps/mp_rr_party_crasher_square_icon",
-			"posX": 3852,
-			"posY": 1620,
-			"width": 360,
-			"height": 360
-		}
+        {
+          "path": "rui/menu/maps/select_map",
+          "posX": 20,
+          "posY": 20,
+          "width": 1024,
+          "height": 1024
+        },
+        {
+          "path": "rui/menu/maps/map_not_found_big_icon",
+          "posX": 1084,
+          "posY": 20,
+          "width": 818,
+          "height": 460
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_aqueduct_big_icon",
+          "posX": 1084,
+          "posY": 520,
+          "width": 818,
+          "height": 460
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_arena_composite_big_icon",
+          "posX": 1084,
+          "posY": 1020,
+          "width": 818,
+          "height": 460
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_arena_phase_runner_big_icon",
+          "posX": 20,
+          "posY": 1084,
+          "width": 818,
+          "height": 460
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_arena_skygarden_big_icon",
+          "posX": 878,
+          "posY": 1520,
+          "width": 818,
+          "height": 460
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_canyonlands_64k_x_64k_big_icon",
+          "posX": 20,
+          "posY": 1584,
+          "width": 818,
+          "height": 460
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_canyonlands_mu1_big_icon",
+          "posX": 1736,
+          "posY": 1520,
+          "width": 818,
+          "height": 460
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_canyonlands_mu1_night_big_icon",
+          "posX": 1942,
+          "posY": 20,
+          "width": 818,
+          "height": 460
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_canyonlands_mu2_big_icon",
+          "posX": 1942,
+          "posY": 520,
+          "width": 818,
+          "height": 460
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_canyonlands_mu2_mv_big_icon",
+          "posX": 1942,
+          "posY": 1020,
+          "width": 818,
+          "height": 460
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_canyonlands_mu2_tt_big_icon",
+          "posX": 878,
+          "posY": 2020,
+          "width": 818,
+          "height": 460
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_canyonlands_mu2_ufo_big_icon",
+          "posX": 20,
+          "posY": 2084,
+          "width": 818,
+          "height": 460
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_canyonlands_staging_big_icon",
+          "posX": 1736,
+          "posY": 2020,
+          "width": 818,
+          "height": 460
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_desertlands_64k_x_64k_big_icon",
+          "posX": 878,
+          "posY": 2520,
+          "width": 818,
+          "height": 460
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_desertlands_64k_x_64k_mv_big_icon",
+          "posX": 20,
+          "posY": 2584,
+          "width": 818,
+          "height": 460
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_desertlands_64k_x_64k_nx_big_icon",
+          "posX": 1736,
+          "posY": 2520,
+          "width": 818,
+          "height": 460
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_desertlands_64k_x_64k_tt_big_icon",
+          "posX": 2594,
+          "posY": 1520,
+          "width": 818,
+          "height": 460
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_desertlands_holiday_big_icon",
+          "posX": 2594,
+          "posY": 2020,
+          "width": 818,
+          "height": 460
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_desertlands_mu1_big_icon",
+          "posX": 2594,
+          "posY": 2520,
+          "width": 818,
+          "height": 460
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_desertlands_mu1_tt_big_icon",
+          "posX": 2800,
+          "posY": 20,
+          "width": 818,
+          "height": 460
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_desertlands_mu2_big_icon",
+          "posX": 2800,
+          "posY": 520,
+          "width": 818,
+          "height": 460
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_olympus_big_icon",
+          "posX": 2800,
+          "posY": 1020,
+          "width": 818,
+          "height": 460
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_olympus_mu1_big_icon",
+          "posX": 878,
+          "posY": 3020,
+          "width": 818,
+          "height": 460
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_olympus_tt_big_icon",
+          "posX": 20,
+          "posY": 3084,
+          "width": 818,
+          "height": 460
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_party_crasher_big_icon",
+          "posX": 1736,
+          "posY": 3020,
+          "width": 818,
+          "height": 460
+        },
+        {
+          "path": "rui/menu/maps/aim_trainer",
+          "posX": 2594,
+          "posY": 3020,
+          "width": 360,
+          "height": 360
+        },
+        {
+          "path": "rui/menu/maps/map_not_found_square_icon",
+          "posX": 2994,
+          "posY": 3020,
+          "width": 360,
+          "height": 360
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_aqueduct_square_icon",
+          "posX": 2594,
+          "posY": 3420,
+          "width": 360,
+          "height": 360
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_arena_composite_square_icon",
+          "posX": 2994,
+          "posY": 3420,
+          "width": 360,
+          "height": 360
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_arena_phase_runner_square_icon",
+          "posX": 878,
+          "posY": 3520,
+          "width": 360,
+          "height": 360
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_arena_skygarden_square_icon",
+          "posX": 20,
+          "posY": 3584,
+          "width": 360,
+          "height": 360
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_canyonlands_64k_x_64k_square_icon",
+          "posX": 420,
+          "posY": 3584,
+          "width": 360,
+          "height": 360
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_canyonlands_mu1_night_square_icon",
+          "posX": 1278,
+          "posY": 3520,
+          "width": 360,
+          "height": 360
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_canyonlands_mu1_square_icon",
+          "posX": 1678,
+          "posY": 3520,
+          "width": 360,
+          "height": 360
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_canyonlands_mu2_mv_square_icon",
+          "posX": 2078,
+          "posY": 3520,
+          "width": 360,
+          "height": 360
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_canyonlands_mu2_square_icon",
+          "posX": 3394,
+          "posY": 3020,
+          "width": 360,
+          "height": 360
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_canyonlands_mu2_tt_square_icon",
+          "posX": 3394,
+          "posY": 3420,
+          "width": 360,
+          "height": 360
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_canyonlands_mu2_ufo_square_icon",
+          "posX": 3452,
+          "posY": 1520,
+          "width": 360,
+          "height": 360
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_canyonlands_staging_square_icon",
+          "posX": 3658,
+          "posY": 20,
+          "width": 360,
+          "height": 360
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_desertlands_64k_x_64k_mv_square_icon",
+          "posX": 3658,
+          "posY": 420,
+          "width": 360,
+          "height": 360
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_desertlands_64k_x_64k_nx_square_icon",
+          "posX": 3658,
+          "posY": 820,
+          "width": 360,
+          "height": 360
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_desertlands_64k_x_64k_square_icon",
+          "posX": 3452,
+          "posY": 1920,
+          "width": 360,
+          "height": 360
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_desertlands_64k_x_64k_tt_square_icon",
+          "posX": 3452,
+          "posY": 2320,
+          "width": 360,
+          "height": 360
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_desertlands_holiday_square_icon",
+          "posX": 3794,
+          "posY": 2720,
+          "width": 360,
+          "height": 360
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_desertlands_mu1_square_icon",
+          "posX": 3794,
+          "posY": 3120,
+          "width": 360,
+          "height": 360
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_desertlands_mu1_tt_square_icon",
+          "posX": 3794,
+          "posY": 3520,
+          "width": 360,
+          "height": 360
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_desertlands_mu2_square_icon",
+          "posX": 3852,
+          "posY": 1220,
+          "width": 360,
+          "height": 360
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_olympus_mu1_square_icon",
+          "posX": 4058,
+          "posY": 20,
+          "width": 360,
+          "height": 360
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_olympus_square_icon",
+          "posX": 4058,
+          "posY": 420,
+          "width": 360,
+          "height": 360
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_olympus_tt_square_icon",
+          "posX": 4058,
+          "posY": 820,
+          "width": 360,
+          "height": 360
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_party_crasher_square_icon",
+          "posX": 3852,
+          "posY": 1620,
+          "width": 360,
+          "height": 360
+        }
       ]
     },
     {
@@ -1868,13 +1868,572 @@
       "_path": "ui_image_atlas/icons.rpak",
       "atlas": "texture/ui_atlas/rui/menu/icons/tags_n_icons.rpak",
       "images": [
-		{
-			"path": "rui/custom/sdk/item_source_icon",
-			"posX": 1220,
-			"posY": 1123,
-			"width": 96,
-			"height": 96
-		}
+        {
+          "path": "rui/custom/sdk/item_source_icon",
+          "posX": 1220,
+          "posY": 1123,
+          "width": 96,
+          "height": 96
+        }
+      ]
+    },
+
+
+/////////////////map rui section
+    {
+      "_type": "uimg",
+      "_path": "ui_image_atlas/rui/signage/headphones/rui_harmony_logo_01.rpak",
+      "atlas": "texture/rui/signage/headphones/rui_harmony_logo_01",
+      "images": [
+        {
+          "path": "rui/signage/headphones/rui_harmony_logo_01",
+          "posX": 0,
+          "posY": 2,
+          "width": 511,
+          "height": 93,
+          "renderWidth": 512,
+          "renderHeight": 128,
+          "cropInsetLeft": "-0",
+          "cropInsetTop": -0.171875,
+          "startAnchorX": -0.000978474,
+          "startAnchorY": -0.241935,
+          "endAnchorX": 1,
+          "endAnchorY": 0.90625,
+          "scaleRatioX": 1.00196,
+          "scaleRatioY": 1.37634
+        }
+      ],
+      "unkCount": 0,
+      "unk": [
+      ]
+    },
+    {
+      "_type": "uimg",
+      "_path": "ui_image_atlas/rui/signage/headphones/rui_harmony_logo_02.rpak",
+      "atlas": "texture/rui/signage/headphones/rui_harmony_logo_02",
+      "images": [
+        {
+          "path": "rui/signage/headphones/rui_harmony_logo_02",
+          "posX": 0,
+          "posY": 0,
+          "width": 511,
+          "height": 96,
+          "renderWidth": 512,
+          "renderHeight": 128,
+          "cropInsetLeft": "-0",
+          "cropInsetTop": -0.125,
+          "startAnchorX": -0.000978474,
+          "startAnchorY": -0.171875,
+          "endAnchorX": 1,
+          "endAnchorY": 0.882812,
+          "scaleRatioX": 1.00196,
+          "scaleRatioY": 1.33333
+        }
+      ],
+      "unkCount": 0,
+      "unk": [
+      ]
+    },
+    {
+      "_type": "uimg",
+      "_path": "ui_image_atlas/rui/signage/headphones/rui_headphone_bg_01.rpak",
+      "atlas": "texture/rui/signage/headphones/rui_headphone_bg_01",
+      "images": [
+        {
+          "path": "rui/signage/headphones/rui_headphone_bg_01",
+          "posX": 0,
+          "posY": 0,
+          "width": 1023,
+          "height": 511,
+          "renderWidth": 1024,
+          "renderHeight": 512,
+          "cropInsetLeft": "-0",
+          "cropInsetTop": "-0",
+          "startAnchorX": -0.000488759,
+          "startAnchorY": -0.000978474,
+          "endAnchorX": 1,
+          "endAnchorY": 1,
+          "scaleRatioX": 1.00098,
+          "scaleRatioY": 1.00196
+        }
+      ],
+      "unkCount": 0,
+      "unk": [
+      ]
+    },
+    {
+      "_type": "uimg",
+      "_path": "ui_image_atlas/rui/signage/headphones/rui_headphone_clouds_01.rpak",
+      "atlas": "texture/rui/signage/headphones/rui_headphone_clouds_01",
+      "images": [
+        {
+          "path": "rui/signage/headphones/rui_headphone_clouds_01",
+          "posX": 0,
+          "posY": 0,
+          "width": 1023,
+          "height": 511,
+          "renderWidth": 1024,
+          "renderHeight": 512,
+          "cropInsetLeft": "-0",
+          "cropInsetTop": "-0",
+          "startAnchorX": -0.000488759,
+          "startAnchorY": -0.000978474,
+          "endAnchorX": 1,
+          "endAnchorY": 1,
+          "scaleRatioX": 1.00098,
+          "scaleRatioY": 1.00196
+        }
+      ],
+      "unkCount": 0,
+      "unk": [
+      ]
+    },
+    {
+      "_type": "uimg",
+      "_path": "ui_image_atlas/rui/signage/headphones/rui_headphone_man_01.rpak",
+      "atlas": "texture/rui/signage/headphones/rui_headphone_man_01",
+      "images": [
+        {
+          "path": "rui/signage/headphones/rui_headphone_man_01",
+          "posX": 0,
+          "posY": 0,
+          "width": 1021,
+          "height": 1023,
+          "renderWidth": 1024,
+          "renderHeight": 1024,
+          "cropInsetLeft": "-0",
+          "cropInsetTop": "-0",
+          "startAnchorX": -0.000489716,
+          "startAnchorY": -0.000488759,
+          "endAnchorX": 0.998047,
+          "endAnchorY": 1,
+          "scaleRatioX": 1.00294,
+          "scaleRatioY": 1.00098
+        }
+      ],
+      "unkCount": 0,
+      "unk": [
+      ]
+    },
+    {
+      "_type": "uimg",
+      "_path": "ui_image_atlas/rui/signage/headphones/rui_headphone_woman_01.rpak",
+      "atlas": "texture/rui/signage/headphones/rui_headphone_woman_01",
+      "images": [
+        {
+          "path": "rui/signage/headphones/rui_headphone_woman_01",
+          "posX": 0,
+          "posY": 0,
+          "width": 1023,
+          "height": 1023,
+          "renderWidth": 1024,
+          "renderHeight": 1024,
+          "cropInsetLeft": "-0",
+          "cropInsetTop": "-0",
+          "startAnchorX": -0.000488759,
+          "startAnchorY": -0.000488759,
+          "endAnchorX": 1,
+          "endAnchorY": 1,
+          "scaleRatioX": 1.00098,
+          "scaleRatioY": 1.00098
+        }
+      ],
+      "unkCount": 0,
+      "unk": [
+      ]
+    },
+    {
+      "_type": "uimg",
+      "_path": "ui_image_atlas/rui/signage/skyline_security/rui_skyline_security_01.rpak",
+      "atlas": "texture/rui/signage/skyline_security/rui_skyline_security_01",
+      "images": [
+        {
+          "path": "rui/signage/skyline_security/rui_skyline_security_01",
+          "posX": 0,
+          "posY": 0,
+          "width": 2047,
+          "height": 1023,
+          "renderWidth": 2048,
+          "renderHeight": 1024,
+          "cropInsetLeft": "-0",
+          "cropInsetTop": "-0",
+          "startAnchorX": -0.00024426,
+          "startAnchorY": -0.000488759,
+          "endAnchorX": 1,
+          "endAnchorY": 1,
+          "scaleRatioX": 1.00049,
+          "scaleRatioY": 1.00098
+        }
+      ],
+      "unkCount": 0,
+      "unk": [
+      ]
+    },
+    {
+      "_type": "uimg",
+      "_path": "ui_image_atlas/mp_rr_olympus_atlas.rpak",
+      "atlas": "texture/mp_rr_olympus_atlas",
+      "images": [
+        {
+          "path": "world/signs/olympus_screens/olympus_fish_shape_1_col",
+          "posX": 818,
+          "posY": 752,
+          "width": 2048,
+          "height": 749,
+          "renderWidth": 2048,
+          "renderHeight": 750,
+          "cropInsetLeft": "-0",
+          "cropInsetTop": "-0",
+          "startAnchorX": 0,
+          "startAnchorY": -0.000667557,
+          "endAnchorX": 1,
+          "endAnchorY": 1,
+          "scaleRatioX": 1,
+          "scaleRatioY": 1.00134
+        },
+        {
+          "path": "world/signs/olympus_screens/olympus_fish_bkgd_02_opa",
+          "posX": 0,
+          "posY": 0,
+          "width": 2047,
+          "height": 750,
+          "renderWidth": 2048,
+          "renderHeight": 751,
+          "cropInsetLeft": "-0",
+          "cropInsetTop": "-0",
+          "startAnchorX": -0.00024426,
+          "startAnchorY": -0.000666667,
+          "endAnchorX": 1,
+          "endAnchorY": 1,
+          "scaleRatioX": 1.00049,
+          "scaleRatioY": 1.00133
+        },
+        {
+          "path": "world/signs/olympus_screens/olympus_fish_bkgd_02_col",
+          "posX": 2048,
+          "posY": 0,
+          "width": 2047,
+          "height": 750,
+          "renderWidth": 2048,
+          "renderHeight": 751,
+          "cropInsetLeft": "-0",
+          "cropInsetTop": "-0",
+          "startAnchorX": -0.00024426,
+          "startAnchorY": -0.000666667,
+          "endAnchorX": 1,
+          "endAnchorY": 1,
+          "scaleRatioX": 1.00049,
+          "scaleRatioY": 1.00133
+        },
+        {
+          "path": "world/signs/olympus_screens/olympus_fish_bkgd_01_col",
+          "posX": 816,
+          "posY": 1504,
+          "width": 2047,
+          "height": 749,
+          "renderWidth": 2048,
+          "renderHeight": 750,
+          "cropInsetLeft": "-0",
+          "cropInsetTop": "-0",
+          "startAnchorX": -0.00024426,
+          "startAnchorY": -0.000667557,
+          "endAnchorX": 1,
+          "endAnchorY": 1,
+          "scaleRatioX": 1.00049,
+          "scaleRatioY": 1.00134
+        },
+        {
+          "path": "world/signs/olympus_screens/olympus_bonsai_bg",
+          "posX": 3028,
+          "posY": 752,
+          "width": 1026,
+          "height": 260,
+          "renderWidth": 1027,
+          "renderHeight": 261,
+          "cropInsetLeft": "-0",
+          "cropInsetTop": "-0",
+          "startAnchorX": -0.000487329,
+          "startAnchorY": -0.00192308,
+          "endAnchorX": 1,
+          "endAnchorY": 1,
+          "scaleRatioX": 1.00097,
+          "scaleRatioY": 1.00385
+        },
+        {
+          "path": "world/signs/olympus_screens/olympus_bonsai_distortion",
+          "posX": 3028,
+          "posY": 1016,
+          "width": 1023,
+          "height": 255,
+          "renderWidth": 1024,
+          "renderHeight": 256,
+          "cropInsetLeft": "-0",
+          "cropInsetTop": "-0",
+          "startAnchorX": -0.000488759,
+          "startAnchorY": -0.00196078,
+          "endAnchorX": 1,
+          "endAnchorY": 1,
+          "scaleRatioX": 1.00098,
+          "scaleRatioY": 1.00392
+        },
+        {
+          "path": "world/signs/olympus_screens/olympus_bonsai_text",
+          "posX": 3028,
+          "posY": 1272,
+          "width": 720,
+          "height": 108,
+          "renderWidth": 721,
+          "renderHeight": 109,
+          "cropInsetLeft": "-0",
+          "cropInsetTop": "-0",
+          "startAnchorX": -0.000694444,
+          "startAnchorY": -0.00462963,
+          "endAnchorX": 1,
+          "endAnchorY": 1,
+          "scaleRatioX": 1.00139,
+          "scaleRatioY": 1.00926
+        },
+        {
+          "path": "world/signs/olympus_screens/olympus_fish_shape_2_col",
+          "posX": 820,
+          "posY": 2256,
+          "width": 707,
+          "height": 575,
+          "renderWidth": 707,
+          "renderHeight": 576,
+          "cropInsetLeft": "-0",
+          "cropInsetTop": "-0",
+          "startAnchorX": 0,
+          "startAnchorY": -0.000869565,
+          "endAnchorX": 1,
+          "endAnchorY": 1,
+          "scaleRatioX": 1,
+          "scaleRatioY": 1.00174
+        },
+        {
+          "path": "world/signs/olympus_screens/olympus_bonsai_bg_lg",
+          "posX": 0,
+          "posY": 752,
+          "width": 511,
+          "height": 2047,
+          "renderWidth": 512,
+          "renderHeight": 2048,
+          "cropInsetLeft": "-0",
+          "cropInsetTop": "-0",
+          "startAnchorX": -0.000978474,
+          "startAnchorY": -0.00024426,
+          "endAnchorX": 1,
+          "endAnchorY": 1,
+          "scaleRatioX": 1.00196,
+          "scaleRatioY": 1.00049
+        },
+        {
+          "path": "world/signs/olympus_screens/olympus_fish_06_col",
+          "posX": 2602,
+          "posY": 2256,
+          "width": 337,
+          "height": 396,
+          "renderWidth": 337,
+          "renderHeight": 397,
+          "cropInsetLeft": "-0",
+          "cropInsetTop": "-0",
+          "startAnchorX": 0,
+          "startAnchorY": -0.00126263,
+          "endAnchorX": 1,
+          "endAnchorY": 1,
+          "scaleRatioX": 1,
+          "scaleRatioY": 1.00253
+        },
+        {
+          "path": "world/signs/olympus_screens/olympus_fish_07_col",
+          "posX": 514,
+          "posY": 1244,
+          "width": 300,
+          "height": 439,
+          "renderWidth": 300,
+          "renderHeight": 440,
+          "cropInsetLeft": "-0",
+          "cropInsetTop": "-0",
+          "startAnchorX": 0,
+          "startAnchorY": -0.00113895,
+          "endAnchorX": 1,
+          "endAnchorY": 1,
+          "scaleRatioX": 1,
+          "scaleRatioY": 1.00228
+        },
+        {
+          "path": "world/signs/olympus_screens/olympus_fish_05_col",
+          "posX": 516,
+          "posY": 752,
+          "width": 299,
+          "height": 490,
+          "renderWidth": 299,
+          "renderHeight": 491,
+          "cropInsetLeft": "-0",
+          "cropInsetTop": "-0",
+          "startAnchorX": 0,
+          "startAnchorY": -0.00102041,
+          "endAnchorX": 1,
+          "endAnchorY": 1,
+          "scaleRatioX": 1,
+          "scaleRatioY": 1.00204
+        },
+        {
+          "path": "world/signs/olympus_screens/olympus_fish_11_col",
+          "posX": 514,
+          "posY": 1684,
+          "width": 248,
+          "height": 571,
+          "renderWidth": 248,
+          "renderHeight": 572,
+          "cropInsetLeft": "-0",
+          "cropInsetTop": "-0",
+          "startAnchorX": 0,
+          "startAnchorY": -0.000875657,
+          "endAnchorX": 1,
+          "endAnchorY": 1,
+          "scaleRatioX": 1,
+          "scaleRatioY": 1.00175
+        },
+        {
+          "path": "world/signs/olympus_screens/olympus_fish_08_col",
+          "posX": 2134,
+          "posY": 2256,
+          "width": 240,
+          "height": 499,
+          "renderWidth": 240,
+          "renderHeight": 500,
+          "cropInsetLeft": "-0",
+          "cropInsetTop": "-0",
+          "startAnchorX": 0,
+          "startAnchorY": -0.001002,
+          "endAnchorX": 1,
+          "endAnchorY": 1,
+          "scaleRatioX": 1,
+          "scaleRatioY": 1.002
+        },
+        {
+          "path": "world/signs/olympus_screens/olympus_fish_04_col",
+          "posX": 1898,
+          "posY": 2256,
+          "width": 233,
+          "height": 504,
+          "renderWidth": 233,
+          "renderHeight": 505,
+          "cropInsetLeft": "-0",
+          "cropInsetTop": "-0",
+          "startAnchorX": 0,
+          "startAnchorY": -0.000992064,
+          "endAnchorX": 1,
+          "endAnchorY": 1,
+          "scaleRatioX": 1,
+          "scaleRatioY": 1.00198
+        },
+        {
+          "path": "world/signs/olympus_screens/olympus_fish_01_col",
+          "posX": 513,
+          "posY": 2258,
+          "width": 230,
+          "height": 561,
+          "renderWidth": 230,
+          "renderHeight": 586,
+          "cropInsetLeft": "-0",
+          "cropInsetTop": -0.0307167,
+          "startAnchorX": 0,
+          "startAnchorY": -0.0329768,
+          "endAnchorX": 1,
+          "endAnchorY": 0.989761,
+          "scaleRatioX": 1,
+          "scaleRatioY": 1.04456
+        },
+        {
+          "path": "world/signs/olympus_screens/olympus_fish_03_col",
+          "posX": 2378,
+          "posY": 2256,
+          "width": 220,
+          "height": 490,
+          "renderWidth": 220,
+          "renderHeight": 491,
+          "cropInsetLeft": "-0",
+          "cropInsetTop": "-0",
+          "startAnchorX": 0,
+          "startAnchorY": -0.00102041,
+          "endAnchorX": 1,
+          "endAnchorY": 1,
+          "scaleRatioX": 1,
+          "scaleRatioY": 1.00204
+        },
+        {
+          "path": "world/signs/olympus_screens/olympus_fish_02_col",
+          "posX": 1712,
+          "posY": 2256,
+          "width": 183,
+          "height": 515,
+          "renderWidth": 183,
+          "renderHeight": 516,
+          "cropInsetLeft": "-0",
+          "cropInsetTop": "-0",
+          "startAnchorX": 0,
+          "startAnchorY": -0.000970874,
+          "endAnchorX": 1,
+          "endAnchorY": 1,
+          "scaleRatioX": 1,
+          "scaleRatioY": 1.00194
+        },
+        {
+          "path": "world/signs/olympus_screens/olympus_fish_10_col",
+          "posX": 1530,
+          "posY": 2256,
+          "width": 177,
+          "height": 527,
+          "renderWidth": 177,
+          "renderHeight": 528,
+          "cropInsetLeft": "-0",
+          "cropInsetTop": "-0",
+          "startAnchorX": 0,
+          "startAnchorY": -0.000948767,
+          "endAnchorX": 1,
+          "endAnchorY": 1,
+          "scaleRatioX": 1,
+          "scaleRatioY": 1.0019
+        },
+        {
+          "path": "world/signs/olympus_screens/olympus_fish_09_col",
+          "posX": 1530,
+          "posY": 2256,
+          "width": 177,
+          "height": 527,
+          "renderWidth": 177,
+          "renderHeight": 528,
+          "cropInsetLeft": "-0",
+          "cropInsetTop": "-0",
+          "startAnchorX": 0,
+          "startAnchorY": -0.000948767,
+          "endAnchorX": 1,
+          "endAnchorY": 1,
+          "scaleRatioX": 1,
+          "scaleRatioY": 1.0019
+        },
+        {
+          "path": "world/signs/olympus_screens/olympus_bonsai_petal_1",
+          "posX": 2868,
+          "posY": 753,
+          "width": 156,
+          "height": 174,
+          "renderWidth": 184,
+          "renderHeight": 200,
+          "cropInsetLeft": -0.0652174,
+          "cropInsetTop": -0.065,
+          "startAnchorX": -0.0801282,
+          "startAnchorY": -0.0775862,
+          "endAnchorX": 0.918478,
+          "endAnchorY": 0.94,
+          "scaleRatioX": 1.17949,
+          "scaleRatioY": 1.14943
+        }
+      ],
+      "unkCount": 0,
+      "unk": [
       ]
     }
   ]
