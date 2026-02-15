@@ -39078,6 +39078,10 @@
     },
     {
       "_type": "stgs",
+      "_path": "settings/itemflav/musicpack/arenas_default.rpak"
+    },
+    {
+      "_type": "stgs",
       "_path": "settings/itemflav/pack/battle_pass_season02_basic.rpak"
     },
     {
