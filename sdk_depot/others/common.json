@@ -10,6 +10,40 @@
   "files": [
     {
       "_type": "mdl_",
+      "_path": "mdl/fx/ar_warp_radius_1x5.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/loba_staff_des_pc_A.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/loba_staff_des_pc_B.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/loba_staff_des_pc_C.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/loba_staff_des_pc_D.rmdl"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xFF357EA3267F6056.rpak",
+      "$guid": "0xFF357EA3267F6056"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xDDECF4F12D2194A7.rpak",
+      "$guid": "0xDDECF4F12D2194A7"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/fx/ar_warp_radius_rgdp.rpak"
+    },
+    {
+      "_type": "mdl_",
       "_path": "mdl/props/madmaggie_tactical_drill_bit/madmaggie_tactical_drill_bit.rmdl",
       "$animrigs": [
         "animrig/props/madmaggie_tactical_drill_bit/madmaggie_tactical_drill_bit.rrig"
