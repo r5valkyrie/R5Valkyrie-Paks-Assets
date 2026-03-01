@@ -9,6 +9,14 @@
   "files": [
     {
       "_type": "mdl_",
+      "_path": "mdl/fx/ar_hazard_ring_z.rmdl"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/fx/ar_marker_hazard_z_rgdp.rpak"
+    },
+    {
+      "_type": "mdl_",
       "_path": "mdl/Weapons/madmaggie_ultimate_ball/ptpov_madmaggie_ultimate_ball.rmdl",
       "$animrigs": [
         "animrig/weapons/madmaggie_ultimate_ball/ptpov_madmaggie_ultimate_ball.rrig"
