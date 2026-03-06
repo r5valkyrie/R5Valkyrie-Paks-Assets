@@ -271,7 +271,7 @@
       "_type": "stgs",
       "_path": "settings/scriptAnimWindow/fx_mm_ball_spin_smk_hld_3P.rpak"
     },
-    {
+    /*{
       "_type": "stgs",
       "_path": "settings/itemflav/titan_skin/bt_default.rpak"
     },
@@ -286,7 +286,7 @@
     {
       "_type": "stgs",
       "_path": "settings/player/mp/titan_survival_buddy.rpak"
-    },
+    },*/
     {
       "_type": "anir",
       "_path": "anim_recording/survival_training_cave_to_platform.rpak"

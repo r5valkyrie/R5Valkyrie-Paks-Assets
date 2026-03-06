@@ -24,6 +24,11 @@
 
   "files": [
     {
+      "_type": "dtbl",
+      "_path": "datatable/0xC803BD35ABD0972B.rpak",
+      "$guid": "0xC803BD35ABD0972B"
+    },
+    {
       "_type": "shdr",
       "_path": "shader/0x11C9E928C65213E.rpak",
       "$guid": "0x11C9E928C65213E"
