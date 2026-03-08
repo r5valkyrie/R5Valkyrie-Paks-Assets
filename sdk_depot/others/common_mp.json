@@ -1,6 +1,6 @@
 {
   "version": 8,
-  "keepDevOnly": true,
+  "keepDevOnly": false,
   "name": "common_mp",
   "assetsDir": "sdk_depot/others/common_mp/",
   "outputDir": "./build/",

@@ -47,6 +47,7 @@
         "map_depot/mp_rr_arena_phase_runner.json",
         "map_depot/mp_rr_arena_skygarden.json",
         "map_depot/mp_rr_arena_habitat.json",
+        "map_depot/mp_rr_freedm_skulltown.json",
 
         "sdk_depot/others/flowstate/mp_rr_arena_empty.json"
     ]

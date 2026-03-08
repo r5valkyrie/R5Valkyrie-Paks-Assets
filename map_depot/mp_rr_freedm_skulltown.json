@@ -4,7 +4,7 @@
   "name": "mp_rr_freedm_skulltown",
   "streamFileMandatory": "paks/Win64/mp_rr_freedm_skulltown.starpak",
   "streamFileOptional": "paks/Win64/mp_rr_freedm_skulltown.opt.starpak",
-  "assetsDir": "./assets/mp_rr_freedm_skulltown/",
+  "assetsDir": "map_depot/assets/mp_rr_freedm_skulltown/",
   "outputDir": "./build/",
   "compressLevel": 0,
   "compressWorkers": 16,
@@ -13783,10 +13783,6 @@
       "_type": "txtr",
       "_path": "texture/0xFFE5B4732D23023A.rpak",
       "$guid": "0xFFE5B4732D23023A"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/ui_atlas/overviews/mp_rr_freedm_skulltown.rpak"
     },
     {
       "_type": "matl",
