@@ -18,7 +18,6 @@
     "paks": [
         //QUICK PATCHING FOR EXIST RPAKS
         "sdk_depot/others/common.json",
-        "sdk_depot/others/common_mp.json",
-        "sdk_depot/startup_sdk.json"
+        "sdk_depot/others/common_mp.json"
     ]
 }

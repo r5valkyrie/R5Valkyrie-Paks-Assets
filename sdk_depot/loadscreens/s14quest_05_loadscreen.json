@@ -1,0 +1,40 @@
+{
+  "$mapversion": 1,
+  "version": 8,
+
+  "assetsDir": "sdk_depot/assets_sdk/",
+  "outputDir": ".\\build\\",
+
+  "compressLevel": 6,
+  "compressWorkers": 16,
+
+  "name": "loadscreen_s14quest_05",
+
+  "files": [
+    {
+      "_type": "uimg",
+      "_path": "ui_image_atlas/loadscreens/loadscreen_s14quest_05",
+      "atlas": "texture/ui_atlas/loadscreens/loadscreen_s14quest_05.rpak",
+      "images": [
+        {
+          "path": "loadscreens/custom/loadscreen_s14quest_05",
+          "posX": 0,
+          "posY": 0,
+          "width": 1919,
+          "height": 1079,
+          "renderWidth": 1920,
+          "renderHeight": 1080,
+          "cropInsetLeft": "-0",
+          "cropInsetTop": "-0",
+          "startAnchorX": -0.000260552,
+          "startAnchorY": -0.000463392,
+          "endAnchorX": 1,
+          "endAnchorY": 1,
+          "scaleRatioX": 1.00052,
+          "scaleRatioY": 1.00093
+        }
+      ]
+    }
+
+  ]
+}

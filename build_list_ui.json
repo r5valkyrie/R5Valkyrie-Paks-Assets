@@ -66,6 +66,18 @@
         "map_depot/custom_sdk_4_loadscreen.json",
         "map_depot/custom_sdk_5_loadscreen.json",
         "map_depot/custom_sdk_6_loadscreen.json",
-        "map_depot/custom_sdk_7_loadscreen.json"
+        "map_depot/custom_sdk_7_loadscreen.json",
+
+        "sdk_depot/loadscreens/lore_bg_rift_inside_01.json",
+        "sdk_depot/loadscreens/s14quest_01_loadscreen.json",
+        "sdk_depot/loadscreens/s14quest_02_loadscreen.json",
+        "sdk_depot/loadscreens/s14quest_03_loadscreen.json",
+        "sdk_depot/loadscreens/s14quest_04_loadscreen.json",
+        "sdk_depot/loadscreens/s14quest_05_loadscreen.json",
+        "sdk_depot/loadscreens/s14quest_06_loadscreen.json",
+        "sdk_depot/loadscreens/s15quest_02_loadscreen.json",
+        "sdk_depot/loadscreens/s15quest_03_loadscreen.json",
+        "sdk_depot/loadscreens/s15quest_04_loadscreen.json",
+        "sdk_depot/loadscreens/s16quest_03_loadscreen.json"
     ]
 }

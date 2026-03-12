@@ -1,0 +1,23 @@
+{
+    "version": 8,
+    "keepDevOnly": false,
+    "hasDynamicLibrary": false,
+    "name": "ui_sdk",
+    "assetsDir": "assets_sdk/ui_v421_s16_rpak",
+    "outputDir": "./build/",
+    "showDebugInfo": false,
+    "buildDate": 4004773719,
+
+    "files": [
+        {
+            "_type": "uimg",
+            "_path": "ui_image_atlas/ui_atlas_lobby1.json",
+            "$guid": "0x14FA8DC20CF2CA35"
+        },
+        {
+            "_type": "uimg",
+            "_path": "ui_image_atlas/ui_atlas_lobby2.json",
+            "$guid": "0x12BF8E9E9FC9F083"
+        }
+    ]
+}

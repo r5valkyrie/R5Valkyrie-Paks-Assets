@@ -7,6 +7,189 @@
   "compressLevel": 6,
   "compressWorkers": 16,
   "files": [
+    {
+      "_type": "mdl_",
+      "_path": "mdl/levels_terrain/mp_lobby/mp_lobby_bundle_store_bg.rmdl"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x437D85A0C28F433C.rpak",
+      "$guid": "0x437D85A0C28F433C"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xEAC6D1365FD639AC.rpak",
+      "$guid": "0xEAC6D1365FD639AC"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x749A7F54B7FBF68B.rpak",
+      "$guid": "0x749A7F54B7FBF68B"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x18D91D53A31CAD7F.rpak",
+      "$guid": "0x18D91D53A31CAD7F"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x3425441A334C7BE7.rpak",
+      "$guid": "0x3425441A334C7BE7"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x84724D8837E85E5F.rpak",
+      "$guid": "0x84724D8837E85E5F"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xF5AD47E8B72FA062.rpak",
+      "$guid": "0xF5AD47E8B72FA062"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/ui/menu/main_menu/bundle_store_bg_common_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/ui/menu/main_menu/bundle_store_bg_epic_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/ui/menu/main_menu/bundle_store_bg_heirloom_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/ui/menu/main_menu/bundle_store_bg_legendary_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/ui/menu/main_menu/bundle_store_bg_rare_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/ui/menu/main_menu/bundle_store_bg_common_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/ui/menu/main_menu/bundle_store_bg_epic_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/ui/menu/main_menu/bundle_store_bg_heirloom_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/ui/menu/main_menu/bundle_store_bg_legendary_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/ui/menu/main_menu/bundle_store_bg_rare_rgdp.rpak"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x2BFCBD0A247BBD33.rpak",
+      "$guid": "0x2BFCBD0A247BBD33"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x19364CEC7B98746F.rpak",
+      "$guid": "0x19364CEC7B98746F"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/props/loot_bin/loot_bin_01_loba.rmdl",
+      "$sequences": [
+        "animseq/props/loot_bin/loot_bin_01_loba_close_all.rseq",
+        "animseq/props/loot_bin/loot_bin_01_loba_close_top.rseq",
+        "animseq/props/loot_bin/loot_bin_01_loba_open_all.rseq",
+        "animseq/props/loot_bin/loot_bin_01_loba_open_bottom.rseq",
+        "animseq/props/loot_bin/loot_bin_01_loba_open_top.rseq",
+        "animseq/props/loot_bin/loot_bin_01_loba_openidle_all.rseq",
+        "animseq/props/loot_bin/loot_bin_01_loba_openidle_top.rseq"
+      ]
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x16D6F9ACDF3460DB.rpak",
+      "$guid": "0x16D6F9ACDF3460DB"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x3CFA133CCD49565.rpak",
+      "$guid": "0x3CFA133CCD49565"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x847E88FECD239D2.rpak",
+      "$guid": "0x847E88FECD239D2"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xA2AE3833A0794B10.rpak",
+      "$guid": "0xA2AE3833A0794B10"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xBEE217A852D17644.rpak",
+      "$guid": "0xBEE217A852D17644"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xCF2F4F0BAF1E518D.rpak",
+      "$guid": "0xCF2F4F0BAF1E518D"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xD18C16309A47A6ED.rpak",
+      "$guid": "0xD18C16309A47A6ED"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xDBC6D1B7B8F62FAF.rpak",
+      "$guid": "0xDBC6D1B7B8F62FAF"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xEAC94C677A9A751F.rpak",
+      "$guid": "0xEAC94C677A9A751F"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/containers/loot_bin_01/loot_bin_02_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/containers/loot_bin_01/loot_bin_03_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/containers/loot_bin_01/loot_bin_04_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/containers/loot_bin_01/loot_bin_01_shimmer_02_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/containers/loot_bin_01/loot_bin_01_shimmer_03_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/containers/loot_bin_01/loot_bin_01_shimmer_04_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/containers/loot_bin_01/loot_bin_02_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/containers/loot_bin_01/loot_bin_03_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/containers/loot_bin_01/loot_bin_04_sknp.rpak"
+    },
      {
       "_type": "arig",
       "_path": "animrig/humans/pete_r2/pete_scripted_r5.rrig",
