@@ -2259,6 +2259,38 @@
     },
     {
       "_type": "dtbl",
+      "_path": "datatable/lore_sequence/season14/chapter1.rpak"
+    },
+    {
+      "_type": "dtbl",
+      "_path": "datatable/lore_sequence/season14/chapter2.rpak"
+    },
+    {
+      "_type": "dtbl",
+      "_path": "datatable/lore_sequence/season14/chapter3.rpak"
+    },
+    {
+      "_type": "dtbl",
+      "_path": "datatable/lore_sequence/season14/chapter4.rpak"
+    },
+    {
+      "_type": "dtbl",
+      "_path": "datatable/lore_sequence/season14/chapter5.rpak"
+    },
+    {
+      "_type": "dtbl",
+      "_path": "datatable/lore_sequence/season14/chapter6.rpak"
+    },
+    {
+      "_type": "dtbl",
+      "_path": "datatable/lore_sequence/season14/chapter7.rpak"
+    },
+    {
+      "_type": "dtbl",
+      "_path": "datatable/lore_sequence/season14/chapter8.rpak"
+    },
+    {
+      "_type": "dtbl",
       "_path": "datatable/lore_sequence/season15/chapter1.rpak"
     },
     {
@@ -33225,10 +33257,6 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/weapons_r5/misc_charms/charms_custom/charm_rampartr5r_colpass_sknp.rpak"
-    },
-    {
-      "_type": "matl",
       "_path": "material/models/weapons_r5/misc_charms/charms_halloween/clown_charm_halloween_colpass_sknp.rpak"
     },
     {
@@ -42718,10 +42746,6 @@
     {
       "_type": "matl",
       "_path": "material/models/weapons_r5/misc_charms/charms_bp/yeti_charm_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/weapons_r5/misc_charms/charms_custom/charm_rampartr5r_sknp.rpak"
     },
     {
       "_type": "matl",
@@ -127516,10 +127540,6 @@
     },
     {
       "_type": "mdl_",
-      "_path": "mdl/props/charm/charm_rampartr5r.rmdl"
-    },
-    {
-      "_type": "mdl_",
       "_path": "mdl/props/charm/charm_rank_diamond.rmdl"
     },
     {
@@ -131648,11 +131668,19 @@
     },
     {
       "_type": "stgs",
+      "_path": "settings/itemflav/voucher/s14_quest_piece.rpak"
+    },
+    {
+      "_type": "stgs",
       "_path": "settings/itemflav/voucher/s15_quest_piece.rpak"
     },
     {
       "_type": "stgs",
       "_path": "settings/itemflav/voucher/s16_quest_piece.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/quest/season14.rpak"
     },
     {
       "_type": "stgs",
@@ -131689,6 +131717,38 @@
     {
       "_type": "stgs",
       "_path": "settings/itemflav/quest_mission/s15/mission04.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/quest_mission/s14/mission01.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/quest_mission/s14/mission02.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/quest_mission/s14/mission03.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/quest_mission/s14/mission04.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/quest_mission/s14/mission05.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/quest_mission/s14/mission06.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/quest_mission/s14/mission07.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/quest_mission/s14/mission08.rpak"
     },
     {
       "_type": "stgs",
@@ -148405,10 +148465,6 @@
     {
       "_type": "stgs",
       "_path": "settings/itemflav/weapon_category/sniper.rpak"
-    },
-    {
-      "_type": "stgs",
-      "_path": "settings/itemflav/weapon_charm/charm_rampartr5r.rpak"
     },
     {
       "_type": "stgs",
