@@ -12,34 +12,14 @@
       "_path": "mdl/levels_terrain/mp_lobby/mp_lobby_bundle_store_bg.rmdl"
     },
     {
-      "_type": "shdr",
-      "_path": "shader/0x437D85A0C28F433C.rpak",
-      "$guid": "0x437D85A0C28F433C"
-    },
-    {
-      "_type": "shdr",
-      "_path": "shader/0xEAC6D1365FD639AC.rpak",
-      "$guid": "0xEAC6D1365FD639AC"
-    },
-    {
       "_type": "shds",
       "_path": "shaderset/0x749A7F54B7FBF68B.rpak",
       "$guid": "0x749A7F54B7FBF68B"
     },
     {
       "_type": "txtr",
-      "_path": "texture/0x18D91D53A31CAD7F.rpak",
-      "$guid": "0x18D91D53A31CAD7F"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0x3425441A334C7BE7.rpak",
       "$guid": "0x3425441A334C7BE7"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0x84724D8837E85E5F.rpak",
-      "$guid": "0x84724D8837E85E5F"
     },
     {
       "_type": "txtr",
@@ -1728,41 +1708,6 @@
       "_path": "mdl/Weapons/madmaggie_ultimate_ball/w_madmaggie_ultimate_ball.rmdl"
     },
     {
-      "_type": "txtr",
-      "_path": "texture/0x1D75AC3AB75A2F30.rpak",
-      "$guid": "0x1D75AC3AB75A2F30"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0x399B86870F77E21.rpak",
-      "$guid": "0x399B86870F77E21"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0x45B47A23E8B03CE5.rpak",
-      "$guid": "0x45B47A23E8B03CE5"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0x7267552F1A01D344.rpak",
-      "$guid": "0x7267552F1A01D344"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0xC93381FC9B1243B6.rpak",
-      "$guid": "0xC93381FC9B1243B6"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0xD741114B6AB0923.rpak",
-      "$guid": "0xD741114B6AB0923"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0xE51915A79177C91E.rpak",
-      "$guid": "0xE51915A79177C91E"
-    },
-    {
       "_type": "mdl_",
       "_path": "mdl/fx/mm_ball_explode_main.rmdl"
     },
@@ -1846,27 +1791,12 @@
       "_path": "material/particle/glows/glow_ring_01_db10_ptcu.rpak"
     },
     {
-      "_type": "matl",
-      "_path": "material/models/weapons_r5/misc_maggie_ball/maggie_ball_colpass_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/weapons_r5/misc_maggie_ball/maggie_ball_sknp.rpak"
-    },
-    {
       "_type": "mdl_",
       "_path": "mdl/fx/mm_ball_explode_pc1.rmdl"
     },
     {
       "_type": "mdl_",
       "_path": "mdl/fx/mm_ball_side.rmdl"
-    },
-    {
-      "_type": "mdl_",
-      "_path": "mdl/props/madmaggie_ultimate_ball/madmaggie_ultimate_ball.rmdl",
-      "$animrigs": [
-        "animrig/props/madmaggie_ultimate_ball/madmaggie_ultimate_ball.rrig"
-      ]
     },
     {
       "_type": "mdl_",
@@ -1889,22 +1819,6 @@
     {
       "_type": "arig",
       "_path": "animrig/props/madmaggie_ultimate_mine/madmaggie_ultimate_mine.rrig"
-    },
-    {
-      "_type": "arig",
-      "_path": "animrig/props/madmaggie_ultimate_ball/madmaggie_ultimate_ball.rrig",
-      "$sequences": [
-        "animseq/props/madmaggie_ultimate_ball/madmaggie_ultimate_ball/prop_madmaggie_gladcard_static_ultimate.rseq",
-        "animseq/props/madmaggie_ultimate_ball/madmaggie_ultimate_ball/prop_madmaggie_gladcard_static_ultwalk.rseq",
-        "animseq/props/madmaggie_ultimate_ball/madmaggie_ultimate_ball/prop_madmaggie_menu_lobby_left_idle.rseq",
-        "animseq/props/madmaggie_ultimate_ball/madmaggie_ultimate_ball/prop_ultball_madmaggie_ground_emote_chainswing_loop.rseq",
-        "animseq/props/madmaggie_ultimate_ball/madmaggie_ultimate_ball/prop_ultball_madmaggie_ground_emote_chainswing_start.rseq",
-        "animseq/props/madmaggie_ultimate_ball/madmaggie_ultimate_ball_animations/madmaggie_ultball_freefall_emote_knife_throw.rseq",
-        "animseq/props/madmaggie_ultimate_ball/madmaggie_ultimate_ball_animations/prop_ultball_madmaggie_execution_whipcord.rseq",
-        "animseq/props/madmaggie_ultimate_ball/madmaggie_ultimate_ball_animations/prop_ultball_madmaggie_execution_whipcord_loot.rseq",
-        "animseq/props/madmaggie_ultimate_ball/madmaggie_ultimate_ball_animations/ultimate_ball_expand.rseq",
-        "animseq/props/madmaggie_ultimate_ball/madmaggie_ultimate_ball_animations/ultimate_ball_idle.rseq"
-      ]
     },
     {
       "_type": "arig",
@@ -1954,23 +1868,7 @@
     },
     {
       "_type": "stgs",
-      "_path": "settings/scriptAnimWindow/fx_mm_ball_hndl_hld_3P.rpak"
-    },
-    {
-      "_type": "stgs",
-      "_path": "settings/scriptAnimWindow/fx_mm_ball_roll_spark.rpak"
-    },
-    {
-      "_type": "stgs",
-      "_path": "settings/scriptAnimWindow/fx_mm_ball_spin_rip_3P.rpak"
-    },
-    {
-      "_type": "stgs",
       "_path": "settings/scriptAnimWindow/fx_mm_ball_spin_smk_hld.rpak"
-    },
-    {
-      "_type": "stgs",
-      "_path": "settings/scriptAnimWindow/fx_mm_ball_spin_smk_hld_3P.rpak"
     },
     /*{
       "_type": "stgs",
@@ -2030,18 +1928,6 @@
       "$animrigs": [
         "animrig/creatures/flyer/flyer_kingscanyon_animated.rrig"
       ]
-    },
-    {
-      "_type": "mdl_",
-      "_path": "mdl/currency/crafting/currency_crafting_common.rmdl"
-    },
-    {
-      "_type": "mdl_",
-      "_path": "mdl/currency/crafting/currency_crafting_legendary.rmdl"
-    },
-    {
-      "_type": "mdl_",
-      "_path": "mdl/currency/crafting/currency_crafting_rare.rmdl"
     },
     {
       "_type": "mdl_",
@@ -2521,18 +2407,6 @@
         "animrig/humans/pete_r2/pilot_shared.rrig",
         "animrig/humans/pete/missing_apex_anims.rrig",
         "0x92079b00d5da2d6d"
-      ]
-    },
-    {
-      "_type": "mdl_",
-      "_path": "mdl/humans/pilots/pilot_medium_reaper_m.rmdl",
-      "$animrigs": [
-        "animrig/humans/pete_r2/pete_core.rrig",
-        "animrig/humans/pete_r2/human_male_anims_workspace.rrig",
-        "animrig/humans/pete_r2/pete_menu.rrig",
-        "0x92079b00d5da2d6d",
-        "animrig/humans/pete_r2/pete_scripted_r1.rrig",
-        "0xee84ac829245122d"
       ]
     },
     {
@@ -3214,38 +3088,8 @@
     },
     {
       "_type": "shdr",
-      "_path": "shader/0x186B34DAFE57A042.rpak",
-      "$guid": "0x186B34DAFE57A042"
-    },
-    {
-      "_type": "shdr",
-      "_path": "shader/0x197C37841993199D.rpak",
-      "$guid": "0x197C37841993199D"
-    },
-    {
-      "_type": "shdr",
-      "_path": "shader/0x19CC77985BC9B47F.rpak",
-      "$guid": "0x19CC77985BC9B47F"
-    },
-    {
-      "_type": "shdr",
-      "_path": "shader/0x1A4497842A856732.rpak",
-      "$guid": "0x1A4497842A856732"
-    },
-    {
-      "_type": "shdr",
-      "_path": "shader/0x1C94CC35B143B7D8.rpak",
-      "$guid": "0x1C94CC35B143B7D8"
-    },
-    {
-      "_type": "shdr",
       "_path": "shader/0x1F51FA6FFB209825.rpak",
       "$guid": "0x1F51FA6FFB209825"
-    },
-    {
-      "_type": "shdr",
-      "_path": "shader/0x1FF6B08431273D46.rpak",
-      "$guid": "0x1FF6B08431273D46"
     },
     {
       "_type": "shdr",
@@ -3269,18 +3113,8 @@
     },
     {
       "_type": "shdr",
-      "_path": "shader/0x259940F5C9D6E273.rpak",
-      "$guid": "0x259940F5C9D6E273"
-    },
-    {
-      "_type": "shdr",
       "_path": "shader/0x29EC2886782AF0B6.rpak",
       "$guid": "0x29EC2886782AF0B6"
-    },
-    {
-      "_type": "shdr",
-      "_path": "shader/0x35613401BB03356E.rpak",
-      "$guid": "0x35613401BB03356E"
     },
     {
       "_type": "shdr",
@@ -3309,18 +3143,8 @@
     },
     {
       "_type": "shdr",
-      "_path": "shader/0x4159EC72E1B10D1B.rpak",
-      "$guid": "0x4159EC72E1B10D1B"
-    },
-    {
-      "_type": "shdr",
       "_path": "shader/0x41B958C0F8699F8A.rpak",
       "$guid": "0x41B958C0F8699F8A"
-    },
-    {
-      "_type": "shdr",
-      "_path": "shader/0x491613748A1C6E9.rpak",
-      "$guid": "0x491613748A1C6E9"
     },
     {
       "_type": "shdr",
@@ -3334,23 +3158,8 @@
     },
     {
       "_type": "shdr",
-      "_path": "shader/0x5143DA011DE0B125.rpak",
-      "$guid": "0x5143DA011DE0B125"
-    },
-    {
-      "_type": "shdr",
-      "_path": "shader/0x5242A0BED31B401E.rpak",
-      "$guid": "0x5242A0BED31B401E"
-    },
-    {
-      "_type": "shdr",
       "_path": "shader/0x56F57CB30DB87719.rpak",
       "$guid": "0x56F57CB30DB87719"
-    },
-    {
-      "_type": "shdr",
-      "_path": "shader/0x584CFED135FA3165.rpak",
-      "$guid": "0x584CFED135FA3165"
     },
     {
       "_type": "shdr",
@@ -3394,11 +3203,6 @@
     },
     {
       "_type": "shdr",
-      "_path": "shader/0x68C80079E799D092.rpak",
-      "$guid": "0x68C80079E799D092"
-    },
-    {
-      "_type": "shdr",
       "_path": "shader/0x69B4F946EABEEC9A.rpak",
       "$guid": "0x69B4F946EABEEC9A"
     },
@@ -3414,23 +3218,8 @@
     },
     {
       "_type": "shdr",
-      "_path": "shader/0x736A827E1A789151.rpak",
-      "$guid": "0x736A827E1A789151"
-    },
-    {
-      "_type": "shdr",
       "_path": "shader/0x7463E7094ECFB626.rpak",
       "$guid": "0x7463E7094ECFB626"
-    },
-    {
-      "_type": "shdr",
-      "_path": "shader/0x7692E0C796AEB8C9.rpak",
-      "$guid": "0x7692E0C796AEB8C9"
-    },
-    {
-      "_type": "shdr",
-      "_path": "shader/0x77AA5404D86E3CF.rpak",
-      "$guid": "0x77AA5404D86E3CF"
     },
     {
       "_type": "shdr",
@@ -3451,16 +3240,6 @@
       "_type": "shdr",
       "_path": "shader/0x7AB4A078212138EC.rpak",
       "$guid": "0x7AB4A078212138EC"
-    },
-    {
-      "_type": "shdr",
-      "_path": "shader/0x7DA7ADB9873422AC.rpak",
-      "$guid": "0x7DA7ADB9873422AC"
-    },
-    {
-      "_type": "shdr",
-      "_path": "shader/0x7F799AE4D3E8FB78.rpak",
-      "$guid": "0x7F799AE4D3E8FB78"
     },
     {
       "_type": "shdr",
@@ -3489,48 +3268,8 @@
     },
     {
       "_type": "shdr",
-      "_path": "shader/0x88B9E07F1B5B43C.rpak",
-      "$guid": "0x88B9E07F1B5B43C"
-    },
-    {
-      "_type": "shdr",
-      "_path": "shader/0x88DD3B1C03887980.rpak",
-      "$guid": "0x88DD3B1C03887980"
-    },
-    {
-      "_type": "shdr",
-      "_path": "shader/0x8C243E35AD4B884B.rpak",
-      "$guid": "0x8C243E35AD4B884B"
-    },
-    {
-      "_type": "shdr",
-      "_path": "shader/0x91856A90CA154D72.rpak",
-      "$guid": "0x91856A90CA154D72"
-    },
-    {
-      "_type": "shdr",
       "_path": "shader/0x9246D0B7257BD939.rpak",
       "$guid": "0x9246D0B7257BD939"
-    },
-    {
-      "_type": "shdr",
-      "_path": "shader/0x93A8488A19501966.rpak",
-      "$guid": "0x93A8488A19501966"
-    },
-    {
-      "_type": "shdr",
-      "_path": "shader/0x943E4F9F63999F89.rpak",
-      "$guid": "0x943E4F9F63999F89"
-    },
-    {
-      "_type": "shdr",
-      "_path": "shader/0x94F9C7C370CDAB7A.rpak",
-      "$guid": "0x94F9C7C370CDAB7A"
-    },
-    {
-      "_type": "shdr",
-      "_path": "shader/0x976C859D119BA476.rpak",
-      "$guid": "0x976C859D119BA476"
     },
     {
       "_type": "shdr",
@@ -3579,11 +3318,6 @@
     },
     {
       "_type": "shdr",
-      "_path": "shader/0xA6AD15B64F2D783D.rpak",
-      "$guid": "0xA6AD15B64F2D783D"
-    },
-    {
-      "_type": "shdr",
       "_path": "shader/0xA7B9CA956A7BB532.rpak",
       "$guid": "0xA7B9CA956A7BB532"
     },
@@ -3591,16 +3325,6 @@
       "_type": "shdr",
       "_path": "shader/0xAEC7E1BE422B0A41.rpak",
       "$guid": "0xAEC7E1BE422B0A41"
-    },
-    {
-      "_type": "shdr",
-      "_path": "shader/0xAEDA116023E1126.rpak",
-      "$guid": "0xAEDA116023E1126"
-    },
-    {
-      "_type": "shdr",
-      "_path": "shader/0xB4A85EE48D07D104.rpak",
-      "$guid": "0xB4A85EE48D07D104"
     },
     {
       "_type": "shdr",
@@ -3616,11 +3340,6 @@
       "_type": "shdr",
       "_path": "shader/0xC57BA7775FF8856E.rpak",
       "$guid": "0xC57BA7775FF8856E"
-    },
-    {
-      "_type": "shdr",
-      "_path": "shader/0xC5A01E75AE3B386A.rpak",
-      "$guid": "0xC5A01E75AE3B386A"
     },
     {
       "_type": "shdr",
@@ -3664,23 +3383,8 @@
     },
     {
       "_type": "shdr",
-      "_path": "shader/0xD00098FC19D44DB4.rpak",
-      "$guid": "0xD00098FC19D44DB4"
-    },
-    {
-      "_type": "shdr",
       "_path": "shader/0xD07E25E6F12A0E3A.rpak",
       "$guid": "0xD07E25E6F12A0E3A"
-    },
-    {
-      "_type": "shdr",
-      "_path": "shader/0xD412229FD8A14E78.rpak",
-      "$guid": "0xD412229FD8A14E78"
-    },
-    {
-      "_type": "shdr",
-      "_path": "shader/0xD43FB7ACB05B05E9.rpak",
-      "$guid": "0xD43FB7ACB05B05E9"
     },
     {
       "_type": "shdr",
@@ -3689,38 +3393,8 @@
     },
     {
       "_type": "shdr",
-      "_path": "shader/0xD972EE713E93794B.rpak",
-      "$guid": "0xD972EE713E93794B"
-    },
-    {
-      "_type": "shdr",
-      "_path": "shader/0xDB6B0B4F1C37419A.rpak",
-      "$guid": "0xDB6B0B4F1C37419A"
-    },
-    {
-      "_type": "shdr",
-      "_path": "shader/0xDBCF528C95A03D94.rpak",
-      "$guid": "0xDBCF528C95A03D94"
-    },
-    {
-      "_type": "shdr",
       "_path": "shader/0xDC8278A23A76140B.rpak",
       "$guid": "0xDC8278A23A76140B"
-    },
-    {
-      "_type": "shdr",
-      "_path": "shader/0xDC91D1AB786F339C.rpak",
-      "$guid": "0xDC91D1AB786F339C"
-    },
-    {
-      "_type": "shdr",
-      "_path": "shader/0xDD7766565E17F6FB.rpak",
-      "$guid": "0xDD7766565E17F6FB"
-    },
-    {
-      "_type": "shdr",
-      "_path": "shader/0xE1AE4AB2C22C2A5C.rpak",
-      "$guid": "0xE1AE4AB2C22C2A5C"
     },
     {
       "_type": "shdr",
@@ -3773,21 +3447,6 @@
       "$guid": "0xF95075F4F6707360"
     },
     {
-      "_type": "shdr",
-      "_path": "shader/0xFEC15B665AAA1BEF.rpak",
-      "$guid": "0xFEC15B665AAA1BEF"
-    },
-    {
-      "_type": "shds",
-      "_path": "shaderset/0x11A078361F04045E.rpak",
-      "$guid": "0x11A078361F04045E"
-    },
-    {
-      "_type": "shds",
-      "_path": "shaderset/0x125FA9C891438CE.rpak",
-      "$guid": "0x125FA9C891438CE"
-    },
-    {
       "_type": "shds",
       "_path": "shaderset/0x16862555B68B37BD.rpak",
       "$guid": "0x16862555B68B37BD"
@@ -3801,11 +3460,6 @@
       "_type": "shds",
       "_path": "shaderset/0x1A2F7AD1329336CF.rpak",
       "$guid": "0x1A2F7AD1329336CF"
-    },
-    {
-      "_type": "shds",
-      "_path": "shaderset/0x1DB47093DFC6DD66.rpak",
-      "$guid": "0x1DB47093DFC6DD66"
     },
     {
       "_type": "shds",
@@ -3844,18 +3498,8 @@
     },
     {
       "_type": "shds",
-      "_path": "shaderset/0x2D6FD11B7FECA70F.rpak",
-      "$guid": "0x2D6FD11B7FECA70F"
-    },
-    {
-      "_type": "shds",
       "_path": "shaderset/0x2F1C134FB123F539.rpak",
       "$guid": "0x2F1C134FB123F539"
-    },
-    {
-      "_type": "shds",
-      "_path": "shaderset/0x32145A7614E9BBB6.rpak",
-      "$guid": "0x32145A7614E9BBB6"
     },
     {
       "_type": "shds",
@@ -3874,38 +3518,13 @@
     },
     {
       "_type": "shds",
-      "_path": "shaderset/0x3A1EF3D2B96E4C7E.rpak",
-      "$guid": "0x3A1EF3D2B96E4C7E"
-    },
-    {
-      "_type": "shds",
-      "_path": "shaderset/0x3A9785FF093C00F2.rpak",
-      "$guid": "0x3A9785FF093C00F2"
-    },
-    {
-      "_type": "shds",
       "_path": "shaderset/0x3ACD67B7F301C742.rpak",
       "$guid": "0x3ACD67B7F301C742"
     },
     {
       "_type": "shds",
-      "_path": "shaderset/0x3CD75ACA9E82C3EF.rpak",
-      "$guid": "0x3CD75ACA9E82C3EF"
-    },
-    {
-      "_type": "shds",
-      "_path": "shaderset/0x45021FB6BEC5B74C.rpak",
-      "$guid": "0x45021FB6BEC5B74C"
-    },
-    {
-      "_type": "shds",
       "_path": "shaderset/0x458D57644174B9AD.rpak",
       "$guid": "0x458D57644174B9AD"
-    },
-    {
-      "_type": "shds",
-      "_path": "shaderset/0x49B97C9EE64FD3F1.rpak",
-      "$guid": "0x49B97C9EE64FD3F1"
     },
     {
       "_type": "shds",
@@ -3929,28 +3548,13 @@
     },
     {
       "_type": "shds",
-      "_path": "shaderset/0x51139B99D540A0D5.rpak",
-      "$guid": "0x51139B99D540A0D5"
-    },
-    {
-      "_type": "shds",
       "_path": "shaderset/0x526E05525C873DA3.rpak",
       "$guid": "0x526E05525C873DA3"
     },
     {
       "_type": "shds",
-      "_path": "shaderset/0x527DE55675009E74.rpak",
-      "$guid": "0x527DE55675009E74"
-    },
-    {
-      "_type": "shds",
       "_path": "shaderset/0x532D217BD04D0EE7.rpak",
       "$guid": "0x532D217BD04D0EE7"
-    },
-    {
-      "_type": "shds",
-      "_path": "shaderset/0x57910C58DF4F31D4.rpak",
-      "$guid": "0x57910C58DF4F31D4"
     },
     {
       "_type": "shds",
@@ -3994,31 +3598,6 @@
     },
     {
       "_type": "shds",
-      "_path": "shaderset/0x68C6F3EB71E2F72.rpak",
-      "$guid": "0x68C6F3EB71E2F72"
-    },
-    {
-      "_type": "shds",
-      "_path": "shaderset/0x68E7C8DCF0BCEBAA.rpak",
-      "$guid": "0x68E7C8DCF0BCEBAA"
-    },
-    {
-      "_type": "shds",
-      "_path": "shaderset/0x6A5022A5CB03B678.rpak",
-      "$guid": "0x6A5022A5CB03B678"
-    },
-    {
-      "_type": "shds",
-      "_path": "shaderset/0x6D5A17414293C182.rpak",
-      "$guid": "0x6D5A17414293C182"
-    },
-    {
-      "_type": "shds",
-      "_path": "shaderset/0x6E979F2655AC160B.rpak",
-      "$guid": "0x6E979F2655AC160B"
-    },
-    {
-      "_type": "shds",
       "_path": "shaderset/0x7401587A9E1BB085.rpak",
       "$guid": "0x7401587A9E1BB085"
     },
@@ -4036,11 +3615,6 @@
       "_type": "shds",
       "_path": "shaderset/0x7C7EAE77967B02C9.rpak",
       "$guid": "0x7C7EAE77967B02C9"
-    },
-    {
-      "_type": "shds",
-      "_path": "shaderset/0x7D87B9AFB65DDA5A.rpak",
-      "$guid": "0x7D87B9AFB65DDA5A"
     },
     {
       "_type": "shds",
@@ -4076,11 +3650,6 @@
       "_type": "shds",
       "_path": "shaderset/0x856B5B099969FB59.rpak",
       "$guid": "0x856B5B099969FB59"
-    },
-    {
-      "_type": "shds",
-      "_path": "shaderset/0x89A5A7ADB0E1B0BF.rpak",
-      "$guid": "0x89A5A7ADB0E1B0BF"
     },
     {
       "_type": "shds",
@@ -4124,28 +3693,13 @@
     },
     {
       "_type": "shds",
-      "_path": "shaderset/0x9769957EBC59441D.rpak",
-      "$guid": "0x9769957EBC59441D"
-    },
-    {
-      "_type": "shds",
       "_path": "shaderset/0xA2C0D63B4C611DE6.rpak",
       "$guid": "0xA2C0D63B4C611DE6"
     },
     {
       "_type": "shds",
-      "_path": "shaderset/0xA34661CEE5B6726B.rpak",
-      "$guid": "0xA34661CEE5B6726B"
-    },
-    {
-      "_type": "shds",
       "_path": "shaderset/0xA3F6F4FAD61D3AAF.rpak",
       "$guid": "0xA3F6F4FAD61D3AAF"
-    },
-    {
-      "_type": "shds",
-      "_path": "shaderset/0xA61BEBD008EED093.rpak",
-      "$guid": "0xA61BEBD008EED093"
     },
     {
       "_type": "shds",
@@ -4179,11 +3733,6 @@
     },
     {
       "_type": "shds",
-      "_path": "shaderset/0xB6C7ED0BBB545CF2.rpak",
-      "$guid": "0xB6C7ED0BBB545CF2"
-    },
-    {
-      "_type": "shds",
       "_path": "shaderset/0xB8ECA287C4057752.rpak",
       "$guid": "0xB8ECA287C4057752"
     },
@@ -4214,16 +3763,6 @@
     },
     {
       "_type": "shds",
-      "_path": "shaderset/0xC42DB0A396D660F9.rpak",
-      "$guid": "0xC42DB0A396D660F9"
-    },
-    {
-      "_type": "shds",
-      "_path": "shaderset/0xC54841FD52285BA0.rpak",
-      "$guid": "0xC54841FD52285BA0"
-    },
-    {
-      "_type": "shds",
       "_path": "shaderset/0xC5C7AD158E8CE42B.rpak",
       "$guid": "0xC5C7AD158E8CE42B"
     },
@@ -4231,16 +3770,6 @@
       "_type": "shds",
       "_path": "shaderset/0xC5E64ADF1660347D.rpak",
       "$guid": "0xC5E64ADF1660347D"
-    },
-    {
-      "_type": "shds",
-      "_path": "shaderset/0xC5F15CA4785BB3C5.rpak",
-      "$guid": "0xC5F15CA4785BB3C5"
-    },
-    {
-      "_type": "shds",
-      "_path": "shaderset/0xC83612FF22E3DDD5.rpak",
-      "$guid": "0xC83612FF22E3DDD5"
     },
     {
       "_type": "shds",
@@ -4264,18 +3793,8 @@
     },
     {
       "_type": "shds",
-      "_path": "shaderset/0xD7058E8A57BA95F0.rpak",
-      "$guid": "0xD7058E8A57BA95F0"
-    },
-    {
-      "_type": "shds",
       "_path": "shaderset/0xDA2F6485C7DA7522.rpak",
       "$guid": "0xDA2F6485C7DA7522"
-    },
-    {
-      "_type": "shds",
-      "_path": "shaderset/0xDD2ED85BF669C514.rpak",
-      "$guid": "0xDD2ED85BF669C514"
     },
     {
       "_type": "shds",
@@ -4304,23 +3823,8 @@
     },
     {
       "_type": "shds",
-      "_path": "shaderset/0xE766B4942FBDD2E6.rpak",
-      "$guid": "0xE766B4942FBDD2E6"
-    },
-    {
-      "_type": "shds",
-      "_path": "shaderset/0xEBAA8606CB40A7FB.rpak",
-      "$guid": "0xEBAA8606CB40A7FB"
-    },
-    {
-      "_type": "shds",
       "_path": "shaderset/0xEBD5ECD1BEC05C6E.rpak",
       "$guid": "0xEBD5ECD1BEC05C6E"
-    },
-    {
-      "_type": "shds",
-      "_path": "shaderset/0xEC4255579ECE6B1A.rpak",
-      "$guid": "0xEC4255579ECE6B1A"
     },
     {
       "_type": "shds",
@@ -4339,16 +3843,6 @@
     },
     {
       "_type": "shds",
-      "_path": "shaderset/0xF2C77F9A19EEFDEF.rpak",
-      "$guid": "0xF2C77F9A19EEFDEF"
-    },
-    {
-      "_type": "shds",
-      "_path": "shaderset/0xF60DB1AFCFACF70C.rpak",
-      "$guid": "0xF60DB1AFCFACF70C"
-    },
-    {
-      "_type": "shds",
       "_path": "shaderset/0xF73A0125375F9958.rpak",
       "$guid": "0xF73A0125375F9958"
     },
@@ -4358,24 +3852,8 @@
       "$guid": "0xFA2CAFEE9F2644C6"
     },
     {
-      "_type": "txan",
-      "_path": "texture_anim/0x126F715D135AB2AB.rpak",
-      "$guid": "0x126F715D135AB2AB"
-    },
-    {
-      "_type": "txan",
-      "_path": "texture_anim/0x17B4792167C8EC7F.rpak",
-      "$guid": "0x17B4792167C8EC7F"
-    },
-    {
-      "_type": "txan",
-      "_path": "texture_anim/0xB9E85A6A89C7858B.rpak",
-      "$guid": "0xB9E85A6A89C7858B"
-    },
-    {
-      "_type": "txan",
-      "_path": "texture_anim/0xDF4F4EC67E57CEEF.rpak",
-      "$guid": "0xDF4F4EC67E57CEEF"
+      "_type": "dtbl",
+      "_path": "datatable/camera_settings.rpak"
     },
     {
       "_type": "dtbl",
@@ -4457,16 +3935,7 @@
       "_path": "texture/0x12EB21AC964CFEF8.rpak",
       "$guid": "0x12EB21AC964CFEF8"
     },
-    {
-      "_type": "txtr",
-      "_path": "texture/0x13D144489C128755.rpak",
-      "$guid": "0x13D144489C128755"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0x1435FC49285370A.rpak",
-      "$guid": "0x1435FC49285370A"
-    },
+
     {
       "_type": "txtr",
       "_path": "texture/0x148BBC055FF8C8FD.rpak",
@@ -4476,11 +3945,6 @@
       "_type": "txtr",
       "_path": "texture/0x14F4D7FC6EE4B774.rpak",
       "$guid": "0x14F4D7FC6EE4B774"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0x1502E307C2A7116B.rpak",
-      "$guid": "0x1502E307C2A7116B"
     },
     {
       "_type": "txtr",
@@ -4494,16 +3958,6 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0x15743CF39EB2AD37.rpak",
-      "$guid": "0x15743CF39EB2AD37"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0x15D5C0837ADB6071.rpak",
-      "$guid": "0x15D5C0837ADB6071"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0x167BB94F1C0B4F39.rpak",
       "$guid": "0x167BB94F1C0B4F39"
     },
@@ -4511,11 +3965,6 @@
       "_type": "txtr",
       "_path": "texture/0x16B4166A7588D164.rpak",
       "$guid": "0x16B4166A7588D164"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0x16C1407B3A1389FF.rpak",
-      "$guid": "0x16C1407B3A1389FF"
     },
     {
       "_type": "txtr",
@@ -4534,11 +3983,6 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0x1790A4EABE571217.rpak",
-      "$guid": "0x1790A4EABE571217"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0x17A57ABFF75F48DD.rpak",
       "$guid": "0x17A57ABFF75F48DD"
     },
@@ -4546,16 +3990,6 @@
       "_type": "txtr",
       "_path": "texture/0x17A99F8264496AB3.rpak",
       "$guid": "0x17A99F8264496AB3"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0x17BA96942845564F.rpak",
-      "$guid": "0x17BA96942845564F"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0x17CAA993039569B0.rpak",
-      "$guid": "0x17CAA993039569B0"
     },
     {
       "_type": "txtr",
@@ -4599,11 +4033,6 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0x1AA445D3735639E5.rpak",
-      "$guid": "0x1AA445D3735639E5"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0x1ACD50CDA22B1573.rpak",
       "$guid": "0x1ACD50CDA22B1573"
     },
@@ -4624,16 +4053,6 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0x1B87A14FB84AA478.rpak",
-      "$guid": "0x1B87A14FB84AA478"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0x1BF62E3FC3CBB291.rpak",
-      "$guid": "0x1BF62E3FC3CBB291"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0x1C88D6227654AE3.rpak",
       "$guid": "0x1C88D6227654AE3"
     },
@@ -4641,11 +4060,6 @@
       "_type": "txtr",
       "_path": "texture/0x1CD2B9F508F46A7E.rpak",
       "$guid": "0x1CD2B9F508F46A7E"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0x1CF6AB32A2ADE8F.rpak",
-      "$guid": "0x1CF6AB32A2ADE8F"
     },
     {
       "_type": "txtr",
@@ -4709,11 +4123,6 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0x20D14F806D5F8A51.rpak",
-      "$guid": "0x20D14F806D5F8A51"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0x215320FAABE25B61.rpak",
       "$guid": "0x215320FAABE25B61"
     },
@@ -4726,16 +4135,6 @@
       "_type": "txtr",
       "_path": "texture/0x21D9D1F925A38FDF.rpak",
       "$guid": "0x21D9D1F925A38FDF"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0x21F64F4691144E31.rpak",
-      "$guid": "0x21F64F4691144E31"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0x21F955F5883B714F.rpak",
-      "$guid": "0x21F955F5883B714F"
     },
     {
       "_type": "txtr",
@@ -4774,18 +4173,8 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0x22B89083448F5C38.rpak",
-      "$guid": "0x22B89083448F5C38"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0x22C983AE6CB49E50.rpak",
       "$guid": "0x22C983AE6CB49E50"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0x231A5FA45BA74D8.rpak",
-      "$guid": "0x231A5FA45BA74D8"
     },
     {
       "_type": "txtr",
@@ -4824,11 +4213,6 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0x2532A6131E636318.rpak",
-      "$guid": "0x2532A6131E636318"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0x25334A4501F17E8B.rpak",
       "$guid": "0x25334A4501F17E8B"
     },
@@ -4859,11 +4243,6 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0x2724311047E8E806.rpak",
-      "$guid": "0x2724311047E8E806"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0x277B31DC6A0D0128.rpak",
       "$guid": "0x277B31DC6A0D0128"
     },
@@ -4876,11 +4255,6 @@
       "_type": "txtr",
       "_path": "texture/0x282A56C3761E4057.rpak",
       "$guid": "0x282A56C3761E4057"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0x28553DED96C44DBF.rpak",
-      "$guid": "0x28553DED96C44DBF"
     },
     {
       "_type": "txtr",
@@ -4906,11 +4280,6 @@
       "_type": "txtr",
       "_path": "texture/0x29E195D747363512.rpak",
       "$guid": "0x29E195D747363512"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0x2A0E389C74504408.rpak",
-      "$guid": "0x2A0E389C74504408"
     },
     {
       "_type": "txtr",
@@ -4944,19 +4313,10 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0x2BD3AEA1B51FA48D.rpak",
-      "$guid": "0x2BD3AEA1B51FA48D"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0x2C22306A1D2CFCE1.rpak",
       "$guid": "0x2C22306A1D2CFCE1"
     },
-    {
-      "_type": "txtr",
-      "_path": "texture/0x2C8991276A7AE559.rpak",
-      "$guid": "0x2C8991276A7AE559"
-    },
+
     {
       "_type": "txtr",
       "_path": "texture/0x2C90D6BD1C9BE07F.rpak",
@@ -4974,11 +4334,6 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0x2E5FF63855F2B4E3.rpak",
-      "$guid": "0x2E5FF63855F2B4E3"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0x2E9D817FA2AB7C40.rpak",
       "$guid": "0x2E9D817FA2AB7C40"
     },
@@ -4986,11 +4341,6 @@
       "_type": "txtr",
       "_path": "texture/0x2EC575C0FCCB3426.rpak",
       "$guid": "0x2EC575C0FCCB3426"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0x2EE481058FDB62FB.rpak",
-      "$guid": "0x2EE481058FDB62FB"
     },
     {
       "_type": "txtr",
@@ -5006,11 +4356,6 @@
       "_type": "txtr",
       "_path": "texture/0x2F81CEACC73918A2.rpak",
       "$guid": "0x2F81CEACC73918A2"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0x2FCB8F3573B543B.rpak",
-      "$guid": "0x2FCB8F3573B543B"
     },
     {
       "_type": "txtr",
@@ -5069,16 +4414,6 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0x31F04FB2A928455B.rpak",
-      "$guid": "0x31F04FB2A928455B"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0x320A840CE870EF94.rpak",
-      "$guid": "0x320A840CE870EF94"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0x32264DF64CA090D5.rpak",
       "$guid": "0x32264DF64CA090D5"
     },
@@ -5114,11 +4449,6 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0x353D3DB4222162B4.rpak",
-      "$guid": "0x353D3DB4222162B4"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0x35B896A5908A62F3.rpak",
       "$guid": "0x35B896A5908A62F3"
     },
@@ -5141,16 +4471,6 @@
       "_type": "txtr",
       "_path": "texture/0x36928F8BF4E9587A.rpak",
       "$guid": "0x36928F8BF4E9587A"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0x3717C3621951B8BA.rpak",
-      "$guid": "0x3717C3621951B8BA"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0x371C0392B15A558A.rpak",
-      "$guid": "0x371C0392B15A558A"
     },
     {
       "_type": "txtr",
@@ -5194,18 +4514,8 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0x38EE5C3963427AF4.rpak",
-      "$guid": "0x38EE5C3963427AF4"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0x39115B72201C34E4.rpak",
       "$guid": "0x39115B72201C34E4"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0x3930D799E4F8CAED.rpak",
-      "$guid": "0x3930D799E4F8CAED"
     },
     {
       "_type": "txtr",
@@ -5239,11 +4549,6 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0x3B7E168220A75435.rpak",
-      "$guid": "0x3B7E168220A75435"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0x3C149A2B4C4E80FE.rpak",
       "$guid": "0x3C149A2B4C4E80FE"
     },
@@ -5264,18 +4569,8 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0x3E528DDED2052460.rpak",
-      "$guid": "0x3E528DDED2052460"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0x3E6643CFE882BBE6.rpak",
       "$guid": "0x3E6643CFE882BBE6"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0x3E69F569E0B44BED.rpak",
-      "$guid": "0x3E69F569E0B44BED"
     },
     {
       "_type": "txtr",
@@ -5314,28 +4609,8 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0x42244C52FAEA546E.rpak",
-      "$guid": "0x42244C52FAEA546E"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0x4289E54103DB8EE0.rpak",
-      "$guid": "0x4289E54103DB8EE0"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0x42D7941A43C068C5.rpak",
-      "$guid": "0x42D7941A43C068C5"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0x42E393EE2E5A0102.rpak",
       "$guid": "0x42E393EE2E5A0102"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0x4310DAF600C21BA5.rpak",
-      "$guid": "0x4310DAF600C21BA5"
     },
     {
       "_type": "txtr",
@@ -5369,16 +4644,6 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0x447F11048480051B.rpak",
-      "$guid": "0x447F11048480051B"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0x44EBEFCEA2C2FF55.rpak",
-      "$guid": "0x44EBEFCEA2C2FF55"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0x452588BC8803F6A.rpak",
       "$guid": "0x452588BC8803F6A"
     },
@@ -5406,11 +4671,6 @@
       "_type": "txtr",
       "_path": "texture/0x47C5FB188F0DC7E6.rpak",
       "$guid": "0x47C5FB188F0DC7E6"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0x48444E162667D6EF.rpak",
-      "$guid": "0x48444E162667D6EF"
     },
     {
       "_type": "txtr",
@@ -5494,16 +4754,6 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0x4D6508883EEFBDD6.rpak",
-      "$guid": "0x4D6508883EEFBDD6"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0x4D9F0D309CFD6D33.rpak",
-      "$guid": "0x4D9F0D309CFD6D33"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0x4E3BE16D98BA08D2.rpak",
       "$guid": "0x4E3BE16D98BA08D2"
     },
@@ -5549,11 +4799,6 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0x50B1D9C6D3161DE8.rpak",
-      "$guid": "0x50B1D9C6D3161DE8"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0x50C225C493F4A185.rpak",
       "$guid": "0x50C225C493F4A185"
     },
@@ -5561,11 +4806,6 @@
       "_type": "txtr",
       "_path": "texture/0x512DC87D76C9253F.rpak",
       "$guid": "0x512DC87D76C9253F"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0x51E4A7539DAF84A4.rpak",
-      "$guid": "0x51E4A7539DAF84A4"
     },
     {
       "_type": "txtr",
@@ -5619,16 +4859,6 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0x547A5CE4F51024EC.rpak",
-      "$guid": "0x547A5CE4F51024EC"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0x547DA188E52D6E08.rpak",
-      "$guid": "0x547DA188E52D6E08"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0x54AE785C8DE2A15.rpak",
       "$guid": "0x54AE785C8DE2A15"
     },
@@ -5636,11 +4866,6 @@
       "_type": "txtr",
       "_path": "texture/0x54F95606973DAC92.rpak",
       "$guid": "0x54F95606973DAC92"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0x54FC52EFF881337D.rpak",
-      "$guid": "0x54FC52EFF881337D"
     },
     {
       "_type": "txtr",
@@ -5669,11 +4894,6 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0x56020F0D5A869BA7.rpak",
-      "$guid": "0x56020F0D5A869BA7"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0x561E662DC14ABE8B.rpak",
       "$guid": "0x561E662DC14ABE8B"
     },
@@ -5681,11 +4901,6 @@
       "_type": "txtr",
       "_path": "texture/0x5708BC609C4774BD.rpak",
       "$guid": "0x5708BC609C4774BD"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0x572FFB9A70703948.rpak",
-      "$guid": "0x572FFB9A70703948"
     },
     {
       "_type": "txtr",
@@ -5704,18 +4919,8 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0x58476FF593D67BE6.rpak",
-      "$guid": "0x58476FF593D67BE6"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0x586EE22868FFC623.rpak",
       "$guid": "0x586EE22868FFC623"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0x5874ABCAD8BCA94A.rpak",
-      "$guid": "0x5874ABCAD8BCA94A"
     },
     {
       "_type": "txtr",
@@ -5744,11 +4949,6 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0x5A80D495F138C0D8.rpak",
-      "$guid": "0x5A80D495F138C0D8"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0x5AD674823BE96A0F.rpak",
       "$guid": "0x5AD674823BE96A0F"
     },
@@ -5766,11 +4966,6 @@
       "_type": "txtr",
       "_path": "texture/0x5BC1121D7FA0A3D3.rpak",
       "$guid": "0x5BC1121D7FA0A3D3"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0x5BC483388AD62F84.rpak",
-      "$guid": "0x5BC483388AD62F84"
     },
     {
       "_type": "txtr",
@@ -5829,11 +5024,6 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0x603CCA9479352469.rpak",
-      "$guid": "0x603CCA9479352469"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0x610D987E71216C50.rpak",
       "$guid": "0x610D987E71216C50"
     },
@@ -5864,18 +5054,8 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0x6439896EF637120E.rpak",
-      "$guid": "0x6439896EF637120E"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0x64667684051FC65C.rpak",
       "$guid": "0x64667684051FC65C"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0x64CF4D102DF8D381.rpak",
-      "$guid": "0x64CF4D102DF8D381"
     },
     {
       "_type": "txtr",
@@ -5894,18 +5074,8 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0x661B944045A8996E.rpak",
-      "$guid": "0x661B944045A8996E"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0x6647A0AAD6A2A08F.rpak",
       "$guid": "0x6647A0AAD6A2A08F"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0x66B47623B1B3EA2.rpak",
-      "$guid": "0x66B47623B1B3EA2"
     },
     {
       "_type": "txtr",
@@ -5974,11 +5144,6 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0x6B93866A4D988DEE.rpak",
-      "$guid": "0x6B93866A4D988DEE"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0x6BD1DA452285F845.rpak",
       "$guid": "0x6BD1DA452285F845"
     },
@@ -5991,11 +5156,6 @@
       "_type": "txtr",
       "_path": "texture/0x6C275CE55E9AEB6C.rpak",
       "$guid": "0x6C275CE55E9AEB6C"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0x6C387566B295B920.rpak",
-      "$guid": "0x6C387566B295B920"
     },
     {
       "_type": "txtr",
@@ -6014,11 +5174,6 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0x6D719A55DECDE97C.rpak",
-      "$guid": "0x6D719A55DECDE97C"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0x6DB24589DBF2710A.rpak",
       "$guid": "0x6DB24589DBF2710A"
     },
@@ -6026,11 +5181,6 @@
       "_type": "txtr",
       "_path": "texture/0x6DBA2B9E2DF27A1B.rpak",
       "$guid": "0x6DBA2B9E2DF27A1B"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0x6E264C2A15E85F65.rpak",
-      "$guid": "0x6E264C2A15E85F65"
     },
     {
       "_type": "txtr",
@@ -6061,11 +5211,6 @@
       "_type": "txtr",
       "_path": "texture/0x6F66CAAD6F5571AF.rpak",
       "$guid": "0x6F66CAAD6F5571AF"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0x6F87CF090CE90379.rpak",
-      "$guid": "0x6F87CF090CE90379"
     },
     {
       "_type": "txtr",
@@ -6159,11 +5304,6 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0x73CDF099D6F65746.rpak",
-      "$guid": "0x73CDF099D6F65746"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0x745DA662D2505566.rpak",
       "$guid": "0x745DA662D2505566"
     },
@@ -6209,11 +5349,6 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0x76370A067D95C274.rpak",
-      "$guid": "0x76370A067D95C274"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0x7659104C5CC30BD3.rpak",
       "$guid": "0x7659104C5CC30BD3"
     },
@@ -6229,11 +5364,6 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0x77AC55DCEAE0F06B.rpak",
-      "$guid": "0x77AC55DCEAE0F06B"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0x77FE8F86D51C3FF6.rpak",
       "$guid": "0x77FE8F86D51C3FF6"
     },
@@ -6241,11 +5371,6 @@
       "_type": "txtr",
       "_path": "texture/0x7840BE43BD1CAFC7.rpak",
       "$guid": "0x7840BE43BD1CAFC7"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0x7842E6ED9AA61265.rpak",
-      "$guid": "0x7842E6ED9AA61265"
     },
     {
       "_type": "txtr",
@@ -6286,16 +5411,6 @@
       "_type": "txtr",
       "_path": "texture/0x7A238A0C685BF3D6.rpak",
       "$guid": "0x7A238A0C685BF3D6"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0x7A287FF9F86B6250.rpak",
-      "$guid": "0x7A287FF9F86B6250"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0x7ACE835DD663361F.rpak",
-      "$guid": "0x7ACE835DD663361F"
     },
     {
       "_type": "txtr",
@@ -6384,11 +5499,6 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0x8084B7258A0BBA39.rpak",
-      "$guid": "0x8084B7258A0BBA39"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0x80CDD8F57E7701F4.rpak",
       "$guid": "0x80CDD8F57E7701F4"
     },
@@ -6414,11 +5524,6 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0x82194457E7FF909A.rpak",
-      "$guid": "0x82194457E7FF909A"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0x824387B17E0BE01E.rpak",
       "$guid": "0x824387B17E0BE01E"
     },
@@ -6441,11 +5546,6 @@
       "_type": "txtr",
       "_path": "texture/0x82DD8E02867A67A5.rpak",
       "$guid": "0x82DD8E02867A67A5"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0x82F43C82EFB31D42.rpak",
-      "$guid": "0x82F43C82EFB31D42"
     },
     {
       "_type": "txtr",
@@ -6479,11 +5579,6 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0x84AA5A5697B446EF.rpak",
-      "$guid": "0x84AA5A5697B446EF"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0x84E3CA7F3BED02E4.rpak",
       "$guid": "0x84E3CA7F3BED02E4"
     },
@@ -6494,16 +5589,6 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0x85A2CE7C639B92C7.rpak",
-      "$guid": "0x85A2CE7C639B92C7"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0x85B0ADD2DF4D23E5.rpak",
-      "$guid": "0x85B0ADD2DF4D23E5"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0x8654B5088F6EA68C.rpak",
       "$guid": "0x8654B5088F6EA68C"
     },
@@ -6511,11 +5596,6 @@
       "_type": "txtr",
       "_path": "texture/0x86907BFCC437A013.rpak",
       "$guid": "0x86907BFCC437A013"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0x872C3C94A298BA69.rpak",
-      "$guid": "0x872C3C94A298BA69"
     },
     {
       "_type": "txtr",
@@ -6591,11 +5671,6 @@
       "_type": "txtr",
       "_path": "texture/0x8A91CF0A8A574DBA.rpak",
       "$guid": "0x8A91CF0A8A574DBA"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0x8AA6E077008CC0EE.rpak",
-      "$guid": "0x8AA6E077008CC0EE"
     },
     {
       "_type": "txtr",
@@ -6704,11 +5779,6 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0x8F011A6A755B5C2F.rpak",
-      "$guid": "0x8F011A6A755B5C2F"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0x8F845E6713D9CD33.rpak",
       "$guid": "0x8F845E6713D9CD33"
     },
@@ -6716,11 +5786,6 @@
       "_type": "txtr",
       "_path": "texture/0x8F857300536E992B.rpak",
       "$guid": "0x8F857300536E992B"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0x8F9A054AF0895AF4.rpak",
-      "$guid": "0x8F9A054AF0895AF4"
     },
     {
       "_type": "txtr",
@@ -6734,33 +5799,13 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0x9130C89952C47858.rpak",
-      "$guid": "0x9130C89952C47858"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0x918D3ABBD9833B89.rpak",
       "$guid": "0x918D3ABBD9833B89"
     },
     {
       "_type": "txtr",
-      "_path": "texture/0x91BC73E0FE4609A.rpak",
-      "$guid": "0x91BC73E0FE4609A"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0x924B6F970DA0AFA8.rpak",
       "$guid": "0x924B6F970DA0AFA8"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0x924C3A4E18B7BB32.rpak",
-      "$guid": "0x924C3A4E18B7BB32"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0x930B8FFAF67D7AA5.rpak",
-      "$guid": "0x930B8FFAF67D7AA5"
     },
     {
       "_type": "txtr",
@@ -6781,11 +5826,6 @@
       "_type": "txtr",
       "_path": "texture/0x939E0A37AE2BB87E.rpak",
       "$guid": "0x939E0A37AE2BB87E"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0x93E8641785C45296.rpak",
-      "$guid": "0x93E8641785C45296"
     },
     {
       "_type": "txtr",
@@ -6821,11 +5861,6 @@
       "_type": "txtr",
       "_path": "texture/0x959974215DD57291.rpak",
       "$guid": "0x959974215DD57291"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0x95D47D9766959FC5.rpak",
-      "$guid": "0x95D47D9766959FC5"
     },
     {
       "_type": "txtr",
@@ -6904,11 +5939,6 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0x9A55E31980449EFC.rpak",
-      "$guid": "0x9A55E31980449EFC"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0x9A5E6913AB6CD2BF.rpak",
       "$guid": "0x9A5E6913AB6CD2BF"
     },
@@ -6956,11 +5986,6 @@
       "_type": "txtr",
       "_path": "texture/0x9E4E0F85E3A3E1AF.rpak",
       "$guid": "0x9E4E0F85E3A3E1AF"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0x9E586A779B7C4E27.rpak",
-      "$guid": "0x9E586A779B7C4E27"
     },
     {
       "_type": "txtr",
@@ -7034,11 +6059,6 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0xA2C42FC4B3FF1563.rpak",
-      "$guid": "0xA2C42FC4B3FF1563"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0xA2EC93CE54632438.rpak",
       "$guid": "0xA2EC93CE54632438"
     },
@@ -7049,18 +6069,8 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0xA3CC71246A46A646.rpak",
-      "$guid": "0xA3CC71246A46A646"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0xA42C69F54FBCB3E3.rpak",
       "$guid": "0xA42C69F54FBCB3E3"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0xA454DAC23E4B64EB.rpak",
-      "$guid": "0xA454DAC23E4B64EB"
     },
     {
       "_type": "txtr",
@@ -7124,11 +6134,6 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0xA6686507C770F9C1.rpak",
-      "$guid": "0xA6686507C770F9C1"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0xA673D84DA7A33EDD.rpak",
       "$guid": "0xA673D84DA7A33EDD"
     },
@@ -7144,43 +6149,13 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0xA6FB87E6340DC978.rpak",
-      "$guid": "0xA6FB87E6340DC978"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0xA716488B638D3F3F.rpak",
-      "$guid": "0xA716488B638D3F3F"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0xA7543B1D634EB484.rpak",
       "$guid": "0xA7543B1D634EB484"
     },
     {
       "_type": "txtr",
-      "_path": "texture/0xA75ACB864F6BD29.rpak",
-      "$guid": "0xA75ACB864F6BD29"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0xA77DFB129AB75C82.rpak",
-      "$guid": "0xA77DFB129AB75C82"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0xA7845887ECB86DB8.rpak",
-      "$guid": "0xA7845887ECB86DB8"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0xA78BD63B9AB1A89E.rpak",
       "$guid": "0xA78BD63B9AB1A89E"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0xA7C20D18D8FA92B9.rpak",
-      "$guid": "0xA7C20D18D8FA92B9"
     },
     {
       "_type": "txtr",
@@ -7289,11 +6264,6 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0xAD379230BB5D5098.rpak",
-      "$guid": "0xAD379230BB5D5098"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0xAD3CC807E8C7608D.rpak",
       "$guid": "0xAD3CC807E8C7608D"
     },
@@ -7304,18 +6274,8 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0xAD8D40750DE2F315.rpak",
-      "$guid": "0xAD8D40750DE2F315"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0xAE31256948CA1E3.rpak",
       "$guid": "0xAE31256948CA1E3"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0xAE417E3F766DC2ED.rpak",
-      "$guid": "0xAE417E3F766DC2ED"
     },
     {
       "_type": "txtr",
@@ -7334,18 +6294,8 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0xB06BD3612B5ADDFA.rpak",
-      "$guid": "0xB06BD3612B5ADDFA"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0xB0770DC957B7FC5E.rpak",
       "$guid": "0xB0770DC957B7FC5E"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0xB0A2E6FB5D2FB7CF.rpak",
-      "$guid": "0xB0A2E6FB5D2FB7CF"
     },
     {
       "_type": "txtr",
@@ -7359,18 +6309,8 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0xB1DD4D56C0D6CE62.rpak",
-      "$guid": "0xB1DD4D56C0D6CE62"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0xB1FF9E75F37E466F.rpak",
       "$guid": "0xB1FF9E75F37E466F"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0xB20B4CAC0C477907.rpak",
-      "$guid": "0xB20B4CAC0C477907"
     },
     {
       "_type": "txtr",
@@ -7434,11 +6374,6 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0xB5F0ABAF4C1EAD9C.rpak",
-      "$guid": "0xB5F0ABAF4C1EAD9C"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0xB5FD86CD2EBF2A10.rpak",
       "$guid": "0xB5FD86CD2EBF2A10"
     },
@@ -7489,18 +6424,8 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0xB8CCC24C804A169C.rpak",
-      "$guid": "0xB8CCC24C804A169C"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0xB8D81F464C5008.rpak",
       "$guid": "0xB8D81F464C5008"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0xB91796FF3AA681E1.rpak",
-      "$guid": "0xB91796FF3AA681E1"
     },
     {
       "_type": "txtr",
@@ -7517,11 +6442,7 @@
       "_path": "texture/0xB9657BF017E321D5.rpak",
       "$guid": "0xB9657BF017E321D5"
     },
-    {
-      "_type": "txtr",
-      "_path": "texture/0xB987A126BC1B4914.rpak",
-      "$guid": "0xB987A126BC1B4914"
-    },
+
     {
       "_type": "txtr",
       "_path": "texture/0xB9AC727C2C65A987.rpak",
@@ -7536,11 +6457,6 @@
       "_type": "txtr",
       "_path": "texture/0xBA0A4D4D9715F48A.rpak",
       "$guid": "0xBA0A4D4D9715F48A"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0xBA690F6CD40B3460.rpak",
-      "$guid": "0xBA690F6CD40B3460"
     },
     {
       "_type": "txtr",
@@ -7589,11 +6505,6 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0xBBF240D5AF4AEDDA.rpak",
-      "$guid": "0xBBF240D5AF4AEDDA"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0xBC0B12EBED99459B.rpak",
       "$guid": "0xBC0B12EBED99459B"
     },
@@ -7609,18 +6520,8 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0xBD06FFA2A2ECC110.rpak",
-      "$guid": "0xBD06FFA2A2ECC110"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0xBD44AFEDA9FADF9F.rpak",
       "$guid": "0xBD44AFEDA9FADF9F"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0xBD84ACA160E21399.rpak",
-      "$guid": "0xBD84ACA160E21399"
     },
     {
       "_type": "txtr",
@@ -7659,18 +6560,8 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0xC016E43E9C63068C.rpak",
-      "$guid": "0xC016E43E9C63068C"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0xC02F0FCE6C953216.rpak",
       "$guid": "0xC02F0FCE6C953216"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0xC0375ED28C1EFACA.rpak",
-      "$guid": "0xC0375ED28C1EFACA"
     },
     {
       "_type": "txtr",
@@ -7679,18 +6570,8 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0xC0B21C27C3C162C8.rpak",
-      "$guid": "0xC0B21C27C3C162C8"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0xC0BE225535218672.rpak",
       "$guid": "0xC0BE225535218672"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0xC0FA716F4D8F5DCA.rpak",
-      "$guid": "0xC0FA716F4D8F5DCA"
     },
     {
       "_type": "txtr",
@@ -7711,11 +6592,6 @@
       "_type": "txtr",
       "_path": "texture/0xC209D0658C7A2B67.rpak",
       "$guid": "0xC209D0658C7A2B67"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0xC23251897091B916.rpak",
-      "$guid": "0xC23251897091B916"
     },
     {
       "_type": "txtr",
@@ -7754,18 +6630,8 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0xC4823A75DD87F244.rpak",
-      "$guid": "0xC4823A75DD87F244"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0xC4D3FBA90449B9DB.rpak",
       "$guid": "0xC4D3FBA90449B9DB"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0xC56E68E87755DCA4.rpak",
-      "$guid": "0xC56E68E87755DCA4"
     },
     {
       "_type": "txtr",
@@ -7776,11 +6642,6 @@
       "_type": "txtr",
       "_path": "texture/0xC6263D297D8036DF.rpak",
       "$guid": "0xC6263D297D8036DF"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0xC63822B5F33FF1DD.rpak",
-      "$guid": "0xC63822B5F33FF1DD"
     },
     {
       "_type": "txtr",
@@ -7799,11 +6660,6 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0xC7DFC8EAD735E9D.rpak",
-      "$guid": "0xC7DFC8EAD735E9D"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0xC7E094B5A3F77D3.rpak",
       "$guid": "0xC7E094B5A3F77D3"
     },
@@ -7814,18 +6670,8 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0xC82396A0084B7702.rpak",
-      "$guid": "0xC82396A0084B7702"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0xC860A9F4C4F4BD42.rpak",
       "$guid": "0xC860A9F4C4F4BD42"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0xC8684F42E008310.rpak",
-      "$guid": "0xC8684F42E008310"
     },
     {
       "_type": "txtr",
@@ -7849,16 +6695,6 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0xC94CD89F4B51F228.rpak",
-      "$guid": "0xC94CD89F4B51F228"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0xCA0D1A45E02424A2.rpak",
-      "$guid": "0xCA0D1A45E02424A2"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0xCA2CF0C1856E896B.rpak",
       "$guid": "0xCA2CF0C1856E896B"
     },
@@ -7866,11 +6702,6 @@
       "_type": "txtr",
       "_path": "texture/0xCA32A8A277E3B64C.rpak",
       "$guid": "0xCA32A8A277E3B64C"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0xCA633AD3041BF051.rpak",
-      "$guid": "0xCA633AD3041BF051"
     },
     {
       "_type": "txtr",
@@ -7909,11 +6740,6 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0xCD89A39A38F5CD8.rpak",
-      "$guid": "0xCD89A39A38F5CD8"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0xCD97A7BB0327CE74.rpak",
       "$guid": "0xCD97A7BB0327CE74"
     },
@@ -7941,16 +6767,6 @@
       "_type": "txtr",
       "_path": "texture/0xCE24DB80D004E791.rpak",
       "$guid": "0xCE24DB80D004E791"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0xCE25A2D970D51A54.rpak",
-      "$guid": "0xCE25A2D970D51A54"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0xCEB96170309CBFE9.rpak",
-      "$guid": "0xCEB96170309CBFE9"
     },
     {
       "_type": "txtr",
@@ -8009,18 +6825,8 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0xD309CF4D6348144B.rpak",
-      "$guid": "0xD309CF4D6348144B"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0xD334ED1CF56C03CE.rpak",
       "$guid": "0xD334ED1CF56C03CE"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0xD36394F9341CA9AB.rpak",
-      "$guid": "0xD36394F9341CA9AB"
     },
     {
       "_type": "txtr",
@@ -8036,11 +6842,6 @@
       "_type": "txtr",
       "_path": "texture/0xD42D31D9A98BF30D.rpak",
       "$guid": "0xD42D31D9A98BF30D"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0xD43DE1961B1CB14D.rpak",
-      "$guid": "0xD43DE1961B1CB14D"
     },
     {
       "_type": "txtr",
@@ -8154,11 +6955,6 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0xDA906C080CAC06C6.rpak",
-      "$guid": "0xDA906C080CAC06C6"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0xDAC55FF3783E54C3.rpak",
       "$guid": "0xDAC55FF3783E54C3"
     },
@@ -8171,11 +6967,6 @@
       "_type": "txtr",
       "_path": "texture/0xDB35DA4552EE21CB.rpak",
       "$guid": "0xDB35DA4552EE21CB"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0xDB3C2A58754206E5.rpak",
-      "$guid": "0xDB3C2A58754206E5"
     },
     {
       "_type": "txtr",
@@ -8226,11 +7017,6 @@
       "_type": "txtr",
       "_path": "texture/0xDD8111A7879D4981.rpak",
       "$guid": "0xDD8111A7879D4981"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0xDDA8A6F71B62CF6F.rpak",
-      "$guid": "0xDDA8A6F71B62CF6F"
     },
     {
       "_type": "txtr",
@@ -8294,16 +7080,6 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0xDFFA81FB4B5521F1.rpak",
-      "$guid": "0xDFFA81FB4B5521F1"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0xE00D6E5F41B248B0.rpak",
-      "$guid": "0xE00D6E5F41B248B0"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0xE01C0ED926F34877.rpak",
       "$guid": "0xE01C0ED926F34877"
     },
@@ -8326,11 +7102,6 @@
       "_type": "txtr",
       "_path": "texture/0xE1D53BE4D7491312.rpak",
       "$guid": "0xE1D53BE4D7491312"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0xE1DF3ACBE6F3ABBD.rpak",
-      "$guid": "0xE1DF3ACBE6F3ABBD"
     },
     {
       "_type": "txtr",
@@ -8361,11 +7132,6 @@
       "_type": "txtr",
       "_path": "texture/0xE25D5CD54DCB9C49.rpak",
       "$guid": "0xE25D5CD54DCB9C49"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0xE2B2D3F113C7CC6D.rpak",
-      "$guid": "0xE2B2D3F113C7CC6D"
     },
     {
       "_type": "txtr",
@@ -8424,11 +7190,6 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0xE6CF70FB14F9915F.rpak",
-      "$guid": "0xE6CF70FB14F9915F"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0xE6EA94F3DFAEA2FD.rpak",
       "$guid": "0xE6EA94F3DFAEA2FD"
     },
@@ -8444,16 +7205,6 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0xE785634519B1CDAF.rpak",
-      "$guid": "0xE785634519B1CDAF"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0xE7F376E0CAF8D5BC.rpak",
-      "$guid": "0xE7F376E0CAF8D5BC"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0xE802883D9974B33C.rpak",
       "$guid": "0xE802883D9974B33C"
     },
@@ -8466,11 +7217,6 @@
       "_type": "txtr",
       "_path": "texture/0xE816786CAAF634A2.rpak",
       "$guid": "0xE816786CAAF634A2"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0xE86D8D1FE9BAA238.rpak",
-      "$guid": "0xE86D8D1FE9BAA238"
     },
     {
       "_type": "txtr",
@@ -8524,18 +7270,8 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0xEB28131868585D9E.rpak",
-      "$guid": "0xEB28131868585D9E"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0xEB403DBA0BEDC03B.rpak",
       "$guid": "0xEB403DBA0BEDC03B"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0xEC32427C78C49837.rpak",
-      "$guid": "0xEC32427C78C49837"
     },
     {
       "_type": "txtr",
@@ -8594,16 +7330,6 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0xEFE3AD8AA6C5A317.rpak",
-      "$guid": "0xEFE3AD8AA6C5A317"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0xEFFC10E8DCFF9EC9.rpak",
-      "$guid": "0xEFFC10E8DCFF9EC9"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0xF02FDB1C2A344AA1.rpak",
       "$guid": "0xF02FDB1C2A344AA1"
     },
@@ -8629,11 +7355,6 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0xF13C7E71DD0400E4.rpak",
-      "$guid": "0xF13C7E71DD0400E4"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0xF13DB259F4510C81.rpak",
       "$guid": "0xF13DB259F4510C81"
     },
@@ -8649,18 +7370,8 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0xF1C6A4733C4B457B.rpak",
-      "$guid": "0xF1C6A4733C4B457B"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0xF208FB5561E6057B.rpak",
       "$guid": "0xF208FB5561E6057B"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0xF24115F8F08B211.rpak",
-      "$guid": "0xF24115F8F08B211"
     },
     {
       "_type": "txtr",
@@ -8686,11 +7397,6 @@
       "_type": "txtr",
       "_path": "texture/0xF39DD4EA18D1A42F.rpak",
       "$guid": "0xF39DD4EA18D1A42F"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0xF419BFCFD9B26E68.rpak",
-      "$guid": "0xF419BFCFD9B26E68"
     },
     {
       "_type": "txtr",
@@ -8746,11 +7452,6 @@
       "_type": "txtr",
       "_path": "texture/0xF96F639CD22EEADA.rpak",
       "$guid": "0xF96F639CD22EEADA"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0xF98F955F28AE474A.rpak",
-      "$guid": "0xF98F955F28AE474A"
     },
     {
       "_type": "txtr",
@@ -8814,11 +7515,6 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0xFBA262E26572B760.rpak",
-      "$guid": "0xFBA262E26572B760"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0xFBAC9C4D102A1145.rpak",
       "$guid": "0xFBAC9C4D102A1145"
     },
@@ -8864,11 +7560,6 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0xFD83FF227040AC48.rpak",
-      "$guid": "0xFD83FF227040AC48"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0xFDCA42AD6C3E2D72.rpak",
       "$guid": "0xFDCA42AD6C3E2D72"
     },
@@ -8876,11 +7567,6 @@
       "_type": "txtr",
       "_path": "texture/0xFDCE72438745746F.rpak",
       "$guid": "0xFDCE72438745746F"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0xFDDEA1B6FEFD558E.rpak",
-      "$guid": "0xFDDEA1B6FEFD558E"
     },
     {
       "_type": "txtr",
@@ -9208,10 +7894,6 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/containers/loot_bin_01/loot_bin_01_colpass_sknp.rpak"
-    },
-    {
-      "_type": "matl",
       "_path": "material/models/containers/loot_bin_01/loot_bin_01_gold_colpass_sknp.rpak"
     },
     {
@@ -9253,18 +7935,6 @@
     {
       "_type": "matl",
       "_path": "material/models/creatures_r5/flyer/yellow/flyer_wings_yellow_colpass_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/currency/crafting/crafting_common_colpass_rgdp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/currency/crafting/crafting_legendary_colpass_rgdp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/currency/crafting/crafting_rare_colpass_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -9688,10 +8358,6 @@
     },
     {
       "_type": "matl",
-      "_path": "material/fx/ar_sonar_pulse_ground_rgdp.rpak"
-    },
-    {
-      "_type": "matl",
       "_path": "material/fx/ar_survival_radius_B_rgdp.rpak"
     },
     {
@@ -9701,10 +8367,6 @@
     {
       "_type": "matl",
       "_path": "material/fx/ar_survival_radius_F_v2_rgdp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/fx/bb_shield_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -9725,10 +8387,6 @@
     {
       "_type": "matl",
       "_path": "material/fx/medic_shield_wall_rgdp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/fx/phase_tunnel_player_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -9784,10 +8442,6 @@
     },
     {
       "_type": "matl",
-      "_path": "material/hud/grenade_indicator/grenade_indicator_frag_rgdp.rpak"
-    },
-    {
-      "_type": "matl",
       "_path": "material/hud/grenade_indicator/grenade_indicator_frag_sknp.rpak"
     },
     {
@@ -9824,14 +8478,6 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/containers/loot_bin_01/loot_bin_01_shimmer_01_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/containers/loot_bin_01/loot_bin_01_sknp.rpak"
-    },
-    {
-      "_type": "matl",
       "_path": "material/models/creatures_r5/flyer/flyer_body_base_mu1_night_sknp.rpak"
     },
     {
@@ -9861,18 +8507,6 @@
     {
       "_type": "matl",
       "_path": "material/models/creatures_r5/flyer/yellow/flyer_wings_yellow_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/currency/crafting/crafting_common_rgdp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/currency/crafting/crafting_legendary_rgdp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/currency/crafting/crafting_rare_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -10272,10 +8906,6 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/vehicle/straton/gunship_afterburner_rgdp.rpak"
-    },
-    {
-      "_type": "matl",
       "_path": "material/models/vehicles_r2/aircraft/goblin_dropship/goblin_dropship_1_big_holo_rgdp.rpak"
     },
     {
@@ -10309,10 +8939,6 @@
     {
       "_type": "matl",
       "_path": "material/models/vehicles_r5/air/dropship_goblin/dropship_goblin_v2_map2_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/vehicles_r5/air/drop_pod_loot/drop_pod_loot_afterburner_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -10457,426 +9083,6 @@
     {
       "_type": "matl",
       "_path": "material/models/weapons_r5/peace_keeper/peacekeeper_legendary_06_ice_add_rgdp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/beam/beam_energy_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/beam/electric_arc_add_OB6_db16_ptcs.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/beam/electric_arc_add_OB6_noTSAA_ptcs.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/beam/electric_arc_add_OB6_ptcs.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/beam/elec_arc_512_add_OB24_db5_dist_fade_ptcs.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/beam/laser_cannon_orient4_ptcs.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/beam/straight_beam_add_OB6_ptcs.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/beam/straight_beam_add_OB6_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/beam/straight_beam_wide_add_ptcs.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/blood/blood_erode_trail_neb_ptcs.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/blood/goop_anim_spray_01_db60_noDofTSAA_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/blood/splatter_erode_blood_trail_db20_ptcs.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/dirt/dirt_grit_add_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/electric_arc/electric_arc_white_OB3_noz_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/electric_arc/elec_arc_trail_ramp_noTSAA_ptcs.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/Energy/energy_burn_loop_add_db_10_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/Energy/energy_goop_ramp_blue_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/Energy/energy_nebula_trail_add_01_ptcs.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/Energy/energy_neb_ramp_white_ob20_dist_fade_ptcs.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/Energy/energy_ring_ramp_thin_db10_ob20_nofog_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/explosions/exp_burst_alpha_full_ob_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/explosions/exp_fire_alpha_full_noz_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/explosions/exp_fire_ramp_blue_noDB_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/explosions/exp_fire_ramp_green_noDB_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/explosions/exp_fire_ramp_red_add_db_10_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/explosions/exp_fire_ramp_red_db_50_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/explosions/exp_fire_ramp_red_noDB_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/explosions/exp_fire_ramp_white_db_50_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/fire/fire_dir_rand_db5_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/fire/fire_dir_rand_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/fire/fire_dir_rand_trail_db20_ptcs.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/fire/fire_dir_rand_trail_db5_ptcs.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/glows/afterburner_blue_ptcs.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/glows/afterburner_white_db5_ptcs.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/glows/afterburner_white_sc_db50_ptcs.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/glows/flare_hex01_add_NOZ_15OB_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/glows/flare_hex_crisp_DB10_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/glows/flare_hex_crisp_DB256_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/glows/glare_spike_add_NOZ_nodoftsaa_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/glows/glare_spike_add_noz_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/glows/glare_spike_trail_add_noz_ptcs.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/glows/glare_spike_trail_db1024_nofog_ptcs.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/glows/glare_spike_trail_db64_nofog_ptcs.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/glows/glare_spike_trail_ob6_db5_ptcs.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/glows/glare_spike_trail_ob6_noz_ptcs.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/glows/glow_pointlight_blend_ob10_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/glows/glow_ring_01_blend_noDB_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/glows/glow_round_soft_OB6_DB10_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/glows/glow_soft_linear_blend_noz_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/glows/glow_soft_linear_blend_trail_db1024_ptcs.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/glows/glow_soft_linear_blend_z_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/glows/glow_soft_linear_db512_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/glows/glow_soft_linear_DB60_NearCull_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/glows/light_beam01_add_16OB_noz_ptcs.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/glows/light_beam01_add_db5_ptcs.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/glows/light_beam01_add_db64_ptcs.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/glows/light_beam01_add_db_50_ptcs.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/glows/light_beam01_add_ob15_db5_ptcs.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/glows/rectangle_glow_01_trail_ob15_noz_ptcs.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/icons/ar_lessthan_noz_noDofTSAA_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/icons/ar_lessthan_noz_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/icons/ar_marker_arrow_OB6_noz_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/icons/ar_marker_arrow_OB6_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/icons/ar_marker_base_OB6_noz_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/icons/ar_marker_base_OB6_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/icons/ar_marker_reverse_OB6_noz_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/icons/ar_marker_reverse_OB6_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/icons/ar_marker_reverse_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/icons/ar_marker_triangle_base_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/icons/circle_indicator_01_alpha_ob8_noz_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/icons/menu_broken_ring_02_OB6_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/icons/menu_broken_ring_03_OB6_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/icons/menu_hazard_ring_01_OB6_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/icons/menu_ring_thin_OB16_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/icons/overhead_icon_ai_friendly_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/icons/white_square_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/muzzleflash/flash_round_01_OB_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/projected/rocket_strike_flat_min008_NOZ_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/ramps/smokecharge02_basicwhite_ramp_thin_ob10_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/refract/heat_nml_alpha_trail_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/refract/mosaic_distort_NOZ_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/refract/mosaic_distort_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/refract/refract_simple_flat_01_trail_noz_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/refract/warpjump_screen_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/smoke/burst_02_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/smoke/fog_thin_perlin_add_db128_nearcull_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/smoke/fog_thin_perlin_add_DB4_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/smoke/fog_thin_perlin_add_DB60_near1_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/smoke/rocket_trail_128x256_add_ptcs.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/smoke/rocket_trail_128x256_nofog_doDOF_ptcs.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/smoke/rocket_trail_soft_edge_add_ptcs.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/smoke/rocket_trail_soft_edge_db20_ptcs.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/smoke/rocket_trail_soft_edge_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/smoke/smoke_puff_01_DB256_nearcull_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/smoke/smoke_puff_01_noz_noDOF_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/sparks/glow_spark_01_add_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/sparks/sparksheet_db5_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/sparks/sparksheet_nodoftsaa_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/star_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/swipes/energy_swipe_quarter_ob_db5_white_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/swipes/swipe_beam_01_ptcs.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/water/rain_streak_trail_noz_ptcs.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/water/water_splash_erode_ptcu.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/wildlife/bird_smoke_ptcs.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/particle/wildlife/blackbird_side_ptcu.rpak"
     },
     {
       "_type": "matl",
@@ -11045,10 +9251,6 @@
     {
       "_type": "matl",
       "_path": "material/world/s2s/s2s_wall_trim_01_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/world/signs/beacon_screens/beacon_big_screen_animation_01_rgdp.rpak"
     },
     {
       "_type": "matl",
@@ -15475,3 +13677,5 @@
     }
   ]
 }
+
+
