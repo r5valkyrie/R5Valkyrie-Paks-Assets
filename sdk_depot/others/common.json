@@ -2287,10 +2287,6 @@
     },
     {
       "_type": "dtbl",
-      "_path": "datatable/camera_settings.rpak"
-    },
-    {
-      "_type": "dtbl",
       "_path": "datatable/milestones/battlepass_season16_milestone.rpak"
     },
     {
@@ -67343,11 +67339,6 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0x31F04FB2A928455B.rpak",
-      "$guid": "0x31F04FB2A928455B"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0x31F1B4736D1886B7.rpak",
       "$guid": "0x31F1B4736D1886B7"
     },
@@ -126785,6 +126776,152 @@
       ]
     },
     {
+      "_type": "txtr",
+      "_path": "texture/0x1435FC49285370A.rpak",
+      "$guid": "0x1435FC49285370A"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x1BF62E3FC3CBB291.rpak",
+      "$guid": "0x1BF62E3FC3CBB291"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x2532A6131E636318.rpak",
+      "$guid": "0x2532A6131E636318"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x28553DED96C44DBF.rpak",
+      "$guid": "0x28553DED96C44DBF"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x2C8991276A7AE559.rpak",
+      "$guid": "0x2C8991276A7AE559"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x31F04FB2A928455B.rpak",
+      "$guid": "0x31F04FB2A928455B"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x3717C3621951B8BA.rpak",
+      "$guid": "0x3717C3621951B8BA"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x44EBEFCEA2C2FF55.rpak",
+      "$guid": "0x44EBEFCEA2C2FF55"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x6439896EF637120E.rpak",
+      "$guid": "0x6439896EF637120E"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x8F011A6A755B5C2F.rpak",
+      "$guid": "0x8F011A6A755B5C2F"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xA454DAC23E4B64EB.rpak",
+      "$guid": "0xA454DAC23E4B64EB"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xA7845887ECB86DB8.rpak",
+      "$guid": "0xA7845887ECB86DB8"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xAE417E3F766DC2ED.rpak",
+      "$guid": "0xAE417E3F766DC2ED"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xB20B4CAC0C477907.rpak",
+      "$guid": "0xB20B4CAC0C477907"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xB987A126BC1B4914.rpak",
+      "$guid": "0xB987A126BC1B4914"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xC0FA716F4D8F5DCA.rpak",
+      "$guid": "0xC0FA716F4D8F5DCA"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xC63822B5F33FF1DD.rpak",
+      "$guid": "0xC63822B5F33FF1DD"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xCA0D1A45E02424A2.rpak",
+      "$guid": "0xCA0D1A45E02424A2"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xDB3C2A58754206E5.rpak",
+      "$guid": "0xDB3C2A58754206E5"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xF419BFCFD9B26E68.rpak",
+      "$guid": "0xF419BFCFD9B26E68"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xFBA262E26572B760.rpak",
+      "$guid": "0xFBA262E26572B760"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xFD83FF227040AC48.rpak",
+      "$guid": "0xFD83FF227040AC48"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/currency/crafting/crafting_common_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/currency/crafting/crafting_legendary_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/currency/crafting/crafting_rare_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/currency/crafting/crafting_common_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/currency/crafting/crafting_legendary_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/currency/crafting/crafting_rare_colpass_rgdp.rpak"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/currency/crafting/currency_crafting_common.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/currency/crafting/currency_crafting_legendary.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/currency/crafting/currency_crafting_rare.rmdl"
+    },
+    {
       "_type": "mdl_",
       "_path": "mdl/currency/crafting/currency_crafting_epic.rmdl"
     },
@@ -134652,10 +134789,6 @@
     {
       "_type": "stgs",
       "_path": "settings/itemflav/character_execution/bangalore/prototype1.rpak"
-    },
-    {
-      "_type": "stgs",
-      "_path": "settings/itemflav/character_execution/bangalore/prototype2.rpak"
     },
     {
       "_type": "stgs",
