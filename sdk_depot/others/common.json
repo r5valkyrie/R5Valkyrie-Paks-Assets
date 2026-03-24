@@ -8,6 +8,107 @@
   "compressWorkers": 16,
 
   "files": [
+        {
+      "_type": "mdl_",
+      "_path": "mdl/props/catalyst_orb/catalyst_orb_loc_v22_base.rmdl",
+      "$animrigs": [
+        "animrig/props/catalyst_orb/catalyst_orb_loc_v22_animrig.rrig"
+      ]
+    },
+    {
+      "_type": "arig",
+      "_path": "animrig/props/catalyst_orb/catalyst_orb_loc_v22_animrig.rrig",
+      "$sequences": [
+        "animseq/props/catalyst_orb/catalyst_orb_loc_v22_animrig/catalyst_ground_emote_moonLounge_orb.rseq",
+        "animseq/props/catalyst_orb/catalyst_orb_loc_v22_animrig/catalyst_ground_emote_moonLounge_orb_loop.rseq",
+        "animseq/props/catalyst_orb/catalyst_orb_loc_v22_animrig/catalyst_orb_crouch_idle_UA.rseq",
+        "animseq/props/catalyst_orb/catalyst_orb_loc_v22_animrig/catalyst_orb_crouchWalk_UA_F.rseq",
+        "animseq/props/catalyst_orb/catalyst_orb_loc_v22_animrig/catalyst_orb_float_UA_B.rseq",
+        "animseq/props/catalyst_orb/catalyst_orb_loc_v22_animrig/catalyst_orb_float_UA_F.rseq",
+        "animseq/props/catalyst_orb/catalyst_orb_loc_v22_animrig/catalyst_orb_idle_twitch01_UA.rseq",
+        "animseq/props/catalyst_orb/catalyst_orb_loc_v22_animrig/catalyst_orb_idle_twitch02_UA.rseq",
+        "animseq/props/catalyst_orb/catalyst_orb_loc_v22_animrig/catalyst_orb_idle_UA.rseq",
+        "animseq/props/catalyst_orb/catalyst_orb_loc_v22_animrig/catalyst_orb_jump_UA_airsprint.rseq",
+        "animseq/props/catalyst_orb/catalyst_orb_loc_v22_animrig/catalyst_orb_jump_UA_B.rseq",
+        "animseq/props/catalyst_orb/catalyst_orb_loc_v22_animrig/catalyst_orb_jump_UA_F.rseq",
+        "animseq/props/catalyst_orb/catalyst_orb_loc_v22_animrig/catalyst_orb_land_UA.rseq",
+        "animseq/props/catalyst_orb/catalyst_orb_loc_v22_animrig/catalyst_orb_land_UA_B.rseq",
+        "animseq/props/catalyst_orb/catalyst_orb_loc_v22_animrig/catalyst_orb_land_UA_F.rseq",
+        "animseq/props/catalyst_orb/catalyst_orb_loc_v22_animrig/catalyst_orb_land_UA_sprinting.rseq",
+        "animseq/props/catalyst_orb/catalyst_orb_loc_v22_animrig/catalyst_orb_landHigh_UA.rseq",
+        "animseq/props/catalyst_orb/catalyst_orb_loc_v22_animrig/catalyst_orb_landHigh_UA_F.rseq",
+        "animseq/props/catalyst_orb/catalyst_orb_loc_v22_animrig/catalyst_orb_landHigh_UA_sprinting.rseq",
+        "animseq/props/catalyst_orb/catalyst_orb_loc_v22_animrig/catalyst_orb_landLow_UA.rseq",
+        "animseq/props/catalyst_orb/catalyst_orb_loc_v22_animrig/catalyst_orb_landLow_UA_F.rseq",
+        "animseq/props/catalyst_orb/catalyst_orb_loc_v22_animrig/catalyst_orb_landLow_UA_sprinting.rseq",
+        "animseq/props/catalyst_orb/catalyst_orb_loc_v22_animrig/catalyst_orb_landMed_UA.rseq",
+        "animseq/props/catalyst_orb/catalyst_orb_loc_v22_animrig/catalyst_orb_landMed_UA_F.rseq",
+        "animseq/props/catalyst_orb/catalyst_orb_loc_v22_animrig/catalyst_orb_landMed_UA_sprinting.rseq",
+        "animseq/props/catalyst_orb/catalyst_orb_loc_v22_animrig/catalyst_orb_melee01_UA.rseq",
+        "animseq/props/catalyst_orb/catalyst_orb_loc_v22_animrig/catalyst_orb_melee02_UA.rseq",
+        "animseq/props/catalyst_orb/catalyst_orb_loc_v22_animrig/catalyst_orb_melee03_UA.rseq",
+        "animseq/props/catalyst_orb/catalyst_orb_loc_v22_animrig/catalyst_orb_meleeCrouch_UA.rseq",
+        "animseq/props/catalyst_orb/catalyst_orb_loc_v22_animrig/catalyst_orb_meleeSprint01_UA.rseq",
+        "animseq/props/catalyst_orb/catalyst_orb_loc_v22_animrig/catalyst_orb_run_UA.rseq",
+        "animseq/props/catalyst_orb/catalyst_orb_loc_v22_animrig/catalyst_orb_run_UA_B.rseq",
+        "animseq/props/catalyst_orb/catalyst_orb_loc_v22_animrig/catalyst_orb_slide_UA.rseq",
+        "animseq/props/catalyst_orb/catalyst_orb_loc_v22_animrig/catalyst_orb_slideEnd_UA_F.rseq",
+        "animseq/props/catalyst_orb/catalyst_orb_loc_v22_animrig/catalyst_orb_slideEnd_UA_L.rseq",
+        "animseq/props/catalyst_orb/catalyst_orb_loc_v22_animrig/catalyst_orb_slideEnd_UA_R.rseq",
+        "animseq/props/catalyst_orb/catalyst_orb_loc_v22_animrig/catalyst_orb_slideFloat_UA.rseq",
+        "animseq/props/catalyst_orb/catalyst_orb_loc_v22_animrig/catalyst_orb_sprint_UA.rseq",
+        "animseq/props/catalyst_orb/catalyst_orb_loc_v22_animrig/catalyst_orb_walk_UA.rseq"
+      ]
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/props/catalyst_smile_prop/catalyst_smile_prop_v22_base_w.rmdl",
+      "$animrigs": [
+        "animrig/props/catalyst_smile_prop/catalyst_smile_prop_animrig.rrig"
+      ]
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xB335D37C7D079E8A.rpak",
+      "$guid": "0xB335D37C7D079E8A"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xADB01E16C4F4BE04.rpak",
+      "$guid": "0xADB01E16C4F4BE04"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilot_proxy_r5/ken_proxy_material/ken_proxy_material_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilot_proxy_r5/ken_proxy_material/ken_proxy_material_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilot_proxy_r5/ken_proxy_material/ken_proxy_material_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/humans_r5/pilot_proxy_r5/ken_proxy_material/ken_proxy_material_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilot_proxy_r5/ken_proxy_material/ken_proxy_material_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/humans_r5/pilot_proxy_r5/ken_proxy_material/ken_proxy_material_sknp.rpak"
+    },
+    {
+      "_type": "arig",
+      "_path": "animrig/props/catalyst_smile_prop/catalyst_smile_prop_animrig.rrig",
+      "$sequences": [
+        "animseq/props/catalyst_smile_prop/catalyst_smile_prop_animrig/orb_catalyst_emote_eyes.rseq",
+        "animseq/props/catalyst_smile_prop/catalyst_smile_prop_animrig/orb_catalyst_execution_crusher_smileorbs.rseq"
+      ]
+    },
     {
       "_type": "mdl_",
       "_path": "mdl/props/catalyst_orb/catalyst_orb_v22_base.rmdl",
@@ -1802,7 +1903,7 @@
       "_type": "arig",
       "_path": "animrig/humans/class/medium/pilot_medium_catalyst.rrig",
       "$sequences": [
-        /*"animseq/humans/class/medium/pilot_medium_catalyst/AIM_catalyst_crouch_pistol.rseq",
+        "animseq/humans/class/medium/pilot_medium_catalyst/AIM_catalyst_crouch_pistol.rseq",
         "animseq/humans/class/medium/pilot_medium_catalyst/AIM_catalyst_crouch_pistol_ADS.rseq",
         "animseq/humans/class/medium/pilot_medium_catalyst/AIM_catalyst_crouch_rifle.rseq",
         "animseq/humans/class/medium/pilot_medium_catalyst/AIM_catalyst_crouch_rifle_ADS.rseq",
@@ -1843,7 +1944,7 @@
         "animseq/humans/class/medium/pilot_medium_catalyst/catalyst_freefall_emote_backflip.rseq",
         "animseq/humans/class/medium/pilot_medium_catalyst/catalyst_freefall_emote_spider.rseq",
         "animseq/humans/class/medium/pilot_medium_catalyst/catalyst_freefall_to_anticipate.rseq",
-        "animseq/humans/class/medium/pilot_medium_catalyst/catalyst_gladcard_animated_brushBack.rseq",
+        /*"animseq/humans/class/medium/pilot_medium_catalyst/catalyst_gladcard_animated_brushBack.rseq",
         "animseq/humans/class/medium/pilot_medium_catalyst/catalyst_gladcard_animated_brushBack_idle.rseq",
         "animseq/humans/class/medium/pilot_medium_catalyst/catalyst_gladcard_animated_hairflick.rseq",
         "animseq/humans/class/medium/pilot_medium_catalyst/catalyst_gladcard_animated_hairflick_idle.rseq",
@@ -1855,9 +1956,9 @@
         "animseq/humans/class/medium/pilot_medium_catalyst/catalyst_gladcard_animated_pendulum_idle.rseq",
         "animseq/humans/class/medium/pilot_medium_catalyst/catalyst_gladcard_static_armstretch.rseq",
         "animseq/humans/class/medium/pilot_medium_catalyst/catalyst_gladcard_static_battle.rseq",
-        "animseq/humans/class/medium/pilot_medium_catalyst/catalyst_gladcard_static_coldshoulder.rseq",
+        "animseq/humans/class/medium/pilot_medium_catalyst/catalyst_gladcard_static_coldshoulder.rseq",*/
         "animseq/humans/class/medium/pilot_medium_catalyst/catalyst_gladcard_static_common.rseq",
-        "animseq/humans/class/medium/pilot_medium_catalyst/catalyst_gladcard_static_device.rseq",
+        /*"animseq/humans/class/medium/pilot_medium_catalyst/catalyst_gladcard_static_device.rseq",
         "animseq/humans/class/medium/pilot_medium_catalyst/catalyst_gladcard_static_leap.rseq",
         "animseq/humans/class/medium/pilot_medium_catalyst/catalyst_gladcard_static_sitting.rseq",
         "animseq/humans/class/medium/pilot_medium_catalyst/catalyst_gladcard_static_tarot.rseq",
@@ -1866,7 +1967,7 @@
         "animseq/humans/class/medium/pilot_medium_catalyst/catalyst_ground_emote_moonLounge.rseq",
         "animseq/humans/class/medium/pilot_medium_catalyst/catalyst_ground_emote_moonLounge_loop.rseq",
         "animseq/humans/class/medium/pilot_medium_catalyst/catalyst_ground_emote_sigil.rseq",
-        "animseq/humans/class/medium/pilot_medium_catalyst/catalyst_ground_emote_throne.rseq",
+        "animseq/humans/class/medium/pilot_medium_catalyst/catalyst_ground_emote_throne.rseq",*/
         "animseq/humans/class/medium/pilot_medium_catalyst/catalyst_idle_pistol.rseq",
         "animseq/humans/class/medium/pilot_medium_catalyst/catalyst_idle_pistol_ADS.rseq",
         "animseq/humans/class/medium/pilot_medium_catalyst/catalyst_idle_rifle.rseq",
@@ -1897,7 +1998,7 @@
         "animseq/humans/class/medium/pilot_medium_catalyst/catalyst_meleeCrouch_01.rseq",
         "animseq/humans/class/medium/pilot_medium_catalyst/catalyst_meleeStand_01.rseq",
         "animseq/humans/class/medium/pilot_medium_catalyst/catalyst_meleeStand_02.rseq",
-        "animseq/humans/class/medium/pilot_medium_catalyst/catalyst_meleeStand_03.rseq",*/
+        "animseq/humans/class/medium/pilot_medium_catalyst/catalyst_meleeStand_03.rseq",
         "animseq/humans/class/medium/pilot_medium_catalyst/catalyst_menu_lobby_center_base.rseq",
         "animseq/humans/class/medium/pilot_medium_catalyst/catalyst_menu_lobby_center_gearcheck.rseq",
         "animseq/humans/class/medium/pilot_medium_catalyst/catalyst_menu_lobby_center_manipulate.rseq",
@@ -1905,7 +2006,7 @@
         "animseq/humans/class/medium/pilot_medium_catalyst/catalyst_menu_lobby_right.rseq",
         "animseq/humans/class/medium/pilot_medium_catalyst/catalyst_menu_lobby_select.rseq",
         "animseq/humans/class/medium/pilot_medium_catalyst/catalyst_menu_loot_ceremony.rseq",
-        /*"animseq/humans/class/medium/pilot_medium_catalyst/catalyst_menu_readyUp.rseq",
+        "animseq/humans/class/medium/pilot_medium_catalyst/catalyst_menu_readyUp.rseq",
         "animseq/humans/class/medium/pilot_medium_catalyst/catalyst_menu_readyUp_idle.rseq",
         "animseq/humans/class/medium/pilot_medium_catalyst/catalyst_menu_select.rseq",
         "animseq/humans/class/medium/pilot_medium_catalyst/catalyst_menu_select_idle.rseq",
@@ -1957,14 +2058,14 @@
         "animseq/humans/class/medium/pilot_medium_catalyst/catalystTEMP_slideEnd_UA_L.rseq",
         "animseq/humans/class/medium/pilot_medium_catalyst/catalystTEMP_slideEnd_UA_R.rseq",
         "animseq/humans/class/medium/pilot_medium_catalyst/catalystTEMP_slideFloat_pistol.rseq",
-        "animseq/humans/class/medium/pilot_medium_catalyst/catalystTEMP_slideFloat_rifle.rseq"*/
+        "animseq/humans/class/medium/pilot_medium_catalyst/catalystTEMP_slideFloat_rifle.rseq"
       ]
     },
     {
       "_type": "arig",
       "_path": "animrig/props/catalyst_orb/catalyst_orb_v22_animrig.rrig",
       "$sequences": [
-        /*"animseq/humans/class/medium/pilot_medium_catalyst/catalyst_crouch_UA/catalyst_orb_crouch_idle_UA.rseq",
+        "animseq/humans/class/medium/pilot_medium_catalyst/catalyst_crouch_UA/catalyst_orb_crouch_idle_UA.rseq",
         "animseq/humans/class/medium/pilot_medium_catalyst/catalyst_crouchWalk_UA_F/catalyst_orb_crouchWalk_UA_F.rseq",
         "animseq/humans/class/medium/pilot_medium_catalyst/catalyst_float_UA_B/catalyst_orb_float_UA_B.rseq",
         "animseq/humans/class/medium/pilot_medium_catalyst/catalyst_float_UA_F/catalyst_orb_float_UA_F.rseq",
@@ -2000,7 +2101,7 @@
         "animseq/props/catalyst_orb/catalyst_orb_v22_animrig/catalyst_orb_idle_UA.rseq",
         "animseq/props/catalyst_orb/catalyst_orb_v22_animrig/catalyst_orb_run_UA.rseq",
         "animseq/props/catalyst_orb/catalyst_orb_v22_animrig/catalyst_orb_sprint_UA.rseq",
-        "animseq/props/catalyst_orb/catalyst_orb_v22_animrig/catalyst_orb_walk_UA.rseq",*/
+        "animseq/props/catalyst_orb/catalyst_orb_v22_animrig/catalyst_orb_walk_UA.rseq",
         "animseq/props/catalyst_orb/catalyst_orb_v22_animrig/orb1_catalyst_menu_ready_up.rseq",
         "animseq/props/catalyst_orb/catalyst_orb_v22_animrig/orb1_catalyst_menu_ready_up_idle.rseq",
         "animseq/props/catalyst_orb/catalyst_orb_v22_animrig/orb1_catalyst_menu_select.rseq",
@@ -2021,7 +2122,7 @@
         "animseq/props/catalyst_orb/catalyst_orb_v22_animrig/orb_catalyst_menu_lobby_center_manipulate.rseq",
         "animseq/props/catalyst_orb/catalyst_orb_v22_animrig/orb_catalyst_menu_lobby_left.rseq",
         "animseq/props/catalyst_orb/catalyst_orb_v22_animrig/orb_catalyst_menu_lobby_right.rseq",
-        "animseq/props/catalyst_orb/catalyst_orb_v22_animrig/orb_catalyst_menu_lobby_select.rseq"/*,
+        "animseq/props/catalyst_orb/catalyst_orb_v22_animrig/orb_catalyst_menu_lobby_select.rseq",
         "animseq/props/catalyst_orb/catalyst_orb_v22_animrig/orb_catalyst_menu_loot_ceremony.rseq",
         "animseq/props/catalyst_orb/catalyst_orb_v22_animrig/orb_catalyst_menu_ready_up.rseq",
         "animseq/props/catalyst_orb/catalyst_orb_v22_animrig/orb_catalyst_menu_ready_up_idle.rseq",
@@ -2034,12 +2135,16 @@
         "animseq/weapons/catalyst_orb/catalyst_orb_v22_mp_crusher_execution_prop1.rseq",
         "animseq/weapons/catalyst_orb/catalyst_orb_v22_mp_crusher_execution_prop2.rseq",
         "animseq/weapons/catalyst_orb/catalyst_orb_v22_mp_crusher_execution_prop3.rseq",
-        "animseq/weapons/catalyst_orb/catalyst_orb_v22_mp_crusher_execution_prop4.rseq"*/
+        "animseq/weapons/catalyst_orb/catalyst_orb_v22_mp_crusher_execution_prop4.rseq"
       ]
     },
     {
       "_type": "arig",
       "_path": "animrig/weapons/arms/pov_pilot_medium_catalyst.rrig"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_sharedmap_gamemode_logo_layout.rpak"
     },
     {
       "_type": "stlt",
@@ -2358,8 +2463,7 @@
     },
     {
       "_type": "dtbl",
-      "_path": "datatable/0x3AFAFBF1FEE1DF7B.rpak",
-      "$guid": "0x3AFAFBF1FEE1DF7B"
+      "_path": "datatable/comms_actions.rpak"
     },
     {
       "_type": "dtbl",
@@ -2373,8 +2477,7 @@
     },
     {
       "_type": "dtbl",
-      "_path": "datatable/0x62CE41C5376EA985.rpak",
-      "$guid": "0x62CE41C5376EA985"
+      "_path": "datatable/survival_weapon_mods.rpak"
     },
     {
       "_type": "dtbl",
@@ -2413,8 +2516,11 @@
     },
     {
       "_type": "dtbl",
-      "_path": "datatable/0xA1843BD4C56C1A7E.rpak",
-      "$guid": "0xA1843BD4C56C1A7E"
+      "_path": "datatable/survival_loot.rpak"//rename asset_noprecache to just asset once all required models ported
+    },
+    {
+      "_type": "dtbl",
+      "_path": "datatable/survival_loot_groups_new.rpak"//rename asset_noprecache to just asset once all required models ported
     },
     {
       "_type": "dtbl",
@@ -131644,6 +131750,418 @@
     },
     {
       "_type": "stgs",
+      "_path": "settings/itemflav/character_execution/catalyst/common_v22_choking.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_execution/catalyst/lgnd_v22_crusher.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_intro_quip/catalyst/common_01.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_intro_quip/catalyst/common_02.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_intro_quip/catalyst/common_03.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_intro_quip/catalyst/common_04.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_intro_quip/catalyst/common_05.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_intro_quip/catalyst/common_06.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_intro_quip/catalyst/common_07.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_intro_quip/catalyst/common_08.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_intro_quip/catalyst/common_09.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_intro_quip/catalyst/common_10.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_intro_quip/catalyst/common_11.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_intro_quip/catalyst/common_12.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_intro_quip/catalyst/common_13.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_intro_quip/catalyst/common_14.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_intro_quip/catalyst/common_15.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_intro_quip/catalyst/rare_01.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_intro_quip/catalyst/rare_02.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_intro_quip/catalyst/rare_03.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_intro_quip/catalyst/rare_04.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_intro_quip/catalyst/rare_05.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_kill_quip/catalyst/common_01.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_kill_quip/catalyst/common_02.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_kill_quip/catalyst/common_03.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_kill_quip/catalyst/common_04.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_kill_quip/catalyst/common_05.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_kill_quip/catalyst/common_06.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_kill_quip/catalyst/common_07.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_kill_quip/catalyst/common_08.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_kill_quip/catalyst/common_09.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_kill_quip/catalyst/common_10.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_kill_quip/catalyst/common_11.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_kill_quip/catalyst/common_12.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_kill_quip/catalyst/common_13.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_kill_quip/catalyst/common_14.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_kill_quip/catalyst/common_15.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_kill_quip/catalyst/common_16.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_kill_quip/catalyst/common_17.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_kill_quip/catalyst/common_18.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_kill_quip/catalyst/common_19.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_kill_quip/catalyst/common_20.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_kill_quip/catalyst/common_21.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_kill_quip/catalyst/common_22.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_kill_quip/catalyst/common_23.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_kill_quip/catalyst/common_24.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_kill_quip/catalyst/common_25.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_kill_quip/catalyst/common_26.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_kill_quip/catalyst/common_27.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_kill_quip/catalyst/common_28.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_kill_quip/catalyst/common_29.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_kill_quip/catalyst/common_30.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_kill_quip/catalyst/common_31.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_kill_quip/catalyst/common_32.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_kill_quip/catalyst/common_33.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_kill_quip/catalyst/common_34.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_kill_quip/catalyst/common_35.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_kill_quip/catalyst/common_36.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_kill_quip/catalyst/common_37.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_kill_quip/catalyst/common_38.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_kill_quip/catalyst/common_39.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_kill_quip/catalyst/common_40.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_kill_quip/catalyst/common_41.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_kill_quip/catalyst/s15bp_rare_01.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_skin/catalyst/common01.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_skin/catalyst/common02.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_skin/catalyst/common03.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_skin/catalyst/common04.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_skin/catalyst/common05.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_skin/catalyst/common06.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_skin/catalyst/common07.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_skin/catalyst/common08.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_skin/catalyst/common09.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_skin/catalyst/common10.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_skin/catalyst/common11.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_skin/catalyst/common12.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_skin/catalyst/common13.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_skin/catalyst/common14.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_skin/catalyst/common15.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_skin/catalyst/epic01.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_skin/catalyst/epic02.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_skin/catalyst/epic03.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_skin/catalyst/epic04.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_skin/catalyst/epic05.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_skin/catalyst/epicp_v22_magicgoth.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_skin/catalyst/epicp_v22_magicwitch.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_skin/catalyst/rare01.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_skin/catalyst/rare02.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_skin/catalyst/rare03.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_skin/catalyst/rare04.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_skin/catalyst/rare05.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_skin/catalyst/rare06.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_skin/catalyst/rare07.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_skin/catalyst/rare08.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_skin/catalyst/rare09.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_skin/catalyst/rare10.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_skin/catalyst/rare11.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_skin/catalyst/rare12.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_skin/catalyst/rare13.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_skin/catalyst/rare14.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_skin/catalyst/rare15.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/gcard_frame/catalyst/common_01.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/sharedmap/gamemode_logos.rpak"
+    },
+    {
+      "_type": "stgs",
       "_path": "settings/itemflav/ability/catalyst_passive.rpak"
     },
     {
@@ -132341,6 +132859,10 @@
     {
       "_type": "stgs",
       "_path": "settings/itemflav/skydive_emote/madmaggie/backflip.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/skydive_emote/catalyst/epic_v22_magicgoth_backflip.rpak"
     },
     {
       "_type": "stgs",
@@ -145980,6 +146502,10 @@
     },
     {
       "_type": "stgs",
+      "_path": "settings/itemflav/gcard_stance/catalyst/common_01.rpak"
+    },
+    {
+      "_type": "stgs",
       "_path": "settings/itemflav/gcard_tracker/_empty.rpak"
     },
     {
@@ -147948,7 +148474,23 @@
     },
     {
       "_type": "stgs",
+      "_path": "settings/itemflav/ping/ping_avoid.rpak"
+    },
+    {
+      "_type": "stgs",
       "_path": "settings/itemflav/ping/ping_battle.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/ping/ping_bleedout_help.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/ping/ping_crafting_2_workbench.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/ping/ping_crafting_2_workbench_airdropped.rpak"
     },
     {
       "_type": "stgs",
@@ -147972,7 +148514,27 @@
     },
     {
       "_type": "stgs",
+      "_path": "settings/itemflav/ping/ping_dont_help.rpak"
+    },
+    {
+      "_type": "stgs",
       "_path": "settings/itemflav/ping/ping_enemy.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/ping/ping_enemyfighting.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/ping/ping_enemy_audio.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/ping/ping_enemy_poi.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/ping/ping_enemy_reviving.rpak"
     },
     {
       "_type": "stgs",
@@ -148016,15 +148578,15 @@
     },
     {
       "_type": "stgs",
+      "_path": "settings/itemflav/ping/ping_hunt_target.rpak"
+    },
+    {
+      "_type": "stgs",
       "_path": "settings/itemflav/ping/ping_i_go.rpak"
     },
     {
       "_type": "stgs",
       "_path": "settings/itemflav/ping/ping_looting.rpak"
-    },
-    {
-      "_type": "stgs",
-      "_path": "settings/itemflav/ping/ping_my_banner.rpak"
     },
     {
       "_type": "stgs",
@@ -148040,6 +148602,42 @@
     },
     {
       "_type": "stgs",
+      "_path": "settings/itemflav/ping/ping_redeyed_rev.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/ping/ping_regrouphere.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/ping/ping_spawn_region.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/ping/ping_station.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/ping/ping_train_objective.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/ping/ping_ultimatehere.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/ping/ping_upgradestation.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/ping/ping_watching.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/ping/ping_my_banner.rpak"
+    },
+    {
+      "_type": "stgs",
       "_path": "settings/itemflav/ping/ping_respawn_beacon.rpak"
     },
     {
@@ -148048,23 +148646,7 @@
     },
     {
       "_type": "stgs",
-      "_path": "settings/itemflav/ping/ping_enemy_audio.rpak"
-    },
-    {
-      "_type": "stgs",
-      "_path": "settings/itemflav/ping/ping_enemyfighting.rpak"
-    },
-    {
-      "_type": "stgs",
-      "_path": "settings/itemflav/ping/ping_ultimatehere.rpak"
-    },
-    {
-      "_type": "stgs",
-      "_path": "settings/itemflav/ping/ping_spawn_region.rpak"
-    },
-    {
-      "_type": "stgs",
-      "_path": "settings/itemflav/ping/ping_watching.rpak"
+      "_path": "settings/itemflav/ping/ping_we_attack.rpak"
     },
     {
       "_type": "stgs",
@@ -154501,6 +155083,10 @@
     {
       "_type": "stgs",
       "_path": "settings/scriptAnimWindow/prop_rat_ground_emote_rat_taunt.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/scriptAnimWindow/fx_catalyst_menu_ready_wall_up.rpak"
     },
     {
       "_type": "stgs",

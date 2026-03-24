@@ -35,6 +35,7 @@
         "map_depot/mp_rr_arena_phase_runner_loadscreen.json",
         "map_depot/mp_rr_arena_habitat_loadscreen.json",
 
+        "sdk_depot/gcards/gcard_frame_catalyst_common_01.json",
         "sdk_depot/gcards/gcard_frame_ash_common_01.json",
         "sdk_depot/gcards/gcard_frame_seer_common_01.json",
         "sdk_depot/gcards/gcard_frame_madmaggie_common_01.json",
