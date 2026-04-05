@@ -8,7 +8,807 @@
   "compressWorkers": 16,
 
   "files": [
-        {
+    {
+      "_type": "shdr",
+      "_path": "shader/0x3D69701BF2AB1901.rpak",
+      "$guid": "0x3D69701BF2AB1901"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x45C72C307DD4B448.rpak",
+      "$guid": "0x45C72C307DD4B448"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x5CFEFB6D4B5FAD36.rpak",
+      "$guid": "0x5CFEFB6D4B5FAD36"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x788E615AA157677.rpak",
+      "$guid": "0x788E615AA157677"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x8CEBA45602468ED.rpak",
+      "$guid": "0x8CEBA45602468ED"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x95CAC30B7DC8C588.rpak",
+      "$guid": "0x95CAC30B7DC8C588"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xB42994D1D9580D30.rpak",
+      "$guid": "0xB42994D1D9580D30"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xBAA755EFCB3A0595.rpak",
+      "$guid": "0xBAA755EFCB3A0595"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xD5A979AB5E255FCD.rpak",
+      "$guid": "0xD5A979AB5E255FCD"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xE2179E930B99EBDA.rpak",
+      "$guid": "0xE2179E930B99EBDA"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xE372F37E26960340.rpak",
+      "$guid": "0xE372F37E26960340"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xF49EEF468F1B089C.rpak",
+      "$guid": "0xF49EEF468F1B089C"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x3E854BB868D211AF.rpak",
+      "$guid": "0x3E854BB868D211AF"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x6C1DFD736CC0289C.rpak",
+      "$guid": "0x6C1DFD736CC0289C"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x70A277968E6AF7C0.rpak",
+      "$guid": "0x70A277968E6AF7C0"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x981BDB41096EBF10.rpak",
+      "$guid": "0x981BDB41096EBF10"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x9D095812A2B1F3E.rpak",
+      "$guid": "0x9D095812A2B1F3E"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xB22D4B2685B4C761.rpak",
+      "$guid": "0xB22D4B2685B4C761"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xB4A3A189E17AB7F0.rpak",
+      "$guid": "0xB4A3A189E17AB7F0"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xB9B0C909F6233A2C.rpak",
+      "$guid": "0xB9B0C909F6233A2C"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xC0864E9D0B0F06D.rpak",
+      "$guid": "0xC0864E9D0B0F06D"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xEA553C923FCC2BD0.rpak",
+      "$guid": "0xEA553C923FCC2BD0"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xF78376C87CAC2987.rpak",
+      "$guid": "0xF78376C87CAC2987"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x18964A948DC701EB.rpak",
+      "$guid": "0x18964A948DC701EB"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x26AFEBF5DBB7790A.rpak",
+      "$guid": "0x26AFEBF5DBB7790A"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x2B8D3A29A5B4BF84.rpak",
+      "$guid": "0x2B8D3A29A5B4BF84"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x2DF2AF7D6AF1DB51.rpak",
+      "$guid": "0x2DF2AF7D6AF1DB51"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x307AF036F383A1F4.rpak",
+      "$guid": "0x307AF036F383A1F4"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x35C7F5B06125E936.rpak",
+      "$guid": "0x35C7F5B06125E936"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x364BB1A50BF041A4.rpak",
+      "$guid": "0x364BB1A50BF041A4"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x371C0392B15A558A.rpak",
+      "$guid": "0x371C0392B15A558A"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x3C340F08BD1B5707.rpak",
+      "$guid": "0x3C340F08BD1B5707"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x3CBC97A8F1006B5C.rpak",
+      "$guid": "0x3CBC97A8F1006B5C"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x44934DC06CB0B897.rpak",
+      "$guid": "0x44934DC06CB0B897"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x46494DBE95F2CD55.rpak",
+      "$guid": "0x46494DBE95F2CD55"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x46A849CDF612958D.rpak",
+      "$guid": "0x46A849CDF612958D"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x4E47282FF615C85A.rpak",
+      "$guid": "0x4E47282FF615C85A"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x59BDA2D25EB84A4D.rpak",
+      "$guid": "0x59BDA2D25EB84A4D"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x5BDD4C297699C3A8.rpak",
+      "$guid": "0x5BDD4C297699C3A8"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x5F2500B32CDE8468.rpak",
+      "$guid": "0x5F2500B32CDE8468"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x6346FCD2B23D1003.rpak",
+      "$guid": "0x6346FCD2B23D1003"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x6AE4776C350F7C6B.rpak",
+      "$guid": "0x6AE4776C350F7C6B"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x7234689427A3131B.rpak",
+      "$guid": "0x7234689427A3131B"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x78BE4B661987558F.rpak",
+      "$guid": "0x78BE4B661987558F"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x7A720D025981CA92.rpak",
+      "$guid": "0x7A720D025981CA92"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x7E4ED0C42EA03FDA.rpak",
+      "$guid": "0x7E4ED0C42EA03FDA"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x85CFBE908CD96F29.rpak",
+      "$guid": "0x85CFBE908CD96F29"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x878DF483B8EEE7F7.rpak",
+      "$guid": "0x878DF483B8EEE7F7"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x87B5697F54081C79.rpak",
+      "$guid": "0x87B5697F54081C79"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x89E81C7033687DA.rpak",
+      "$guid": "0x89E81C7033687DA"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x8B1E06E0265C68B.rpak",
+      "$guid": "0x8B1E06E0265C68B"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x8F36A2E2199BF32F.rpak",
+      "$guid": "0x8F36A2E2199BF32F"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x9664EC8A2EB39DE8.rpak",
+      "$guid": "0x9664EC8A2EB39DE8"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x983D9A3751C314E9.rpak",
+      "$guid": "0x983D9A3751C314E9"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xA385DC61BDE2A356.rpak",
+      "$guid": "0xA385DC61BDE2A356"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xA4BA487545C589DD.rpak",
+      "$guid": "0xA4BA487545C589DD"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xA6D61DFFDFD54AB6.rpak",
+      "$guid": "0xA6D61DFFDFD54AB6"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xA716488B638D3F3F.rpak",
+      "$guid": "0xA716488B638D3F3F"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xAB01ABCF6C59821B.rpak",
+      "$guid": "0xAB01ABCF6C59821B"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xB1B68A55CCD1FBB6.rpak",
+      "$guid": "0xB1B68A55CCD1FBB6"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xB6631E5F2242E5AD.rpak",
+      "$guid": "0xB6631E5F2242E5AD"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xB8F9B260E15A7877.rpak",
+      "$guid": "0xB8F9B260E15A7877"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xBC1F30E9DEBCA02D.rpak",
+      "$guid": "0xBC1F30E9DEBCA02D"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xBE39AE797366B1D5.rpak",
+      "$guid": "0xBE39AE797366B1D5"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xC2C640369FF1DC5F.rpak",
+      "$guid": "0xC2C640369FF1DC5F"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xCD9D78BE1E57A4EC.rpak",
+      "$guid": "0xCD9D78BE1E57A4EC"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xCFEF319F3FC88F1C.rpak",
+      "$guid": "0xCFEF319F3FC88F1C"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xD26462407E438258.rpak",
+      "$guid": "0xD26462407E438258"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xD2E926CDA6F4A436.rpak",
+      "$guid": "0xD2E926CDA6F4A436"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xD43DE1961B1CB14D.rpak",
+      "$guid": "0xD43DE1961B1CB14D"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xD91AA47AE51D633A.rpak",
+      "$guid": "0xD91AA47AE51D633A"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xDAF40AA1287FB99B.rpak",
+      "$guid": "0xDAF40AA1287FB99B"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xDDD2E1F951DAC29A.rpak",
+      "$guid": "0xDDD2E1F951DAC29A"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xE0946852D93BD966.rpak",
+      "$guid": "0xE0946852D93BD966"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xE3647ADEE28A30F8.rpak",
+      "$guid": "0xE3647ADEE28A30F8"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xE6F0BE971BD24E7C.rpak",
+      "$guid": "0xE6F0BE971BD24E7C"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xE7B25359558B2BE4.rpak",
+      "$guid": "0xE7B25359558B2BE4"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xEAC4F01F064A4C28.rpak",
+      "$guid": "0xEAC4F01F064A4C28"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xEACF23D9FE1E3819.rpak",
+      "$guid": "0xEACF23D9FE1E3819"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xF1F39487658921DD.rpak",
+      "$guid": "0xF1F39487658921DD"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xFCAF5C2C93170BE3.rpak",
+      "$guid": "0xFCAF5C2C93170BE3"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xFECD9378D5A5AD7.rpak",
+      "$guid": "0xFECD9378D5A5AD7"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/art/mshop/characters/legends/revenant/base/revenant_base_joints_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/art/mshop/characters/legends/revenant/base/revenant_base_tactical_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/art/mshop/characters/legends/revenant/reborn/revenant_reborn_body_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/art/mshop/characters/legends/revenant/reborn/revenant_reborn_gear_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/art/mshop/characters/legends/revenant/reborn/revenant_reborn_head_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/characters/ShadowSquad/ShadowSquad_3p_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/characters/ShadowSquad/ShadowSquad_all_3p_joints_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/characters/ShadowSquad/ShadowSquad_base_3p_tactical_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/characters/ShadowSquad/ShadowSquad_reborn_3p_Body_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/characters/ShadowSquad/ShadowSquad_reborn_3p_gear_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/characters/ShadowSquad/ShadowSquad_reborn_3p_head_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_revenant_grenade/revenant_grenade_shadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/art/mshop/characters/legends/revenant/base/revenant_base_joints_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/art/mshop/characters/legends/revenant/base/revenant_base_tactical_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/art/mshop/characters/legends/revenant/reborn/revenant_reborn_body_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/art/mshop/characters/legends/revenant/reborn/revenant_reborn_gear_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/art/mshop/characters/legends/revenant/reborn/revenant_reborn_head_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/characters/ShadowSquad/ShadowSquad_3p_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/characters/ShadowSquad/ShadowSquad_all_3p_joints_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/characters/ShadowSquad/ShadowSquad_base_3p_tactical_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/characters/ShadowSquad/ShadowSquad_reborn_3p_Body_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/characters/ShadowSquad/ShadowSquad_reborn_3p_gear_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/characters/ShadowSquad/ShadowSquad_reborn_3p_head_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_revenant_grenade/revenant_grenade_prepass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/art/mshop/characters/legends/revenant/base/revenant_base_joints_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/art/mshop/characters/legends/revenant/base/revenant_base_tactical_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/art/mshop/characters/legends/revenant/reborn/revenant_reborn_body_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/art/mshop/characters/legends/revenant/reborn/revenant_reborn_gear_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/art/mshop/characters/legends/revenant/reborn/revenant_reborn_head_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/characters/ShadowSquad/ShadowSquad_3p_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/characters/ShadowSquad/ShadowSquad_all_3p_joints_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/characters/ShadowSquad/ShadowSquad_base_3p_tactical_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/characters/ShadowSquad/ShadowSquad_reborn_3p_Body_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/characters/ShadowSquad/ShadowSquad_reborn_3p_gear_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/characters/ShadowSquad/ShadowSquad_reborn_3p_head_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_revenant_grenade/revenant_grenade_vsm_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/art/mshop/characters/legends/revenant/base/revenant_base_joints_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/art/mshop/characters/legends/revenant/base/revenant_base_tactical_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/art/mshop/characters/legends/revenant/reborn/revenant_reborn_body_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/art/mshop/characters/legends/revenant/reborn/revenant_reborn_gear_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/art/mshop/characters/legends/revenant/reborn/revenant_reborn_head_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/characters/ShadowSquad/ShadowSquad_3p_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/characters/ShadowSquad/ShadowSquad_all_3p_joints_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/characters/ShadowSquad/ShadowSquad_base_3p_tactical_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/characters/ShadowSquad/ShadowSquad_reborn_3p_Body_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/characters/ShadowSquad/ShadowSquad_reborn_3p_gear_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/characters/ShadowSquad/ShadowSquad_reborn_3p_head_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/depth/models/weapons_r5/misc_revenant_grenade/revenant_grenade_tightshadow_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/art/mshop/characters/legends/revenant/base/revenant_base_joints_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/art/mshop/characters/legends/revenant/base/revenant_base_tactical_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/art/mshop/characters/legends/revenant/reborn/revenant_reborn_body_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/art/mshop/characters/legends/revenant/reborn/revenant_reborn_gear_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/art/mshop/characters/legends/revenant/reborn/revenant_reborn_head_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/characters/ShadowSquad/ShadowSquad_3p_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/characters/ShadowSquad/ShadowSquad_all_3p_joints_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/characters/ShadowSquad/ShadowSquad_base_3p_tactical_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/characters/ShadowSquad/ShadowSquad_reborn_3p_Body_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/characters/ShadowSquad/ShadowSquad_reborn_3p_gear_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/characters/ShadowSquad/ShadowSquad_reborn_3p_head_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/misc_revenant_grenade/revenant_grenade_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/art/mshop/characters/legends/revenant/base/revenant_base_joints_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/art/mshop/characters/legends/revenant/base/revenant_base_tactical_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/art/mshop/characters/legends/revenant/reborn/revenant_reborn_body_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/art/mshop/characters/legends/revenant/reborn/revenant_reborn_gear_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/art/mshop/characters/legends/revenant/reborn/revenant_reborn_head_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/characters/ShadowSquad/ShadowSquad_3p_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/characters/ShadowSquad/ShadowSquad_all_3p_joints_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/characters/ShadowSquad/ShadowSquad_base_3p_tactical_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/characters/ShadowSquad/ShadowSquad_reborn_3p_Body_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/characters/ShadowSquad/ShadowSquad_reborn_3p_gear_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/characters/ShadowSquad/ShadowSquad_reborn_3p_head_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/misc_revenant_grenade/revenant_grenade_sknp.rpak"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/humans/class/heavy/pilot_heavy_revenant_reborn.rmdl",
+      "$animrigs": [
+        "animrig/humans/class/heavy/mp_pilot_heavy_core.rrig",
+        "animrig/humans/class/heavy/pilot_heavy_revenant.rrig"
+      ]
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/props/bangalore_p2011/bangalore_p2011_v21_base_v.rmdl",
+      "$animrigs": [
+        "animrig/props/bangalore_p2011/bangalore_p2011_v21_animrig.rrig"
+      ]
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x72E2FED7B0DF2E35.rpak",
+      "$guid": "0x72E2FED7B0DF2E35"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x6033B560767B4D7B.rpak",
+      "$guid": "0x6033B560767B4D7B"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x87C5F9651924EC01.rpak",
+      "$guid": "0x87C5F9651924EC01"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xAF2DFA581E6DDA6A.rpak",
+      "$guid": "0xAF2DFA581E6DDA6A"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x119527D74F210987.rpak",
+      "$guid": "0x119527D74F210987"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x28D68656EFD04B15.rpak",
+      "$guid": "0x28D68656EFD04B15"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0x846292DC5424105A.rpak",
+      "$guid": "0x846292DC5424105A"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x3DF14B87F3A629BC.rpak",
+      "$guid": "0x3DF14B87F3A629BC"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x5E45C43A5FC6E910.rpak",
+      "$guid": "0x5E45C43A5FC6E910"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xB4926BF9AA78432B.rpak",
+      "$guid": "0xB4926BF9AA78432B"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xCE384A83FC1B0040.rpak",
+      "$guid": "0xCE384A83FC1B0040"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xE23C85C4D05AB9D3.rpak",
+      "$guid": "0xE23C85C4D05AB9D3"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xEB69F5A00D8042F5.rpak",
+      "$guid": "0xEB69F5A00D8042F5"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/art/mshop/weapons/class/pistol/p2020/base/p2020_base_main_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/art/mshop/weapons/class/pistol/p2020/base/p2020_base_main_sknp.rpak"
+    },
+    {
+      "_type": "arig",
+      "_path": "animrig/props/bangalore_p2011/bangalore_p2011_v21_animrig.rrig",
+      "$sequences": [
+        "animseq/props/bangalore_p2011/bangalore_p2011_v21_animrig/p2011_bangaloreOP_menu_readyUp_idle.rseq",
+        "animseq/props/bangalore_p2011/bangalore_p2011_v21_animrig/p2011_bangaloreOP_menu_select.rseq",
+        "animseq/props/bangalore_p2011/bangalore_p2011_v21_animrig/p2011_bangaloreOP_menu_select_idle.rseq",
+        "animseq/props/bangalore_p2011/bangalore_p2011_v21_animrig/prop_p2020_revenant_reborn_menu_ready_select_idle.rseq",
+        "animseq/props/bangalore_p2011/bangalore_p2011_v21_animrig/prop_p2020_revenant_reborn_menu_ready_up.rseq",
+        "animseq/props/bangalore_p2011/bangalore_p2011_v21_animrig/prop_p2020_revenant_reborn_menu_ready_up_idle.rseq",
+        "animseq/props/bangalore_p2011/bangalore_p2011_v21_animrig/prop_p2020_revenant_reborn_menu_select.rseq",
+        "animseq/weapons/p2011/w_p2011/p2011_bangaloreOP_menu_readyUp.rseq"
+      ]
+    },
+    {
       "_type": "mdl_",
       "_path": "mdl/props/catalyst_orb/catalyst_orb_loc_v22_base.rmdl",
       "$animrigs": [
@@ -681,11 +1481,6 @@
       "_type": "txtr",
       "_path": "texture/0x9DD6235DBC29AC54.rpak",
       "$guid": "0x9DD6235DBC29AC54"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0xA716488B638D3F3F.rpak",
-      "$guid": "0xA716488B638D3F3F"
     },
     {
       "_type": "txtr",
@@ -2141,6 +2936,10 @@
     {
       "_type": "arig",
       "_path": "animrig/weapons/arms/pov_pilot_medium_catalyst.rrig"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_scriptAnimWindowArguments_ShadowFormRebornFX_layout.rpak"
     },
     {
       "_type": "stlt",
@@ -9419,10 +10218,6 @@
     },
     {
       "_type": "matl",
-      "_path": "material/depth/models/characters/ShadowSquad/ShadowSquad_3p_shadow_sknp.rpak"
-    },
-    {
-      "_type": "matl",
       "_path": "material/depth/models/creatures_r5/rat/rat_fur_shadow_sknp.rpak"
     },
     {
@@ -13695,10 +14490,6 @@
     },
     {
       "_type": "matl",
-      "_path": "material/depth/models/weapons_r5/misc_revenant_grenade/revenant_grenade_shadow_sknp.rpak"
-    },
-    {
-      "_type": "matl",
       "_path": "material/depth/models/weapons_r5/misc_revenant_totem/revenant_totem_shadow_sknp.rpak"
     },
     {
@@ -13908,10 +14699,6 @@
     {
       "_type": "matl",
       "_path": "material/depth/models/characters/ShadowSquad/ShadowSquad_1p_prepass_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/depth/models/characters/ShadowSquad/ShadowSquad_3p_prepass_sknp.rpak"
     },
     {
       "_type": "matl",
@@ -18167,10 +18954,6 @@
     },
     {
       "_type": "matl",
-      "_path": "material/depth/models/weapons_r5/misc_revenant_grenade/revenant_grenade_prepass_sknp.rpak"
-    },
-    {
-      "_type": "matl",
       "_path": "material/depth/models/weapons_r5/misc_revenant_totem/revenant_totem_prepass_sknp.rpak"
     },
     {
@@ -18376,10 +19159,6 @@
     {
       "_type": "matl",
       "_path": "material/depth/models/characters/ShadowSquad/ShadowSquad_1p_vsm_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/depth/models/characters/ShadowSquad/ShadowSquad_3p_vsm_sknp.rpak"
     },
     {
       "_type": "matl",
@@ -22635,10 +23414,6 @@
     },
     {
       "_type": "matl",
-      "_path": "material/depth/models/weapons_r5/misc_revenant_grenade/revenant_grenade_vsm_sknp.rpak"
-    },
-    {
-      "_type": "matl",
       "_path": "material/depth/models/weapons_r5/misc_revenant_totem/revenant_totem_vsm_sknp.rpak"
     },
     {
@@ -22844,10 +23619,6 @@
     {
       "_type": "matl",
       "_path": "material/depth/models/characters/ShadowSquad/ShadowSquad_1p_tightshadow_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/depth/models/characters/ShadowSquad/ShadowSquad_3p_tightshadow_sknp.rpak"
     },
     {
       "_type": "matl",
@@ -27139,10 +27910,6 @@
     },
     {
       "_type": "matl",
-      "_path": "material/depth/models/weapons_r5/misc_revenant_grenade/revenant_grenade_tightshadow_sknp.rpak"
-    },
-    {
-      "_type": "matl",
       "_path": "material/depth/models/weapons_r5/misc_revenant_totem/revenant_totem_tightshadow_sknp.rpak"
     },
     {
@@ -27419,10 +28186,6 @@
     },
     {
       "_type": "matl",
-      "_path": "material/art/mshop/weapons/class/pistol/p2020/base/p2020_base_main_colpass_sknp.rpak"
-    },
-    {
-      "_type": "matl",
       "_path": "material/art/mshop/weapons/class/pistol/re45/base/re45_base_main_colpass_rgdp.rpak"
     },
     {
@@ -27472,10 +28235,6 @@
     {
       "_type": "matl",
       "_path": "material/models/characters/ShadowSquad/ShadowSquad_1p_colpass_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/characters/ShadowSquad/ShadowSquad_3p_colpass_sknp.rpak"
     },
     {
       "_type": "matl",
@@ -33535,10 +34294,6 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/weapons_r5/misc_revenant_grenade/revenant_grenade_colpass_sknp.rpak"
-    },
-    {
-      "_type": "matl",
       "_path": "material/models/weapons_r5/misc_revenant_grenade/revenant_grenade_off_colpass_rgdp.rpak"
     },
     {
@@ -35279,10 +36034,6 @@
     },
     {
       "_type": "matl",
-      "_path": "material/art/mshop/weapons/class/pistol/p2020/base/p2020_base_main_sknp.rpak"
-    },
-    {
-      "_type": "matl",
       "_path": "material/art/mshop/weapons/class/pistol/re45/base/re45_base_main_rgdp.rpak"
     },
     {
@@ -35464,10 +36215,6 @@
     {
       "_type": "matl",
       "_path": "material/models/characters/ShadowSquad/ShadowSquad_1p_sknp.rpak"
-    },
-    {
-      "_type": "matl",
-      "_path": "material/models/characters/ShadowSquad/ShadowSquad_3p_sknp.rpak"
     },
     {
       "_type": "matl",
@@ -43063,10 +43810,6 @@
     },
     {
       "_type": "matl",
-      "_path": "material/models/weapons_r5/misc_revenant_grenade/revenant_grenade_sknp.rpak"
-    },
-    {
-      "_type": "matl",
       "_path": "material/models/weapons_r5/misc_revenant_totem/revenant_totem_glow_sknp.rpak"
     },
     {
@@ -48331,11 +49074,6 @@
     },
     {
       "_type": "shds",
-      "_path": "shaderset/0x6C1DFD736CC0289C.rpak",
-      "$guid": "0x6C1DFD736CC0289C"
-    },
-    {
-      "_type": "shds",
       "_path": "shaderset/0x6C6E9581FD1855CF.rpak",
       "$guid": "0x6C6E9581FD1855CF"
     },
@@ -48373,11 +49111,6 @@
       "_type": "shds",
       "_path": "shaderset/0x707A5DBE426A1AB4.rpak",
       "$guid": "0x707A5DBE426A1AB4"
-    },
-    {
-      "_type": "shds",
-      "_path": "shaderset/0x70A277968E6AF7C0.rpak",
-      "$guid": "0x70A277968E6AF7C0"
     },
     {
       "_type": "shds",
@@ -48713,11 +49446,6 @@
       "_type": "shds",
       "_path": "shaderset/0x838DEA2EA0F64AB1.rpak",
       "$guid": "0x838DEA2EA0F64AB1"
-    },
-    {
-      "_type": "shds",
-      "_path": "shaderset/0x846292DC5424105A.rpak",
-      "$guid": "0x846292DC5424105A"
     },
     {
       "_type": "shds",
@@ -49496,11 +50224,6 @@
     },
     {
       "_type": "shds",
-      "_path": "shaderset/0xB22D4B2685B4C761.rpak",
-      "$guid": "0xB22D4B2685B4C761"
-    },
-    {
-      "_type": "shds",
       "_path": "shaderset/0xB25105D275508A7.rpak",
       "$guid": "0xB25105D275508A7"
     },
@@ -49528,11 +50251,6 @@
       "_type": "shds",
       "_path": "shaderset/0xB49D7E18A3A2FC8C.rpak",
       "$guid": "0xB49D7E18A3A2FC8C"
-    },
-    {
-      "_type": "shds",
-      "_path": "shaderset/0xB4A3A189E17AB7F0.rpak",
-      "$guid": "0xB4A3A189E17AB7F0"
     },
     {
       "_type": "shds",
@@ -52721,11 +53439,6 @@
     },
     {
       "_type": "shdr",
-      "_path": "shader/0x119527D74F210987.rpak",
-      "$guid": "0x119527D74F210987"
-    },
-    {
-      "_type": "shdr",
       "_path": "shader/0x11D7DF7F67E2BE6B.rpak",
       "$guid": "0x11D7DF7F67E2BE6B"
     },
@@ -53068,11 +53781,6 @@
       "_type": "shdr",
       "_path": "shader/0x28CACFD85F640B72.rpak",
       "$guid": "0x28CACFD85F640B72"
-    },
-    {
-      "_type": "shdr",
-      "_path": "shader/0x28D68656EFD04B15.rpak",
-      "$guid": "0x28D68656EFD04B15"
     },
     {
       "_type": "shdr",
@@ -53458,11 +54166,6 @@
       "_type": "shdr",
       "_path": "shader/0x459F4C307153B294.rpak",
       "$guid": "0x459F4C307153B294"
-    },
-    {
-      "_type": "shdr",
-      "_path": "shader/0x45C72C307DD4B448.rpak",
-      "$guid": "0x45C72C307DD4B448"
     },
     {
       "_type": "shdr",
@@ -53858,11 +54561,6 @@
       "_type": "shdr",
       "_path": "shader/0x5CC2C3A3D73C1B6F.rpak",
       "$guid": "0x5CC2C3A3D73C1B6F"
-    },
-    {
-      "_type": "shdr",
-      "_path": "shader/0x5CFEFB6D4B5FAD36.rpak",
-      "$guid": "0x5CFEFB6D4B5FAD36"
     },
     {
       "_type": "shdr",
@@ -54836,11 +55534,6 @@
     },
     {
       "_type": "shdr",
-      "_path": "shader/0x95CAC30B7DC8C588.rpak",
-      "$guid": "0x95CAC30B7DC8C588"
-    },
-    {
-      "_type": "shdr",
       "_path": "shader/0x95E203FAD261ED84.rpak",
       "$guid": "0x95E203FAD261ED84"
     },
@@ -55281,11 +55974,6 @@
     },
     {
       "_type": "shdr",
-      "_path": "shader/0xB42994D1D9580D30.rpak",
-      "$guid": "0xB42994D1D9580D30"
-    },
-    {
-      "_type": "shdr",
       "_path": "shader/0xB4CECE59A6C961D6.rpak",
       "$guid": "0xB4CECE59A6C961D6"
     },
@@ -55403,11 +56091,6 @@
       "_type": "shdr",
       "_path": "shader/0xBA7E2A32284A0C6A.rpak",
       "$guid": "0xBA7E2A32284A0C6A"
-    },
-    {
-      "_type": "shdr",
-      "_path": "shader/0xBAA755EFCB3A0595.rpak",
-      "$guid": "0xBAA755EFCB3A0595"
     },
     {
       "_type": "shdr",
@@ -55871,11 +56554,6 @@
     },
     {
       "_type": "shdr",
-      "_path": "shader/0xD5A979AB5E255FCD.rpak",
-      "$guid": "0xD5A979AB5E255FCD"
-    },
-    {
-      "_type": "shdr",
       "_path": "shader/0xD64FCBD18F332955.rpak",
       "$guid": "0xD64FCBD18F332955"
     },
@@ -56093,11 +56771,6 @@
       "_type": "shdr",
       "_path": "shader/0xE1BDE99CC98C776C.rpak",
       "$guid": "0xE1BDE99CC98C776C"
-    },
-    {
-      "_type": "shdr",
-      "_path": "shader/0xE2179E930B99EBDA.rpak",
-      "$guid": "0xE2179E930B99EBDA"
     },
     {
       "_type": "shdr",
@@ -56358,11 +57031,6 @@
       "_type": "shdr",
       "_path": "shader/0xF3ABF45AC39934CE.rpak",
       "$guid": "0xF3ABF45AC39934CE"
-    },
-    {
-      "_type": "shdr",
-      "_path": "shader/0xF49EEF468F1B089C.rpak",
-      "$guid": "0xF49EEF468F1B089C"
     },
     {
       "_type": "shdr",
@@ -67124,11 +67792,6 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0x307AF036F383A1F4.rpak",
-      "$guid": "0x307AF036F383A1F4"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0x307BF5CF2B3DAF25.rpak",
       "$guid": "0x307BF5CF2B3DAF25"
     },
@@ -68551,11 +69214,6 @@
       "_type": "txtr",
       "_path": "texture/0x371B5F2A232B3018.rpak",
       "$guid": "0x371B5F2A232B3018"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0x371C0392B15A558A.rpak",
-      "$guid": "0x371C0392B15A558A"
     },
     {
       "_type": "txtr",
@@ -70179,11 +70837,6 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0x3DF14B87F3A629BC.rpak",
-      "$guid": "0x3DF14B87F3A629BC"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0x3DF4219ECB910D40.rpak",
       "$guid": "0x3DF4219ECB910D40"
     },
@@ -71614,11 +72267,6 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0x44934DC06CB0B897.rpak",
-      "$guid": "0x44934DC06CB0B897"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0x449365D89029C972.rpak",
       "$guid": "0x449365D89029C972"
     },
@@ -71916,11 +72564,6 @@
       "_type": "txtr",
       "_path": "texture/0x46480BEB232433EE.rpak",
       "$guid": "0x46480BEB232433EE"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0x46494DBE95F2CD55.rpak",
-      "$guid": "0x46494DBE95F2CD55"
     },
     {
       "_type": "txtr",
@@ -76324,11 +76967,6 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0x59BDA2D25EB84A4D.rpak",
-      "$guid": "0x59BDA2D25EB84A4D"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0x59D44CF701760958.rpak",
       "$guid": "0x59D44CF701760958"
     },
@@ -77316,11 +77954,6 @@
       "_type": "txtr",
       "_path": "texture/0x5E4278CAD3B4B904.rpak",
       "$guid": "0x5E4278CAD3B4B904"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0x5E45C43A5FC6E910.rpak",
-      "$guid": "0x5E45C43A5FC6E910"
     },
     {
       "_type": "txtr",
@@ -78346,11 +78979,6 @@
       "_type": "txtr",
       "_path": "texture/0x63361199FEF2076.rpak",
       "$guid": "0x63361199FEF2076"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0x6346FCD2B23D1003.rpak",
-      "$guid": "0x6346FCD2B23D1003"
     },
     {
       "_type": "txtr",
@@ -82699,11 +83327,6 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0x78BE4B661987558F.rpak",
-      "$guid": "0x78BE4B661987558F"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0x78C04CC88D34C5AD.rpak",
       "$guid": "0x78C04CC88D34C5AD"
     },
@@ -85199,11 +85822,6 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0x85CFBE908CD96F29.rpak",
-      "$guid": "0x85CFBE908CD96F29"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0x85D5810FFBD71053.rpak",
       "$guid": "0x85D5810FFBD71053"
     },
@@ -86071,11 +86689,6 @@
       "_type": "txtr",
       "_path": "texture/0x89E5CBE5E06F69E2.rpak",
       "$guid": "0x89E5CBE5E06F69E2"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0x89E81C7033687DA.rpak",
-      "$guid": "0x89E81C7033687DA"
     },
     {
       "_type": "txtr",
@@ -88601,11 +89214,6 @@
       "_type": "txtr",
       "_path": "texture/0x9654B713C62AE45E.rpak",
       "$guid": "0x9654B713C62AE45E"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0x9664EC8A2EB39DE8.rpak",
-      "$guid": "0x9664EC8A2EB39DE8"
     },
     {
       "_type": "txtr",
@@ -91316,11 +91924,6 @@
       "_type": "txtr",
       "_path": "texture/0xA385790BBA8A0377.rpak",
       "$guid": "0xA385790BBA8A0377"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0xA385DC61BDE2A356.rpak",
-      "$guid": "0xA385DC61BDE2A356"
     },
     {
       "_type": "txtr",
@@ -95099,11 +95702,6 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0xB4926BF9AA78432B.rpak",
-      "$guid": "0xB4926BF9AA78432B"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0xB494DD922F38BDC9.rpak",
       "$guid": "0xB494DD922F38BDC9"
     },
@@ -96089,11 +96687,6 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0xB8F9B260E15A7877.rpak",
-      "$guid": "0xB8F9B260E15A7877"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0xB901C278675B0AE3.rpak",
       "$guid": "0xB901C278675B0AE3"
     },
@@ -96741,11 +97334,6 @@
       "_type": "txtr",
       "_path": "texture/0xBC14A56B721EEF22.rpak",
       "$guid": "0xBC14A56B721EEF22"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0xBC1F30E9DEBCA02D.rpak",
-      "$guid": "0xBC1F30E9DEBCA02D"
     },
     {
       "_type": "txtr",
@@ -98116,11 +98704,6 @@
       "_type": "txtr",
       "_path": "texture/0xC29EC47760314711.rpak",
       "$guid": "0xC29EC47760314711"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0xC2C640369FF1DC5F.rpak",
-      "$guid": "0xC2C640369FF1DC5F"
     },
     {
       "_type": "txtr",
@@ -100264,11 +100847,6 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0xCE384A83FC1B0040.rpak",
-      "$guid": "0xCE384A83FC1B0040"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0xCE48C4A0148191D8.rpak",
       "$guid": "0xCE48C4A0148191D8"
     },
@@ -101506,11 +102084,6 @@
       "_type": "txtr",
       "_path": "texture/0xD437C86E6B9B18A7.rpak",
       "$guid": "0xD437C86E6B9B18A7"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0xD43DE1961B1CB14D.rpak",
-      "$guid": "0xD43DE1961B1CB14D"
     },
     {
       "_type": "txtr",
@@ -102776,11 +103349,6 @@
       "_type": "txtr",
       "_path": "texture/0xDAEB8BA8B7B38EE1.rpak",
       "$guid": "0xDAEB8BA8B7B38EE1"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0xDAF40AA1287FB99B.rpak",
-      "$guid": "0xDAF40AA1287FB99B"
     },
     {
       "_type": "txtr",
@@ -104289,11 +104857,6 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0xE23C85C4D05AB9D3.rpak",
-      "$guid": "0xE23C85C4D05AB9D3"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0xE23EF75D551B3471.rpak",
       "$guid": "0xE23EF75D551B3471"
     },
@@ -105294,11 +105857,6 @@
     },
     {
       "_type": "txtr",
-      "_path": "texture/0xE7B25359558B2BE4.rpak",
-      "$guid": "0xE7B25359558B2BE4"
-    },
-    {
-      "_type": "txtr",
       "_path": "texture/0xE7B8E3337E12CF0F.rpak",
       "$guid": "0xE7B8E3337E12CF0F"
     },
@@ -105926,11 +106484,6 @@
       "_type": "txtr",
       "_path": "texture/0xEB690F72D64141F8.rpak",
       "$guid": "0xEB690F72D64141F8"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0xEB69F5A00D8042F5.rpak",
-      "$guid": "0xEB69F5A00D8042F5"
     },
     {
       "_type": "txtr",
@@ -107336,11 +107889,6 @@
       "_type": "txtr",
       "_path": "texture/0xF1F2450B1AA0C609.rpak",
       "$guid": "0xF1F2450B1AA0C609"
-    },
-    {
-      "_type": "txtr",
-      "_path": "texture/0xF1F39487658921DD.rpak",
-      "$guid": "0xF1F39487658921DD"
     },
     {
       "_type": "txtr",
@@ -112831,9 +113379,21 @@
     },
     {
       "_type": "arig",
-      "_path": "animrig/humans/class/heavy/pilot_heavy_revenant.rrig",
-      "$sequences": [
+      "_path" : "animrig/humans/class/heavy/pilot_heavy_revenant_legacy.rrig",
+      "$sequences" : [
+        "animseq/humans/class/heavy/pilot_heavy_revenant/og_revenant_menu_ready_up.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_menu_ready_up.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_menu_ready_up_idle.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_menu_select.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_menu_select_idle.rseq"
+      ]
+    },
+    {
+      "_type": "arig",
+      "_path" : "animrig/humans/class/heavy/pilot_heavy_revenant.rrig",
+      "$sequences" : [
         "animseq/humans/class/heavy/pilot_heavy_revenant/AIM_revenant_crouch_pistol.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/AIM_revenant_idle_scythe.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/AIM_revenant_sprint_shadow.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/AIM_revenant_sprint_UA.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/caustic_fire_pistol.rseq",
@@ -112843,32 +113403,13 @@
         "animseq/humans/class/heavy/pilot_heavy_revenant/caustic_fireCrouch_pistol.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/caustic_fireCrouch_pistol_ADS.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/caustic_gladcard_static_pose1.rseq",
-        "animseq/humans/class/heavy/pilot_heavy_revenant/caustic_run_pistol_ADS_B.rseq",
-        "animseq/humans/class/heavy/pilot_heavy_revenant/caustic_run_pistol_B.rseq",
-        "animseq/humans/class/heavy/pilot_heavy_revenant/caustic_run_rifle_ADS_B.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/caustic_run_rifle_ADS_F.rseq",
-        "animseq/humans/class/heavy/pilot_heavy_revenant/caustic_run_rifle_B.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/caustic_run_rifle_F.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/caustic_run_UA_F.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/caustic_sprint_rifle.rseq",
-        "animseq/humans/class/heavy/pilot_heavy_revenant/caustic_walk_pistol_ADS_B.rseq",
-        "animseq/humans/class/heavy/pilot_heavy_revenant/caustic_walk_pistol_B.rseq",
-        "animseq/humans/class/heavy/pilot_heavy_revenant/caustic_walk_rifle_ADS_B.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/caustic_walk_rifle_ADS_F.rseq",
-        "animseq/humans/class/heavy/pilot_heavy_revenant/caustic_walk_rifle_B.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/caustic_walk_rifle_F.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/caustic_walk_UA_F.rseq",
-        "animseq/humans/class/heavy/pilot_heavy_revenant/mp_pilot_freefall.rseq",
-        "animseq/humans/class/heavy/pilot_heavy_revenant/mp_pilot_freefall_anticipate.rseq",
-        "animseq/humans/class/heavy/pilot_heavy_revenant/mp_pilot_freefall_dive.rseq",
-        "animseq/humans/class/heavy/pilot_heavy_revenant/mp_pilot_freefall_fall2anticipate.rseq",
-        "animseq/humans/class/heavy/pilot_heavy_revenant/mp_pilot_freefall_landing2fall.rseq",
-        "animseq/humans/class/heavy/pilot_heavy_revenant/mp_pt_brutal_execution_caustic_loot.rseq",
-        "animseq/humans/class/heavy/pilot_heavy_revenant/mp_pt_caustic_base_execution_heavy_attacker.rseq",
-        "animseq/humans/class/heavy/pilot_heavy_revenant/mp_pt_caustic_brutal_execution_heavy_attacker.rseq",
-        "animseq/humans/class/heavy/pilot_heavy_revenant/mp_pt_caustic_loot_idle.rseq",
-        "animseq/humans/class/heavy/pilot_heavy_revenant/mp_pt_gas_execution_heavy_attacker.rseq",
-        "animseq/humans/class/heavy/pilot_heavy_revenant/mp_pt_gas_execution_heavy_attacker_loot.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/mp_pt_heavy_AIM_caustic_run_jason_F.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/mp_pt_heavy_AIM_caustic_run_rifle_F.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/mp_pt_heavy_AIM_caustic_sprint_haste.rseq",
@@ -112879,16 +113420,30 @@
         "animseq/humans/class/heavy/pilot_heavy_revenant/mp_pt_heavy_aim_crouchmove_rocket_ADS.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/mp_pt_heavy_aim_idle_rocket.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/mp_pt_heavy_aim_run_rifle.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/mp_pt_heavy_aim_slide_pistol.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/mp_pt_heavy_aim_slide_rifle.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/mp_pt_heavy_caustic_pistol_aim.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/mp_pt_heavy_caustic_pistol_aim_ads.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/mp_pt_heavy_caustic_stand_aim.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/mp_pt_heavy_caustic_stand_aim_ads.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/mp_pt_heavy_crouch_grenade_aims.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/mp_pt_heavy_crouch_high_idle_AIM.rseq",
-        "animseq/humans/class/heavy/pilot_heavy_revenant/mp_pt_impale_execution_revenant_loot.rseq",
-        "animseq/humans/class/heavy/pilot_heavy_revenant/mp_pt_revenant_impale_execution_heavy_attacker.rseq",
-        "animseq/humans/class/heavy/pilot_heavy_revenant/mp_pt_revenant_lurk_execution_heavy_attacker.rseq",
-        "animseq/humans/class/heavy/pilot_heavy_revenant/pilot_emote_test.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/pilot_rampart_turret_active.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/pilot_rampart_turret_dismount.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/pilot_rampart_turret_draw.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/pilot_rampart_turret_fire.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/pilot_rampart_turret_idle_layer.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/pilot_rampart_turret_lower.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/pilot_rampart_turret_mount_113.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/pilot_rampart_turret_mount_146.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/pilot_rampart_turret_mount_180.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/pilot_rampart_turret_mount_213.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/pilot_rampart_turret_mount_246.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/pilot_rampart_turret_mount_280.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/pilot_rampart_turret_mount_80.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/pilot_rampart_turret_reload.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_anticipate.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_anticipate_to_freefall.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/Revenant_crouch_aim.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/Revenant_crouch_aim_UA.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_crouch_fire_pistol.rseq",
@@ -112902,11 +113457,13 @@
         "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_crouch_rifle.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_crouch_rifle_ADS.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_crouch_rifle_twitch.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_crouch_scythe.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_crouch_star.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_crouch_thermite.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_crouch_UA.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_crouch_UA_alt.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_crouchLoot_rifle.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_crouchLoot_scythe.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_crouchLoot_UA.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_crouchWalk_pistol_ADS_B.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_crouchWalk_pistol_ADS_F.rseq",
@@ -112914,29 +113471,45 @@
         "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_crouchWalk_pistol_F.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_crouchWalk_rifle_B.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_crouchWalk_rifle_F.rseq",
-        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_crouchWalk_rocket_ADS_B.rseq",
-        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_crouchWalk_rocket_ADS_F.rseq",
-        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_crouchWalk_satchel_B.rseq",
-        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_crouchWalk_satchel_F.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_crouchWalk_scythe_B.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_crouchWalk_scythe_F.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_crouchWalk_UA_B.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_crouchWalk_UA_F.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_draw_totemULT.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_execution_impale.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_execution_impale_loot.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_execution_lurk.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_fire_pistol.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_fire_pistol_ADS.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_fire_rifle.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_fire_rifle_ADS.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_fire_totemULT.rseq",
-        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_freefall_anticipate_lava.rseq",
-        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_freefall_downed_anticipate.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_float_scythe_B.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_float_scythe_F.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_freefall.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_freefall_dive.rseq",
+        //"animseq/humans/class/heavy/pilot_heavy_revenant/revenant_freefall_emote_forthefans.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_freefall_emote_genericFlip.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_freefall_emote_snake.rseq",
+        //"animseq/humans/class/heavy/pilot_heavy_revenant/revenant_freefall_emote_totem.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_freefall_to_anticipate.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_gladcard_animated_assassin.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_gladcard_animated_assassin_idle.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_gladcard_animated_beatdown.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_gladcard_animated_beatdown_idle.rseq",
+        //"animseq/humans/class/heavy/pilot_heavy_revenant/revenant_gladcard_animated_crawl.rseq",
+        //"animseq/humans/class/heavy/pilot_heavy_revenant/revenant_gladcard_animated_crawl_idle.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_gladcard_animated_cube.rseq",
+        //"animseq/humans/class/heavy/pilot_heavy_revenant/revenant_gladcard_animated_heirloom_01.rseq",
+        //"animseq/humans/class/heavy/pilot_heavy_revenant/revenant_gladcard_animated_heirloom_01_idle.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_gladcard_animated_observation.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_gladcard_animated_observation_idle.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_gladcard_animated_play.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_gladcard_animated_play_idle.rseq",
+        //"animseq/humans/class/heavy/pilot_heavy_revenant/revenant_gladcard_animated_possessed.rseq",
+        //"animseq/humans/class/heavy/pilot_heavy_revenant/revenant_gladcard_animated_possessed_idle.rseq",
+        //"animseq/humans/class/heavy/pilot_heavy_revenant/revenant_gladcard_animated_werewolf.rseq",
+        //"animseq/humans/class/heavy/pilot_heavy_revenant/revenant_gladcard_animated_werewolf_idle.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/Revenant_gladcard_static_choking.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/Revenant_gladcard_static_contemplation.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/Revenant_gladcard_static_lurking.rseq",
@@ -112946,6 +113519,10 @@
         "animseq/humans/class/heavy/pilot_heavy_revenant/Revenant_gladcard_static_scarecrow.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/Revenant_gladcard_static_upsidedown.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/Revenant_gladcard_static_whisper.rseq",
+        //"animseq/humans/class/heavy/pilot_heavy_revenant/revenant_ground_emote_sharpen.rseq",
+        //"animseq/humans/class/heavy/pilot_heavy_revenant/revenant_ground_emote_silence.rseq",
+        //"animseq/humans/class/heavy/pilot_heavy_revenant/revenant_ground_emote_skullcrush.rseq",
+        //"animseq/humans/class/heavy/pilot_heavy_revenant/revenant_ground_emote_sparkingwhip.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_idle_frag.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_idle_pistol.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_idle_pistol_ADS.rseq",
@@ -112955,44 +113532,115 @@
         "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_idle_rifle_ADS.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_idle_rifle_alt.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_idle_rifle_wait.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_idle_scythe.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_idle_star.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_idle_thermite.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_idle_UA.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_idle_UA_twitchHunt.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_idle_UA_twitchStand.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_idleLoot_rifle.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_idleLoot_scythe.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_idleLoot_UA.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_jump_scythe_airsprint.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_jump_scythe_B.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_jump_scythe_F.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_jumpFloat_UA_F.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_jumpStart_UA_F.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_land_high_scythe.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_land_low_scythe.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_land_med_scythe.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_land_scythe.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_land_scythe_B.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_land_scythe_F.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_land_scythe_F_sprinting.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_land_scythe_high_B.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_land_scythe_high_F.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_land_scythe_high_F_sprinting.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_land_scythe_low_B.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_land_scythe_low_F.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_land_scythe_low_F_sprinting.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_land_scythe_med_B.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_land_scythe_med_F.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_land_scythe_med_F_sprinting.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_mantleIdle_scythe.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_mantleLevel_scythe.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_meleeCrouch_scythe.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_meleeJump_scythe.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_meleeJump_scythe_F.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_meleeSlide_scythe.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_meleeSprint_scythe.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_meleeStand_scythe_01.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_menu_lobby_center_idle.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_menu_lobby_center_sprint.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_menu_lobby_left_idle.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_menu_lobby_right_idle.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_menu_lobby_select_idle.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_menu_loot_ceremony.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_menu_ready_up.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_menu_ready_up_idle.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_menu_select.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_menu_select_idle.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_pullout_orbTAC.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_run_pistol_ADS_B.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_run_pistol_B.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_run_rifle_ADS_B.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_run_rifle_B.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_run_scythe_B.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_run_scythe_F.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_run_UA_B.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_skid_UA_B.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_skid_UA_F.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_skid_UA_L.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_skid_UA_R.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_slide_pistol.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_slide_rifle.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_slide_scythe.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_slide_UA.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_slideEnd_pistol_BL.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_slideEnd_pistol_BR.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_slideEnd_pistol_F.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_slideEnd_pistol_L.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_slideEnd_pistol_R.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_slideEnd_rifle_BL.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_slideEnd_rifle_BR.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_slideEnd_rifle_F.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_slideEnd_rifle_L.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_slideEnd_rifle_R.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_slideEnd_scythe_F.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_slideEnd_UA_BL.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_slideEnd_UA_BR.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_slideEnd_UA_F.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_slideEnd_UA_L.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_slideEnd_UA_R.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_slideFloat_pistol.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_slideFloat_rifle.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_slideFloat_UA.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_sprint_scythe.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_sprint_UA.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/Revenant_stand_aim.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/Revenant_stand_aim_ads.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/Revenant_stand_pistol_aim.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/Revenant_stand_pistol_aim_ads.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_throw_orbTAC.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_updraft.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_updraft_downed.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_walk_pistol_ADS_B.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_walk_pistol_B.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_walk_rifle_ADS_B.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_walk_rifle_B.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_walk_scyth_F.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_walk_scythe_B.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_walk_UA_B.rseq",
-        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_wallrunUp_UA_02.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_wallrunUp_pistol.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_wallrunUp_rifle.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_wallrunUp_scythe.rseq",
+        "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_wallrunUp_UA.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/TMP_caustic_AIM_faceaim_sprint.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/TMP_caustic_AIM_idle_satchel.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/TMP_caustic_run_backward_ORD.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/TMP_caustic_run_forward_ORD.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/TMP_caustic_run_forward_PISTOL.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/TMP_caustic_run_forward_PISTOL_ADS.rseq",
-        "animseq/humans/class/heavy/pilot_heavy_revenant/TMP_caustic_slide_backward.rseq",
-        "animseq/humans/class/heavy/pilot_heavy_revenant/TMP_caustic_slide_forward.rseq",
-        "animseq/humans/class/heavy/pilot_heavy_revenant/TMP_caustic_slide_left.rseq",
-        "animseq/humans/class/heavy/pilot_heavy_revenant/TMP_caustic_slide_right.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/TMP_caustic_sprint_ORD.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/TMP_caustic_walk_backward_ORD.rseq",
         "animseq/humans/class/heavy/pilot_heavy_revenant/TMP_caustic_walk_forward_ORD.rseq",
@@ -127396,10 +128044,20 @@
     },
     {
       "_type": "mdl_",
+      "_path": "mdl/Humans/class/heavy/pilot_heavy_revenant_legacy.rmdl",
+      "$animrigs": [
+        "animrig/humans/class/heavy/mp_pilot_heavy_core.rrig",
+        "animrig/humans/class/heavy/pilot_heavy_revenant.rrig"
+        //"animrig/humans/class/heavy/pilot_heavy_revenant_legacy.rrig"
+      ]
+    },
+    {
+      "_type": "mdl_",
       "_path": "mdl/Humans/class/heavy/pilot_heavy_revenant.rmdl",
       "$animrigs": [
         "animrig/humans/class/heavy/mp_pilot_heavy_core.rrig",
         "animrig/humans/class/heavy/pilot_heavy_revenant.rrig"
+        //"animrig/humans/class/heavy/pilot_heavy_revenant_legacy.rrig"
       ]
     },
     {
@@ -131747,6 +132405,18 @@
       "$animrigs": [
         "animrig/props/goblet/goblet.rrig"
       ]
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/scriptAnimWindow/callback_skydive_trail_friendly_enemy.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/scriptAnimWindow/fx_shadowFormReborn_default.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/scriptAnimWindow/og_revenant_menu_ready_up.rpak"
     },
     {
       "_type": "stgs",
@@ -142427,6 +143097,10 @@
     {
       "_type": "stgs",
       "_path": "settings/itemflav/character_skin/rampart/twitch04_rare_01.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/itemflav/character_skin/revenant/reborn.rpak"
     },
     {
       "_type": "stgs",
@@ -155298,3 +155972,5 @@
     }
   ]
 }
+
+

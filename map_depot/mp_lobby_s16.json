@@ -4,18 +4,16 @@
   "name": "mp_lobby",
   "streamFileMandatory": "paks/Win64/mp_lobby.starpak",
   "streamFileOptional": "paks/Win64/mp_lobby.opt.starpak",
-  "assetsDir": "assets/mp_lobby_s16/",
+  "assetsDir": "map_depot/assets/mp_lobby_s16/",
   "outputDir": "./build/",
   "compressLevel": 6,
   "compressWorkers": 16,
-
+  "buildDate": 321554843,
   "streamCache": "cache/pc_all.starmap",
   "streamCacheFilter": [
       "paks/Win64/pc_all.starpak",
       "paks/Win64/pc_all.opt.starpak"
   ],
-
-  "buildDate": 321554843,
 
   "files": [
     {

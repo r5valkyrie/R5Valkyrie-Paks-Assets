@@ -20,7 +20,7 @@
         "sdk_depot/others/common_mp.json",//Rebuilt Core Rpak
 
         //MAP PAKS
-        "map_depot/mp_lobby_s3.1.json",//Season 3 Christmas Lobby
+        "map_depot/mp_lobby_s16.json",//Season 3 Christmas Lobby
         "map_depot/mp_rr_canyonlands_staging.json",//Season 14 Firing Range
         "map_depot/mp_rr_canyonlands_staging_mu1.json",//Season 17 Firing Range
         "sdk_depot/others/mp_rr_canyonlands_mu1.json",//Canyonlands MU1, Original S3 variant
