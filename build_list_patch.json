@@ -6,8 +6,8 @@
 
     "outputDir": "./paks/Win64/",
 
-    "streamFileMandatory": "paks/Win64/pc_all(01).starpak",
-    "streamFileOptional": "paks/Win64/pc_all(01).opt.starpak",
+    "streamFileMandatory": "paks/Win64/pc_all(02).starpak",
+    "streamFileOptional": "paks/Win64/pc_all(02).opt.starpak",
 
     "showDebugInfo": false,
     "streamCache": "cache/pc_all.starmap",

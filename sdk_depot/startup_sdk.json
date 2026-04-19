@@ -7,7 +7,7 @@
   "assetsDir": "sdk_depot/others/startup_sdk",
   "outputDir": "./build/",
   "buildDate": 4004773717,
-  "compressLevel": 0,
+  "compressLevel": 6,
   "compressWorkers": 16,
 
     "streamFileMandatory": "paks/Win64/pc_all(02).starpak",
@@ -25,8 +25,7 @@
   "files": [
     {
       "_type": "dtbl",
-      "_path": "datatable/0xC803BD35ABD0972B.rpak",
-      "$guid": "0xC803BD35ABD0972B"
+      "_path": "datatable/colorpalette_table.rpak"
     },
     {
       "_type": "shdr",
