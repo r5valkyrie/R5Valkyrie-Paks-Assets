@@ -4111,6 +4111,10 @@
     },
     {
       "_type": "dtbl",
+      "_path": "datatable/dialogue/oly_path_tt_ring_announcer_dialogue.rpak"
+    },
+    {
+      "_type": "dtbl",
       "_path": "datatable/prop_reskin.rpak"
     },
     {

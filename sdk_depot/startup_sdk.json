@@ -25,7 +25,11 @@
   "files": [
     {
       "_type": "dtbl",
-      "_path": "datatable/colorpalette_table.rpak"
+      "_path": "datatable/colorpalette_table.rpak"//updated to s16 + new entries from s21
+    },
+    {
+      "_type": "dtbl",
+      "_path": "datatable/player_stat_cards.rpak"//updated to s21
     },
     {
       "_type": "shdr",
