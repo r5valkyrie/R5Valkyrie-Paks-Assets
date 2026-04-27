@@ -8,6 +8,2522 @@
   "compressWorkers": 16,
   "files": [
     {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_artifact_component_set_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_base_itemflavor_list_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemflavorlist_base_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_ability_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_account_currency_bundle_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_account_currency_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_account_pack_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_apex_coins_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_apex_cup_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_artifact_component_activation_emote_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_artifact_component_blade_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_artifact_component_deathbox_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_artifact_component_power_source_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_artifact_component_theme_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_battlepass_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_battlepass_presale_voucher_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_battlepass_purchased_xp_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_boost_type_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_calevent_apex_cup_container_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_calevent_arenas_ranked_period_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_calevent_base_event_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_calevent_boost_event_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_calevent_buffet_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_calevent_challenge_collection_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_calevent_challenge_set_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_calevent_collection_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_calevent_event_shop_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_calevent_login_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_calevent_milestone_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_calevent_rankedperiod_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_calevent_season_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_calevent_skustore_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_calevent_story_challenges_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_calevent_temp_unlock_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_calevent_themedshop_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_challenge_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_character_emote_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_character_execution_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_character_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_character_skin_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_class_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_class_perk_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_club_logo_element_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_club_search_tag_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_emote_icon_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_entitlement_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_gladiator_card_badge_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_gladiator_card_frame_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_gladiator_card_intro_quip_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_gladiator_card_kill_quip_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_gladiator_card_stance_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_gladiator_card_stat_tracker_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_grx_sentinel_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_image_2d_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_kepler_scenario_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_loadscreen_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_loot_main_weapon_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_lore_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_melee_skin_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_melee_weapon_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_music_pack_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_mythic_bundle_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_ping_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_quest_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_quest_mission_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_radio_play_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_ranked_2pt0_period_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_ranked_trial_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_reward_set_tracker_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_skydive_emote_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_skydive_trail_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_sticker_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_voucher_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_weapon_category_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_weapon_charm_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_itemtype_weapon_skin_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_scriptAnimWindowArguments_Callback_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_scriptAnimWindowArguments_CreateProp_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_scriptAnimWindowArguments_FadeAlphaOverTime_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_scriptAnimWindowArguments_HideEnt_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_scriptAnimWindowArguments_HideWeapons_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_scriptAnimWindowArguments_LifelineDroneCommonFX_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_scriptAnimWindowArguments_MirageHoloFX_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_scriptAnimWindowArguments_PlayFX_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_scriptAnimWindowArguments_PlaySound_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_scriptAnimWindowArguments_SetColorModScaleOverDuration_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_scriptAnimWindowArguments_SetConvar_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_scriptAnimWindowArguments_SetLodOriginAttachment_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_scriptAnimWindowArguments_SetPropSkin_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_scriptAnimWindowArguments_SetSkin_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_scriptAnimWindowArguments_ShadowFormFX_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_scriptAnimWindowArguments_ShadowFormRebornFX_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_skinAlias_impactTable_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_skinAlias_sfx_layout.rpak"
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_skinAlias_vfx_layout.rpak"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/aether_tendrills_bh.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/aether_tendrills_bh_nofog.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/alter_breach_base_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/alter_breach_base_elec_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/alter_breach_base_elec_03.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/alter_crack_refrac_03.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/alter_crack_refrac_p1.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/alter_crack_refrac_p2.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/alter_crack_refrac_p4.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/alter_crack_refrac_p5.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/alter_crack_refrac_p6.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/alter_glitch_triangle_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/alter_panel_refrac_single_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/alter_pentagon_core_bg_05.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/alter_pentagon_nrg_drk_back.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/alter_tac_crack_bg_drk.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/alter_tac_crack_refrac_p1.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/alter_tac_crack_refrac_p2.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/alter_tac_crack_refrac_p3.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/alter_tac_crack_refrac_p4.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/alter_tac_crack_refrac_p5.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/alter_tac_crack_refrac_p6.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/alter_tac_crack_refrac_p7.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/alter_tac_spear_glow.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/arcbolt_FP_blur.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/arcbolt_FP_elec.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/Artifact_celes_power_abstract_VFX.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/Artifact_celes_power_glow_inspect_2_VFX.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/Artifact_celes_power_glow_inspect_VFX.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/Artifact_celes_power_glow_VFX.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/Artifact_fire_deathbox_core.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/Artifact_fire_deathbox_flames.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/Artifact_fire_deathbox_trim.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/Artifact_fire_power_glow_inner.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/Artifact_fire_power_glow_VFX.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/Artifact_fire_power_power_core.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/Artifact_hisoc_blade_overlay_3P_VFX.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/Artifact_hisoc_blade_overlay_VFX.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/Artifact_hisoc_power_flare_offset_vfx.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/Artifact_hisoc_power_flare_VFX.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/Artifact_hisoc_power_glow_VFX.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/Artifact_hisoc_power_overlay_offset.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/Artifact_mob_power_glow_start.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/Artifact_Mob_power_glow_VFX.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/Artifact_Mob_power_glow_VFX_MENU.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/Artifact_Mob_power_outside_VFX.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/Artifact_mob_skull_eye_glow_v2.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/artifact_steam_blade_elec_VFX.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/artifact_steam_blade_idle_VFX.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/artifact_steam_blade_ribs_VFX.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/artifact_steam_power_elec_detail_VFX.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/artifact_steam_power_elec_flourish_VFX.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/artifact_steam_power_elec_impact_VFX.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/Artifact_steam_power_glow_VFX.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/Artifact_stech_blade_space_VFX.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/Artifact_stech_power_cage_VFX.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/Artifact_stech_power_glow_VFX.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/Artifact_stech_power_sphere_VFX.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/Artifact_stech_ring_space_VFX.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/Artifact_stech_sphere_space_VFX.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/artifact_sun_flare_ring.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/ar_edge_sphere_512.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/ar_holoplane.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/ar_impact_pilot.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/ar_marker_arrow_down.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/ash_markdeath_abstract3.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/ash_markdeath_disc_ground.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/ash_markdeath_init_ring_sphere.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/ash_mask_circuitry_emissive.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/ash_sword_idle_fill.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/ash_sword_idle_whispy.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/ash_sword_outer_FP.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/ash_sword_slash_FP.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/ash_tether_radius_arc.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/ballistic_backpack_piston_l.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/ballistic_backpack_piston_r.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/ballistic_tac_wpn_mflash.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/ballistic_ulti_body_buff_ar.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/bangalore_exec_tacblade.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/BH_mythic_exec_shouldercannon_exhaust.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/black_hole_cloud_disc.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/black_hole_sphere.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/blisk_card_cut.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/bSilence_smoke.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/campfire_flat_sm_fx.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/campfire_sm_fx.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/Car_reactive_energy_ball_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/Car_reactive_energy_ball_rt01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/Car_reactive_energy_twist_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/Car_reactive_energy_twist_01_rt01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/Car_reactive_glow.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/Car_reactive_glow_rt01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/Car_reactive_glow_spin_v2.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/Car_reactive_glow_spin_v2_rt01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/Car_reactive_pipes.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/Car_reactive_pipes_rt01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/Car_reactive_pipes_v2.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/Car_reactive_pipes_v2_rt01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/Car_reactive_pipes_v3.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/Car_reactive_pipes_v3_rt01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/Car_reactive_rear_glow.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/Car_reactive_rear_glow_rt01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/Car_reactive_Top_spin.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/Car_reactive_Top_spin_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/Car_reactive_Top_spin_02_rt01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/Car_reactive_Top_spin_03.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/Car_reactive_Top_spin_03_rt01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/Car_reactive_Top_spin_04.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/Car_reactive_Top_spin_04_rt01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/Car_reactive_Top_spin_all_glow.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/Car_reactive_Top_spin_all_glow_rt01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/Car_reactive_Top_spin_rt01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/caustic_acidspray.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/caustic_gastank_freefall_blur.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/caustic_hologram_skull.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/caustic_hologram_skull_scan.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/clbr_emote_coatpose_flatwind.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/confetti_multicolor_bs.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/core_energy.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/cosmeticsword_blade_emissive.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/crypto_button_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/crypto_button_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/crypto_button_03.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/crypto_drone_shield.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/crypto_game_holo.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/crypto_game_holo_flat.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/crypto_game_piece_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/crypto_game_piece_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/crypto_game_piece_03.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/crypto_game_piece_04.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/crypto_game_piece_05.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/crypto_game_piece_06.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/crypto_game_piece_07.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/crypto_game_piece_08.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/crypto_game_square.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/crypto_heirloom_blade_01_left.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/crypto_heirloom_blade_01_right.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/crypto_heirloom_ins_game_ball.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/crypto_heirloom_swipe_energy.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/crypto_heirloom_sword_glow.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/crypto_holo_circles.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/crypto_holo_keyboard.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/crypto_holo_screen.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/crypto_holo_screen_tri.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/crypto_visor.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/crypto_visor_boot_swipe.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/crypto_visor_boot_tri.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/crypto_visor_terrain.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/crypto_visor_UI_rotate.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/dataknife_holo_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/dataknife_holo_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/dataknife_holo_03.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/dataknife_holo_12.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/dataknife_holo_15.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/dataknife_holo_18.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/dataknife_holo_19.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/dataknife_holo_inner.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/dataknife_holo_mid.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/dataknife_holo_outer.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/death_box_celes_fx.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/debug_sphere_additive.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/dmr_reactive_intake.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/dmr_reactive_intake_kill.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/dmr_reactive_turbine.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/dmr_reactive_vent_l.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/dmr_reactive_vent_r.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/down_shield_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/down_shield_NC.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/down_shield_NC_edge.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/down_shield_NC_step1.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/down_shield_NC_step2.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/drop_prestige_lifeline_dna.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/drop_prestige_lifeline_dna_elec.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/drop_prestige_lifeline_dna_lines.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/emp_flare_ring.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/emp_sphere.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/energy_ar_ship_glow_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/energy_ar_ship_glow_01_3P.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/energy_ar_ship_glow_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/energy_proj_round.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/energy_ring_core_fx.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/energy_ring_edge.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/energy_ring_fx.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/eva8_react_fire_base.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/eva8_react_fire_base_lvl1.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/eva8_react_fire_vent.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/eva8_react_skull_base.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/eva8_react_skull_eyes.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/eva8_react_soul_base.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/eva8_react_soul_core_blnds_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/eva8_react_soul_core_hor.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/evilvoidwalker_emote_portal.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/ferrofluid_orb.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/ferrofluid_orb_alt.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/ferrofluid_tac_spike_wave.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/ferrofluid_tac_splash_ring.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/ferrofluid_ult_base_fill.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/ferro_prop_exec_pillar.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/ferro_prop_moon_base.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/ferro_prop_moon_blend.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/ferro_prop_puddle.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/ferro_prop_throne_blend.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/ferro_prop_throne_stool.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/ferro_shard_02_large.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/flatline_s4_glow_hex.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/flatline_s4_glow_hex_fast.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fuse_heirloom_vent_glow.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_caustic_OP_menu_glass_refract.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_conduit_backpack_burst.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_conduit_drone_muzzleglow.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_conduit_emote_holo_arc.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_conduit_emote_holo_bronze.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_conduit_emote_holo_cell.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_conduit_emote_holo_med.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_conduit_emote_holo_therm.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_conduit_exec_holo_bar.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_conduit_exec_holo_danger.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_conduit_exec_holo_graph.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_conduit_exec_holo_grid.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_conduit_exec_holo_heart.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_conduit_exec_holo_music.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_conduit_exec_holo_panel.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_conduit_exec_holo_scan.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_conduit_hitFX_ring.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_conduit_hitFX_ring_thick.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_conduit_skydive_check.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_conduit_skydive_scan.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_eye_bottom_left2.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_eye_bottom_right2.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_eye_top_left2.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_eye_top_right2.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_gadget_screen_BH.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_keyboard_key.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_keyboard_long.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_keyboard_space.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_LED_3p_glow.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_LED_3p_rot_in_scrl1.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_LED_3p_rot_in_scrl2.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_LED_3p_rot_in_scrl3.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_LED_3p_rot_out_scrl1.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_LED_3p_rot_out_scrl2.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_LED_3p_rot_out_scrl3.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_LED_3p_scrl1.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_LED_3p_scrl2.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_LED_3p_scrl3.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_LED_left_glow1.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_LED_left_glow2.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_LED_left_glow3.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_LED_left_glow4.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_LED_right_glow1.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_LED_right_glow2.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_LED_right_glow3.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_LED_right_glow4.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_LED_rnd_L1.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_LED_rnd_L2.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_LED_rnd_R1.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_LED_rnd_R2.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_LED_rot_inner_rnd.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_LED_rot_inner_scrl1.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_LED_rot_inner_scrl2.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_LED_rot_outer_rnd.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_LED_rot_outer_scrl1.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_LED_rot_outer_scrl2.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_LED_scrl1_L1.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_LED_scrl1_L2.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_LED_scrl1_R1.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_LED_scrl1_R2.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_LED_scrl2_L1.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_LED_scrl2_L2.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_LED_scrl2_R1.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_LED_scrl2_R2.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_lifeline_emote_holo_med.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_lifeline_emote_holo_med_darkbg.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_lifeline_emote_holo_med_page2.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_lifeline_emote_holo_med_page3.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_mechanical_debris_chip_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_mechanical_debris_chip_03.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_mechanical_debris_cog_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_mechanical_debris_heat_pipe.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_mechanical_debris_metal_shaving_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_mirage_holo_emitter.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_octane_mythic_exec_splash.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_octane_mythic_exec_swipe.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_reactor_glow.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/FX_skull_Rev_skydive_head.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/FX_skull_Rev_skydive_jaw.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_smoke_Heart.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_Tube_glow.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_wpn_r3030_reactive_ferrofluid.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_wpn_r3030_reactive_ferrofluid_calm.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_wpn_r3030_reactive_ferrofluid_edge.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_wpn_r3030_reactive_nodule_rear_le.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_wpn_r3030_reactive_vent_energy.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/fx_wpn_r3030_reactive_vent_energy_s2.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/g7_energy_core_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/g7_exhaust_body_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/g7_exhaust_rear_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/g7_exhaust_rear_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/geo_sphere_soft.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/geo_sphere_soft_noz.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/gibralter_gun_shield.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/gib_club_glow.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/gib_club_glowB.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/gib_club_glowC.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/gib_club_glowD.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/gib_club_glowE.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/gib_club_hit_fire.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/holospray_drone_exhaust_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/holo_rings_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/holo_text_scroll_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/holo_text_scroll_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/holo_text_scroll_03.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/kill_fx_death_box_shell_gh.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/LED_rot_out_glow.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/Legend_Upgrades_levelUp_ring.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/lifeline_mythic_drone_blade_tip.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/light_bend_plane.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/light_bend_ring.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/light_bend_vortex.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/loba_band_energy.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/loba_heirloom_fanCenter1.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/loba_heirloom_fanCombine.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/loba_heirloom_fanTip1.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/loba_heirloom_fanTip2.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/loba_heirloom_fanTip3.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/loba_heirloom_fanTip4.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/loba_heirloom_fanTip5.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/loba_heirloom_skull_heat_bottom.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/loba_heirloom_skull_heat_top.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/loba_ring_glow.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/Loba_skydive_prestige_body_ribbon_06.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/loba_staff_edge_det.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/loba_staff_holo_form.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/loba_staff_holo_grnd.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/loba_staff_holo_inner.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/loba_staff_holo_open.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/loba_staff_holo_worbble.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/loba_staff_witch_blur.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/loba_warp_smk.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/maggie_ball_spin.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/maggie_glass_cracked_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/maggie_glass_cracked_edge.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/maggie_glass_piece_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/mastiff_react_inner_glow_frame_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/mastiff_react_inner_glow_inner_tube.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/mastiff_react_inner_laser_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/mastiff_react_kill_frames_side.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/mastiff_react_kill_frames_side_P1.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/mastiff_react_kill_frames_side_P2.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/mastiff_react_kill_frames_side_P3.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/mastiff_react_kill_frames_side_P4.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/mastiff_react_kill_frames_side_P5.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/mastiff_react_kill_panels_side_P1.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/mastiff_react_kill_panels_side_P2.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/mastiff_react_kill_panels_side_P3.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/mastiff_react_kill_panels_side_P4.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/mastiff_react_kill_panels_side_P5.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/mastiff_react_kill_vents_side.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/mastiff_react_pers_lvl1_frame_glow.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/mastiff_react_pers_lvl2_frame_nrg_side.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/mastiff_react_pers_lvl3_body_inner.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/mastiff_react_pers_lvl3_frame_glow.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/mastiff_react_pers_lvl3_frame_nrg_side.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/mastiff_react_pers_lvl3_glow_top.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/mastiff_react_pers_lvl3_panels_glow.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/mastiff_react_pers_lvl3_panels_rfrct.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/micro_drone_cluster_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/micro_drone_detail.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/micro_drone_knot.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/micro_drone_single.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/mm_ball_explode_pc1.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/mm_ball_side.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/nc_stretcher_thrusters.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/nemesis_barrel_fx.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/nemesis_MF_Vol.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/nemesis_MF_Vol_nml.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/newcastle_ult_shockwave.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/nova_flare_ring.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/nova_flare_torusknot.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/nova_light_bend_plane.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/nova_warped_geo_bright.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/nunchuck_bladeBttm.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/nunchuck_bladeTop.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/nunchuck_bttm_holo.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/nunchuck_coil.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/nunchuck_coilLong.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/nunchuck_glow.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/nunchuck_glowLong.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/nunchuck_hilt_glow.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/nunchuck_Tip_bladeBttm.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/nunchuck_Tip_bladeTop.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/nunchuck_top_holo.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/octane_heli.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/octane_jumppad_freefall_blur.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/octane_mythic_trail_shark.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/pariah_killroom_web_sphere_dronescluster_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/peacekeeper_legendary_frost.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/peacekeeper_legendary_ice_lvl1_add.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/peacekeeper_legendary_ice_lvl1_add_B.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/peacekeeper_legendary_ice_lvl2_add.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/peacekeeper_legendary_ice_lvl2_add_B.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/peacekeeper_legendary_ice_lvl3_add.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/peacekeeper_legendary_ice_lvl3_add_B.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/peacekeeper_legendary_ice_stock.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/phase_gate_edge.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/phase_tunnel_ash_dark_geo.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/phase_tunnel_entrance.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/phase_tunnel_entrance_back.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/phase_tunnel_entrance_beam.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/phase_tunnel_entrance_front.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/phase_tunnel_exit.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/phase_tunnel_exit_back.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/phase_tunnel_fill.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/phase_tunnel_geo.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/phase_tunnel_skydive_entrance.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/phase_tunnel_skydive_entrance_beam.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/phase_tunnel_skydive_entrance_front.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/pilot_shield_wall.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/pilot_shield_wall_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/pilot_shield_wall_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/pilot_shield_wall_03.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/plasma_sphere_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/plasma_sphere_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/prowler_reactive_spinners.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/prowler_reactive_spinners_ALT.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/r301_leg07_fire_body.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/r301_leg07_fire_horns.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/r99_react_inner_lvl3.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/r99_react_outer_kill.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/r99_react_outer_kill_front.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/r99_react_outer_kill_side.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/r99_react_outer_lvl1.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/r99_react_outer_lvl2.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/r99_react_outer_lvl3.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/r99_react_rear_kill.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/r99_reac_s20_front_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/r99_reac_s20_front_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/r99_reac_s20_hex_back.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/r99_reac_s20_hex_front.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/r99_reac_s20_panel_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/r99_reac_s20_panel_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/r99_reac_s20_panel_r_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/r99_reac_s20_panel_r_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/r99_reac_s20_panel_wpn_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/r99_reac_s20_panel_wpn_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/r99_reac_s20_panel_wpn_03.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/r99_reac_s20_panel_wpn_r_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/r99_reac_s20_panel_wpn_r_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/r99_reac_s20_panel_wpn_r_03.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/rampage_3p_emissives.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/rampart_heirloom_elec.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/rampart_heirloom_energy.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/rampart_heirloom_holo.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/rampart_wall_freefall_blur.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/rat_cheese.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/rdt_smoke_swirl.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/rev_reborn_dots_sand_trail_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/rev_reborn_dots_sand_trail_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/rev_reborn_energy_disc.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/rev_reborn_energy_trail_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/rev_reborn_tech_shape_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/rev_reborn_tech_shape_06.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/rev_reborn_tech_shape_07.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/rev_reborn_tech_shape_09.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/rev_reborn_tech_shape_noise_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/rev_reborn_tech_shape_noise_02.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/rev_reborn_tech_shape_noise_03.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/rev_reborn_tech_shape_noise_04.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/s19_story_rev_eyes.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/screen_dmg_concussion.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/seer_fistblade_petal.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/seer_fistblade_tablet_light.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/skydive_prestige_valk_s17_blade.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/skydive_prestige_valk_s17_blade_glow.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/skydive_trail_airburst.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/skydive_trail_blur.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/skydive_trail_cap.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/skydive_trail_elec_2.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/skydive_trail_energy.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/skydive_trail_energy_burn.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/skydive_trail_sparks.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/skydive_trail_streaks.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/skydive_trail_streaks_dark.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/spark_blast.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/spark_blast_cone_A.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/spider_web_core.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/sptfire_reac_glow_inner_panel_a_l_lvl3.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/sptfire_reac_glow_inner_panel_a_r_lvl3.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/sptfire_reac_glow_inner_panel_b_l_lvl3.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/sptfire_reac_glow_inner_panel_b_r_lvl3.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/sptfire_reac_glow_inner_panel_c_l_lvl3.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/sptfire_reac_glow_inner_panel_c_r_lvl3.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/sptfire_reac_glow_inner_panel_d_l_lvl3.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/sptfire_reac_glow_inner_panel_d_r_lvl3.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/sptf_reac_kill_fire_side.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/sptf_reac_kill_fire_side_3P.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/sptf_reac_pers_fire_side_lvl1.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/sptf_reac_pers_fire_side_lvl2.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/sptf_reac_pers_fire_side_lvl2_3P.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/sptf_reac_pers_fire_side_lvl3.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/sptf_reac_pers_fire_side_lvl3_3P.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/stone_defense.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/teacup_liquid_geo.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/titansword_blade_emissive.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/tripletake_react_Vol.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/trophy_system_spin.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/valk_emt_yoyo.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/valk_emt_yoyo_red.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/valk_spear_swirl_reverse.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/veh_spawnpoint_banner.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/veh_spawnpoint_beam.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/volt_reactive_eye_glow.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/volt_reactive_eye_glow_lvl3.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/volt_reactive_vent_sides.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/volt_reactive_vent_sides_kill.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/volt_reactive_vent_sides_lvl1.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/volt_reactive_vent_sides_lvl2.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/vortex_shield_sm.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/watt_coil_on_menu.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/watt_coil_on_spin.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/watt_fence_base.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/watt_fence_post.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/watt_heir_coil_v01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/wat_rock_light_pc_1.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/wat_rock_pc_1.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/wat_rock_pc_1_glow.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/wat_rock_white_pc_1.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/wat_snowball_pc_1.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/wing_s5_gear_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/wing_s5_gear_flat01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/wraith_Kunai_2_tip.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/wraith_skydive_portal_edge_01.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/xo_emp_field_inner.rmdl"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/fx/xo_emp_field_inner_only.rmdl"
+    },
+    {
       "_type": "mdl_",
       "_path": "mdl/error.rmdl"
     },
@@ -16760,386 +19276,6 @@
     {
       "_type": "mdl_",
       "_path": "mdl/weapons_r5/snipe_sentinel_sr/sentinel_charge_speed.rmdl"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_artifact_component_set_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_base_itemflavor_list_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemflavorlist_base_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_ability_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_account_currency_bundle_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_account_currency_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_account_pack_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_apex_coins_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_apex_cup_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_artifact_component_activation_emote_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_artifact_component_blade_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_artifact_component_deathbox_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_artifact_component_power_source_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_artifact_component_theme_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_battlepass_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_battlepass_presale_voucher_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_battlepass_purchased_xp_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_boost_type_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_calevent_apex_cup_container_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_calevent_arenas_ranked_period_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_calevent_base_event_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_calevent_boost_event_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_calevent_buffet_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_calevent_challenge_collection_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_calevent_challenge_set_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_calevent_collection_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_calevent_event_shop_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_calevent_login_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_calevent_milestone_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_calevent_rankedperiod_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_calevent_season_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_calevent_skustore_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_calevent_story_challenges_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_calevent_temp_unlock_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_calevent_themedshop_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_challenge_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_character_emote_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_character_execution_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_character_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_character_skin_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_class_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_class_perk_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_club_logo_element_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_club_search_tag_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_emote_icon_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_entitlement_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_gladiator_card_badge_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_gladiator_card_frame_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_gladiator_card_intro_quip_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_gladiator_card_kill_quip_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_gladiator_card_stance_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_gladiator_card_stat_tracker_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_grx_sentinel_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_image_2d_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_kepler_scenario_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_loadscreen_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_loot_main_weapon_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_lore_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_melee_skin_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_melee_weapon_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_music_pack_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_mythic_bundle_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_ping_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_quest_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_quest_mission_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_radio_play_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_ranked_2pt0_period_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_ranked_trial_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_reward_set_tracker_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_skydive_emote_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_skydive_trail_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_sticker_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_voucher_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_weapon_category_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_weapon_charm_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_itemtype_weapon_skin_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_scriptAnimWindowArguments_Callback_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_scriptAnimWindowArguments_CreateProp_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_scriptAnimWindowArguments_FadeAlphaOverTime_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_scriptAnimWindowArguments_HideEnt_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_scriptAnimWindowArguments_HideWeapons_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_scriptAnimWindowArguments_LifelineDroneCommonFX_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_scriptAnimWindowArguments_MirageHoloFX_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_scriptAnimWindowArguments_PlayFX_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_scriptAnimWindowArguments_PlaySound_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_scriptAnimWindowArguments_SetColorModScaleOverDuration_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_scriptAnimWindowArguments_SetConvar_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_scriptAnimWindowArguments_SetLodOriginAttachment_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_scriptAnimWindowArguments_SetPropSkin_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_scriptAnimWindowArguments_SetSkin_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_scriptAnimWindowArguments_ShadowFormFX_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_scriptAnimWindowArguments_ShadowFormRebornFX_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_skinAlias_impactTable_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_skinAlias_sfx_layout.rpak"
-    },
-    {
-      "_type": "stlt",
-      "_path": "settings_layout/settings_skinAlias_vfx_layout.rpak"
     },
     {
       "_type": "dtbl",
@@ -41862,7 +43998,19 @@
         "animseq/weapons/wattson_trophy_system/ptpov_wattson_trophy_system_held/raise.rseq"
       ]
     },
-        {
+    {
+      "_type": "stgs",
+      "_path": "settings/base_itemflavors.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/fx_ballistic_ult_handfx_left.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/fx_ballistic_ult_handfx_right.rpak"
+    },
+    {
       "_type": "stgs",
       "_path": "settings/itemflav/ability/alter_pas_remote_deathbox_interaction.rpak"
     },

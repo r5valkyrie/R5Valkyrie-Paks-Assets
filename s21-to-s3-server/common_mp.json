@@ -1638,8 +1638,8 @@
       "_type": "mdl_",
       "_path": "mdl/humans/class/light/pilot_light_lifeline.rmdl",
       "$animrigs": [
-        "c492cf324e91a3ac",
-        "ae35942185b93b3d"
+        "0xc492cf324e91a3ac",
+        "0xae35942185b93b3d"
       ]
     },
     {
@@ -1647,8 +1647,8 @@
       "_path": "mdl/humans/class/medium/dummie_medium_combat.rmdl",
       "$animrigs": [
         "animrig/humans/class/medium/ai_combat_dummie_core.rrig",
-        "b0092e2f6234e376",
-        "c7a57fce8a61a4b6"
+        "0xb0092e2f6234e376",
+        "0xc7a57fce8a61a4b6"
       ]
     },
     {
@@ -1656,15 +1656,15 @@
       "_path": "mdl/humans/class/medium/dummie_medium_training.rmdl",
       "$animrigs": [
         "animrig/humans/class/medium/ai_combat_dummie_core.rrig",
-        "b0092e2f6234e376"
+        "0xb0092e2f6234e376"
       ]
     },
     {
       "_type": "mdl_",
       "_path": "mdl/humans/class/medium/pilot_medium_bloodhound.rmdl",
       "$animrigs": [
-        "92079b00d5da2d6d",
-        "453481a1536fad9e"
+        "0x92079b00d5da2d6d",
+        "0x453481a1536fad9e"
       ]
     },
     {
@@ -1678,24 +1678,24 @@
       "_type": "mdl_",
       "_path": "mdl/humans/class/medium/pilot_medium_loba.rmdl",
       "$animrigs": [
-        "92079b00d5da2d6d",
-        "2e93d7794ebf6f4d"
+        "0x92079b00d5da2d6d",
+        "0x2e93d7794ebf6f4d"
       ]
     },
     {
       "_type": "mdl_",
       "_path": "mdl/humans/class/medium/pilot_medium_valkyrie.rmdl",
       "$animrigs": [
-        "92079b00d5da2d6d",
-        "e239bca24987306d"
+        "0x92079b00d5da2d6d",
+        "0xe239bca24987306d"
       ]
     },
     {
       "_type": "mdl_",
       "_path": "mdl/humans/class/medium/spectre_v20_orange_ai.rmdl",
       "$animrigs": [
-        "c7a57fce8a61a4b6",
-        "b0092e2f6234e376"
+        "0xc7a57fce8a61a4b6",
+        "0xb0092e2f6234e376"
       ]
     },
     {
@@ -1712,7 +1712,7 @@
       "$animrigs": [
         "animrig/humans/grunts/grunts_corpse_poses.rrig",
         "animrig/humans/pete/ai_infected_core.rrig",
-        "b0092e2f6234e376"
+        "0xb0092e2f6234e376"
       ]
     },
     {
@@ -1827,14 +1827,14 @@
       "_type": "mdl_",
       "_path": "mdl/props/alter_teleporter/alter_teleporter_portal.rmdl",
       "$animrigs": [
-        "7cbcce26d1a8fd06"
+        "0x7cbcce26d1a8fd06"
       ]
     },
     {
       "_type": "mdl_",
       "_path": "mdl/props/caustic_gas_tank/caustic_gas_tank_big.rmdl",
       "$animrigs": [
-        "64d6f5f92125f766"
+        "0x64d6f5f92125f766"
       ]
     },
     {
@@ -2004,7 +2004,7 @@
       "_type": "mdl_",
       "_path": "mdl/props/holo_spray/holo_spray_base.rmdl",
       "$animrigs": [
-        "49236d42003185c0"
+        "0x49236d42003185c0"
       ]
     },
     {
@@ -2090,7 +2090,7 @@
       "_type": "mdl_",
       "_path": "mdl/props/newcastle_shield_wall/newcastle_wall_v22_left_compact_w.rmdl",
       "$animrigs": [
-        "e2adee72586d2bac"
+        "0xe2adee72586d2bac"
       ]
     },
     {
@@ -2101,7 +2101,7 @@
       "_type": "mdl_",
       "_path": "mdl/props/newcastle_shield_wall/newcastle_wall_v22_right_compact_w.rmdl",
       "$animrigs": [
-        "e2adee72586d2bac"
+        "0xe2adee72586d2bac"
       ]
     },
     {
@@ -2495,7 +2495,7 @@
       "_type": "mdl_",
       "_path": "mdl/vehicle/olympus_hovercraft/olympus_hovercraft_v2_two_passengers.rmdl",
       "$animrigs": [
-        "5c3a4040c65f9785"
+        "0x5c3a4040c65f9785"
       ]
     },
     {
@@ -3039,27 +3039,448 @@
     },
     {
       "_type": "arig",
-      "_path": "animrig/creatures/flyer/flyer_kingscanyon_animated.rrig"
+      "_path": "animrig/creatures/flyer/flyer_kingscanyon_animated.rrig",
+      "$sequences": [
+        "animseq/creatures/flyer/flyer_base/fl_flap_cycle_carry_addlayer.rseq",
+        "animseq/creatures/flyer/flyer_base/fl_flap_cycle_carry_rotate_L1500.rseq",
+        "animseq/creatures/flyer/flyer_base/fl_flap_cycle_carry_rotate_R.rseq",
+        "animseq/creatures/flyer/flyer_base/fl_flap_cycle_carry_rotate_R1500.rseq",
+        "animseq/creatures/flyer/flyer_base/flyer_caged_death.rseq",
+        "animseq/creatures/flyer/flyer_base/flyer_caged_death_02.rseq",
+        "animseq/creatures/flyer/r2_flyer/fl_flap_cycle.rseq",
+        "animseq/creatures/flyer/r2_flyer/fl_flap_cycle_rotate_R.rseq",
+        "animseq/creatures/flyer/r2_flyer/fl_fly_death.rseq",
+        "animseq/creatures/flyer/r2_flyer/fl_fly_lean.rseq",
+        "animseq/creatures/flyer/r2_flyer/fl_fly_rotate_R.rseq",
+        "animseq/creatures/flyer/r2_flyer/fl_gesture_flinch_add_01.rseq",
+        "animseq/creatures/flyer/r2_flyer/fl_idle_flap_half.rseq",
+        "animseq/creatures/flyer/r2_flyer/fl_lookat_matrix.rseq",
+        "animseq/creatures/flyer/r2_flyer/fl_perched_death.rseq",
+        "animseq/creatures/flyer/r2_flyer/fl_perched_feed.rseq",
+        "animseq/creatures/flyer/r2_flyer/fl_perched_idle.rseq",
+        "animseq/creatures/flyer/r2_flyer/fl_perched_idle_look.rseq",
+        "animseq/creatures/flyer/r2_flyer/fl_perched_idle_look_loop.rseq",
+        "animseq/creatures/flyer/r2_flyer/fl_perched_scream.rseq",
+        "animseq/creatures/flyer/r2_flyer/fl_perched_takeoff.rseq",
+        "animseq/creatures/flyer/r2_flyer/fl_perched_takeoff_attacked.rseq",
+        "animseq/creatures/flyer/r2_flyer/flyer_caged_aggro_01.rseq",
+        "animseq/creatures/flyer/r2_flyer/flyer_caged_aggro_02.rseq",
+        "animseq/creatures/flyer/r2_flyer/flyer_caged_aggro_03.rseq",
+        "animseq/creatures/flyer/r2_flyer/flyer_caged_aggro_04.rseq",
+        "animseq/creatures/flyer/r2_flyer/flyer_caged_interrupt_01.rseq",
+        "animseq/creatures/flyer/r2_flyer/flyer_caged_interrupt_02.rseq",
+        "animseq/creatures/flyer/r2_flyer/flyer_caged_laying_01.rseq",
+        "animseq/creatures/flyer/r2_flyer/flyer_caged_laying_02.rseq",
+        "animseq/creatures/flyer/r2_flyer/flyer_caged_laying_03.rseq",
+        "animseq/creatures/flyer/r2_flyer/flyer_caged_laying_04.rseq",
+        "animseq/creatures/flyer/r2_flyer/flyer_caged_resumeCalm_01.rseq",
+        "animseq/creatures/flyer/r2_flyer/head_rot_x.rseq",
+        "animseq/creatures/flyer/r2_flyer/head_rot_y.rseq",
+        "animseq/creatures/flyer/r2_flyer/head_rot_z.rseq",
+        "animseq/s/flyer/dmx/animation/fl_cliff_eat_deathbox.rseq",
+        "animseq/s/flyer/dmx/animation/fl_cliff_eat_deathbox_attacked.rseq",
+        "animseq/s/flyer/dmx/animation/fl_cliff_eat_deathbox_idle.rseq",
+        "animseq/s/flyer/dmx/animation/fl_cliff_eat_deathbox_twitch.rseq"
+      ]
     },
     {
       "_type": "arig",
-      "_path": "animrig/creatures/spider/ai_spider_core/ai_spider_core.rrig"
+      "_path": "animrig/creatures/spider/ai_spider_core/ai_spider_core.rrig",
+      "$sequences": [
+        "animseq/creatures/spider/ai_spider_core/ai_spider_core/spdr_back_and_forth_idle.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_core/spdr_casual_idle.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_core/spdr_death_flop.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_core/spdr_jump_melee_flail.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_core/spdr_jump_melee_short.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_core/spdr_melee_close_strike.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_core/spdr_melee_mouth_dart_jump_02.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_core/spdr_pain_small.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_core/spdr_ranged_spit.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_death_knockback_backward.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_dodge_back.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_dodge_forward.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_dodge_L_far.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_dodge_left.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_dodge_R_far.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_dodge_right.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_dodge_run_L.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_dodge_run_R.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_idle_alert.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_idle_casual.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_idle_combat.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_idle_scan.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_idle_to_run_180_left.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_idle_to_run_180_right.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_idle_to_run_forward.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_idle_wait.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_idle_wait_threatA.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_idle_wait_threatB.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_melee_claw_jump_frozen_frame10.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_melee_claw_jump_frozen_frame12.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_melee_claw_jump_frozen_frame17.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_melee_claw_jump_frozen_frame24.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_melee_claw_jump_frozen_frame4.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_melee_claw_jump_frozen_frame7.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_melee_claw_swipe.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_melee_mouth_dart_crouch.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_melee_mouth_dart_jump.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_pain_knockback_backward.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_pain_knockback_backward_copy.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_pain_knockback_backward_frozen_frame11.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_pain_knockback_backward_frozen_frame29.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_pain_knockback_backward_frozen_frame9.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_run_combat.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_run_combat_forward.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_run_combat_frozen_frame53.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_run_combat_frozen_frame57.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_run_combat_frozen_frame64.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_run_to_idle_forward.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_search_look_around.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_sprint_combat.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_sprint_combat_forward.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_sprint_runaway.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_sprint_unarmed.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_traverse_across_1024.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_traverse_across_1024_down_256.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_traverse_across_1024_reverse.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_traverse_across_1024_up_256.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_traverse_across_128.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_traverse_across_128_frozen_frame13.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_traverse_across_128_reverse.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_traverse_across_256.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_traverse_across_256_down_128.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_traverse_across_256_reverse.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_traverse_across_256_up_128.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_traverse_across_512.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_traverse_across_512_down_128.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_traverse_across_512_reverse.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_traverse_across_512_up_128.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_traverse_down_128.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_traverse_down_256.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_traverse_down_40.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_traverse_down_64.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_traverse_down_640.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_traverse_over_40.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_traverse_up_128.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_traverse_up_256.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_traverse_up_40.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_traverse_up_64.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_traverse_up_640.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_traverse_window_down_192.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_traverse_window_down_256.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_traverse_window_up_192.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_traverse_window_up_256.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_turn_180_L.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_turn_180_R.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_turn_90_L.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_turn_90_R.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_walk_casual.rseq",
+        "animseq/creatures/spider/ai_spider_core/spdr_walk_combat.rseq",
+        "animseq/humans/pete/ai_grunt_core/spdr_traverse_up_256_climb.rseq"
+      ]
     },
     {
       "_type": "arig",
-      "_path": "animrig/creatures/spider/ai_spider_core/ai_spider_jungle_core.rrig"
+      "_path": "animrig/creatures/spider/ai_spider_core/ai_spider_jungle_core.rrig",
+      "$sequences": [
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_death_flop.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_death_gas_bleedout.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_death_gas_twitch.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_death_knockback_backward.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_dodge_back.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_dodge_forward.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_dodge_L_far.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_dodge_left.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_dodge_R_far.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_dodge_right.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_dodge_run_L.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_dodge_run_R.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_flinch_arc_stunned.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_freefall_loop.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_idle_alert.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_idle_casual.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_idle_combat.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_idle_fall.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_idle_react_hungry.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_idle_react_look.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_idle_react_panic.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_idle_react_threatA.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_idle_react_threatA_noloop.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_idle_react_threatB.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_idle_react_threatC.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_idle_scan.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_idle_to_run_180_left.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_idle_to_run_180_right.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_idle_to_run_forward.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_idle_wait.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_idle_wait_threatA.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_idle_wait_threatB.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_jump_melee_flail.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_jump_melee_short.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_melee_claw_swipe.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_melee_close_strike.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_melee_mouth_dart_crouch.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_pain_knockback_backward.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_pain_knockback_backward_copy.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_pain_small.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_ranged_spit.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_ranged_spit_alt.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_run_combat.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_run_combat_forward.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_run_to_idle_forward.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_search_look_around.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_spawner_ceiling_A.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_spawner_ceiling_B.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_spawner_ceiling_C.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_spawner_sidewall_A.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_spawner_sidewall_B.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_spawner_sidewall_C.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_spitattack_aim.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_sprint_combat.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_sprint_combat_forward.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_sprint_runaway.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_sprint_unarmed.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_traverse_across_128.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_traverse_across_128_reverse.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_traverse_across_256.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_traverse_across_256_down_128.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_traverse_across_256_reverse.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_traverse_across_256_up_128.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_traverse_across_512.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_traverse_across_512_down_128.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_traverse_across_512_reverse.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_traverse_across_512_up_128.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_traverse_down_128.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_traverse_down_256.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_traverse_down_40.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_traverse_down_64.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_traverse_down_640.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_traverse_over_40.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_traverse_up_128.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_traverse_up_256.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_traverse_up_256_climb.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_traverse_up_40.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_traverse_up_64.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_traverse_up_640.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_turn_180_L.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_turn_180_R.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_turn_90_L.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_turn_90_R.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_walk_casual.rseq",
+        "animseq/creatures/spider/ai_spider_core/ai_spider_jungle_core/spdr_walk_combat.rseq"
+      ]
     },
     {
       "_type": "arig",
-      "_path": "animrig/door/door_104x64x8_elevatorstyle01_right_animated.rrig"
+      "_path": "animrig/door/door_104x64x8_elevatorstyle01_right_animated.rrig",
+      "$sequences": [
+        "animseq/door/door_104x64x8_elevatorstyle01_right_animated/close.rseq",
+        "animseq/door/door_104x64x8_elevatorstyle01_right_animated/open.rseq"
+      ]
     },
     {
       "_type": "arig",
-      "_path": "animrig/humans/class/medium/ai_combat_dummie_core.rrig"
+      "_path": "animrig/humans/class/medium/ai_combat_dummie_core.rrig",
+      "$sequences": [
+        "animseq/humans/class/medium/ai_combat_dummie_core/AIM_dummie_crouch.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/AIM_dummie_sprint.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/AIM_static.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/Aim_static_pistol.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_addFlinch_big.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_addFlinch_small.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_addFlinch_small_02.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_addFlinch_small_air.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_addflinch_small_wallrun_L.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_addFlinch_small_wallrun_R.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_crouch.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_crouch_to_idle.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_crouchWalk_L.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_crouchWalk_L_AIM.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_crouchWalk_R.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_crouchWalk_R_AIM.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_death_air.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_death_chestshot.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_death_chestshot_fallForward.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_death_chestshot_flail.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_death_grapple.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_death_grapple_02.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_death_gutshot.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_death_gutshot_02.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_death_headshot.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_death_headshot_02.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_death_headshot_flop.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_death_headshot_grabface.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_death_headshot_headSnap.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_death_headshot_kneeFall.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_death_headshot_leftFall.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_death_headshot_twitch.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_death_headshot_wobble.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_death_instant.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_death_instant_flopback.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_death_instant_neckFall.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_death_instant_neckSlam.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_death_instant_spinRight.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_death_simple.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_death_wallrun_L.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_death_wallrun_R.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_B.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_B_02.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_B_03.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_B_flop.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_B_shoulderRight.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_crouch_B.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_crouch_B_flop.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_crouch_B_grabSide.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_crouch_F.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_crouch_F_deathFlop.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_crouch_F_grabSide.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_crouch_F_headshot.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_crouch_F_shoulder.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_crouch_F_side.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_crouch_F_spin.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_crouch_instant.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_crouch_instant_02.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_F.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_F_legHop.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_F_shoulderLeft.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_F_slowFall.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_knockback_B.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_knockback_B_02.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_knockback_B_armsUp.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_knockback_B_chest.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_knockback_B_flail.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_knockback_F.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_knockback_L.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_knockback_R.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_L.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_L_stumble.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_R.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_R_02.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_R_neckFlop.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_running.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_running_fallKnees.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_running_flip.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_running_instant.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_running_roll.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_running_slide.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_running_stumble.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_running_stumbleLeft.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_running_stumbleRight.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_die_running_swerve.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_dodge_L_hop.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_dodge_L_spin.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_dodge_R_hop.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_dodge_R_spin.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_dodgeFar_L_spin.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_dodgeFar_R_hop.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_dodgeRun_L_jump.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_dodgeRun_L_slide.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_dodgeRun_R_jump.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_dodgeRun_R_slide.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_doublejump.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_doublejump_02.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_fall.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_fall_recovery.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_fall_wallrun_L.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_fall_wallrun_R.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_fire.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_fire_pistol.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_fireCrouch.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_big_kickup.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_big_wobble.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_big_wobble02.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_chest_fall.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_chest_fall02.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_chest_pound.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_chest_pushback.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_chest_wobble.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_chest_wobble02.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_crouch_B.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_crouch_F.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_crouch_F_02.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_crouch_L.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_crouch_R.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_head_frustrated.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_head_shake.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_head_shake02.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_head_shake03.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_knockback_B.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_knockback_B_02.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_knockback_B_03.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_knockback_F.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_knockback_F_02.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_knockback_L.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_knockback_R.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_leftArm_handShake.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_leftArm_stumble.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_leftArm_stumble02.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_leftLeg_fall.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_leftLeg_fall02.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_leftLeg_stumble.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_leftLeg_stumble02.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_leftLeg_stumble03.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_rightArm_stumble.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_rightArm_stumble02.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_rightArm_stumble03.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_rightLeg_fall.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_rightLeg_fall02.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_rightLeg_stumble.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_rightLeg_stumble02.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_rightLeg_stumble_03.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_running.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_running_stumble.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_stomach_fall.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_stomach_fall02.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_flinch_stomach_pushback.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_float.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_idle.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_idle_casual.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_idle_combat.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_idle_combat_pistol.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_idle_pistol.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_idle_to_crouch.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_idle_to_strafe_L.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_idle_to_strafe_R.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_jump.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_land.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_run_B.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_run_B_AIM.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_run_F.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_run_F_AIM.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_sprint_B.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_sprint_F.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_sprint_L.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_sprint_R.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_strafe_to_idle_L.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_strafe_to_idle_R.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_walk.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_walk_ads_L.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/dummie_walk_ads_R.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/head_rot_x.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/head_rot_y.rseq",
+        "animseq/humans/class/medium/ai_combat_dummie_core/head_rot_z.rseq"
+      ]
     },
     {
       "_type": "arig",
-      "_path": "animrig/humans/class/medium/mp_pilot_medium_empty.rrig"
+      "_path": "animrig/humans/class/medium/mp_pilot_medium_empty.rrig",
+      "$sequences": [
+        "animseq/humans/class/medium/mp_pilot_medium_empty/camera_death_idle.rseq",
+        "animseq/humans/class/medium/mp_pilot_medium_empty/camera_menu_burncard_idle.rseq",
+        "animseq/humans/class/medium/mp_pilot_medium_empty/camera_menu_faction_idle.rseq",
+        "animseq/humans/class/medium/mp_pilot_medium_empty/camera_menu_loadout_edit_idle_01.rseq",
+        "animseq/humans/class/medium/mp_pilot_medium_empty/camera_menu_loadout_idle_01.rseq",
+        "animseq/humans/class/medium/mp_pilot_medium_empty/camera_menu_main_idle_01.rseq",
+        "animseq/humans/class/medium/mp_pilot_medium_empty/camera_menu_noseart_idle.rseq",
+        "animseq/humans/class/medium/mp_pilot_medium_empty/camera_menu_settings_idle.rseq",
+        "animseq/humans/class/medium/mp_pilot_medium_empty/camera_menu_weapon_idle.rseq",
+        "animseq/humans/class/medium/mp_pilot_medium_empty/camera_titan_menu_frontierdefense_idle.rseq",
+        "animseq/humans/class/medium/mp_pilot_medium_empty/camera_titan_menu_frontierdefense_idle_selected.rseq",
+        "animseq/humans/class/medium/mp_pilot_medium_empty/camera_titan_menu_loadout_edit.rseq",
+        "animseq/humans/class/medium/mp_pilot_medium_empty/camera_titan_menu_loadout_idle.rseq",
+        "animseq/humans/class/medium/mp_pilot_medium_empty/pt_menu_main_idle_01.rseq",
+        "animseq/humans/class/medium/mp_pilot_medium_empty/pt_menu_main_idle_02.rseq"
+      ]
     },
     {
       "_type": "arig",
@@ -3067,19 +3488,187 @@
     },
     {
       "_type": "arig",
-      "_path": "animrig/humans/pete/ai_infected_core.rrig"
+      "_path": "animrig/humans/pete/ai_infected_core.rrig",
+      "$sequences": [
+        "animseq/humans/pete/ai_grunt_core/ai_grunt_skyfall.rseq",
+        "animseq/humans/pete/ai_grunt_core/Classic_MP_flyin_exit_playerA_idle.rseq",
+        "animseq/humans/pete/ai_grunt_core/Classic_MP_flyin_exit_playerA_jump.rseq",
+        "animseq/humans/pete/ai_grunt_core/Classic_MP_flyin_exit_playerC_idle.rseq",
+        "animseq/humans/pete/ai_grunt_core/Classic_MP_flyin_exit_playerC_jump.rseq",
+        "animseq/humans/pete/ai_infected_core/ai_infected_death_dieSimple.rseq",
+        "animseq/humans/pete/ai_infected_core/ai_infected_death_dieSimple_forced_death.rseq",
+        "animseq/humans/pete/ai_infected_core/ai_infected_death_dieSimple_frozen_frame13.rseq",
+        "animseq/humans/pete/ai_infected_core/ai_infected_death_dieSimple_frozen_frame20.rseq",
+        "animseq/humans/pete/ai_infected_core/ai_infected_death_dieSimple_frozen_frame6.rseq",
+        "animseq/humans/pete/ai_infected_core/phase_traverse_across_128.rseq",
+        "animseq/humans/pete/ai_infected_core/phase_traverse_across_128_back.rseq",
+        "animseq/humans/pete/ai_infected_core/phase_traverse_down_40.rseq",
+        "animseq/humans/pete/ai_infected_core/phase_traverse_down_64.rseq",
+        "animseq/humans/pete/ai_infected_core/phase_traverse_up_40.rseq",
+        "animseq/humans/pete/ai_infected_core/phase_traverse_up_512_climb.rseq",
+        "animseq/humans/pete/ai_infected_core/phase_traverse_up_64.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_cloak_react_app_far_point.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_cloak_react_app_near_dropgun.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_cloak_react_dis_far_short.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_cloak_react_dis_near_freakout.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_dodge_backward_jump.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_dodge_forward_jump.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_dodge_forward_roll.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_dodge_left_far_spin.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_dodge_left_hop.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_dodge_left_hop_temp.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_dodge_left_run_hop.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_dodge_left_run_jump.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_dodge_left_spin.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_dodge_left_spin_temp.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_dodge_right_far_hop.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_dodge_right_hop.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_dodge_right_hop_temp.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_dodge_right_run_hop.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_dodge_right_run_jump.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_dodge_right_spin.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_dodge_right_spin_temp.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_exo_window_03_idle_calm.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_exo_window_03_idle_calm_frozen_frame0.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_exo_window_03_idle_calm_frozen_frame9.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_idle_02_alert.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_idle_05_alert.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_idle_05_combat.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_idle_05_lootbin.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_idle_06_alert.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_idle_06_combat.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_idle_casual_01.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_idle_casual_02.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_idle_casual_03.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_idle_casual_04.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_idle_casual_05.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_idle_casual_06.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_idle_scan_01.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_lootbox_creepy.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_lootbox_inbox.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_lootbox_leap.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_lootbox_rollout.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_melee_charge_headbutt_01.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_melee_charge_headbutt_02.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_melee_charge_headbutt_hit_01.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_melee_charge_headbutt_hit_02.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_melee_charge_headbutt_miss_01.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_melee_charge_headbutt_miss_02.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_melee_charge_headbutt_miss_03.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_melee_charge_headbutt_miss_04.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_melee_charge_headbutt_miss_05.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_melee_charge_headbutt_miss_05_frozen_frame15.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_melee_charge_swipe_01.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_melee_swipe_01.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_melee_swipe_01_frozen_frame27.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_melee_swipe_02.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_melee_swipe_03.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_melee_swipe_04.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_pain_wobble_01.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_pain_wobble_01_copy.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_react_search_around_01.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_react_threat_behind_01.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_react_threat_behind_02.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_react_threat_front_01.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_react_threat_front_02.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_react_threat_front_02_meleeWait.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_react_threat_left.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_react_threat_right.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_spawn_creepy.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_spawn_creepy_frozen_frame0.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_spawn_creepy_frozen_frame11.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_sprint_forward_01.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_sprint_forward_01_frozen_frame0.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_sprint_forward_01_frozen_frame34.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_sprint_forward_01_frozen_frame55.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_sprint_forward_01_frozen_frame9.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_sprint_forward_02.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_sprint_forward_02_frozen_frame25.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_sprint_forward_03.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_sprint_forward_04.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_stun_reaction_01.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_stun_reaction_02.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_stun_reaction_03.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_stun_reaction_04.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_infected_stun_reaction_05.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_react_arc_fall.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_react_crouch_arc_fall.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_react_jumped_over_wildfire.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_react_run_arc_fall.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_traverse_jump_over_fast.rseq",
+        "animseq/humans/pete/ai_infected_core/pt_traverse_jump_over_spin.rseq",
+        "animseq/humans/pete/ai_infected_core/React_point1.rseq",
+        "animseq/humans/pete/ai_infected_core/React_radiocall_listen_A.rseq",
+        "animseq/humans/pete/ai_infected_core/React_signal_group.rseq",
+        "animseq/humans/pete/ai_infected_core/React_wallslam.rseq",
+        "animseq/humans/pete/ai_infected_core/sp_suicide_spectre_fastwalk_infected.rseq",
+        "animseq/humans/pete/ai_infected_core/sp_suicide_spectre_fastwalk_infected_frozen_frame12.rseq",
+        "animseq/humans/pete/ai_infected_core/sp_traverse_across_256.rseq",
+        "animseq/humans/pete/ai_infected_core/sp_traverse_across_256_back.rseq",
+        "animseq/humans/pete/ai_infected_core/sp_traverse_across_256_down_128.rseq",
+        "animseq/humans/pete/ai_infected_core/sp_traverse_across_256_frozen_frame21.rseq",
+        "animseq/humans/pete/ai_infected_core/sp_traverse_across_256_frozen_frame28.rseq",
+        "animseq/humans/pete/ai_infected_core/sp_traverse_across_256_up_128.rseq",
+        "animseq/humans/pete/ai_infected_core/sp_traverse_across_512.rseq",
+        "animseq/humans/pete/ai_infected_core/sp_traverse_across_512_back.rseq",
+        "animseq/humans/pete/ai_infected_core/sp_traverse_across_512_down_128.rseq",
+        "animseq/humans/pete/ai_infected_core/sp_traverse_across_512_up_128.rseq",
+        "animseq/humans/pete/ai_infected_core/sp_traverse_climb_up_128.rseq",
+        "animseq/humans/pete/ai_infected_core/sp_traverse_climb_up_256.rseq",
+        "animseq/humans/pete/ai_infected_core/sp_traverse_down_128.rseq",
+        "animseq/humans/pete/ai_infected_core/sp_traverse_down_256.rseq",
+        "animseq/humans/pete/ai_infected_core/sp_traverse_down_512.rseq",
+        "animseq/humans/pete/ai_infected_core/sp_traverse_up_256.rseq",
+        "animseq/humans/pete/ai_infected_core/sp_traverse_up_512.rseq",
+        "animseq/humans/pete/ai_infected_core/sp_window_traverse_down_192.rseq",
+        "animseq/humans/pete/ai_infected_core/sp_window_traverse_down_256.rseq",
+        "animseq/humans/pete/ai_infected_core/sp_window_traverse_up_192.rseq",
+        "animseq/humans/pete/ai_infected_core/sp_window_traverse_up_256.rseq",
+        "animseq/humans/pete/ai_infected_core/turn_180L.rseq",
+        "animseq/humans/pete/ai_infected_core/turn_180R.rseq",
+        "animseq/humans/pete/ai_infected_core/turn_90L.rseq",
+        "animseq/humans/pete/ai_infected_core/turn_90R.rseq"
+      ]
     },
     {
       "_type": "arig",
-      "_path": "animrig/props/controller_console/controller_console.rrig"
+      "_path": "animrig/props/controller_console/controller_console.rrig",
+      "$sequences": [
+        "animseq/props/controller_console/controller_console/controller_console_hack_end.rseq",
+        "animseq/props/controller_console/controller_console/controller_console_hack_mid.rseq",
+        "animseq/props/controller_console/controller_console/controller_console_hack_start.rseq"
+      ]
     },
     {
       "_type": "arig",
-      "_path": "animrig/props/crafting_replicator/crafting_replicator.rrig"
+      "_path": "animrig/props/crafting_replicator/crafting_replicator.rrig",
+      "$sequences": [
+        "animseq/props/crafting_replicator/crafting_replicator/crafting_replicator_auto_A.rseq",
+        "animseq/props/crafting_replicator/crafting_replicator/crafting_replicator_auto_B.rseq",
+        "animseq/props/crafting_replicator/crafting_replicator/crafting_replicator_auto_C.rseq",
+        "animseq/props/crafting_replicator/crafting_replicator/crafting_replicator_close.rseq",
+        "animseq/props/crafting_replicator/crafting_replicator/crafting_replicator_close_sideA.rseq",
+        "animseq/props/crafting_replicator/crafting_replicator/crafting_replicator_close_sideB.rseq",
+        "animseq/props/crafting_replicator/crafting_replicator/crafting_replicator_close_sideC.rseq",
+        "animseq/props/crafting_replicator/crafting_replicator/crafting_replicator_drop.rseq",
+        "animseq/props/crafting_replicator/crafting_replicator/crafting_replicator_open.rseq",
+        "animseq/props/crafting_replicator/crafting_replicator/crafting_replicator_open_sideA.rseq",
+        "animseq/props/crafting_replicator/crafting_replicator/crafting_replicator_open_sideB.rseq",
+        "animseq/props/crafting_replicator/crafting_replicator/crafting_replicator_open_sideC.rseq",
+        "animseq/props/crafting_replicator/crafting_replicator/crafting_replicator_openidle.rseq",
+        "animseq/props/crafting_replicator/crafting_replicator/crafting_replicator_openidle_sideA.rseq",
+        "animseq/props/crafting_replicator/crafting_replicator/crafting_replicator_openidle_sideB.rseq",
+        "animseq/props/crafting_replicator/crafting_replicator/crafting_replicator_openidle_sideC.rseq",
+        "animseq/props/crafting_replicator/crafting_replicator/crafting_replicator_ready_groundidle.rseq",
+        "animseq/props/crafting_replicator/crafting_replicator/crafting_replicator_ready_idle.rseq"
+      ]
     },
     {
       "_type": "arig",
-      "_path": "animrig/props/evac_tower_balloon/evac_tower_balloon.rrig"
+      "_path": "animrig/props/evac_tower_balloon/evac_tower_balloon.rrig",
+      "$sequences": [
+        "animseq/props/evac_tower_balloon/evac_tower_balloon/evac_balloon_deploy.rseq"
+      ]
     },
     {
       "_type": "arig",
@@ -3095,19 +3684,36 @@
     },
     {
       "_type": "arig",
-      "_path": "animrig/props/goblin_interior/goblin_interior_01_w.rrig"
+      "_path": "animrig/props/goblin_interior/goblin_interior_01_w.rrig",
+      "$sequences": [
+        "animseq/props/goblin_interior/goblin_interior_01_w/goblin_interior_cine_yos1_dropship.rseq"
+      ]
     },
     {
       "_type": "arig",
-      "_path": "animrig/props/goblin_interior/goblin_interior_01_w_doors.rrig"
+      "_path": "animrig/props/goblin_interior/goblin_interior_01_w_doors.rrig",
+      "$sequences": [
+        "animseq/props/goblin_interior/goblin_door_broken_w/goblin_door_broken_w_cine_yos1_dropship.rseq",
+        "animseq/props/goblin_interior/goblin_door_intact_w/goblin_door_intact_w_cine_yos1_dropship.rseq"
+      ]
     },
     {
       "_type": "arig",
-      "_path": "animrig/props/gravity_cannon/gravity_cannon.rrig"
+      "_path": "animrig/props/gravity_cannon/gravity_cannon.rrig",
+      "$sequences": [
+        "animseq/props/gravity_cannon/gravity_cannon/gravity_cannon_fireA.rseq",
+        "animseq/props/gravity_cannon/gravity_cannon/gravity_cannon_fireB.rseq",
+        "animseq/props/gravity_cannon/gravity_cannon/gravity_cannon_fireC.rseq",
+        "animseq/props/gravity_cannon/gravity_cannon/gravity_cannon_idle_hum.rseq",
+        "animseq/props/gravity_cannon/gravity_cannon/gravity_cannon_idle_static.rseq"
+      ]
     },
     {
       "_type": "arig",
-      "_path": "animrig/props/lobby_revenant_prop1/lobby_revenant_prop1.rrig"
+      "_path": "animrig/props/lobby_revenant_prop1/lobby_revenant_prop1.rrig",
+      "$sequences": [
+        "animseq/props/lobby_revenant_prop1/lobby_revenant_prop1/revenant_teaser_lobby_hanging_torso.rseq"
+      ]
     },
     {
       "_type": "arig",
@@ -3123,15 +3729,51 @@
     },
     {
       "_type": "arig",
-      "_path": "animrig/props/pariah_heart/pariah_heart.rrig"
+      "_path": "animrig/props/pariah_heart/pariah_heart.rrig",
+      "$sequences": [
+        "animseq/props/pariah_heart/pariah_heart/prop_pariah_heart_deploy.rseq",
+        "animseq/props/pariah_heart/pariah_heart/prop_pariah_heart_deploy_idle.rseq",
+        "animseq/props/pariah_heart/pariah_heart/prop_pariah_heart_deploy_trans.rseq",
+        "animseq/props/pariah_heart/pariah_heart/prop_pariah_heart_idle.rseq",
+        "animseq/props/pariah_heart/pariah_heart/prop_pariah_heart_shutdown.rseq",
+        "animseq/props/pariah_heart/pariah_heart/prop_pariah_heart_shutdown_idle.rseq"
+      ]
     },
     {
       "_type": "arig",
-      "_path": "animrig/props/raisable_wall_hydraulic_arms/hydraulic_arm.rrig"
+      "_path": "animrig/props/raisable_wall_hydraulic_arms/hydraulic_arm.rrig",
+      "$sequences": [
+        "animseq_derived/props/raisable_wall_hydraulic_arms/hydraulic_arm/arm_idle.rseq",
+        "animseq_derived/props/raisable_wall_hydraulic_arms/hydraulic_arm/arm_idle1.rseq",
+        "animseq_derived/props/raisable_wall_hydraulic_arms/hydraulic_arm/arm_idle2.rseq",
+        "animseq_derived/props/raisable_wall_hydraulic_arms/hydraulic_arm/arm_raise.rseq",
+        "animseq_derived/props/raisable_wall_hydraulic_arms/hydraulic_arm/arm_raise1.rseq",
+        "animseq_derived/props/raisable_wall_hydraulic_arms/hydraulic_arm/arm_raise2.rseq",
+        "animseq_derived/props/raisable_wall_hydraulic_arms/hydraulic_arm/arm_raise_idle.rseq",
+        "animseq_derived/props/raisable_wall_hydraulic_arms/hydraulic_arm/arm_raise_idle1.rseq",
+        "animseq_derived/props/raisable_wall_hydraulic_arms/hydraulic_arm/arm_raise_idle2.rseq"
+      ]
     },
     {
       "_type": "arig",
-      "_path": "animrig/props/recon_beacon_dish/recon_beacon_dish.rrig"
+      "_path": "animrig/props/recon_beacon_dish/recon_beacon_dish.rrig",
+      "$sequences": [
+        "animseq/props/recon_beacon_dish/recon_beacon_dish/beacon_antenna_hack_end.rseq",
+        "animseq/props/recon_beacon_dish/recon_beacon_dish/beacon_antenna_hack_mid.rseq",
+        "animseq/props/recon_beacon_dish/recon_beacon_dish/beacon_antenna_hack_start.rseq",
+        "animseq/props/recon_beacon_dish/recon_beacon_dish/beacon_crypto_heirloom_antenna_hack_end.rseq",
+        "animseq/props/recon_beacon_dish/recon_beacon_dish/beacon_crypto_heirloom_antenna_hack_mid.rseq",
+        "animseq/props/recon_beacon_dish/recon_beacon_dish/beacon_crypto_heirloom_antenna_hack_start.rseq",
+        "animseq/props/recon_beacon_dish/recon_beacon_dish/beacon_pathfinder_antenna_hack_end.rseq",
+        "animseq/props/recon_beacon_dish/recon_beacon_dish/beacon_pathfinder_antenna_hack_mid.rseq",
+        "animseq/props/recon_beacon_dish/recon_beacon_dish/beacon_pathfinder_antenna_hack_start.rseq",
+        "animseq/props/recon_beacon_dish/recon_beacon_dish/beacon_seer_heirloom_antenna_hack_end.rseq",
+        "animseq/props/recon_beacon_dish/recon_beacon_dish/beacon_seer_heirloom_antenna_hack_mid.rseq",
+        "animseq/props/recon_beacon_dish/recon_beacon_dish/beacon_seer_heirloom_antenna_hack_start.rseq",
+        "animseq/props/recon_beacon_dish/recon_beacon_dish/beacon_vantage_antenna_hack_end.rseq",
+        "animseq/props/recon_beacon_dish/recon_beacon_dish/beacon_vantage_antenna_hack_mid.rseq",
+        "animseq/props/recon_beacon_dish/recon_beacon_dish/beacon_vantage_antenna_hack_start.rseq"
+      ]
     },
     {
       "_type": "arig",
@@ -3143,27 +3785,130 @@
     },
     {
       "_type": "arig",
-      "_path": "animrig/props/void_ring/void_ring.rrig"
+      "_path": "animrig/props/void_ring/void_ring.rrig",
+      "$sequences": [
+        "animseq/props/void_ring/void_ring/idle.rseq",
+        "animseq/props/void_ring/void_ring/prop_void_ring_deploy.rseq",
+        "animseq/props/void_ring/void_ring/prop_void_ring_deploy_idle.rseq",
+        "animseq/props/void_ring/void_ring/prop_void_ring_deploy_idle_alt.rseq",
+        "animseq/props/void_ring/void_ring/prop_void_ring_deploy_idle_warning.rseq",
+        "animseq/props/void_ring/void_ring/prop_void_ring_deploy_trans.rseq",
+        "animseq/props/void_ring/void_ring/prop_void_ring_shutdown.rseq",
+        "animseq/props/void_ring/void_ring/prop_void_ring_shutdown_idle.rseq"
+      ]
     },
     {
       "_type": "arig",
-      "_path": "animrig/vehicle/droppod_fireteam/droppod_fireteam.rrig"
+      "_path": "animrig/vehicle/droppod_fireteam/droppod_fireteam.rrig",
+      "$sequences": [
+        "animseq/vehicle/droppod_fireteam/droppod_fireteam/Aim_body.rseq",
+        "animseq/vehicle/droppod_fireteam/droppod_fireteam/Aim_body.rseq",
+        "animseq/vehicle/droppod_fireteam/droppod_fireteam/exit.rseq",
+        "animseq/vehicle/droppod_fireteam/droppod_fireteam/idle.rseq"
+      ]
     },
     {
       "_type": "arig",
-      "_path": "animrig/vehicle/droppod_loot/droppod_loot.rrig"
+      "_path": "animrig/vehicle/droppod_loot/droppod_loot.rrig",
+      "$sequences": [
+        "animseq/vehicle/droppod_loot/droppod_loot/droppod_loot_drop_lifeline_fast.rseq",
+        "animseq/vehicle/droppod_loot/droppod_loot_animated/droppod_loot_closed_idle.rseq",
+        "animseq/vehicle/droppod_loot/droppod_loot_animated/droppod_loot_drop.rseq",
+        "animseq/vehicle/droppod_loot/droppod_loot_animated/droppod_loot_drop_lifeline.rseq",
+        "animseq/vehicle/droppod_loot/droppod_loot_animated/droppod_loot_drop_multi.rseq",
+        "animseq/vehicle/droppod_loot/droppod_loot_animated/droppod_loot_open_idle.rseq",
+        "animseq/vehicle/droppod_loot/droppod_loot_animated/droppod_loot_opening.rseq",
+        "animseq/vehicle/droppod_loot/droppod_loot_c_door_close.rseq",
+        "animseq/vehicle/droppod_loot/droppod_loot_c_door_open.rseq",
+        "animseq/vehicle/droppod_loot/droppod_loot_doors_close.rseq",
+        "animseq/vehicle/droppod_loot/droppod_loot_doors_open.rseq",
+        "animseq/vehicle/droppod_loot/droppod_loot_idle.rseq",
+        "animseq/vehicle/droppod_loot/droppod_loot_l_door_close.rseq",
+        "animseq/vehicle/droppod_loot/droppod_loot_l_door_open.rseq",
+        "animseq/vehicle/droppod_loot/droppod_loot_r_door_close.rseq",
+        "animseq/vehicle/droppod_loot/droppod_loot_r_door_open.rseq"
+      ]
     },
     {
       "_type": "arig",
-      "_path": "animrig/vehicle/dropship/dropship_common.rrig"
+      "_path": "animrig/vehicle/dropship/dropship_common.rrig",
+      "$sequences": [
+        "animseq/vehicle/dropship/dropship_common/cd_dropship_rescue_idle.rseq",
+        "animseq/vehicle/dropship/dropship_common/dropship_cine_yos1_endbattle.rseq",
+        "animseq/vehicle/dropship/dropship_common/dropship_classic_mp_flyin.rseq",
+        "animseq/vehicle/dropship/dropship_common/dropship_classic_mp_flyin_close.rseq",
+        "animseq/vehicle/dropship/dropship_common/dropship_classic_mp_flyin_close_empty.rseq",
+        "animseq/vehicle/dropship/dropship_common/dropship_classic_mp_flyin_idle.rseq",
+        "animseq/vehicle/dropship/dropship_common/dropship_classic_mp_flyin_open.rseq",
+        "animseq/vehicle/dropship/dropship_common/dropship_closed_idle_alt.rseq",
+        "animseq/vehicle/dropship/dropship_common/dropship_flyer_attack_vertical_successful.rseq",
+        "animseq/vehicle/dropship/dropship_common/dropship_s12_chase_salvo.rseq",
+        "animseq/vehicle/dropship/dropship_common/dropship_s12_chase_syndicate.rseq",
+        "animseq/vehicle/dropship/dropship_common/dropship_s16_ship_1_desertlands.rseq",
+        "animseq/vehicle/dropship/dropship_common/dropship_s16_ship_1_desertlands_bg.rseq",
+        "animseq/vehicle/dropship/dropship_common/dropship_s16_ship_1_dividedmoon.rseq",
+        "animseq/vehicle/dropship/dropship_common/dropship_s16_ship_1_dividedmoon_bg.rseq",
+        "animseq/vehicle/dropship/dropship_common/dropship_s16_ship_1_tropics.rseq",
+        "animseq/vehicle/dropship/dropship_common/dropship_s16_ship_1_tropics_bg.rseq",
+        "animseq/vehicle/dropship/dropship_common/dropship_s16_ship_2_desertlands.rseq",
+        "animseq/vehicle/dropship/dropship_common/dropship_s16_ship_2_desertlands_bg.rseq",
+        "animseq/vehicle/dropship/dropship_common/dropship_s16_ship_2_dividedmoon.rseq",
+        "animseq/vehicle/dropship/dropship_common/dropship_s16_ship_2_dividedmoon_bg.rseq",
+        "animseq/vehicle/dropship/dropship_common/dropship_s16_ship_2_tropics.rseq",
+        "animseq/vehicle/dropship/dropship_common/dropship_s16_ship_2_tropics_bg.rseq",
+        "animseq/vehicle/dropship/dropship_common/dropship_s16_ship_3_desertlands.rseq",
+        "animseq/vehicle/dropship/dropship_common/dropship_s16_ship_3_desertlands_bg.rseq",
+        "animseq/vehicle/dropship/dropship_common/dropship_s16_ship_3_dividedmoon.rseq",
+        "animseq/vehicle/dropship/dropship_common/dropship_s16_ship_3_dividedmoon_bg.rseq",
+        "animseq/vehicle/dropship/dropship_common/dropship_s16_ship_3_tropics.rseq",
+        "animseq/vehicle/dropship/dropship_common/dropship_s16_ship_3_tropics_bg.rseq",
+        "animseq/vehicle/dropship/dropship_common/dropship_VTOL_evac_end.rseq",
+        "animseq/vehicle/dropship/dropship_common/dropship_VTOL_evac_end_high.rseq",
+        "animseq/vehicle/dropship/dropship_common/dropship_VTOL_evac_end_nodoors.rseq",
+        "animseq/vehicle/dropship/dropship_common/dropship_VTOL_evac_idle.rseq",
+        "animseq/vehicle/dropship/dropship_common/dropship_VTOL_evac_idle_no_motion.rseq",
+        "animseq/vehicle/dropship/dropship_common/dropship_VTOL_evac_start.rseq",
+        "animseq/vehicle/dropship/dropship_common/dropship_VTOL_evac_start_high.rseq",
+        "animseq/vehicle/dropship/dropship_common/gd_goblin_zipline_dive.rseq",
+        "animseq/vehicle/dropship/dropship_common/gd_goblin_zipline_strafe.rseq",
+        "animseq/vehicle/dropship/dropship_common/gd_goblin_zipline_strafe_loop.rseq",
+        "animseq/vehicle/dropship/dropship_common/idle.rseq",
+        "animseq/vehicle/dropship/dropship_common/s2s_rampdown_idle.rseq",
+        "animseq/vehicle/dropship/dropship_common/test_fly_idle.rseq",
+        "animseq/vehicle/dropship/dropship_common/test_fly_idle_act.rseq"
+      ]
     },
     {
       "_type": "arig",
-      "_path": "animrig/vehicle/hovership/hovership_platform.rrig"
+      "_path": "animrig/vehicle/hovership/hovership_platform.rrig",
+      "$sequences": [
+        "animseq/vehicle/hovership/hovership_platform/CC_tank_1.rseq",
+        "animseq/vehicle/hovership/hovership_platform/CC_tank_2.rseq",
+        "animseq/vehicle/hovership/hovership_platform/CC_tank_3.rseq",
+        "animseq/vehicle/hovership/hovership_platform/CC_tank_4.rseq",
+        "animseq/vehicle/hovership/hovership_platform/ht_cc_tank_intro_TankA.rseq",
+        "animseq/vehicle/hovership/hovership_platform/ht_cc_tank_intro_TankA_pose.rseq",
+        "animseq/vehicle/hovership/hovership_platform/ht_cc_tank_intro_TankB.rseq",
+        "animseq/vehicle/hovership/hovership_platform/ht_cc_tank_intro_TankB_pose.rseq",
+        "animseq/vehicle/hovership/hovership_platform/pose_strafe_back.rseq",
+        "animseq/vehicle/hovership/hovership_platform/pose_strafe_forward.rseq",
+        "animseq/vehicle/hovership/hovership_platform/pose_strafe_left.rseq",
+        "animseq/vehicle/hovership/hovership_platform/pose_strafe_right.rseq",
+        "animseq/vehicle/hovership/hovership_platform/test.rseq"
+      ]
     },
     {
       "_type": "arig",
-      "_path": "animrig/vehicle/hovership/hovership_turret.rrig"
+      "_path": "animrig/vehicle/hovership/hovership_turret.rrig",
+      "$sequences": [
+        "animseq/vehicle/hovership/hovership_turret/aim_pitch.rseq",
+        "animseq/vehicle/hovership/hovership_turret/aim_yaw.rseq",
+        "animseq/vehicle/hovership/hovership_turret/attack.rseq",
+        "animseq/vehicle/hovership/hovership_turret/deploy.rseq",
+        "animseq/vehicle/hovership/hovership_turret/deploy_idle.rseq",
+        "animseq/vehicle/hovership/hovership_turret/idle.rseq",
+        "animseq/vehicle/hovership/hovership_turret/undeploy.rseq"
+      ]
     }
   ]
 }

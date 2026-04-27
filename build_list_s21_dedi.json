@@ -13,6 +13,7 @@
         "s21-to-s3-server/common_early_sdk.json",
         "s21-to-s3-server/common.json",
         "s21-to-s3-server/common_mp.json",
+        "s21-to-s3-server/mp_lobby.json",
         "s21-to-s3-server/root_lgnd_skins.json"
     ]
 }
