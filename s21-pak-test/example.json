@@ -11,19 +11,19 @@
   "streamFilecompressLevel": 1,
   "compressWorkers": 16,
   "files": [
-    {
-      "_type": "uiia",
-      "_path": "ui_image/0xAEF8FA70C95CFF26.rpak",
-      "$guid": "0xAEF8FA70C95CFF26"
-    },
-    {
-      "_type": "impa",
-      "_path": "impact/titan_landing.rpak"
-    },
-    {
-      "_type": "wepn",
-      "_path": "weapon/springs.rpak"
-    },
+    //{
+    //  "_type": "uiia",
+    //  "_path": "ui_image/0xAEF8FA70C95CFF26.rpak",
+    //  "$guid": "0xAEF8FA70C95CFF26"
+    //},
+    //{
+    //  "_type": "impa",
+    //  "_path": "impact/titan_landing.rpak"
+    //},
+    //{
+    //  "_type": "wepn",
+    //  "_path": "weapon/springs.rpak"
+    //},
     {
       "_type": "mdl_",
       "_path": "mdl/Weapons/wattson_trophy_system/ptpov_wattson_trophy_system.rmdl",
