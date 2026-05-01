@@ -6,6 +6,7 @@
   "streamFileOptional": "paks/Win64/example.opt.starpak",
   "assetsDir": "./assets/",
   "outputDir": "./build/",
+  "compressMethod": "oodle",
   "compressLevel": 1,
   "streamFilecompressLevel": 1,
   "compressWorkers": 16,
