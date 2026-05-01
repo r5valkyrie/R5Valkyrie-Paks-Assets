@@ -1,0 +1,122 @@
+{
+  "version": 9,
+  "keepDevOnly": true,
+  "name": "example",
+  "streamFileMandatory": "paks/Win64/example.starpak",
+  "streamFileOptional": "paks/Win64/example.opt.starpak",
+  "assetsDir": "./assets/",
+  "outputDir": "./build/",
+  "compressLevel": 1,
+  "streamFilecompressLevel": 1,
+  "compressWorkers": 16,
+  "files": [
+    {
+      "_type": "uiia",
+      "_path": "ui_image/0xAEF8FA70C95CFF26.rpak",
+      "$guid": "0xAEF8FA70C95CFF26"
+    },
+    {
+      "_type": "impa",
+      "_path": "impact/titan_landing.rpak"
+    },
+    {
+      "_type": "wepn",
+      "_path": "weapon/springs.rpak"
+    },
+    {
+      "_type": "mdl_",
+      "_path": "mdl/Weapons/wattson_trophy_system/ptpov_wattson_trophy_system.rmdl",
+      "$animrigs": [
+        "animrig/weapons/wattson_trophy_system/ptpov_wattson_trophy_system_held.rrig"
+      ]
+    },
+    {
+      "_type": "stlt",
+      "_path": "settings_layout/settings_scriptAnimWindowArguments_SetSkin_layout.rpak"
+    },
+    {
+      "_type": "stgs",
+      "_path": "settings/scriptAnimWindow/SetSkinCharacterDefault.rpak"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0x89B8DC79E46230E.rpak",
+      "$guid": "0x89B8DC79E46230E"
+    },
+    {
+      "_type": "shdr",
+      "_path": "shader/0xBAEFD13302A145A3.rpak",
+      "$guid": "0xBAEFD13302A145A3"
+    },
+    {
+      "_type": "shds",
+      "_path": "shaderset/0xFD50A206BB31C4CE.rpak",
+      "$guid": "0xFD50A206BB31C4CE"
+    },
+    {
+      "_type": "txan",
+      "_path": "texture_anim/0xC96826E7E20A4C47.rpak",
+      "$guid": "0xC96826E7E20A4C47"
+    },
+    {
+      "_type": "dtbl",
+      "_path": "datatable/0xF0573E97C23A0177.rpak",
+      "$guid": "0xF0573E97C23A0177"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x3FC71149B51D855D.rpak",
+      "$guid": "0x3FC71149B51D855D"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x683D61D2D080D874.rpak",
+      "$guid": "0x683D61D2D080D874"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0x9219F686EABF02F6.rpak",
+      "$guid": "0x9219F686EABF02F6"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xDBE2301662B8B3C3.rpak",
+      "$guid": "0xDBE2301662B8B3C3"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xF9EECFB951D8D9E2.rpak",
+      "$guid": "0xF9EECFB951D8D9E2"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xFDB89E25CEE33838.rpak",
+      "$guid": "0xFDB89E25CEE33838"
+    },
+    {
+      "_type": "txtr",
+      "_path": "texture/0xD6B8A079AF988999.rpak",
+      "$guid": "0xD6B8A079AF988999"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/misc_wattson_trophy_system/wattson_trophy_system_colpass_sknp.rpak"
+    },
+    {
+      "_type": "matl",
+      "_path": "material/models/weapons_r5/misc_wattson_trophy_system/wattson_trophy_system_sknp.rpak"
+    },
+    {
+      "_type": "arig",
+      "_path": "animrig/weapons/wattson_trophy_system/ptpov_wattson_trophy_system_held.rrig",
+      "$sequences": [
+        "animseq/weapons/wattson_trophy_system/ptpov_wattson_trophy_system_held/draw.rseq",
+        "animseq/weapons/wattson_trophy_system/ptpov_wattson_trophy_system_held/fire.rseq",
+        "animseq/weapons/wattson_trophy_system/ptpov_wattson_trophy_system_held/holster.rseq",
+        "animseq/weapons/wattson_trophy_system/ptpov_wattson_trophy_system_held/idle.rseq",
+        "animseq/weapons/wattson_trophy_system/ptpov_wattson_trophy_system_held/lower.rseq",
+        "animseq/weapons/wattson_trophy_system/ptpov_wattson_trophy_system_held/raise.rseq"
+      ]
+    }
+  ]
+}
