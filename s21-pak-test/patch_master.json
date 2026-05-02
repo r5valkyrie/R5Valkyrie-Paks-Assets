@@ -1,0 +1,21 @@
+{
+  "version": 8,
+  "keepDevOnly": true,
+  "name": "patch_master",
+  "assetsDir": "./assets/",
+  "outputDir": "./build/",
+  "files": [
+    {
+      "_type": "Ptch",
+      "_path": "patch_master",
+      "entries": [
+      ]
+    },
+    {
+      "_type": "vers",
+      "_path": "version",
+      "entries": [
+      ]
+    }
+  ]
+}

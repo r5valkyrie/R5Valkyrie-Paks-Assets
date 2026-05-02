@@ -7,8 +7,8 @@
   "assetsDir": "./assets/",
   "outputDir": "./build/",
   "compressMethod": "oodle",
-  "compressLevel": 1,
-  "streamFilecompressLevel": 1,
+  "compressLevel": 0,
+  "streamFilecompressLevel": 0,
   "compressWorkers": 16,
   "files": [
     //{
@@ -16,10 +16,10 @@
     //  "_path": "ui_image/0xAEF8FA70C95CFF26.rpak",
     //  "$guid": "0xAEF8FA70C95CFF26"
     //},
-    //{
-    //  "_type": "impa",
-    //  "_path": "impact/titan_landing.rpak"
-    //},
+    {
+      "_type": "impa",
+      "_path": "impact/titan_landing.rpak"
+    },
     //{
     //  "_type": "wepn",
     //  "_path": "weapon/springs.rpak"
@@ -30,6 +30,36 @@
       "$animrigs": [
         "animrig/weapons/wattson_trophy_system/ptpov_wattson_trophy_system_held.rrig"
       ]
+    },
+    //{
+    //  "_type": "anir",
+    //  "_path": "anim_recording/0x3DE3A11345E0132F.rpak",
+    //  "$guid": "0x3DE3A11345E0132F"
+    //},
+    {
+      "_type": "txls",
+      "_path": "texture_list/camo_skins.rpak"
+    },
+    {
+      "_type": "wrap",
+      "_path": "maps/mp_lobby.bsp"
+    },
+    {
+      "_type": "wrap",
+      "_path": "maps/mp_lobby.bsp.000E.bsp_lump"
+    },
+    {
+      "_type": "wrap",
+      "_path": "maps/mp_lobby_spawn.ent"
+    },
+    {
+      "_type": "wrap",
+      "_path": "scripts/vscripts/workarounds.gnut.server"
+    },
+    {
+      "_type": "rlcd",
+      "_path": "lcd_screen_effect/0x84A400890152FBFC.rpak",
+      "$guid": "0x84A400890152FBFC"
     },
     {
       "_type": "stlt",
@@ -53,16 +83,6 @@
       "_type": "shds",
       "_path": "shaderset/0xFD50A206BB31C4CE.rpak",
       "$guid": "0xFD50A206BB31C4CE"
-    },
-    {
-      "_type": "txan",
-      "_path": "texture_anim/0xC96826E7E20A4C47.rpak",
-      "$guid": "0xC96826E7E20A4C47"
-    },
-    {
-      "_type": "dtbl",
-      "_path": "datatable/0xF0573E97C23A0177.rpak",
-      "$guid": "0xF0573E97C23A0177"
     },
     {
       "_type": "txtr",
@@ -95,11 +115,6 @@
       "$guid": "0xFDB89E25CEE33838"
     },
     {
-      "_type": "txtr",
-      "_path": "texture/0xD6B8A079AF988999.rpak",
-      "$guid": "0xD6B8A079AF988999"
-    },
-    {
       "_type": "matl",
       "_path": "material/models/weapons_r5/misc_wattson_trophy_system/wattson_trophy_system_colpass_sknp.rpak"
     },
@@ -118,6 +133,16 @@
         "animseq/weapons/wattson_trophy_system/ptpov_wattson_trophy_system_held/lower.rseq",
         "animseq/weapons/wattson_trophy_system/ptpov_wattson_trophy_system_held/raise.rseq"
       ]
+    },
+    {
+      "_type": "txan",
+      "_path": "texture_anim/0xC96826E7E20A4C47.rpak",
+      "$guid": "0xC96826E7E20A4C47"
+    },
+    {
+      "_type": "dtbl",
+      "_path": "datatable/0xF0573E97C23A0177.rpak",
+      "$guid": "0xF0573E97C23A0177"
     }
   ]
 }

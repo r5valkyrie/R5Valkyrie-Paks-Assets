@@ -1,0 +1,14 @@
+{
+	"pixelScaleX1": 1.000000,
+	"pixelScaleX2": 1.100000,
+	"pixelScaleY": 0.250000,
+	"brightness": 0.150000,
+	"contrast": 3.400000,
+	"waveOffset": 0.000000,
+	"waveScale": 0.000000,
+	"waveSpeed": 0.000000,
+	"wavePeriod": 0.000000,
+	"bloomAdd": 0.500000,
+	"doBloomLuminance": false,
+	"pixelFlicker": 0.000000
+}
