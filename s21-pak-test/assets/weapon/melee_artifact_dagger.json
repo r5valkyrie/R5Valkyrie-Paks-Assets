@@ -1,0 +1,11 @@
+{
+	"dependencies": [
+		"mdl/weapons/data_knife/ptpov_data_knife.rmdl",
+		"mdl/Weapons/empty_handed/ptpov_shadowhand.rmdl",
+		"ui_image/0xCB094B3AE4DEBFE6",
+		"ui_image/0xCB094B3AE4DEBFE6",
+		"mdl/Weapons/char_artifact/ptpov_set_v23_mob.rmdl",
+		"mdl/Weapons/char_artifact/w_set_v23_mob.rmdl",
+		"impact/melee_artifact.rpak"
+	]
+}

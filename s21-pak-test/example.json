@@ -20,10 +20,22 @@
       "_type": "impa",
       "_path": "impact/titan_landing.rpak"
     },
-    //{
-    //  "_type": "wepn",
-    //  "_path": "weapon/springs.rpak"
-    //},
+    {
+      "_type": "impa",
+      "_path": "impact/sword_impacts.rpak"
+    },
+    {
+      "_type": "wepn",
+      "_path": "weapon/springs.rpak"
+    },
+    {
+      "_type": "wepn",
+      "_path": "weapon/melee_artifact_dagger.rpak"
+    },
+    {
+      "_type": "wepn",
+      "_path": "weapon/ammo_suck_behaviors.rpak"
+    },
     {
       "_type": "mdl_",
       "_path": "mdl/Weapons/wattson_trophy_system/ptpov_wattson_trophy_system.rmdl",
