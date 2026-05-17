@@ -15,6 +15,9 @@
         "s21-to-s3-server/common.json",
         "s21-to-s3-server/common_mp.json",
         "s21-to-s3-server/mp_lobby.json",
-        "s21-to-s3-server/root_lgnd_skins.json"
+        "s21-to-s3-server/root_lgnd_skins.json",
+        "s21-to-s3-server/mp_rr_tropic_island_mu2.json",
+        "s21-to-s3-server/mp_rr_canyonlands_hu.json",
+        "s21-to-s3-server/mp_rr_party_crasher.json"
     ]
 }
