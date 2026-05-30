@@ -9,179 +9,179 @@
   "files": [
     {
       "_type": "wrap",
-      "_path": "mp_rr_district.bsp"
+      "_path": "maps/mp_rr_district.bsp"
     },
     {
       "_type": "wrap",
-      "_path": "mp_rr_district.bsp.0001.bsp_lump"
+      "_path": "maps/mp_rr_district.bsp.0001.bsp_lump.client"
     },
     {
       "_type": "wrap",
-      "_path": "mp_rr_district.bsp.0003.bsp_lump"
+      "_path": "maps/mp_rr_district.bsp.0003.bsp_lump.client"
     },
     {
       "_type": "wrap",
-      "_path": "mp_rr_district.bsp.0005.bsp_lump"
+      "_path": "maps/mp_rr_district.bsp.0005.bsp_lump.client"
     },
     {
       "_type": "wrap",
-      "_path": "mp_rr_district.bsp.000F.bsp_lump"
+      "_path": "maps/mp_rr_district.bsp.000F.bsp_lump.client"
     },
     {
       "_type": "wrap",
-      "_path": "mp_rr_district.bsp.0010.bsp_lump"
+      "_path": "maps/mp_rr_district.bsp.0010.bsp_lump.client"
     },
     {
       "_type": "wrap",
-      "_path": "mp_rr_district.bsp.0011.bsp_lump"
+      "_path": "maps/mp_rr_district.bsp.0011.bsp_lump.client"
     },
     {
       "_type": "wrap",
-      "_path": "mp_rr_district.bsp.0012.bsp_lump"
+      "_path": "maps/mp_rr_district.bsp.0012.bsp_lump.client"
     },
     {
       "_type": "wrap",
-      "_path": "mp_rr_district.bsp.0013.bsp_lump"
+      "_path": "maps/mp_rr_district.bsp.0013.bsp_lump.client"
     },
     {
       "_type": "wrap",
-      "_path": "mp_rr_district.bsp.001E.bsp_lump"
+      "_path": "maps/mp_rr_district.bsp.001E.bsp_lump.client"
     },
     {
       "_type": "wrap",
-      "_path": "mp_rr_district.bsp.0025.bsp_lump"
+      "_path": "maps/mp_rr_district.bsp.0025.bsp_lump.client"
     },
     {
       "_type": "wrap",
-      "_path": "mp_rr_district.bsp.0026.bsp_lump"
+      "_path": "maps/mp_rr_district.bsp.0026.bsp_lump.client"
     },
     {
       "_type": "wrap",
-      "_path": "mp_rr_district.bsp.0027.bsp_lump"
+      "_path": "maps/mp_rr_district.bsp.0027.bsp_lump.client"
     },
     {
       "_type": "wrap",
-      "_path": "mp_rr_district.bsp.0047.bsp_lump"
+      "_path": "maps/mp_rr_district.bsp.0047.bsp_lump.client"
     },
     {
       "_type": "wrap",
-      "_path": "mp_rr_district.bsp.0049.bsp_lump"
+      "_path": "maps/mp_rr_district.bsp.0049.bsp_lump.client"
     },
     {
       "_type": "wrap",
-      "_path": "mp_rr_district.bsp.004A.bsp_lump"
+      "_path": "maps/mp_rr_district.bsp.004A.bsp_lump.client"
     },
     {
       "_type": "wrap",
-      "_path": "mp_rr_district.bsp.004F.bsp_lump"
+      "_path": "maps/mp_rr_district.bsp.004F.bsp_lump.client"
     },
     {
       "_type": "wrap",
-      "_path": "mp_rr_district.bsp.0061.bsp_lump"
+      "_path": "maps/mp_rr_district.bsp.0061.bsp_lump.client"
     },
     {
       "_type": "wrap",
-      "_path": "mp_rr_district.bsp.0062.bsp_lump"
+      "_path": "maps/mp_rr_district.bsp.0062.bsp_lump.client"
     },
     {
       "_type": "wrap",
-      "_path": "mp_rr_district.bsp.0063.bsp_lump"
+      "_path": "maps/mp_rr_district.bsp.0063.bsp_lump.client"
     },
     {
       "_type": "wrap",
-      "_path": "mp_rr_district.bsp.0064.bsp_lump"
+      "_path": "maps/mp_rr_district.bsp.0064.bsp_lump.client"
     },
     {
       "_type": "wrap",
-      "_path": "mp_rr_district.bsp.0065.bsp_lump"
+      "_path": "maps/mp_rr_district.bsp.0065.bsp_lump.client"
     },
     {
       "_type": "wrap",
-      "_path": "mp_rr_district.bsp.0067.bsp_lump"
+      "_path": "maps/mp_rr_district.bsp.0067.bsp_lump.client"
     },
     {
       "_type": "wrap",
-      "_path": "mp_rr_district.bsp.0068.bsp_lump"
+      "_path": "maps/mp_rr_district.bsp.0068.bsp_lump.client"
     },
     {
       "_type": "wrap",
-      "_path": "mp_rr_district.bsp.0069.bsp_lump"
+      "_path": "maps/mp_rr_district.bsp.0069.bsp_lump.client"
     },
     {
       "_type": "wrap",
-      "_path": "mp_rr_district.bsp.006A.bsp_lump"
+      "_path": "maps/mp_rr_district.bsp.006A.bsp_lump.client"
     },
     {
       "_type": "wrap",
-      "_path": "mp_rr_district.bsp.006B.bsp_lump"
+      "_path": "maps/mp_rr_district.bsp.006B.bsp_lump.client"
     },
     {
       "_type": "wrap",
-      "_path": "mp_rr_district.bsp.006C.bsp_lump"
+      "_path": "maps/mp_rr_district.bsp.006C.bsp_lump.client"
     },
     {
       "_type": "wrap",
-      "_path": "mp_rr_district.bsp.006D.bsp_lump"
+      "_path": "maps/mp_rr_district.bsp.006D.bsp_lump.client"
     },
     {
       "_type": "wrap",
-      "_path": "mp_rr_district.bsp.006E.bsp_lump"
+      "_path": "maps/mp_rr_district.bsp.006E.bsp_lump.client"
     },
     {
       "_type": "wrap",
-      "_path": "mp_rr_district.bsp.006F.bsp_lump"
+      "_path": "maps/mp_rr_district.bsp.006F.bsp_lump.client"
     },
     {
       "_type": "wrap",
-      "_path": "mp_rr_district.bsp.0070.bsp_lump"
+      "_path": "maps/mp_rr_district.bsp.0070.bsp_lump.client"
     },
     {
       "_type": "wrap",
-      "_path": "mp_rr_district.bsp.0071.bsp_lump"
+      "_path": "maps/mp_rr_district.bsp.0071.bsp_lump.client"
     },
     {
       "_type": "wrap",
-      "_path": "mp_rr_district.bsp.0072.bsp_lump"
+      "_path": "maps/mp_rr_district.bsp.0072.bsp_lump.client"
     },
     {
       "_type": "wrap",
-      "_path": "mp_rr_district.bsp.0073.bsp_lump"
+      "_path": "maps/mp_rr_district.bsp.0073.bsp_lump.client"
     },
     {
       "_type": "wrap",
-      "_path": "mp_rr_district.bsp.0074.bsp_lump"
+      "_path": "maps/mp_rr_district.bsp.0074.bsp_lump.client"
     },
     {
       "_type": "wrap",
-      "_path": "mp_rr_district.bsp.0075.bsp_lump"
+      "_path": "maps/mp_rr_district.bsp.0075.bsp_lump.client"
     },
     {
       "_type": "wrap",
-      "_path": "mp_rr_district.bsp.0076.bsp_lump"
+      "_path": "maps/mp_rr_district.bsp.0076.bsp_lump.client"
     },
     {
       "_type": "wrap",
-      "_path": "mp_rr_district.bsp.0077.bsp_lump"
+      "_path": "maps/mp_rr_district.bsp.0077.bsp_lump.client"
     },
     {
       "_type": "wrap",
-      "_path": "mp_rr_district.bsp.0078.bsp_lump"
+      "_path": "maps/mp_rr_district.bsp.0078.bsp_lump.client"
     },
     {
       "_type": "wrap",
-      "_path": "mp_rr_district.bsp.0079.bsp_lump"
+      "_path": "maps/mp_rr_district.bsp.0079.bsp_lump.client"
     },
     {
       "_type": "wrap",
-      "_path": "mp_rr_district.bsp.007C.bsp_lump"
+      "_path": "maps/mp_rr_district.bsp.007C.bsp_lump.client"
     },
     {
       "_type": "wrap",
-      "_path": "mp_rr_district.bsp.007E.bsp_lump"
+      "_path": "maps/mp_rr_district.bsp.007E.bsp_lump.client"
     },
     {
       "_type": "wrap",
-      "_path": "mp_rr_district.bsp.007F.bsp_lump"
+      "_path": "maps/mp_rr_district.bsp.007F.bsp_lump.client"
     }
   ]
 }
