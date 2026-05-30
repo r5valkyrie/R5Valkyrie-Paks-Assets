@@ -10,7 +10,7 @@
     "showDebugInfo": false,
     "paks": [
         //CLI ONLY PAKS
-        "s21-to-s3-server/mp_rr_district/mp_rr_client_district_perm.json",
-        "s21-to-s3-server/mp_rr_district/mp_rr_client_district_temp.json"
+        "s21-to-s3-server/mp_rr_district/mp_rr_district_perm.json",
+        "s21-to-s3-server/mp_rr_district/mp_rr_district_temp.json"
     ]
 }
