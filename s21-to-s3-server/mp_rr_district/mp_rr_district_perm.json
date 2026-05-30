@@ -1,7 +1,7 @@
 {
   "version": 9,
   "keepDevOnly": false,
-  "name": "mp_rr_district_perm",
+  "name": "mp_rr_district_client_perm",
   "assetsDir": "s21-to-s3-server/mp_rr_district/perm/",
   "outputDir": "./build/",
   "compressLevel": 0,

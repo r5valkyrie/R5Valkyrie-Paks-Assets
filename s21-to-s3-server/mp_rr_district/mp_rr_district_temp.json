@@ -1,7 +1,7 @@
 {
   "version": 9,
   "keepDevOnly": false,
-  "name": "mp_rr_district_temp",
+  "name": "mp_rr_district_client_temp",
   "assetsDir": "s21-to-s3-server/mp_rr_district/temp",
   "outputDir": "./build/",
   "compressLevel": 0,
