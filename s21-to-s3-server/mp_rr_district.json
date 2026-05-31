@@ -8,6 +8,11 @@
   "compressWorkers": 16,
   "files": [
     {
+      "_type": "dtbl",
+      "_path": "datatable/0x40DF4DBC12B05DA4.rpak",
+      "$guid": "0x40DF4DBC12B05DA4"
+    },
+    {
       "_type": "mdl_",
       "_path": "mdl/angel_city/box_small_01.rmdl"
     },
