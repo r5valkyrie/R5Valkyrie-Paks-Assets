@@ -9,6 +9,10 @@
   "files": [
     {
       "_type": "wrap",
+      "_path": "maps/spl/mp_rr_district/a9946b8d0c89d3c25b9129eca2992966.spl"
+    },
+    {
+      "_type": "wrap",
       "_path": "maps/mp_rr_district.bsp.0000.bsp_lump.client"
     },
     {

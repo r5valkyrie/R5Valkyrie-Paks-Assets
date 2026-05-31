@@ -10,6 +10,7 @@
     "showDebugInfo": false,
     "paks": [
         //DEDI ONLY PAKS, CONVERTED FROM S21.1 TO S3 FOR DEDI
+        "s21-to-s3-server/mp_rr_district.json",
         "s21-to-s3-server/mp_rr_thunderdome.json",
         "s21-to-s3-server/mp_rr_canyonlands_staging_mu1.json",
         "s21-to-s3-server/patch_master.json",
