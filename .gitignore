@@ -19,9 +19,6 @@
 *.dds
 *.vg
 *.vg_static
-*.rrig
-*.rseq
-*.anir
 *.rpak
 *.starpak
 /paks
