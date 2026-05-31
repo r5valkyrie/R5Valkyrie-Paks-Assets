@@ -17,6 +17,8 @@
 /sdk_depot/others/desertlands_64k
 /sdk_depot/others/flowstate
 *.dds
+*.vg
+*.vg_static
 *.rrig
 *.rseq
 *.anir
