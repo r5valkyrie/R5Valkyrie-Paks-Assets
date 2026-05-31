@@ -1,0 +1,77 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_radio_play_layout.rpak",
+	"uniqueId": 376012150,
+	"settings": {
+		"assetName": "settings/itemflav/radio_play/s21/radio_play_s21_a.rpak",
+		"itemType": "radio_play",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00376012150",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "rui/events/s17ce02/loadscreen_icon_01",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "radio_play_s21_a",
+		"ownershipTarget": "",
+		"multipleOwnershipTargets": [
+			],
+		"layers": [
+				{
+					"ruiAnimations": [
+							{
+								"ruiAsset": "ui/radioplay_s21_1.rpak",
+								"sound": "diag_mp_horizon_s21vigHL",
+								"length": 92.000000
+							}
+						]
+				},
+				{
+					"ruiAnimations": [
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_horizon_s21vigHL_1a_01_01_sub",
+								"length": 19.000000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_horizon_s21vigHL_2a_01_01_sub",
+								"length": 13.500000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_horizon_s21vigHL_3a_01_01_sub",
+								"length": 12.900000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_horizon_s21vigHL_4a_01_01_sub",
+								"length": 14.400000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_horizon_s21vigHL_5a_01_01_sub",
+								"length": 12.500000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_horizon_s21vigHL_6a_01_01_sub",
+								"length": 8.000000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_horizon_s21vigHL_7a_01_01_sub",
+								"length": 12.000000
+							}
+						]
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

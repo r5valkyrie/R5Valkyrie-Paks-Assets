@@ -1,0 +1,44 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_badge_layout.rpak",
+	"uniqueId": 2134229403,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_badge/account/mastery_3030.rpak",
+		"itemType": "gladiator_card_badge",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID02134229403",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#gcard_badge_mastery_3030_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "#gcard_badge_mastery_3030_DESCRIPTION_SHORT",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/gladiator_card_badges/undefined",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "gcard_badge_account_mastery_repeater3030",
+		"ownershipTarget": "",
+		"exclusiveFunc": "",
+		"unlockStatRef": "",
+		"dynamicTextStatRef": "",
+		"badgeCategory": "MENU_BADGE_WEAPONS",
+		"multipleOwnershipTargets": [
+			],
+		"tiers": [
+				{
+					"imageAsset": "rui/gladiator_cards/badges/mastery_repeater3030",
+					"ruiAsset": "ui/weapon_mastery_badge_repeater3030.rpak",
+					"unlocksAt": 1.000000
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false,
+		"exclusive": false,
+		"shouldHideIfLocked": true,
+		"isCharacterBadge": false,
+		"hasOwnRui": true,
+		"isOversizedImage": false
+	}
+}

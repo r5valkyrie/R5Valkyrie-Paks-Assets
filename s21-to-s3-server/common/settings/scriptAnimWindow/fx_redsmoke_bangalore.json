@@ -1,0 +1,12 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_PlayFX_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/fx_redsmoke_bangalore.rpak",
+		"devDescription": "bangalore_redsmoke_scriptanim",
+		"type": "PlayFX",
+		"particleSystemName": "P_heart_smoke_bang",
+		"attachPoint": "REF",
+		"followAttach": true,
+		"playEndCap": false
+	}
+}

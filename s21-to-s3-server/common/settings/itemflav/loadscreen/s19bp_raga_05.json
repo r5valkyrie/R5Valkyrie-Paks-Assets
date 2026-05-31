@@ -1,0 +1,33 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_loadscreen_layout.rpak",
+	"uniqueId": 1614815712,
+	"settings": {
+		"assetName": "settings/itemflav/loadscreen/s19bp_raga_05.rpak",
+		"itemType": "loadscreen",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01614815712",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#LOADSCREEN_s19bp_raga_05",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "RARE",
+		"icon": "",
+		"tagIcon": "rui/events/s19bp/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "loadscreen_s19bp_raga_05",
+		"ownershipTarget": "",
+		"exclusiveFunc": "",
+		"loadscreenImage": "loadscreens/custom/loadscreen_s19bp_raga_05",
+		"overlayText": "#LOADSCREEN_s19bp_raga_05_TEXT",
+		"multipleOwnershipTargets": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false,
+		"isTheRandom": false,
+		"exclusive": false
+	}
+}

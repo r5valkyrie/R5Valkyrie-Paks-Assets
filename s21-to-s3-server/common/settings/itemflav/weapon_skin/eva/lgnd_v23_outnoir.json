@@ -1,0 +1,51 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_skin_layout.rpak",
+	"uniqueId": 600007640,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_skin/eva/lgnd_v23_outnoir.rpak",
+		"itemType": "weapon_skin",
+		"parentItemFlavor": "settings/itemflav/loot/main_weapon/eva.rpak",
+		"settingsAssetID": "SAID00600007640",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#weapon_skin_eva8_lgnd_v23_outnoir_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "LEGENDARY",
+		"icon": "",
+		"tagIcon": "rui/events/s20me01/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "weapon_skin_eva_lgnd_v23_outnoir",
+		"ownershipTarget": "",
+		"worldModel": "mdl/techart/mshop/weapons/class/shotgun/eva8/eva8_lgnd_v23_outnoir_w.rmdl",
+		"viewModel": "mdl/techart/mshop/weapons/class/shotgun/eva8/eva8_lgnd_v23_outnoir_v.rmdl",
+		"skinName": "eva8_lgnd_v23_outnoir",
+		"exclusiveFunc": "",
+		"unlockFuncKey": "",
+		"video": "",
+		"customSkinMenuBlurb": "",
+		"multipleOwnershipTargets": [
+			],
+		"camoIndex": 0,
+		"hackyRUISchemeIdentifier": 0,
+		"featureReactsToKillsLevels": [
+			],
+		"skinAlias_vfxAliases": [
+			],
+		"skinAlias_sfxAliases": [
+			],
+		"skinAlias_bodyGroupAliases": [
+			],
+		"skinAlias_impactTableAliases": [
+			],
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"exclusive": false,
+		"shouldHideIfLocked": false,
+		"forceFullWeaponIcon": false,
+		"featureReactsToKills": false,
+		"forceVideoInspect": false
+	}
+}

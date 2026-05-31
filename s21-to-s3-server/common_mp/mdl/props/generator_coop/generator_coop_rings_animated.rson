@@ -1,0 +1,11 @@
+rigs:
+[
+]
+seqs:
+[
+	animseq\props\generator_coop\generator_coop_rings_animated\generator_cycle_fast.rseq
+	animseq\props\generator_coop\generator_coop_rings_animated\generator_cycle_slow.rseq
+	animseq\props\generator_coop\generator_coop_rings_animated\generator_fall.rseq
+	animseq\props\generator_coop\generator_coop_rings_animated\generator_idle.rseq
+	animseq\props\generator_coop\generator_coop_rings_animated\generator_rise.rseq
+]

@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 1932057543,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/crypto/default.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/crypto.rpak",
+		"settingsAssetID": "SAID01932057543",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#CHAR_EMOTE_010",
+		"localizationKey_NAME_SHORT": "#CHAR_EMOTE_010",
+		"localizationKey_DESCRIPTION_LONG": "#CHAR_EMOTE_010",
+		"localizationKey_DESCRIPTION_SHORT": "#CHAR_EMOTE_010",
+		"quality": "RARE",
+		"icon": "rui/menu/buttons/character_emotes/crypto/fistbump",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"grxMode": "NONE",
+		"grxRef": "character_emote_crypto_rare_fistbump",
+		"ownershipTarget": "",
+		"anim3p": "crypto_ground_emote_fistbump",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

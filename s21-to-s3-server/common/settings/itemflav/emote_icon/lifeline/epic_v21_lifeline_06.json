@@ -1,0 +1,36 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_emote_icon_layout.rpak",
+	"uniqueId": 82672694,
+	"settings": {
+		"assetName": "settings/itemflav/emote_icon/lifeline/epic_v21_lifeline_06.rpak",
+		"itemType": "emote_icon",
+		"parentItemFlavor": "settings/itemflav/character/lifeline.rpak",
+		"settingsAssetID": "SAID00082672694",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#spray_epic_v21_lifeline_06",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "EPIC",
+		"icon": "rui/menu/holosprays/hspray_epic_v21_lifeline_06",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "emote_icon_epic_v21_lifeline_06",
+		"ownershipTarget": "",
+		"anim3p": "",
+		"holoProjectorSprayModel": "mdl/props/holo_spray/hspray_epic_v21_lifeline_06.rmdl",
+		"quickchatAliasSubName": "",
+		"customSkinMenuBlurb": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<0.922000,0.141000,0.055000>",
+		"holoProjectorEffectColor2": "<1.000000,0.757000,0.310000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": true,
+		"holoProjectorUseEffectColor2": true,
+		"isTheEmpty": false
+	}
+}

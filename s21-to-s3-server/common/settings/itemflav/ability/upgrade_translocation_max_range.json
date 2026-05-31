@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 23439557,
+	"settings": {
+		"assetName": "settings/itemflav/ability/upgrade_translocation_max_range.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00023439557",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#UPGRADE_LOBA_TAC_RANGE_NAME",
+		"localizationKey_NAME_SHORT": "#UPGRADE_TYPE_TACTICAL",
+		"localizationKey_DESCRIPTION_LONG": "#UPGRADE_LOBA_TAC_RANGE_LONG_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#UPGRADE_LOBA_TAC_RANGE_SHORT_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/legend_upgrades/loba_highvalue_icon",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_TAC_UPGRADE_ONE",
+		"passiveWeaponMod": "upgrade_tac_one",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

@@ -1,0 +1,52 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_entitlement_layout.rpak",
+	"uniqueId": 244595795,
+	"settings": {
+		"assetName": "settings/itemflav/entitlement/amazon_drop_20.rpak",
+		"itemType": "entitlement",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00244595795",
+		"__featureFlag": "",
+		"devDescription": "Prime Gaming Reward - Drop 20",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"entitlementType": "twitch_prime",
+		"twitchRef": "amazon_drop_20",
+		"twitchRef": "amazon_drop_20",
+		"enum": "",
+		"pc": "",
+		"ps4": "",
+		"xb1": "",
+		"switch": "",
+		"pc_offer": "",
+		"steam_offer": "",
+		"xb1_offer": "",
+		"menuTitleText": "#PRIME_GAMING",
+		"menuDescText": "#PRIME_GAMING_DROP20_ENTITLEMENT_OWNED",
+		"menuImageName": "twitch_promo_40",
+		"menuPersistenceVarName": "",
+		"list": [
+				{
+					"flavor": "settings/itemflav/character_skin/vantage/epicp_v22_camp.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/flatline/rare_v22_camp.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/gcard_frame/vantage/rare_v22_camp01.rpak",
+					"quantity": 1
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isMenuEnabled": false
+	}
+}

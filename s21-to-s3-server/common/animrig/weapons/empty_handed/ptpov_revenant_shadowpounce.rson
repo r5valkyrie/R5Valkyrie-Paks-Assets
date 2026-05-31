@@ -1,0 +1,36 @@
+seqs:
+[
+	animseq\weapons\empty_handed\ptpov_revenant_shadowpounce\crouch.rseq
+	animseq\weapons\empty_handed\ptpov_revenant_shadowpounce\crouch_to_slide.rseq
+	animseq\weapons\empty_handed\ptpov_revenant_shadowpounce\draw.rseq
+	animseq\weapons\empty_handed\ptpov_revenant_shadowpounce\draw_crouch.rseq
+	animseq\weapons\empty_handed\ptpov_revenant_shadowpounce\draw_onehanded.rseq
+	animseq\weapons\empty_handed\ptpov_revenant_shadowpounce\draw_slide.rseq
+	animseq\weapons\empty_handed\ptpov_revenant_shadowpounce\draw_sprint.rseq
+	animseq\weapons\empty_handed\ptpov_revenant_shadowpounce\draw_to_sprint.rseq
+	animseq\weapons\empty_handed\ptpov_revenant_shadowpounce\fire_arms_out.rseq
+	animseq\weapons\empty_handed\ptpov_revenant_shadowpounce\fire_arms_out_onehanded.rseq
+	animseq\weapons\empty_handed\ptpov_revenant_shadowpounce\fire_onehanded.rseq
+	animseq\weapons\empty_handed\ptpov_revenant_shadowpounce\fire_to_loop.rseq
+	animseq\weapons\empty_handed\ptpov_revenant_shadowpounce\hold_to_crouch.rseq
+	animseq\weapons\empty_handed\ptpov_revenant_shadowpounce\hold_to_sprint.rseq
+	animseq\weapons\empty_handed\ptpov_revenant_shadowpounce\holster.rseq
+	animseq\weapons\empty_handed\ptpov_revenant_shadowpounce\idle.rseq
+	animseq\weapons\empty_handed\ptpov_revenant_shadowpounce\idle_onehanded.rseq
+	animseq\weapons\empty_handed\ptpov_revenant_shadowpounce\jump.rseq
+	animseq\weapons\empty_handed\ptpov_revenant_shadowpounce\land_high.rseq
+	animseq\weapons\empty_handed\ptpov_revenant_shadowpounce\land_low.rseq
+	animseq\weapons\empty_handed\ptpov_revenant_shadowpounce\land_med.rseq
+	animseq\weapons\empty_handed\ptpov_revenant_shadowpounce\onehanded_prep.rseq
+	animseq\weapons\empty_handed\ptpov_revenant_shadowpounce\onehanded_to_twohanded.rseq
+	animseq\weapons\empty_handed\ptpov_revenant_shadowpounce\postfire_loop.bk_seq.rseq
+	animseq\weapons\empty_handed\ptpov_revenant_shadowpounce\slide.rseq
+	animseq\weapons\empty_handed\ptpov_revenant_shadowpounce\slide_to_hold.rseq
+	animseq\weapons\empty_handed\ptpov_revenant_shadowpounce\slide_to_sprint.rseq
+	animseq\weapons\empty_handed\ptpov_revenant_shadowpounce\sprint.rseq
+	animseq\weapons\empty_handed\ptpov_revenant_shadowpounce\sprint_to_slide.rseq
+	animseq\weapons\empty_handed\ptpov_revenant_shadowpounce\twohanded_to_onehanded.rseq
+	animseq\weapons\empty_handed\ptpov_revenant_shadowpounce\walk_layer.rseq
+	animseq\weapons\empty_handed\ptpov_revenant_shadowpounce\walk_layer_copy2.rseq
+	animseq\weapons\empty_handed\ptpov_revenant_shadowpounce\zipline_mount.rseq
+]

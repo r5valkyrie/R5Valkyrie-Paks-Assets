@@ -1,0 +1,31 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_skydive_emote_layout.rpak",
+	"uniqueId": 982277378,
+	"settings": {
+		"assetName": "settings/itemflav/skydive_emote/vantage/epic_v22_huntersafari_playfetch.rpak",
+		"itemType": "skydive_emote",
+		"parentItemFlavor": "settings/itemflav/character/vantage.rpak",
+		"settingsAssetID": "SAID00982277378",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#skydive_emote_vantage_playfetch_NAME",
+		"localizationKey_NAME_SHORT": "#skydive_emote_vantage_playfetch_NAME",
+		"localizationKey_DESCRIPTION_LONG": "#skydive_emote_vantage_playfetch_NAME",
+		"localizationKey_DESCRIPTION_SHORT": "#skydive_emote_vantage_playfetch_NAME",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/battlepass/skydive_emote_vantage_epic_v22_huntersafari_playfetch",
+		"tagIcon": "rui/events/s14bp/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "skydive_emote_vantage_epic_v22_huntersafari_playfetch",
+		"ownershipTarget": "",
+		"animSequence": "animseq/humans/class/medium/pilot_medium_vantage/vantage_freefall_emote_playfetch.rseq",
+		"video": "media/skydive_emotes/vantage_playfetch",
+		"bcEvent": "bc_skydive",
+		"multipleOwnershipTargets": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false
+	}
+}

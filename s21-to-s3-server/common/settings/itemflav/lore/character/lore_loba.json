@@ -1,0 +1,53 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_lore_layout.rpak",
+	"uniqueId": 1345556981,
+	"settings": {
+		"assetName": "settings/itemflav/lore/character/lore_loba.rpak",
+		"itemType": "lore",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01345556981",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"type": "Legend",
+		"legend_real_name": "#LORE_LOBA_REAL_NAME",
+		"legend_alias": "",
+		"legend_age": "#LORE_LOBA_AGE",
+		"legend_home_world": "#LORE_LOBA_HOME_WORLD",
+		"bio": [
+				{
+					"line": "#LORE_LOBA_0",
+					"featureFlag": "",
+					"paddingLeft": 0,
+					"paddingRight": 0,
+					"paddingTop": 0,
+					"paddingBottom": 15
+				},
+				{
+					"line": "#LORE_LOBA_1",
+					"featureFlag": "",
+					"paddingLeft": 0,
+					"paddingRight": 0,
+					"paddingTop": 0,
+					"paddingBottom": 15
+				},
+				{
+					"line": "#LORE_LOBA_2",
+					"featureFlag": "",
+					"paddingLeft": 0,
+					"paddingRight": 0,
+					"paddingTop": 0,
+					"paddingBottom": 15
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

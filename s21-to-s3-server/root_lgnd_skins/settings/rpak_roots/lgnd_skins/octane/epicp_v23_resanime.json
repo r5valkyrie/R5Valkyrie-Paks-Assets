@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/octane/epicp_v23_resanime.rpak",
+		"roots": [
+				{
+					"asset": "mdl/Humans/class/medium/pilot_medium_stim.rmdl",
+					"featureFlag": ""
+				},
+				{
+					"asset": "mdl/weapons/arms/pov_pilot_medium_stim.rmdl",
+					"featureFlag": ""
+				}
+			]
+	}
+}

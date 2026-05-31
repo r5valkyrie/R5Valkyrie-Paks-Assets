@@ -1,0 +1,33 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_charm_layout.rpak",
+	"uniqueId": 1605039422,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_charm/charm_apex_asset_v20_loot_env_bin01.rpak",
+		"itemType": "weapon_charm",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01605039422",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#CHARM_038",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "EPIC",
+		"icon": "rui/menu/store/charm_loot_bin",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "weapon_charm_lootbin",
+		"ownershipTarget": "",
+		"charmModel": "mdl/props/charm/charm_lootbin",
+		"exclusiveFunc": "",
+		"attachmentName": "CHARM",
+		"customSkinMenuBlurb": "",
+		"multipleOwnershipTargets": [
+			],
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false,
+		"exclusive": false
+	}
+}

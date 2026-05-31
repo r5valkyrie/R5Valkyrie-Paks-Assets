@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 1810010210,
+	"settings": {
+		"assetName": "settings/itemflav/ability/upgrade_fuse_motherlode_resistance.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01810010210",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#UPGRADE_FUSE_MOTHERLOAD_RESISTANCE_NAME",
+		"localizationKey_NAME_SHORT": "#UPGRADE_TYPE_ULTIMATE",
+		"localizationKey_DESCRIPTION_LONG": "#UPGRADE_FUSE_MOTHERLOAD_RESISTANCE_LONG_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#UPGRADE_FUSE_MOTHERLOAD_RESISTANCE_SHORT_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/legend_upgrades/fuse_thickskin_icon",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_MOTHERLODE_RESISTANCE",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

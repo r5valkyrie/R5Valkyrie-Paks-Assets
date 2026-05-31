@@ -1,0 +1,44 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_badge_layout.rpak",
+	"uniqueId": 1918741544,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_badge/account/quadchallenge_reward02.rpak",
+		"itemType": "gladiator_card_badge",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01918741544",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#gcard_badge_quadchallenge_reward02_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "#gcard_badge_quadchallenge_reward02_DESCRIPTION_SHORT",
+		"quality": "EPIC",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "gcard_badge_account_quadchallenge_reward02",
+		"ownershipTarget": "",
+		"exclusiveFunc": "",
+		"unlockStatRef": "",
+		"dynamicTextStatRef": "",
+		"badgeCategory": "MENU_BADGE_ACCOUNT",
+		"multipleOwnershipTargets": [
+			],
+		"tiers": [
+				{
+					"imageAsset": "rui/gladiator_cards/badges/quadchallenge_reward02",
+					"ruiAsset": "",
+					"unlocksAt": 1.000000
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false,
+		"exclusive": false,
+		"shouldHideIfLocked": false,
+		"isCharacterBadge": false,
+		"hasOwnRui": false,
+		"isOversizedImage": true
+	}
+}

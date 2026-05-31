@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 590256983,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/wraith/epic_v22_frustrated.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/wraith.rpak",
+		"settingsAssetID": "SAID00590256983",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#ground_emote_wraith_frustrated",
+		"localizationKey_NAME_SHORT": "#ground_emote_wraith_frustrated",
+		"localizationKey_DESCRIPTION_LONG": "#ground_emote_wraith_frustrated",
+		"localizationKey_DESCRIPTION_SHORT": "#ground_emote_wraith_frustrated",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/character_emotes/wraith/frustrated",
+		"tagIcon": "rui/events/s19bp/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_wraith_epic_v22_frustrated",
+		"ownershipTarget": "",
+		"anim3p": "wraith_ground_emote_frustrated",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

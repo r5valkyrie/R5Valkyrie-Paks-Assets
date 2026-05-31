@@ -1,0 +1,157 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_battlepass_layout.rpak",
+	"uniqueId": 1440294075,
+	"settings": {
+		"assetName": "settings/itemflav/battlepass/season_01.rpak",
+		"itemType": "battlepass",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01440294075",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#BATTLE_PASS_SEASON_1_NAME",
+		"localizationKey_NAME_SHORT": "#BATTLE_PASS_SEASON_1_STRING",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "battlepass_season_1",
+		"ownershipTarget": "",
+		"basicPurchasePack": "settings/itemflav/pack/battle_pass_season1_basic.rpak",
+		"bundlePurchasePack": "settings/itemflav/pack/battle_pass_season1_bundle.rpak",
+		"xpPurchaseFlav": "settings/itemflav/battlepass_purchased_xp/season01_single_level.rpak",
+		"bubblePurchaseFlav": "",
+		"xpBoostFlav": "settings/itemflav/xp_boost/battlepass_season01.rpak",
+		"challengeRerollFlav": "",
+		"rewardScheduleDatatableV2": "",
+		"rewardScheduleDatatable": "datatable/progression/battlepass_season_1_schedule.rpak",
+		"milestoneScheduleDatatable": "",
+		"milestoneTierRepImage": "",
+		"milestoneBundleRepImage": "",
+		"storeBundleContentsImage": "",
+		"aboutPurchaseTitle": "",
+		"featureTitle": "#BATTLE_PASS_FEATURE_TITLE",
+		"largeLogo": "rui/menu/battlepass/s01/season_icon_large",
+		"smallLogo": "rui/menu/battlepass/s01/season_icon_small",
+		"xSmallLogo": "rui/menu/battlepass/s01/season_icon_xsmall",
+		"bannerImage": "rui/menu/battlepass/s01/season_banner",
+		"progressBadge": "settings/itemflav/gcard_badge/account/season01_bplevel.rpak",
+		"rewardsVideo": "",
+		"levelUpSound": "",
+		"multipleOwnershipTargets": [
+			],
+		"milestoneTierRepLevels": [
+			],
+		"milestoneBundleRepLevels": [
+			],
+		"bulletTextStandard": [
+				{
+					"text": "#BATTLE_PASS_FEATURE_1"
+				},
+				{
+					"text": "#BATTLE_PASS_FEATURE_2"
+				},
+				{
+					"text": "#BATTLE_PASS_FEATURE_3"
+				},
+				{
+					"text": "#BATTLE_PASS_FEATURE_4"
+				},
+				{
+					"text": "#BATTLE_PASS_FEATURE_5"
+				},
+				{
+					"text": "#BATTLE_PASS_FEATURE_6"
+				},
+				{
+					"text": "#BATTLE_PASS_FEATURE_7"
+				},
+				{
+					"text": "#BATTLE_PASS_FEATURE_8"
+				},
+				{
+					"text": "#BATTLE_PASS_FEATURE_9"
+				},
+				{
+					"text": "#BATTLE_PASS_FEATURE_10"
+				},
+				{
+					"text": "#BATTLE_PASS_FEATURE_11"
+				},
+				{
+					"text": "#BATTLE_PASS_FEATURE_12"
+				},
+				{
+					"text": "#BATTLE_PASS_FEATURE_13"
+				},
+				{
+					"text": "#BATTLE_PASS_FEATURE_14"
+				},
+				{
+					"text": "#BATTLE_PASS_FEATURE_15"
+				},
+				{
+					"text": "#BATTLE_PASS_FEATURE_16"
+				}
+			],
+		"bulletTextRestricted": [
+				{
+					"text": "#BATTLE_PASS_FEATURE_1"
+				},
+				{
+					"text": "#BATTLE_PASS_FEATURE_2"
+				},
+				{
+					"text": "#BATTLE_PASS_FEATURE_3"
+				},
+				{
+					"text": "#BATTLE_PASS_FEATURE_RESTRICTED"
+				},
+				{
+					"text": "#BATTLE_PASS_FEATURE_7"
+				},
+				{
+					"text": "#BATTLE_PASS_FEATURE_8"
+				},
+				{
+					"text": "#BATTLE_PASS_FEATURE_9"
+				},
+				{
+					"text": "#BATTLE_PASS_FEATURE_10"
+				},
+				{
+					"text": "#BATTLE_PASS_FEATURE_11"
+				},
+				{
+					"text": "#BATTLE_PASS_FEATURE_12"
+				},
+				{
+					"text": "#BATTLE_PASS_FEATURE_13"
+				},
+				{
+					"text": "#BATTLE_PASS_FEATURE_14"
+				},
+				{
+					"text": "#BATTLE_PASS_FEATURE_15"
+				},
+				{
+					"text": "#BATTLE_PASS_FEATURE_16"
+				}
+			],
+		"dailyChallenges": [
+			],
+		"weeklyRecurringChallenges": [
+			],
+		"weeklyChallenges": [
+			],
+		"rewardPopupLevels": [
+			],
+		"headerColor": "<0.000000,0.000000,0.000000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"useStarsToProgress": false,
+		"weeklyRecurringResetsEveryWeek": true
+	}
+}

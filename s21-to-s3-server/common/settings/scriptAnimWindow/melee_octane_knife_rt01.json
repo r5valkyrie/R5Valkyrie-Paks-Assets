@@ -1,0 +1,10 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_SetPropSkin_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/melee_octane_knife_rt01.rpak",
+		"devDescription": "",
+		"type": "SetPropSkin",
+		"skinName": "knife_rt01",
+		"camoIndex": 0
+	}
+}

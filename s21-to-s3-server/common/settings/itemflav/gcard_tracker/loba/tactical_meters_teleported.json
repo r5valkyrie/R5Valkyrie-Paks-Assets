@@ -1,0 +1,33 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_stat_tracker_layout.rpak",
+	"uniqueId": 1370374388,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_tracker/loba/tactical_meters_teleported.rpak",
+		"itemType": "gladiator_card_stat_tracker",
+		"parentItemFlavor": "settings/itemflav/character/loba.rpak",
+		"settingsAssetID": "SAID01370374388",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#gcard_tracker_loba_tactical_meters_teleported_NAME",
+		"localizationKey_NAME_SHORT": "#gcard_tracker_loba_tactical_meters_teleported_NAME_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "RARE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "gcard_tracker_loba_tactical_meters_teleported",
+		"ownershipTarget": "",
+		"statRef": "stats.loba_tactical_meters_teleported",
+		"valueNumberFormat": "INTEGER",
+		"valueSuffix": "",
+		"backgroundImage": "",
+		"multipleOwnershipTargets": [
+			],
+		"color0": "<0.550000,0.540000,0.540000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false
+	}
+}

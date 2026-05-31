@@ -1,0 +1,44 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_entitlement_layout.rpak",
+	"uniqueId": 41624019,
+	"settings": {
+		"assetName": "settings/itemflav/entitlement/twitch_drops_s11_holospray_03.rpak",
+		"itemType": "entitlement",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00041624019",
+		"__featureFlag": "",
+		"devDescription": "Twitch Drops community holospray/n",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"entitlementType": "twitch_drops",
+		"twitchRef": "twitch_drops_s11_holospray_03",
+		"twitchRef": "twitch_drops_s11_holospray_03",
+		"enum": "",
+		"pc": "",
+		"ps4": "",
+		"xb1": "",
+		"switch": "",
+		"pc_offer": "",
+		"steam_offer": "",
+		"xb1_offer": "",
+		"menuTitleText": "#TWITCH_DROPS",
+		"menuDescText": "#TWITCH_DROP_S09_HOLOSPRAY_ENTITLEMENT_OWNED",
+		"menuImageName": "s11_holospray_community_03",
+		"menuPersistenceVarName": "",
+		"list": [
+				{
+					"flavor": "settings/itemflav/emote_icon/fuse/epic_v21_fuse_10.rpak",
+					"quantity": 1
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isMenuEnabled": false
+	}
+}

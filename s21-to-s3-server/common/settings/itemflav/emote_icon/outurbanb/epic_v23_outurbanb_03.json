@@ -1,0 +1,36 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_emote_icon_layout.rpak",
+	"uniqueId": 480150574,
+	"settings": {
+		"assetName": "settings/itemflav/emote_icon/outurbanb/epic_v23_outurbanb_03.rpak",
+		"itemType": "emote_icon",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00480150574",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#spray_epic_v23_outurbanb_03",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "EPIC",
+		"icon": "rui/menu/holosprays/hspray_epic_v23_outurbanb_03",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "emote_icon_epic_v23_outurbanb_03",
+		"ownershipTarget": "",
+		"anim3p": "",
+		"holoProjectorSprayModel": "mdl/props/holo_spray/hspray_epic_v23_outurbanb_03.rmdl",
+		"quickchatAliasSubName": "",
+		"customSkinMenuBlurb": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<0.612000,0.137000,0.149000>",
+		"holoProjectorEffectColor2": "<0.918000,0.494000,0.216000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": true,
+		"holoProjectorUseEffectColor2": true,
+		"isTheEmpty": false
+	}
+}

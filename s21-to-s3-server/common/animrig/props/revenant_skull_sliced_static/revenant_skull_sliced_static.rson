@@ -1,0 +1,5 @@
+seqs:
+[
+	animseq\props\revenant_skull_sliced_static\revenant_skull_sliced_static\melee_idle_skull_prop.rseq
+	animseq\props\revenant_skull_sliced_static\revenant_skull_sliced_static\ptpov_revenant_skullslice.rseq
+]

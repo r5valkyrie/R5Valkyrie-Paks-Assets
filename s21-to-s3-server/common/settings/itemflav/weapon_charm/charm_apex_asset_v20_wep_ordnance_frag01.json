@@ -1,0 +1,33 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_charm_layout.rpak",
+	"uniqueId": 2066931897,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_charm/charm_apex_asset_v20_wep_ordnance_frag01.rpak",
+		"itemType": "weapon_charm",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID02066931897",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#CHARM_010",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "EPIC",
+		"icon": "rui/menu/store/charm_frag_grenade",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "weapon_charm_frag_grenade",
+		"ownershipTarget": "",
+		"charmModel": "mdl/props/charm/charm_frag_grenade",
+		"exclusiveFunc": "",
+		"attachmentName": "CHARM",
+		"customSkinMenuBlurb": "",
+		"multipleOwnershipTargets": [
+			],
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false,
+		"exclusive": false
+	}
+}

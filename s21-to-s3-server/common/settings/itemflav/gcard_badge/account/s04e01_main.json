@@ -1,0 +1,54 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_badge_layout.rpak",
+	"uniqueId": 488716102,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_badge/account/s04e01_main.rpak",
+		"itemType": "gladiator_card_badge",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00488716102",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#S04E01_BADGE_NAME",
+		"localizationKey_NAME_SHORT": "#S04E01_BADGE_NAME",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "#S04E01_BADGE_DESC",
+		"quality": "EPIC",
+		"icon": "",
+		"tagIcon": "rui/events/s04e01/item_source_icon",
+		"grxMode": "NONE",
+		"grxMode": "NONE",
+		"grxRef": "gcard_badge_account_s03e03_main",
+		"ownershipTarget": "",
+		"exclusiveFunc": "",
+		"unlockStatRef": "stats.s04e01_buffet_points",
+		"dynamicTextStatRef": "",
+		"badgeCategory": "MENU_BADGE_EVENT",
+		"multipleOwnershipTargets": [
+			],
+		"tiers": [
+				{
+					"imageAsset": "rui/gladiator_cards/badges/s04e01_main_tier1",
+					"ruiAsset": "",
+					"unlocksAt": 1500.000000
+				},
+				{
+					"imageAsset": "rui/gladiator_cards/badges/s04e01_main_tier2",
+					"ruiAsset": "",
+					"unlocksAt": 2500.000000
+				},
+				{
+					"imageAsset": "rui/gladiator_cards/badges/s04e01_main_tier3",
+					"ruiAsset": "",
+					"unlocksAt": 3500.000000
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false,
+		"exclusive": false,
+		"shouldHideIfLocked": true,
+		"isCharacterBadge": false,
+		"hasOwnRui": false,
+		"isOversizedImage": true
+	}
+}

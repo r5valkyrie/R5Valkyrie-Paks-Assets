@@ -1,0 +1,36 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_emote_icon_layout.rpak",
+	"uniqueId": 1373188073,
+	"settings": {
+		"assetName": "settings/itemflav/emote_icon/newcastle/lgnd_v21_newcastle_01.rpak",
+		"itemType": "emote_icon",
+		"parentItemFlavor": "settings/itemflav/character/newcastle.rpak",
+		"settingsAssetID": "SAID01373188073",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#spray_lgnd_v21_newcastle_01",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "LEGENDARY",
+		"icon": "rui/menu/holosprays/hspray_lgnd_v21_newcastle_01",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "emote_icon_lgnd_v21_newcastle_01",
+		"ownershipTarget": "",
+		"anim3p": "",
+		"holoProjectorSprayModel": "mdl/props/holo_spray/hspray_lgnd_v21_newcastle_01.rmdl",
+		"quickchatAliasSubName": "",
+		"customSkinMenuBlurb": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<0.416000,0.969000,0.498000>",
+		"holoProjectorEffectColor2": "<0.043000,0.443000,0.659000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": true,
+		"holoProjectorUseEffectColor2": true,
+		"isTheEmpty": false
+	}
+}

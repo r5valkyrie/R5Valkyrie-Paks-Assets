@@ -1,0 +1,51 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_skin_layout.rpak",
+	"uniqueId": 2120345625,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_skin/spitfire/lgnd_v23_resdopb.rpak",
+		"itemType": "weapon_skin",
+		"parentItemFlavor": "settings/itemflav/loot/main_weapon/spitfire.rpak",
+		"settingsAssetID": "SAID02120345625",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#weapon_skin_spitfire_lgnd_v23_resdopb_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "LEGENDARY",
+		"icon": "",
+		"tagIcon": "rui/events/s18ce03/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "weapon_skin_spitfire_lgnd_v23_resdopb",
+		"ownershipTarget": "",
+		"worldModel": "mdl/techart/mshop/weapons/class/lmg/spitfire/spitfire_lgnd_v23_resdopb_w.rmdl",
+		"viewModel": "mdl/techart/mshop/weapons/class/lmg/spitfire/spitfire_lgnd_v23_resdopb_v.rmdl",
+		"skinName": "spitfire_lgnd_v23_resdopb",
+		"exclusiveFunc": "",
+		"unlockFuncKey": "",
+		"video": "",
+		"customSkinMenuBlurb": "",
+		"multipleOwnershipTargets": [
+			],
+		"camoIndex": 0,
+		"hackyRUISchemeIdentifier": 0,
+		"featureReactsToKillsLevels": [
+			],
+		"skinAlias_vfxAliases": [
+			],
+		"skinAlias_sfxAliases": [
+			],
+		"skinAlias_bodyGroupAliases": [
+			],
+		"skinAlias_impactTableAliases": [
+			],
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"exclusive": false,
+		"shouldHideIfLocked": false,
+		"forceFullWeaponIcon": false,
+		"featureReactsToKills": false,
+		"forceVideoInspect": false
+	}
+}

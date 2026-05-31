@@ -1,0 +1,44 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_badge_layout.rpak",
+	"uniqueId": 509380666,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_badge/account/s11e02_damage_br.rpak",
+		"itemType": "gladiator_card_badge",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00509380666",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#S11E02_BADGE_3_NAME",
+		"localizationKey_NAME_SHORT": "#S11E02_BADGE_3_NAME",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "#S11E02_BADGE_3_DESC",
+		"quality": "EPIC",
+		"icon": "rui/gladiator_cards/badges/s11e02_darkdepth_3",
+		"tagIcon": "rui/events/s11e02/item_source_icon",
+		"grxMode": "NONE",
+		"grxMode": "NONE",
+		"grxRef": "gcard_badge_account_s11e02_damage_br",
+		"ownershipTarget": "",
+		"exclusiveFunc": "",
+		"unlockStatRef": "stats.s11e02_03_br_damage_done",
+		"dynamicTextStatRef": "",
+		"badgeCategory": "MENU_BADGE_EVENT",
+		"multipleOwnershipTargets": [
+			],
+		"tiers": [
+				{
+					"imageAsset": "rui/gladiator_cards/badges/s11e02_darkdepth_3",
+					"ruiAsset": "",
+					"unlocksAt": 5000.000000
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false,
+		"exclusive": false,
+		"shouldHideIfLocked": true,
+		"isCharacterBadge": false,
+		"hasOwnRui": false,
+		"isOversizedImage": true
+	}
+}

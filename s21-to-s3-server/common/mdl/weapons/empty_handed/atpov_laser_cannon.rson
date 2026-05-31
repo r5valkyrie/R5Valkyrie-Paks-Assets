@@ -1,0 +1,15 @@
+rigs:
+[
+]
+seqs:
+[
+	animseq\weapons\empty_handed\atpov_laser_cannon\attack_seq.rseq
+	animseq\weapons\empty_handed\atpov_laser_cannon\charge_seq.rseq
+	animseq\weapons\empty_handed\atpov_laser_cannon\draw_seq.rseq
+	animseq\weapons\empty_handed\atpov_laser_cannon\holster_seq.rseq
+	animseq\weapons\empty_handed\atpov_laser_cannon\idle_seq.rseq
+	animseq\weapons\empty_handed\atpov_laser_cannon\melee_dash_seq.rseq
+	animseq\weapons\empty_handed\atpov_laser_cannon\melee_seq.rseq
+	animseq\weapons\empty_handed\atpov_laser_cannon\reload_seq.rseq
+	animseq\weapons\empty_handed\atpov_laser_cannon\sprint_seq.rseq
+]

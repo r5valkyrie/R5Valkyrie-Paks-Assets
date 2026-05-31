@@ -1,0 +1,44 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_badge_layout.rpak",
+	"uniqueId": 291776065,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_badge/account/s10e01_b1_metamorphosis_challenge_1.rpak",
+		"itemType": "gladiator_card_badge",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00291776065",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#S10E01_BADGE_1_NAME",
+		"localizationKey_NAME_SHORT": "#S10E01_BADGE_1_NAME",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "#S10E01_BADGE_1_DESC",
+		"quality": "EPIC",
+		"icon": "rui/gladiator_cards/badges/s10e01_metamorphosis_challenge_1",
+		"tagIcon": "rui/events/s10e01/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "gcard_badge_account_s10e01_metamorphosis_challenge_1",
+		"ownershipTarget": "",
+		"exclusiveFunc": "",
+		"unlockStatRef": "",
+		"dynamicTextStatRef": "",
+		"badgeCategory": "MENU_BADGE_EVENT",
+		"multipleOwnershipTargets": [
+			],
+		"tiers": [
+				{
+					"imageAsset": "rui/gladiator_cards/badges/s10e01_metamorphosis_challenge_1",
+					"ruiAsset": "",
+					"unlocksAt": 1.000000
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false,
+		"exclusive": false,
+		"shouldHideIfLocked": true,
+		"isCharacterBadge": false,
+		"hasOwnRui": false,
+		"isOversizedImage": true
+	}
+}

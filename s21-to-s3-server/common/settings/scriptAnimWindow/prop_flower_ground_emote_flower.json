@@ -1,0 +1,20 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_CreateProp_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/prop_flower_ground_emote_flower.rpak",
+		"devDescription": "",
+		"type": "CreateProp",
+		"selectModelFrom": "HARD_CODED",
+		"modelName": "mdl/props/flower_hibiscus/flower_hibiscus_v23_base.rmdl",
+		"modelScriptKey": "",
+		"attachPoint": "REF",
+		"animSequence": "animseq/props/flower_hibiscus/flower_hibiscus_v23_animrig/prop_flower_ground_emote_flower.rseq",
+		"scriptCallbackKey": "",
+		"scale": 1.000000,
+		"additionalAnims": [
+			],
+		"propBodygroups": [
+			],
+		"syncCycle": true
+	}
+}

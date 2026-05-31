@@ -1,0 +1,33 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_charm_layout.rpak",
+	"uniqueId": 907642027,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_charm/charm_apex_theme_v20_ascension_bangalore_diamondmissle01.rpak",
+		"itemType": "weapon_charm",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00907642027",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#CHARM_184",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "EPIC",
+		"icon": "",
+		"tagIcon": "rui/events/s07e02/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "weapon_charm_s07e02_epic_strike_missile_pendant",
+		"ownershipTarget": "",
+		"charmModel": "mdl/props/charm/charm_strike_missle",
+		"exclusiveFunc": "",
+		"attachmentName": "CHARM",
+		"customSkinMenuBlurb": "",
+		"multipleOwnershipTargets": [
+			],
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false,
+		"exclusive": false
+	}
+}

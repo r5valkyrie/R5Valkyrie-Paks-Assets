@@ -1,0 +1,36 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_emote_icon_layout.rpak",
+	"uniqueId": 668557188,
+	"settings": {
+		"assetName": "settings/itemflav/emote_icon/niceaim/epic_v22_niceaim_01.rpak",
+		"itemType": "emote_icon",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00668557188",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#spray_epic_v22_niceaim_01",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "EPIC",
+		"icon": "rui/menu/holosprays/hspray_epic_v22_niceaim_01",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "emote_icon_epic_v22_niceaim_01",
+		"ownershipTarget": "",
+		"anim3p": "",
+		"holoProjectorSprayModel": "mdl/props/holo_spray/hspray_epic_v22_niceaim_01.rmdl",
+		"quickchatAliasSubName": "",
+		"customSkinMenuBlurb": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<0.961000,0.843000,0.427000>",
+		"holoProjectorEffectColor2": "<0.914000,0.027000,0.027000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": true,
+		"holoProjectorUseEffectColor2": true,
+		"isTheEmpty": false
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_SetColorModScaleOverDuration_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/SetColorModScaleOverDuration_ConduitEmoteEmissive.rpak",
+		"devDescription": "",
+		"type": "SetColorModScaleOverDuration",
+		"rampUpDuration": 0.200000,
+		"plateauDuration": 0.500000,
+		"rampDownDuration": 1.000000
+	}
+}

@@ -1,0 +1,36 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_emote_icon_layout.rpak",
+	"uniqueId": 1739893636,
+	"settings": {
+		"assetName": "settings/itemflav/emote_icon/ragold/epic_v23_ragold_08.rpak",
+		"itemType": "emote_icon",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01739893636",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#spray_epic_v23_ragold_08",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "EPIC",
+		"icon": "rui/menu/holosprays/hspray_epic_v23_ragold_08",
+		"tagIcon": "rui/events/s19me01/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "emote_icon_epic_v23_ragold_08",
+		"ownershipTarget": "",
+		"anim3p": "",
+		"holoProjectorSprayModel": "mdl/props/holo_spray/hspray_epic_v23_ragold_08.rmdl",
+		"quickchatAliasSubName": "",
+		"customSkinMenuBlurb": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<0.353000,0.863000,0.012000>",
+		"holoProjectorEffectColor2": "<1.000000,0.878000,0.400000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": true,
+		"holoProjectorUseEffectColor2": true,
+		"isTheEmpty": false
+	}
+}

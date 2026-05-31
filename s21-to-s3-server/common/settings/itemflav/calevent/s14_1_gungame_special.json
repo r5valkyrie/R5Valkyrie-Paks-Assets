@@ -1,0 +1,69 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_calevent_story_challenges_layout.rpak",
+	"uniqueId": 935463920,
+	"settings": {
+		"assetName": "settings/itemflav/calevent/s14_1_gungame_special.rpak",
+		"itemType": "calevent_story_challenges",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00935463920",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#S14_GUNGAME_CHALLENGES_TITLE_SHORT",
+		"localizationKey_NAME_SHORT": "#S14_GUNGAME_CHALLENGES_TITLE_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"revealUnixTime": "",
+		"hideUnixTime": "",
+		"defaultStartTime": "2022-09-20 10:00:00 -07:00",
+		"defaultFinishTime": "2022-10-04 10:00:00 -07:00",
+		"headerIcon": "",
+		"eventChallengeHeaderImage": "",
+		"storyEventAboutHeroImage": "",
+		"storyCompletionFlavor": "",
+		"storyCompletionQuantity": 1,
+		"challengeGroups": [
+				{
+					"aboutScreenshotImage": "",
+					"aboutTitle": "",
+					"aboutDesc": "",
+					"hasSeenAboutChallengesPersistentVarName": "",
+					"requiredChallengesPersistentVarName": "",
+					"hasSeenChallengesPersistentVarName": "",
+					"requiredStartTime": "",
+					"prologueLobbyDesc": "",
+					"prologuePersistentVarName": "",
+					"radioVignetteBk": "",
+					"radioVignetteMilesEvent": "",
+					"playlistName": "",
+					"requiredChallengesPersistentVarNameCount": 1,
+					"challenges": [
+							{
+								"challengeFlav": "settings/itemflav/challenge/gungame/stars_games_played.rpak"
+							},
+							{
+								"challengeFlav": "settings/itemflav/challenge/gungame/stars_placements_win.rpak"
+							},
+							{
+								"challengeFlav": "settings/itemflav/challenge/gungame/stars_kills_or_assists.rpak"
+							},
+							{
+								"challengeFlav": "settings/itemflav/challenge/gungame/stars_damage_done.rpak"
+							},
+							{
+								"challengeFlav": "settings/itemflav/challenge/gungame/stars_throwing_knife_kills.rpak"
+							}
+						],
+					"isPrologue": false
+				}
+			],
+		"dialogueMessages": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showInChallengeBox": false
+	}
+}

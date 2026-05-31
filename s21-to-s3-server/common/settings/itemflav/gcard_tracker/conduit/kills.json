@@ -1,0 +1,33 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_stat_tracker_layout.rpak",
+	"uniqueId": 646544016,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_tracker/conduit/kills.rpak",
+		"itemType": "gladiator_card_stat_tracker",
+		"parentItemFlavor": "settings/itemflav/character/conduit.rpak",
+		"settingsAssetID": "SAID00646544016",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#gcard_tracker_conduit_kills_NAME",
+		"localizationKey_NAME_SHORT": "#TRACKER_KILLS",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "COMMON",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"grxMode": "NONE",
+		"grxRef": "gcard_tracker__base",
+		"ownershipTarget": "",
+		"statRef": "stats.characters[%char%].kills",
+		"valueNumberFormat": "INTEGER",
+		"valueSuffix": "",
+		"backgroundImage": "",
+		"multipleOwnershipTargets": [
+			],
+		"color0": "<0.550000,0.540000,0.540000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false
+	}
+}

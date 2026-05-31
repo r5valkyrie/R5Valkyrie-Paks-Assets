@@ -1,0 +1,53 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_lore_layout.rpak",
+	"uniqueId": 135427093,
+	"settings": {
+		"assetName": "settings/itemflav/lore/character/lore_horizon.rpak",
+		"itemType": "lore",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00135427093",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"type": "Legend",
+		"legend_real_name": "#LORE_HORIZON_REAL_NAME",
+		"legend_alias": "",
+		"legend_age": "#LORE_HORIZON_AGE",
+		"legend_home_world": "#LORE_HORIZON_HOME_WORLD",
+		"bio": [
+				{
+					"line": "#LORE_HORIZON_0",
+					"featureFlag": "",
+					"paddingLeft": 0,
+					"paddingRight": 0,
+					"paddingTop": 0,
+					"paddingBottom": 15
+				},
+				{
+					"line": "#LORE_HORIZON_1",
+					"featureFlag": "",
+					"paddingLeft": 0,
+					"paddingRight": 0,
+					"paddingTop": 0,
+					"paddingBottom": 15
+				},
+				{
+					"line": "#LORE_HORIZON_2",
+					"featureFlag": "",
+					"paddingLeft": 0,
+					"paddingRight": 0,
+					"paddingTop": 0,
+					"paddingBottom": 15
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

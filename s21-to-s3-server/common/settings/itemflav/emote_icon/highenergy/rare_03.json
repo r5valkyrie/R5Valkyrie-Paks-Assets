@@ -1,0 +1,36 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_emote_icon_layout.rpak",
+	"uniqueId": 322623963,
+	"settings": {
+		"assetName": "settings/itemflav/emote_icon/highenergy/rare_03.rpak",
+		"itemType": "emote_icon",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00322623963",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#spray_highenergy_03_rare_v21",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "RARE",
+		"icon": "content/r2/materialsrc/rui/menu/holosprays/hspray_rare_v21_highenergy_03",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "emote_icon_highenergy_rare_03",
+		"ownershipTarget": "",
+		"anim3p": "",
+		"holoProjectorSprayModel": "mdl/models/weapons_r5/misc_holo_sprays/hspray_rare_v21_highenergy_03.rmdl",
+		"quickchatAliasSubName": "",
+		"customSkinMenuBlurb": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.350000,1.188000,0.032000>",
+		"holoProjectorEffectColor2": "<1.350000,0.760000,0.107000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": true,
+		"holoProjectorUseEffectColor2": true,
+		"isTheEmpty": false
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 1000321242,
+	"settings": {
+		"assetName": "settings/itemflav/ability/conduit_passive.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01000321242",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#PAS_CONDUIT",
+		"localizationKey_NAME_SHORT": "#PAS_CONDUIT",
+		"localizationKey_DESCRIPTION_LONG": "#PAS_CONDUIT_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#PAS_CONDUIT_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/passive_icons/passive_conduit",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_CONDUIT",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

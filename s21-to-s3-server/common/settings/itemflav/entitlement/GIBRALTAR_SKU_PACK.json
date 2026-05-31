@@ -1,0 +1,56 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_entitlement_layout.rpak",
+	"uniqueId": 140165142,
+	"settings": {
+		"assetName": "settings/itemflav/entitlement/GIBRALTAR_SKU_PACK.rpak",
+		"itemType": "entitlement",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00140165142",
+		"__featureFlag": "",
+		"devDescription": "Retail SKU items, Gibraltar edition",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"entitlementType": "firstparty",
+		"twitchRef": "",
+		"twitchRef": "",
+		"enum": "GIBRALTAR_SKU_PACK",
+		"pc": "APEX_GIBRALTAR_CONTENT",
+		"ps4": "GIBPAC0000000000",
+		"xb1": "GIBRALTAR_SKU_PACK",
+		"switch": "apexleggibby",
+		"pc_offer": "Origin.OFR.50.0004420",
+		"steam_offer": "Steam.OFR.50.0000056",
+		"xb1_offer": "54544e39-4a31-3030-c051-523350333300",
+		"menuTitleText": "#PROMO_GIBRALTAR_EDITION",
+		"menuDescText": "#PROMO_GIBRALTAR_SKU_OWNED",
+		"menuImageName": "sku_gibby_01",
+		"menuPersistenceVarName": "GIBRALTAR_SKU_PACKAcknowledged",
+		"list": [
+				{
+					"flavor": "settings/itemflav/gcard_badge/gibraltar/sku06.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/character_skin/gibraltar/sku06_legendary_01.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v20_char_gibraltar_carving01.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/devotion/sku06_legendary_01.rpak",
+					"quantity": 1
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isMenuEnabled": false
+	}
+}

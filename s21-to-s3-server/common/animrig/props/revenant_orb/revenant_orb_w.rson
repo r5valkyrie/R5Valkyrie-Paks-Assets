@@ -1,0 +1,8 @@
+seqs:
+[
+	animseq\humans\class\heavy\pilot_heavy_revenant\prop_orb_revenant_animated_cube.rseq
+	animseq\humans\class\heavy\pilot_heavy_revenant\prop_orb_Revenant_gladcard_static_contemplation.rseq
+	animseq\humans\class\heavy\pilot_heavy_revenant\revenant_animated_play\prop_orb_revenant_animated_play.rseq
+	animseq\humans\class\heavy\pilot_heavy_revenant\revenant_animated_play\prop_orb_revenant_animated_play_idle.rseq
+	animseq\humans\class\heavy\pilot_heavy_revenant\revenant_ground_emote_silence\prop_orb_revenant_ground_emote_silence.rseq
+]

@@ -1,0 +1,36 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_emote_icon_layout.rpak",
+	"uniqueId": 145510766,
+	"settings": {
+		"assetName": "settings/itemflav/emote_icon/ballistic/epic_v22_ballistic_03.rpak",
+		"itemType": "emote_icon",
+		"parentItemFlavor": "settings/itemflav/character/ballistic.rpak",
+		"settingsAssetID": "SAID00145510766",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#spray_epic_v22_ballistic_03",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "EPIC",
+		"icon": "rui/menu/holosprays/hspray_epic_v22_ballistic_03",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "emote_icon_epic_v22_ballistic_03",
+		"ownershipTarget": "",
+		"anim3p": "",
+		"holoProjectorSprayModel": "mdl/props/holo_spray/hspray_epic_v22_ballistic_03.rmdl",
+		"quickchatAliasSubName": "",
+		"customSkinMenuBlurb": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<0.188000,0.886000,0.659000>",
+		"holoProjectorEffectColor2": "<0.569000,0.235000,0.424000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": true,
+		"holoProjectorUseEffectColor2": true,
+		"isTheEmpty": false
+	}
+}

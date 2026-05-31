@@ -1,0 +1,56 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_mythic_bundle_layout.rpak",
+	"uniqueId": 1051244563,
+	"settings": {
+		"assetName": "settings/itemflav/mythic_bundles/revenant/apex_predator.rpak",
+		"itemType": "mythic_bundle",
+		"parentItemFlavor": "settings/itemflav/character/revenant.rpak",
+		"settingsAssetID": "SAID01051244563",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#pack_mythic_revenant_NAME",
+		"localizationKey_NAME_SHORT": "#pack_mythic_revenant_NAME_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "MYTHIC",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"parentItemFlavor": "settings/itemflav/character/revenant.rpak",
+		"challengeAsset": "settings/itemflav/challenge/mythic/revenant/apex_predator.rpak",
+		"executionAsset": "settings/itemflav/character_execution/revenant/chestopen_prestige.rpak",
+		"skydivetrailAsset": "settings/itemflav/skydive_trail/revenant_mythic.rpak",
+		"baseSkinName": "#S18CE03_APEX_REVENANT_BASE_NAME",
+		"skinsByTier": [
+				{
+					"skinAsset": "settings/itemflav/character_skin/revenant/mythic_v23_pilot_level01.rpak",
+					"unlocksAt": 1.000000
+				},
+				{
+					"skinAsset": "settings/itemflav/character_skin/revenant/mythic_v23_pilot_level02.rpak",
+					"unlocksAt": 2.000000
+				},
+				{
+					"skinAsset": "settings/itemflav/character_skin/revenant/mythic_v23_pilot_level03.rpak",
+					"unlocksAt": 3.000000
+				}
+			],
+		"storeImagesByTier": [
+				{
+					"storeImage": "rui/menu/heirloom_crafting/mythic_heirloomshop_menuicon_revenant_t1",
+					"unlocksAt": 1.000000
+				},
+				{
+					"storeImage": "rui/menu/heirloom_crafting/mythic_heirloomshop_menuicon_revenant_t2",
+					"unlocksAt": 2.000000
+				},
+				{
+					"storeImage": "rui/menu/heirloom_crafting/mythic_heirloomshop_menuicon_revenant_t3",
+					"unlocksAt": 3.000000
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isExecutionUsableOnTier1AndTier2": true
+	}
+}

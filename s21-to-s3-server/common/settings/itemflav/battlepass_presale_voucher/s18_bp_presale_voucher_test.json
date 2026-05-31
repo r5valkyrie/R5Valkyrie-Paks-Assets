@@ -1,0 +1,29 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_battlepass_presale_voucher_layout.rpak",
+	"uniqueId": 943885104,
+	"settings": {
+		"assetName": "settings/itemflav/battlepass_presale_voucher/s18_bp_presale_voucher_test.rpak",
+		"itemType": "battlepass_presale_voucher",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00943885104",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#BP_S18_PRESALE_ITEM_NAME",
+		"localizationKey_NAME_SHORT": "#BP_S18_PRESALE_ITEM_NAME",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "LEGENDARY",
+		"icon": "rui/menu/battlepass/icon_battlepass_card",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "battlepass_season18_test",
+		"ownershipTarget": "",
+		"displayImage": "image_2d/s17_bp_display_image",
+		"marketplaceOfferAlias": "",
+		"multipleOwnershipTargets": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

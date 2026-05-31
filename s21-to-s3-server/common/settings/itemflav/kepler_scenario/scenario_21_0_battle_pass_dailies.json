@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_kepler_scenario_layout.rpak",
+	"uniqueId": 937213879,
+	"settings": {
+		"assetName": "settings/itemflav/kepler_scenario/scenario_21_0_battle_pass_dailies.rpak",
+		"itemType": "kepler_scenario",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00937213879",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"scenarioKey": "21-0-battle-pass-dailies",
+		"variants": [
+				{
+					"variantName": "control",
+					"controlledCollection": "",
+					"controlledImage": ""
+				},
+				{
+					"variantName": "set-a",
+					"controlledCollection": "",
+					"controlledImage": ""
+				}
+			],
+		"scenarioChallenges": [
+				{
+					"scenarioChallenge": "settings/itemflav/challenge/s21exp/play_game_x_legends_any_mode_set_b.rpak"
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

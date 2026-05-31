@@ -1,0 +1,7 @@
+seqs:
+[
+	animseq\props\fuse_bomb\fuse_bomb\fuse_ultimate_bomb_gladcard_static_foot_on_bomb.rseq
+	animseq\props\fuse_bomb\fuse_bomb\fuse_ultimate_bomb_skydive_baseball.rseq
+	animseq\props\fuse_bomb\fuse_bomb\prop_bomb_lobby_center_bombalert.rseq
+	animseq\props\fuse_bomb\fuse_bomb\prop_bomb_lobby_center_idle.rseq
+]

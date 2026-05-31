@@ -1,0 +1,64 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_entitlement_layout.rpak",
+	"uniqueId": 1423378512,
+	"settings": {
+		"assetName": "settings/itemflav/entitlement/XBOX_GOLD_PACK_13.rpak",
+		"itemType": "entitlement",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01423378512",
+		"__featureFlag": "",
+		"devDescription": "Xbox Gold Pack 13",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"entitlementType": "firstparty",
+		"twitchRef": "",
+		"twitchRef": "",
+		"enum": "XBOX_GOLD_PACK_13",
+		"pc": "XBOX_GOLD_PACK_13",
+		"ps4": "XBG13",
+		"xb1": "XBOX_GOLD_PACK_13",
+		"switch": "XBOX_GOLD_PACK_13",
+		"pc_offer": "",
+		"steam_offer": "",
+		"xb1_offer": "48374e39-5830-3035-c038-325654512800",
+		"menuTitleText": "#PROMO_REWARDS_UNLOCKED",
+		"menuDescText": "#PROMO_XBOX_GOLD13_OWNED",
+		"menuImageName": "xbox_gold_pack13",
+		"menuPersistenceVarName": "",
+		"list": [
+				{
+					"flavor": "settings/itemflav/character_skin/loba/rare_v23_voidswap.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/gcard_frame/loba/rare_v23_festival01.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/character_skin/wattson/rare_v23_voidswap.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/gcard_frame/wattson/rare_v23_festival01.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/3030repeater/rare_v23_voidswap.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/car/rare_v23_voidswap.rpak",
+					"quantity": 1
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isMenuEnabled": true
+	}
+}

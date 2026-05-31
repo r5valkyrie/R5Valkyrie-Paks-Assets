@@ -1,0 +1,205 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_calevent_collection_layout.rpak",
+	"uniqueId": 1496982709,
+	"settings": {
+		"assetName": "settings/itemflav/calevent/s15e01/collection.rpak",
+		"itemType": "calevent_collection",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01496982709",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#S15E01_TITLE_LONG",
+		"localizationKey_NAME_SHORT": "#S15E01_TITLE_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"revealUnixTime": "",
+		"hideUnixTime": "",
+		"defaultStartTime": "2023-01-10 10:00:00 -08:00",
+		"defaultFinishTime": "2023-01-24 10:00:00 -08:00",
+		"frontPageRewardBoxTitle": "#REWARD_BOX_TITLE",
+		"collectionName": "#SPELLBOUND_COLLECTION",
+		"mainPackFlav": "settings/itemflav/pack/cosmetic_event_s15e01.rpak",
+		"mainPackShortPluralName": "#S15E01_PACKS_SHORT_PLURAL",
+		"mainPackImage": "rui/events/s15e01/event_pack_icon",
+		"heirloomButtonImage": "rui/events/s15e01/heirloom",
+		"prestigeButtonImage2": "",
+		"prestigeButtonImage3": "",
+		"completionSequenceName": "rewardseq_s15e01_event_completion",
+		"completionRewardPack": "settings/itemflav/pack/seer_heirloom.rpak",
+		"primaryCompletionRewardItem": "settings/itemflav/melee_skin/seer_heirloom.rpak",
+		"heirloomUnlockDesc": "#S15E01_HEIRLOOM_UNLOCK_DESC",
+		"frontGRXOfferLocation": "s15e01_front",
+		"storeEventSectionMainImage": "",
+		"storeEventSectionMainText": "",
+		"storeEventSectionSubText": "",
+		"lobbyButtonImage": "",
+		"leftSideImage": "rui/events/s15e01/button_event/buttoneventbg_l",
+		"centerImage": "",
+		"rightSideImage": "rui/events/s15e01/button_event/buttoneventbg_r",
+		"centerRuiAsset": "ui/s15e01_event_button.rpak",
+		"mainIcon": "rui/events/s15e01/event_logo",
+		"headerIcon": "rui/events/s15e01/event_logo",
+		"bgPatternImage": "rui/events/s15e01/bg_texture",
+		"bgTabPatternImage": "rui/events/s15e01/bg_tab_texture",
+		"collectionEventMainIcon": "",
+		"collectionLeftCornerHeaderBg": "",
+		"chaseItemBG": "",
+		"collectionGridBG": "",
+		"rightBG": "",
+		"chaseItemFrame": "",
+		"loginRewards": [
+			],
+		"challenges": [
+			],
+		"rewardGroups": [
+				{
+					"ref": "epic",
+					"quality": "EPIC",
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/character_emote/crypto/epic_v22_magicwitch_pullups.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/character_emote/wattson/epic_v22_magicwitch_dancenowatch.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/gcard_frame/fuse/epic_v22_magicwitch01.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/gcard_frame/vantage/epic_v22_magicwitch01.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/skydive_emote/seer/epic_v22_magicwitch_mothglide.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/character_emote/loba/lgnd_v22_magicwitch_freestyle.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/character_skin/ash/epicp_v22_magicwitch.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/weapon_skin/devotion/epicp_v22_magicwitch.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/weapon_skin/dragon/epicp_v22_magicwitch.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/character_skin/valkyrie/epicp_v22_magicwitch.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/weapon_skin/sentinel/epicp_v22_magicwitch.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/weapon_skin/autopistol/epicp_v22_magicwitch.rpak"
+							}
+						]
+				},
+				{
+					"ref": "legendary",
+					"quality": "LEGENDARY",
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/weapon_skin/alternator/lgnd_v22_magicwitch.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/character_skin/madmaggie/lgnd_v22_magicwitch.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/weapon_skin/spitfire/lgnd_v22_magicwitch.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/weapon_skin/g7/lgnd_v22_magicwitch.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/character_skin/fuse/lgnd_v22_magicwitch.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/weapon_skin/dmr/lgnd_v22_magicwitch.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/character_skin/seer/lgnd_v22_magicwitch.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/character_skin/crypto/lgnd_v22_magicwitch.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/character_skin/mirage/lgnd_v22_magicwitch.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/weapon_skin/flatline/lgnd_v22_magicwitch.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/character_skin/vantage/lgnd_v22_magicwitch.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/character_skin/horizon/lgnd_v22_magicwitch.rpak"
+							}
+						]
+				}
+			],
+		"mainThemeCol": "<1.000000,1.000000,1.000000>",
+		"frontPageBGTintCol": "<0.650000,0.373000,0.614000>",
+		"frontPageTitleCol": "<1.000000,1.000000,1.000000>",
+		"frontPageSubtitleCol": "<0.964000,0.898000,0.627000>",
+		"frontPageTimeRemainingCol": "<1.000000,1.000000,1.000000>",
+		"aboutPageSpecialTextCol": "<0.674000,0.454000,0.670000>",
+		"aboutTextStandard": [
+				{
+					"text": "#S15E01_ABOUT_LINE_1"
+				},
+				{
+					"text": "#S15E01_ABOUT_LINE_2"
+				},
+				{
+					"text": "#S15E01_ABOUT_LINE_3"
+				},
+				{
+					"text": "#S15E01_ABOUT_LINE_4"
+				}
+			],
+		"aboutTextRestricted": [
+				{
+					"text": "#S15E01_ABOUT_RESTRCTIED_LINE_1"
+				},
+				{
+					"text": "#S15E01_ABOUT_RESTRICTED_LINE_2"
+				},
+				{
+					"text": "#S15E01_ABOUT_RESTRICTED_LINE_3"
+				}
+			],
+		"imageUnselectedAlpha": 0.500000,
+		"imageSelectedAlpha": 1.000000,
+		"tabTextDefaultCol": "<1.000000,1.000000,1.000000>",
+		"tabBGFocusedCol": "<0.650000,0.373000,0.614000>",
+		"tabBarFocusedCol": "<0.937000,0.858000,0.552000>",
+		"tabTextFocusedCol": "<0.900000,0.700000,1.000000>",
+		"tabGlowFocusedCol": "<0.900000,0.700000,1.000000>",
+		"tabBGSelectedCol": "<0.545000,0.313000,0.584000>",
+		"tabBarSelectedCol": "<0.745000,0.619000,0.172000>",
+		"tabTextSelectedCol": "<1.000000,1.000000,1.000000>",
+		"collectionLeftPanelTitleColor": "<0.000000,0.000000,0.000000>",
+		"collectionLeftPanelEventNameColor": "<0.000000,0.000000,0.000000>",
+		"collectionLeftPanelTimeRemainingColor": "<0.000000,0.000000,0.000000>",
+		"chaseItemProgressBarBorderColor": "<0.000000,0.000000,0.000000>",
+		"chaseItemProgressBarColor": "<0.000000,0.000000,0.000000>",
+		"chaseItemProgressBarBGColor": "<0.000000,0.000000,0.000000>",
+		"collectionLeftCornerHeaderBGDarkening": 0.000000,
+		"chaseItemBGDarkening": 0.000000,
+		"collectionGridBGDarkening": 0.000000,
+		"rightBGDarkening": 0.000000,
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isPrestigeSkin": false,
+		"awardHeirloomShards": false,
+		"themeLobby": true,
+		"collectionLeftCornerHeaderBgBlur": false,
+		"chaseItemBGBlur": false,
+		"collectionGridBGBlur": false,
+		"rightBGBlur": false
+	}
+}

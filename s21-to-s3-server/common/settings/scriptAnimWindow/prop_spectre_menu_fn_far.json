@@ -1,0 +1,20 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_CreateProp_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/prop_spectre_menu_fn_far.rpak",
+		"devDescription": "",
+		"type": "CreateProp",
+		"selectModelFrom": "HARD_CODED",
+		"modelName": "mdl/Humans/class/medium/spectre_v20_corporate.rmdl",
+		"modelScriptKey": "",
+		"attachPoint": "REF",
+		"animSequence": "animseq/humans/class/medium/robot_spectre/spectre_menu_FN_far.rseq",
+		"scriptCallbackKey": "",
+		"scale": 1.000000,
+		"additionalAnims": [
+			],
+		"propBodygroups": [
+			],
+		"syncCycle": false
+	}
+}

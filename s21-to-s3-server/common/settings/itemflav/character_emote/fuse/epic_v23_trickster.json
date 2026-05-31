@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 763877165,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/fuse/epic_v23_trickster.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/fuse.rpak",
+		"settingsAssetID": "SAID00763877165",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#emote_fuse_trickster",
+		"localizationKey_NAME_SHORT": "#emote_fuse_trickster",
+		"localizationKey_DESCRIPTION_LONG": "#emote_fuse_trickster",
+		"localizationKey_DESCRIPTION_SHORT": "#emote_fuse_trickster",
+		"quality": "EPIC",
+		"icon": "rui/hud/character_emotes/fuse/icon_character_fuse_emote_trickster",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_fuse_epic_v23_trickster",
+		"ownershipTarget": "",
+		"anim3p": "fuse_ground_emote_trickster",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

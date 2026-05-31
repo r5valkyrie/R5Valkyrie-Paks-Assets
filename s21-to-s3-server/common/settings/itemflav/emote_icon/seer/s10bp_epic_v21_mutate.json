@@ -1,0 +1,36 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_emote_icon_layout.rpak",
+	"uniqueId": 324194781,
+	"settings": {
+		"assetName": "settings/itemflav/emote_icon/seer/s10bp_epic_v21_mutate.rpak",
+		"itemType": "emote_icon",
+		"parentItemFlavor": "settings/itemflav/character/seer.rpak",
+		"settingsAssetID": "SAID00324194781",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#spray_epic_v21_seer_01",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "EPIC",
+		"icon": "content/r2/materialsrc/rui/menu/holosprays/hspray_epic_v21_seer_01",
+		"tagIcon": "rui/events/s10bp/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "emote_icon_seer_s10bp_epic_v21_mutate",
+		"ownershipTarget": "",
+		"anim3p": "",
+		"holoProjectorSprayModel": "mdl/models/weapons_r5/misc_holo_sprays/hspray_epic_v21_seer_01.rmdl",
+		"quickchatAliasSubName": "",
+		"customSkinMenuBlurb": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<0.324000,0.963000,1.300000>",
+		"holoProjectorEffectColor2": "<1.100000,0.644000,0.000000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": true,
+		"holoProjectorUseEffectColor2": true,
+		"isTheEmpty": false
+	}
+}

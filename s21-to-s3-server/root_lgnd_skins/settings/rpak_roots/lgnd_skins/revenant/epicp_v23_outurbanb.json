@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/revenant/epicp_v23_outurbanb.rpak",
+		"roots": [
+				{
+					"asset": "mdl/humans/class/heavy/pilot_heavy_revenant_reborn.rmdl",
+					"featureFlag": "HAS_20_1_RELEASE"
+				},
+				{
+					"asset": "mdl/Weapons/arms/pov_pilot_heavy_revenant_reborn.rmdl",
+					"featureFlag": "HAS_20_1_RELEASE"
+				}
+			]
+	}
+}

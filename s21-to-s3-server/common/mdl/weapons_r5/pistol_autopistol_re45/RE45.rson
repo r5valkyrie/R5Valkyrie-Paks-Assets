@@ -1,0 +1,8 @@
+rigs:
+[
+]
+seqs:
+[
+	animseq\weapons\p2011_auto\w_p2011_auto\nova_p2011auto_gladcard_animated_tropics.rseq
+	animseq\weapons\p2011_auto\w_p2011_auto\nova_p2011auto_gladcard_animated_tropics_idle.rseq
+]

@@ -1,0 +1,8 @@
+rigs:
+[
+	animrig\props\loba_display_case\loba_display_case_v21_ar.rrig
+]
+seqs:
+[
+	animseq\props\loba_display_case\loba_display_case\display_loba_gladcard_animated_origin.rseq
+]

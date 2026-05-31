@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 2118007125,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/vantage/epic_v22_360noscope.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/vantage.rpak",
+		"settingsAssetID": "SAID02118007125",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#ground_emote_vantage_360noscope",
+		"localizationKey_NAME_SHORT": "#ground_emote_vantage_360noscope",
+		"localizationKey_DESCRIPTION_LONG": "#ground_emote_vantage_360noscope",
+		"localizationKey_DESCRIPTION_SHORT": "#ground_emote_vantage_360noscope",
+		"quality": "LEGENDARY",
+		"icon": "rui/menu/buttons/character_emotes/vantage/360noscope",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_vantage_epic_v22_360noscope",
+		"ownershipTarget": "",
+		"anim3p": "vantage_ground_emote_360noscope",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 10.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 64461897,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/caustic/lgnd_v22_partymask_gasthrower.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/caustic.rpak",
+		"settingsAssetID": "SAID00064461897",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#ground_emote_caustic_gasthrower",
+		"localizationKey_NAME_SHORT": "#ground_emote_caustic_gasthrower",
+		"localizationKey_DESCRIPTION_LONG": "#ground_emote_caustic_gasthrower",
+		"localizationKey_DESCRIPTION_SHORT": "#ground_emote_caustic_gasthrower",
+		"quality": "LEGENDARY",
+		"icon": "rui/menu/buttons/character_emotes/caustic/gasthrower",
+		"tagIcon": "rui/events/s16ce03/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_caustic_lgnd_v22_partymask_gasthrower",
+		"ownershipTarget": "",
+		"anim3p": "caustic_ground_emote_gasthrower",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 1040986190,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/revenant/epic_v23_balloonpop.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/revenant.rpak",
+		"settingsAssetID": "SAID01040986190",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#ground_emote_revenant_balloonpop",
+		"localizationKey_NAME_SHORT": "#ground_emote_revenant_balloonpop",
+		"localizationKey_DESCRIPTION_LONG": "#ground_emote_revenant_balloonpop",
+		"localizationKey_DESCRIPTION_SHORT": "#ground_emote_revenant_balloonpop",
+		"quality": "EPIC",
+		"icon": "rui/hud/character_emotes/revenant/icon_character_emote_revenant_balloonpop",
+		"tagIcon": "rui/events/s21bp/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_revenant_epic_v23_balloonpop",
+		"ownershipTarget": "",
+		"anim3p": "revenant_ground_emote_balloonpop",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

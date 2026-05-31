@@ -1,0 +1,9 @@
+seqs:
+[
+	animseq\props\pariah_pen_paper\lobby_pariah_pen_paper\penpaper_conduit_gladcard_animated_bigfan.rseq
+	animseq\props\pariah_pen_paper\lobby_pariah_pen_paper\penpaper_conduit_gladcard_animated_bigfan_idle.rseq
+	animseq\props\pariah_pen_paper\pariah_penpaper_gladcard_animated_forthefans.rseq
+	animseq\props\pariah_pen_paper\pariah_penpaper_gladcard_idle_forthefans.rseq
+	animseq\props\pariah_pen_paper\pariah_penpaper_gladcard_static_writing.rseq
+	animseq\riah_pen_paper\dmx\pariah_penpaper_menu_lobby_center_autograph.rseq
+]

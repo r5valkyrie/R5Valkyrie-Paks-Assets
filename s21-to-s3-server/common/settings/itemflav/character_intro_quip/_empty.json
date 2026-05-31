@@ -1,0 +1,37 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_intro_quip_layout.rpak",
+	"uniqueId": 913787992,
+	"settings": {
+		"assetName": "settings/itemflav/character_intro_quip/_empty.rpak",
+		"itemType": "gladiator_card_intro_quip",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00913787992",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#character_intro_quip__empty_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "#character_intro_quip__empty_DESCRIPTION_SHORT",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"grxMode": "NONE",
+		"grxRef": "character_intro_quip__empty",
+		"ownershipTarget": "",
+		"anim3p": "",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"voiceSound": "",
+		"stingSound": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false,
+		"isTheEmpty": true
+	}
+}

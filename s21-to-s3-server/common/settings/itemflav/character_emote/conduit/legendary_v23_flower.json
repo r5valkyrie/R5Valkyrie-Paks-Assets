@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 14317597,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/conduit/legendary_v23_flower.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/conduit.rpak",
+		"settingsAssetID": "SAID00014317597",
+		"__featureFlag": "",
+		"devDescription": "Conduit grows a flower out of the ground with a shot from her drones",
+		"localizationKey_NAME": "#ground_emote_conduit_flower",
+		"localizationKey_NAME_SHORT": "#ground_emote_conduit_flower",
+		"localizationKey_DESCRIPTION_LONG": "#ground_emote_conduit_flower",
+		"localizationKey_DESCRIPTION_SHORT": "#ground_emote_conduit_flower",
+		"quality": "LEGENDARY",
+		"icon": "rui/menu/buttons/character_emotes/conduit/flower",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_conduit_legendary_v23_flower",
+		"ownershipTarget": "",
+		"anim3p": "conduit_ground_emote_flower",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/lifeline/epicp_v22_opmech.rpak",
+		"roots": [
+				{
+					"asset": "mdl/humans/class/light/pilot_light_lifeline.rmdl",
+					"featureFlag": ""
+				},
+				{
+					"asset": "mdl/Weapons/arms/pov_pilot_light_support.rmdl",
+					"featureFlag": ""
+				}
+			]
+	}
+}

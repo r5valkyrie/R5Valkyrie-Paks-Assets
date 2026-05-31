@@ -1,0 +1,39 @@
+seqs:
+[
+	animseq\weapons\fuse_grenades\ptpov_fuse_frag_grenade_held\draw_onehanded.rseq
+	animseq\weapons\fuse_grenades\ptpov_fuse_frag_grenade_held\draw_seq.rseq
+	animseq\weapons\fuse_grenades\ptpov_fuse_frag_grenade_held\drawfirst.rseq
+	animseq\weapons\fuse_grenades\ptpov_fuse_frag_grenade_held\holster_onehanded_seq.rseq
+	animseq\weapons\fuse_grenades\ptpov_fuse_frag_grenade_held\holster_seq.rseq
+	animseq\weapons\fuse_grenades\ptpov_fuse_frag_grenade_held\idle_onehanded_seq.rseq
+	animseq\weapons\fuse_grenades\ptpov_fuse_frag_grenade_held\idle_onehanded_seq_air.rseq
+	animseq\weapons\fuse_grenades\ptpov_fuse_frag_grenade_held\idle_seq.rseq
+	animseq\weapons\fuse_grenades\ptpov_fuse_frag_grenade_held\idle_seq_air.rseq
+	animseq\weapons\fuse_grenades\ptpov_fuse_frag_grenade_held\idle_seq_crouch.rseq
+	animseq\weapons\fuse_grenades\ptpov_fuse_frag_grenade_held\inspect.rseq
+	animseq\weapons\fuse_grenades\ptpov_fuse_frag_grenade_held\jump.rseq
+	animseq\weapons\fuse_grenades\ptpov_fuse_frag_grenade_held\land_high.rseq
+	animseq\weapons\fuse_grenades\ptpov_fuse_frag_grenade_held\land_low.rseq
+	animseq\weapons\fuse_grenades\ptpov_fuse_frag_grenade_held\land_med.rseq
+	animseq\weapons\fuse_grenades\ptpov_fuse_frag_grenade_held\lower_seq.rseq
+	animseq\weapons\fuse_grenades\ptpov_fuse_frag_grenade_held\pullout_to_idle_transition.rseq
+	animseq\weapons\fuse_grenades\ptpov_fuse_frag_grenade_held\raise_melee.rseq
+	animseq\weapons\fuse_grenades\ptpov_fuse_frag_grenade_held\regrip_to_crouch.rseq
+	animseq\weapons\fuse_grenades\ptpov_fuse_frag_grenade_held\regrip_to_idle.rseq
+	animseq\weapons\fuse_grenades\ptpov_fuse_frag_grenade_held\sprintdraw.rseq
+	animseq\weapons\fuse_grenades\ptpov_fuse_frag_grenade_held\sprinting_seq.rseq
+	animseq\weapons\fuse_grenades\ptpov_fuse_frag_grenade_held\sprintraise_seq.rseq
+	animseq\weapons\fuse_grenades\ptpov_fuse_frag_grenade_held\sprintslide.rseq
+	animseq\weapons\fuse_grenades\ptpov_fuse_frag_grenade_held\toss_hold_onehanded_seq.rseq
+	animseq\weapons\fuse_grenades\ptpov_fuse_frag_grenade_held\toss_hold_seq.rseq
+	animseq\weapons\fuse_grenades\ptpov_fuse_frag_grenade_held\toss_onehanded_seq.rseq
+	animseq\weapons\fuse_grenades\ptpov_fuse_frag_grenade_held\toss_overhead_onehanded_seq.rseq
+	animseq\weapons\fuse_grenades\ptpov_fuse_frag_grenade_held\toss_overhead_seq.rseq
+	animseq\weapons\fuse_grenades\ptpov_fuse_frag_grenade_held\toss_prep_pullout_onehanded_seq.rseq
+	animseq\weapons\fuse_grenades\ptpov_fuse_frag_grenade_held\toss_prep_pullout_seq.rseq
+	animseq\weapons\fuse_grenades\ptpov_fuse_frag_grenade_held\toss_prep_pullout_seq_raise.rseq
+	animseq\weapons\fuse_grenades\ptpov_fuse_frag_grenade_held\toss_prep_pullout_seq_raise_onehanded.rseq
+	animseq\weapons\fuse_grenades\ptpov_fuse_frag_grenade_held\toss_prep_pullout_to_toss_hold_transition.rseq
+	animseq\weapons\fuse_grenades\ptpov_fuse_frag_grenade_held\toss_seq.rseq
+	animseq\weapons\fuse_grenades\ptpov_fuse_frag_grenade_held\toss_to_holster_transition.rseq
+]

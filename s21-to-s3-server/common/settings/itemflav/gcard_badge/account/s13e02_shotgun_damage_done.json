@@ -1,0 +1,44 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_badge_layout.rpak",
+	"uniqueId": 2071352934,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_badge/account/s13e02_shotgun_damage_done.rpak",
+		"itemType": "gladiator_card_badge",
+		"parentItemFlavor": "settings/itemflav/challenge/s13e02/01/hidden_shotgun_damage_any_mode.rpak",
+		"settingsAssetID": "SAID02071352934",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#S13E02_BADGE_1_NAME",
+		"localizationKey_NAME_SHORT": "#S13E02_BADGE_1_NAME",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "#S13E02_BADGE_1_DESC",
+		"quality": "EPIC",
+		"icon": "rui/gladiator_cards/badges/s13e02_anime_1",
+		"tagIcon": "rui/events/s13e02/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "gcard_badge_account_s13e02_shotgun_damage",
+		"ownershipTarget": "",
+		"exclusiveFunc": "",
+		"unlockStatRef": "",
+		"dynamicTextStatRef": "",
+		"badgeCategory": "MENU_BADGE_EVENT",
+		"multipleOwnershipTargets": [
+			],
+		"tiers": [
+				{
+					"imageAsset": "rui/gladiator_cards/badges/s13e02_anime_1",
+					"ruiAsset": "",
+					"unlocksAt": 1.000000
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false,
+		"exclusive": false,
+		"shouldHideIfLocked": true,
+		"isCharacterBadge": false,
+		"hasOwnRui": false,
+		"isOversizedImage": true
+	}
+}

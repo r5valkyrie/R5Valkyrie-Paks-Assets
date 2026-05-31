@@ -1,0 +1,7 @@
+seqs:
+[
+	animseq\props\ultimate_accelerant\ultimate_accelerant\idle.rseq
+	animseq\props\ultimate_accelerant\ultimate_accelerant\prop_hunt_floor_loot_idle.rseq
+	animseq\weapons\alter_ultimate\ptpov_alter_ultimate\prop_knocked_recall.rseq
+	animseq\weapons\alter_ultimate\ptpov_alter_ultimate\prop_recall.rseq
+]

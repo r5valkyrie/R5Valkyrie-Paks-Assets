@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/rampart/s09e02_lgnd_v21_thrillseeker.rpak",
+		"roots": [
+				{
+					"asset": "mdl/Humans/class/medium/rampart_v21_thrillseeker_w.rmdl",
+					"featureFlag": ""
+				},
+				{
+					"asset": "mdl/weapons/arms/rampart_v21_thrillseeker_v.rmdl",
+					"featureFlag": ""
+				}
+			]
+	}
+}

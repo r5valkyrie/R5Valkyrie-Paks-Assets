@@ -1,0 +1,44 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_entitlement_layout.rpak",
+	"uniqueId": 67206839,
+	"settings": {
+		"assetName": "settings/itemflav/entitlement/XBOX_EA_PLAY_CHARM_TITANFALL.rpak",
+		"itemType": "entitlement",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00067206839",
+		"__featureFlag": "",
+		"devDescription": "Weapon charm for Xbox players",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"entitlementType": "firstparty",
+		"twitchRef": "",
+		"twitchRef": "",
+		"enum": "XBOX_EA_PLAY_CHARM_TITANFALL",
+		"pc": "XBOX_EA_PLAY_CHARM_TITANFALL",
+		"ps4": "XBOX_EA_PLAY_CHARM_TITANFALL",
+		"xb1": "XBOX_EA_PLAY_CHARM_TITANFALL",
+		"switch": "XBOX_EA_PLAY_CHARM_TITANFALL",
+		"pc_offer": "",
+		"steam_offer": "",
+		"xb1_offer": "304d4e39-4b35-304e-c037-3031445a0800",
+		"menuTitleText": "#ORIGIN_ACCESS",
+		"menuDescText": "#PROMO_EA_PLAY_CHARM_OWNED",
+		"menuImageName": "ea_play_offer07",
+		"menuPersistenceVarName": "",
+		"list": [
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_titanfall_asset_v20_misc_helmet_titanpilot01.rpak",
+					"quantity": 1
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isMenuEnabled": false
+	}
+}

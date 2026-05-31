@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 2132956518,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/wraith/legendary_aggressiveposes.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/wraith.rpak",
+		"settingsAssetID": "SAID02132956518",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#ground_emote_wraith_aggressiveposes_NAME",
+		"localizationKey_NAME_SHORT": "#ground_emote_wraith_aggressiveposes_NAME",
+		"localizationKey_DESCRIPTION_LONG": "#ground_emote_wraith_aggressiveposes_NAME",
+		"localizationKey_DESCRIPTION_SHORT": "#ground_emote_wraith_aggressiveposes_NAME",
+		"quality": "LEGENDARY",
+		"icon": "rui/menu/buttons/character_emotes/wraith/aggressiveposes",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_wraith_legendary_aggressiveposes",
+		"ownershipTarget": "",
+		"anim3p": "wraith_ground_emote_aggressiveposes",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

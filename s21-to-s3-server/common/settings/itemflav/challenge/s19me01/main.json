@@ -1,0 +1,125 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_challenge_layout.rpak",
+	"uniqueId": 23283065,
+	"settings": {
+		"assetName": "settings/itemflav/challenge/s19me01/main.rpak",
+		"itemType": "challenge",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00023283065",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"typeOfMetaChallenge": "CHALLENGE_SET",
+		"challengeSet": "",
+		"challengeCollection": "",
+		"rewardCampaign": "",
+		"timeSpan": "EVENT",
+		"autogenSlot": "SLOT_00",
+		"autogenScriptHook": "ON_PLAYER_WIN",
+		"difficulty": "MEDIUM",
+		"mode": "NON_MODE",
+		"modeAlt": "BATTLE_ROYALE",
+		"grxRewardSequenceRef": "rewardseq_s19me01_challenge_main",
+		"weekNumber": 0,
+		"tiers": [
+				{
+					"description": "#CHALLENGE_CURRENCY_EARNED",
+					"statRef": "stats.s19gh_event_currency_total",
+					"descriptionAlt": "",
+					"statRefAlt": "",
+					"progressAccrual": "absoluteVal",
+					"matchRequirement": "none",
+					"goalVal": 1800,
+					"goalValAlt": 0,
+					"characters": [
+						],
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/gcard_badge/account/s19me01_b1.rpak",
+								"quantity": 1
+							}
+						],
+					"convertSecondsToMinutesDisplay": false
+				},
+				{
+					"description": "#CHALLENGE_CURRENCY_EARNED",
+					"statRef": "stats.s19gh_event_currency_total",
+					"descriptionAlt": "",
+					"statRefAlt": "",
+					"progressAccrual": "absoluteVal",
+					"matchRequirement": "none",
+					"goalVal": 7200,
+					"goalValAlt": 0,
+					"characters": [
+						],
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/gcard_badge/account/s19me01_b2.rpak",
+								"quantity": 1
+							}
+						],
+					"convertSecondsToMinutesDisplay": false
+				},
+				{
+					"description": "#CHALLENGE_CURRENCY_EARNED",
+					"statRef": "stats.s19gh_event_currency_total",
+					"descriptionAlt": "",
+					"statRefAlt": "",
+					"progressAccrual": "absoluteVal",
+					"matchRequirement": "none",
+					"goalVal": 14400,
+					"goalValAlt": 0,
+					"characters": [
+						],
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/gcard_badge/account/s19me01_b3.rpak",
+								"quantity": 1
+							}
+						],
+					"convertSecondsToMinutesDisplay": false
+				},
+				{
+					"description": "#CHALLENGE_CURRENCY_EARNED",
+					"statRef": "stats.s19gh_event_currency_total",
+					"descriptionAlt": "",
+					"statRefAlt": "",
+					"progressAccrual": "absoluteVal",
+					"matchRequirement": "none",
+					"goalVal": 21600,
+					"goalValAlt": 0,
+					"characters": [
+						],
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/gcard_badge/account/s19me01_b4.rpak",
+								"quantity": 1
+							}
+						],
+					"convertSecondsToMinutesDisplay": false
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isMetaChallenge": false,
+		"autoGenerateStatBacker": false,
+		"isBoostEnabled": false,
+		"isEitherOr": false,
+		"isRerollEnabled": true,
+		"isPremium": false,
+		"isGoldenScheme": false,
+		"maxOneTierPerMatch": false,
+		"lastTierIsInfinite": false,
+		"pinnedLocal": false,
+		"excludeFromPostMatchSummary": false,
+		"hasGRXRewardSequenceForPDEF": true,
+		"grxRewardSequenceAllowsSkipAhead": false
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 1030295170,
+	"settings": {
+		"assetName": "settings/itemflav/ability/upgrade_wattson_ult_spawn_arcstar.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01030295170",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#UPGRADE_WATTSON_ULT_SPAWN_ARCSTAR_NAME",
+		"localizationKey_NAME_SHORT": "#UPGRADE_TYPE_ULTIMATE",
+		"localizationKey_DESCRIPTION_LONG": "#UPGRADE_WATTSON_ULT_SPAWN_ARCSTAR_LONG_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#UPGRADE_WATTSON_ULT_SPAWN_ARCSTAR_SHORT_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/legend_upgrades/wattson_renewableenergy_icon",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_ULT_UPGRADE_THREE",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

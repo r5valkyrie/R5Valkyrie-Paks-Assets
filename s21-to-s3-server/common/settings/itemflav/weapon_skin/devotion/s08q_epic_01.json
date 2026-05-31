@@ -1,0 +1,51 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_skin_layout.rpak",
+	"uniqueId": 1692418313,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_skin/devotion/s08q_epic_01.rpak",
+		"itemType": "weapon_skin",
+		"parentItemFlavor": "settings/itemflav/loot/main_weapon/devotion.rpak",
+		"settingsAssetID": "SAID01692418313",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#SKIN_869",
+		"localizationKey_NAME_SHORT": "#SKIN_869",
+		"localizationKey_DESCRIPTION_LONG": "#SKIN_869",
+		"localizationKey_DESCRIPTION_SHORT": "#SKIN_869",
+		"quality": "EPIC",
+		"icon": "rui/menu/battlepass/weapon_icons/icon_bps1_weapon_devotion",
+		"tagIcon": "rui/events/s08bp/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "weapon_skin_devotion_s08q_epic_01",
+		"ownershipTarget": "",
+		"worldModel": "mdl/weapons/hemlock_br/w_hemlock_br.rmdl",
+		"viewModel": "mdl/weapons/hemlock_br/ptpov_hemlock_br.rmdl",
+		"skinName": "s08_quest_epicplus_01",
+		"exclusiveFunc": "",
+		"unlockFuncKey": "",
+		"video": "",
+		"customSkinMenuBlurb": "",
+		"multipleOwnershipTargets": [
+			],
+		"camoIndex": 0,
+		"hackyRUISchemeIdentifier": 0,
+		"featureReactsToKillsLevels": [
+			],
+		"skinAlias_vfxAliases": [
+			],
+		"skinAlias_sfxAliases": [
+			],
+		"skinAlias_bodyGroupAliases": [
+			],
+		"skinAlias_impactTableAliases": [
+			],
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"exclusive": false,
+		"shouldHideIfLocked": false,
+		"forceFullWeaponIcon": false,
+		"featureReactsToKills": false,
+		"forceVideoInspect": false
+	}
+}

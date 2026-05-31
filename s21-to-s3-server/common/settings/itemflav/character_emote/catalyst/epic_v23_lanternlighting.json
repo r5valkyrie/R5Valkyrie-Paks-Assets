@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 1511942217,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/catalyst/epic_v23_lanternlighting.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/catalyst.rpak",
+		"settingsAssetID": "SAID01511942217",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#ground_emote_catalyst_lanternlighting",
+		"localizationKey_NAME_SHORT": "#ground_emote_catalyst_lanternlighting",
+		"localizationKey_DESCRIPTION_LONG": "#ground_emote_catalyst_lanternlighting",
+		"localizationKey_DESCRIPTION_SHORT": "#ground_emote_catalyst_lanternlighting",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/character_emotes/shared/icon_character_emote_shared_lanternlighting",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_catalyst_epic_v23_lanternlighting",
+		"ownershipTarget": "",
+		"anim3p": "catalyst_ground_emote_lanternlighting",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

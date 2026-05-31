@@ -1,0 +1,33 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_stat_tracker_layout.rpak",
+	"uniqueId": 1596128864,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_tracker/ash/tactical_enemies_tethered.rpak",
+		"itemType": "gladiator_card_stat_tracker",
+		"parentItemFlavor": "settings/itemflav/character/ash.rpak",
+		"settingsAssetID": "SAID01596128864",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#gcard_tracker_ash_enemies_tethered_NAME",
+		"localizationKey_NAME_SHORT": "#gcard_tracker_ash_enemies_tethered_NAME_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "RARE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "gcard_tracker_ash_tactical_enemies_tethered",
+		"ownershipTarget": "",
+		"statRef": "stats.ash_enemies_tethered",
+		"valueNumberFormat": "INTEGER",
+		"valueSuffix": "",
+		"backgroundImage": "",
+		"multipleOwnershipTargets": [
+			],
+		"color0": "<0.550000,0.540000,0.540000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false
+	}
+}

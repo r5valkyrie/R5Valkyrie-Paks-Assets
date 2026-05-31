@@ -1,0 +1,33 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_stat_tracker_layout.rpak",
+	"uniqueId": 484990177,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_tracker/mastery_mozambique_kills.rpak",
+		"itemType": "gladiator_card_stat_tracker",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00484990177",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#gcard_tracker_mastery_mozambique_kills_NAME",
+		"localizationKey_NAME_SHORT": "#TRACKER_MASTERY_MOZAMBIQUE_KILLS",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "RARE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "gcard_tracker_mastery_mozambique_kills",
+		"ownershipTarget": "",
+		"statRef": "stats.weapons[SAID00945439943].kills",
+		"valueNumberFormat": "INTEGER",
+		"valueSuffix": "",
+		"backgroundImage": "rui/gladiator_cards/trackers/mastery/mozambique",
+		"multipleOwnershipTargets": [
+			],
+		"color0": "<0.550000,0.540000,0.540000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false
+	}
+}

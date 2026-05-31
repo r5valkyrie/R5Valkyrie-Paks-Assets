@@ -1,0 +1,31 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_skydive_emote_layout.rpak",
+	"uniqueId": 1096183654,
+	"settings": {
+		"assetName": "settings/itemflav/skydive_emote/octane/helicopter.rpak",
+		"itemType": "skydive_emote",
+		"parentItemFlavor": "settings/itemflav/character/octane.rpak",
+		"settingsAssetID": "SAID01096183654",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#EMOTE_029",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/battlepass/skydive_emote_helicopter",
+		"tagIcon": "rui/events/s08e01/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "skydive_emote_octane_helicopter",
+		"ownershipTarget": "",
+		"animSequence": "animseq/humans/class/medium/pilot_medium_stim/octane_freefall_emote_helicopter.rseq",
+		"video": "media/skydive_emotes/octane_roflcopter",
+		"bcEvent": "bc_skydive",
+		"multipleOwnershipTargets": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false
+	}
+}

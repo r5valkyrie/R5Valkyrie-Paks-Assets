@@ -1,0 +1,31 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_skydive_emote_layout.rpak",
+	"uniqueId": 1515944817,
+	"settings": {
+		"assetName": "settings/itemflav/skydive_emote/rampart/surfing.rpak",
+		"itemType": "skydive_emote",
+		"parentItemFlavor": "settings/itemflav/character/rampart.rpak",
+		"settingsAssetID": "SAID01515944817",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#EMOTE_020",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/battlepass/skydive_emote_rampart_surfing",
+		"tagIcon": "rui/events/s07bp/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "skydive_emote_rampart_surfing",
+		"ownershipTarget": "",
+		"animSequence": "animseq/humans/class/medium/pilot_medium_rampart/rampart_freefall_emote_surfing.rseq",
+		"video": "media/skydive_emotes/rampart_surfing",
+		"bcEvent": "bc_skydive",
+		"multipleOwnershipTargets": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false
+	}
+}

@@ -1,0 +1,44 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_entitlement_layout.rpak",
+	"uniqueId": 1399852201,
+	"settings": {
+		"assetName": "settings/itemflav/entitlement/BOOSTED_PACK_RAMPART.rpak",
+		"itemType": "entitlement",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01399852201",
+		"__featureFlag": "",
+		"devDescription": "Rampart starter pack",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"entitlementType": "firstparty",
+		"twitchRef": "",
+		"twitchRef": "",
+		"enum": "BOOSTED_PACK_RAMPART",
+		"pc": "APEX_BOOSTED_CONTENT",
+		"ps4": "BSTPAC0000000000",
+		"xb1": "BOOSTED_PACK_RAMPART",
+		"switch": "BOOSTED_PACK_RAMPART",
+		"pc_offer": "Origin.OFR.50.0004274",
+		"steam_offer": "",
+		"xb1_offer": "574e4e39-3154-3058-c043-474e4c538000",
+		"menuTitleText": "#PROMO_RAMPART_STARTER_PACK_HEADER",
+		"menuDescText": "#PROMO_RAMPART_STARTER_PACK_TEXT",
+		"menuImageName": "rampart_starter_pack",
+		"menuPersistenceVarName": "",
+		"list": [
+				{
+					"flavor": "settings/itemflav/character_skin/rampart/starterpack_rare_01.rpak",
+					"quantity": 1
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isMenuEnabled": false
+	}
+}

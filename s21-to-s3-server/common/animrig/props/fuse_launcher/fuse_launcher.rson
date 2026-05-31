@@ -1,0 +1,10 @@
+seqs:
+[
+	animseq\props\fuse_launcher\fuse_launcher\heirloom_launcher_inspect_prop.rseq
+	animseq\props\fuse_launcher\fuse_launcher\launcher_fuse_freefall_emote_guitarsolo.rseq
+	animseq\props\fuse_launcher\fuse_launcher\launcher_fuse_gladcard_static_firingLauncher.rseq
+	animseq\props\fuse_launcher\fuse_launcher\launcher_fuse_ground_emote_bbq.rseq
+	animseq\props\fuse_launcher\fuse_launcher\launcher_fuse_ground_emote_chillaxinggrenade_loop.rseq
+	animseq\props\fuse_launcher\fuse_launcher\launcher_fuse_ground_emote_chillaxinggrenade_start.rseq
+	animseq\props\fuse_launcher\fuse_launcher\launcher_fuse_ground_emote_rootbeer.rseq
+]

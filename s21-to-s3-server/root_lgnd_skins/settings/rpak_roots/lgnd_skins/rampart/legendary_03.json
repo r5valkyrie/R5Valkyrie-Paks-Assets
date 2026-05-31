@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/rampart/legendary_03.rpak",
+		"roots": [
+				{
+					"asset": "mdl/Humans/class/medium/rampart_v20_traditional_w.rmdl",
+					"featureFlag": ""
+				},
+				{
+					"asset": "mdl/Weapons/arms/rampart_v20_traditional_v.rmdl",
+					"featureFlag": ""
+				}
+			]
+	}
+}

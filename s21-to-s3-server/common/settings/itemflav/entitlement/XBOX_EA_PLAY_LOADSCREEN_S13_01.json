@@ -1,0 +1,44 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_entitlement_layout.rpak",
+	"uniqueId": 423462311,
+	"settings": {
+		"assetName": "settings/itemflav/entitlement/XBOX_EA_PLAY_LOADSCREEN_S13_01.rpak",
+		"itemType": "entitlement",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00423462311",
+		"__featureFlag": "",
+		"devDescription": "Loadscreen for Xbox players",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"entitlementType": "firstparty",
+		"twitchRef": "",
+		"twitchRef": "",
+		"enum": "XBOX_XBOX_EA_PLAY_LOADSCREEN_S13_01",
+		"pc": "XBOX_XBOX_EA_PLAY_LOADSCREEN_S13_01",
+		"ps4": "XBOX_XBOX_EA_PLAY_LOADSCREEN_S13_01",
+		"xb1": "XBOX_XBOX_EA_PLAY_LOADSCREEN_S13_01",
+		"switch": "XBOX_XBOX_EA_PLAY_LOADSCREEN_S13_01",
+		"pc_offer": "",
+		"steam_offer": "",
+		"xb1_offer": "4b464e39-5146-3043-c04c-354d4a384200",
+		"menuTitleText": "#ORIGIN_ACCESS",
+		"menuDescText": "#PROMO_EA_PLAY_LOADSCREEN_OWNED",
+		"menuImageName": "ea_play_offer18_loadscreen_s13_01",
+		"menuPersistenceVarName": "",
+		"list": [
+				{
+					"flavor": "settings/itemflav/loadscreen/s13_eaplay_01.rpak",
+					"quantity": 1
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isMenuEnabled": false
+	}
+}

@@ -1,0 +1,39 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_boost_type_layout.rpak",
+	"uniqueId": 1478671613,
+	"settings": {
+		"assetName": "settings/itemflav/boost_type/bpstar_template.rpak",
+		"itemType": "boost_type",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01478671613",
+		"__featureFlag": "",
+		"devDescription": "Basic BP Star Boost Type template - meant to be reused/defined with playlist boosts",
+		"localizationKey_NAME": "#BPSTAR_TEMPLATE_TITLE",
+		"localizationKey_NAME_SHORT": "#BPSTAR_TEMPLATE_TITLE",
+		"localizationKey_DESCRIPTION_LONG": "#BPSTAR_TEMPLATE_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#BPSTAR_TEMPLATE_DESC",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"typeId": "bpstar_template",
+		"condition_party": "FALSE",
+		"boostReqDescription": "",
+		"uiModifierSummary": "#PROGRESSION_MODIFIERS_PERCENTAGE_ADD",
+		"uiBadgeIconSmall": "",
+		"effects": [
+			],
+		"conditions_gamemode": [
+			],
+		"conditions_region": [
+			],
+		"conditions_platform": [
+			],
+		"boostCategory": 1,
+		"uiModifierSummaryAmount": 0.000000,
+		"uiColor": "<0.000000,0.000000,0.000000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isDevType": false
+	}
+}

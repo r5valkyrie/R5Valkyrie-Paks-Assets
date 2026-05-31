@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 967948021,
+	"settings": {
+		"assetName": "settings/itemflav/ability/revenant_shadow_pounce_free.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00967948021",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#ABL_SHADOW_POUNCE",
+		"localizationKey_NAME_SHORT": "#ABL_SHADOW_POUNCE_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "#ABL_SHADOW_POUNCE_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#ABL_SHADOW_POUNCE_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/tactical_icons/tactical_revenant_rework",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "mp_ability_revenant_shadow_pounce_free",
+		"passiveScriptRef": "",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

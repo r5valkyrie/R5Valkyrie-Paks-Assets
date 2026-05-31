@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 626112788,
+	"settings": {
+		"assetName": "settings/itemflav/ability/upgrade_wraith_ult_cooldown_reduction.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00626112788",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#UPGRADE_WRAITH_ULT_COOLDOWN_NAME",
+		"localizationKey_NAME_SHORT": "#UPGRADE_TYPE_ULTIMATE",
+		"localizationKey_DESCRIPTION_LONG": "#UPGRADE_WRAITH_ULT_COOLDOWN_LONG_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#UPGRADE_WRAITH_ULT_COOLDOWN_SHORT_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/legend_upgrades/wraith_ultimate_cooldown_icon",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_MOD_UPGRADE_ONLY",
+		"passiveWeaponMod": "upgrade_core_ult_cooldown_reduction",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

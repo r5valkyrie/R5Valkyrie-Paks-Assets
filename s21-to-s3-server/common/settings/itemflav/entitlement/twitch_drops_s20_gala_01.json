@@ -1,0 +1,44 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_entitlement_layout.rpak",
+	"uniqueId": 2077105553,
+	"settings": {
+		"assetName": "settings/itemflav/entitlement/twitch_drops_s20_gala_01.rpak",
+		"itemType": "entitlement",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID02077105553",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE/n",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"entitlementType": "twitch_drops",
+		"twitchRef": "twitch_drops_s20_gala_01",
+		"twitchRef": "twitch_drops_s20_gala_01",
+		"enum": "",
+		"pc": "",
+		"ps4": "",
+		"xb1": "",
+		"switch": "",
+		"pc_offer": "",
+		"steam_offer": "",
+		"xb1_offer": "",
+		"menuTitleText": "#TWITCH_DROPS",
+		"menuDescText": "#TWITCH_DROPS_S20_GALA_01_OWNED",
+		"menuImageName": "twitch_drops_s20_gala_01",
+		"menuPersistenceVarName": "",
+		"list": [
+				{
+					"flavor": "settings/itemflav/emote_icon/seer/epic_v23_seer_01.rpak",
+					"quantity": 1
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isMenuEnabled": true
+	}
+}

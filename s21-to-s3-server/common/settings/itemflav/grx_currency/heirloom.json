@@ -1,0 +1,30 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_account_currency_layout.rpak",
+	"uniqueId": 1644458992,
+	"settings": {
+		"assetName": "settings/itemflav/grx_currency/heirloom.rpak",
+		"itemType": "account_currency",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01644458992",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#CURRENCY_HEIRLOOM_NAME_LONG",
+		"localizationKey_NAME_SHORT": "#CURRENCY_HEIRLOOM_NAME_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "#CURRENCY_HEIRLOOM_DESC_LONG",
+		"localizationKey_DESCRIPTION_SHORT": "#CURRENCY_HEIRLOOM_DESC_SHORT",
+		"quality": "MYTHIC",
+		"icon": "rui/menu/common/currency_heirloom",
+		"tagIcon": "",
+		"grxMode": "CURRENCY",
+		"grxMode": "CURRENCY",
+		"grxRef": "heirloom",
+		"ownershipTarget": "",
+		"rewardIcon": "rui/menu/battlepass/heirloom_shards",
+		"previewMdl": "mdl/currency/crafting/heirloom.rmdl",
+		"purchaseSound": "UI_Menu_Purchase_IronCrowns",
+		"multipleOwnershipTargets": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

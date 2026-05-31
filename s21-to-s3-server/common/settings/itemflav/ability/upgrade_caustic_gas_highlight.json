@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 688441585,
+	"settings": {
+		"assetName": "settings/itemflav/ability/upgrade_caustic_gas_highlight.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00688441585",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#UPGRADE_CAUSTIC_PAS_GAS_HIGHLIGHT_NAME",
+		"localizationKey_NAME_SHORT": "#UPGRADE_TYPE_PASSIVE",
+		"localizationKey_DESCRIPTION_LONG": "#UPGRADE_CAUSTIC_PAS_GAS_HIGHLIGHT_LONG_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#UPGRADE_CAUSTIC_PAS_GAS_HIGHLIGHT_SHORT_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/legend_upgrades/caustic_residualtoxins_icon",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_GAS_HIGHLIGHT",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

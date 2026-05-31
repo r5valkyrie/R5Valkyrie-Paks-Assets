@@ -1,0 +1,44 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_entitlement_layout.rpak",
+	"uniqueId": 1191422697,
+	"settings": {
+		"assetName": "settings/itemflav/entitlement/XBOX_EA_PLAY_CHARM_GOLD_SUPPLY_CRATE_01.rpak",
+		"itemType": "entitlement",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01191422697",
+		"__featureFlag": "",
+		"devDescription": "Weapon charm for Xbox players",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"entitlementType": "firstparty",
+		"twitchRef": "",
+		"twitchRef": "",
+		"enum": "XBOX_EA_PLAY_CHARM_GOLD_SUPPLY_CRATE_01",
+		"pc": "XBOX_EA_PLAY_CHARM_GOLD_SUPPLY_CRATE_01",
+		"ps4": "XBOX_EA_PLAY_CHARM_GOLD_SUPPLY_CRATE_01",
+		"xb1": "XBOX_EA_PLAY_CHARM_GOLD_SUPPLY_CRATE_01",
+		"switch": "XBOX_EA_PLAY_CHARM_GOLD_SUPPLY_CRATE_01",
+		"pc_offer": "",
+		"steam_offer": "",
+		"xb1_offer": "4e365039-3033-305a-c05a-57534a4c6400",
+		"menuTitleText": "#ORIGIN_ACCESS",
+		"menuDescText": "#PROMO_EA_PLAY_CHARM_OWNED",
+		"menuImageName": "ea_play_offer16_goldsuppycrate",
+		"menuPersistenceVarName": "",
+		"list": [
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v21_prop_supplycrate_gold01.rpak",
+					"quantity": 1
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isMenuEnabled": false
+	}
+}

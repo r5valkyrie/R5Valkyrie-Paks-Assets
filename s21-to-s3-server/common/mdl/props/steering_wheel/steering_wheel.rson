@@ -1,0 +1,8 @@
+rigs:
+[
+]
+seqs:
+[
+	animseq\props\steering_wheel\steering_wheel\wheel_gladcard_animated_racer.rseq
+	animseq\props\steering_wheel\steering_wheel\wheel_gladcard_animated_racer_idle.rseq
+]

@@ -1,0 +1,36 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_emote_icon_layout.rpak",
+	"uniqueId": 1779011215,
+	"settings": {
+		"assetName": "settings/itemflav/emote_icon/conduit/lgnd_v23_conduit_01.rpak",
+		"itemType": "emote_icon",
+		"parentItemFlavor": "settings/itemflav/character/conduit.rpak",
+		"settingsAssetID": "SAID01779011215",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#spray_lgnd_v23_conduit_01",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "LEGENDARY",
+		"icon": "rui/menu/holosprays/hspray_lgnd_v23_conduit_01",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "emote_icon_lgnd_v23_conduit_01",
+		"ownershipTarget": "",
+		"anim3p": "",
+		"holoProjectorSprayModel": "mdl/props/holo_spray/hspray_lgnd_v23_conduit_01.rmdl",
+		"quickchatAliasSubName": "",
+		"customSkinMenuBlurb": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<0.710000,0.969000,0.035000>",
+		"holoProjectorEffectColor2": "<0.051000,0.522000,0.949000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": true,
+		"holoProjectorUseEffectColor2": true,
+		"isTheEmpty": false
+	}
+}

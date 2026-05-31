@@ -1,0 +1,44 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_badge_layout.rpak",
+	"uniqueId": 1508036080,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_badge/mirage/sku07.rpak",
+		"itemType": "gladiator_card_badge",
+		"parentItemFlavor": "settings/itemflav/character/mirage.rpak",
+		"settingsAssetID": "SAID01508036080",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#gcard_badge_mirage_sku07_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "#gcard_badge_mirage_sku07_DESCRIPTION_SHORT",
+		"quality": "LEGENDARY",
+		"icon": "rui/gladiator_cards/badges/mirage_sku07",
+		"tagIcon": "rui/menu/buttons/source_sku07",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "gcard_badge_mirage_sku07",
+		"ownershipTarget": "",
+		"exclusiveFunc": "",
+		"unlockStatRef": "",
+		"dynamicTextStatRef": "",
+		"badgeCategory": "MENU_BADGE_LEGEND",
+		"multipleOwnershipTargets": [
+			],
+		"tiers": [
+				{
+					"imageAsset": "rui/gladiator_cards/badges/mirage_sku07",
+					"ruiAsset": "",
+					"unlocksAt": 1.000000
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false,
+		"exclusive": false,
+		"shouldHideIfLocked": true,
+		"isCharacterBadge": true,
+		"hasOwnRui": false,
+		"isOversizedImage": false
+	}
+}

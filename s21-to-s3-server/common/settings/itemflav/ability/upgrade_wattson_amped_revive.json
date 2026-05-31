@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 388303708,
+	"settings": {
+		"assetName": "settings/itemflav/ability/upgrade_wattson_amped_revive.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00388303708",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#UPGRADE_WATTSON_PAS_AMPED_REVIVE_NAME",
+		"localizationKey_NAME_SHORT": "#UPGRADE_TYPE_PASSIVE",
+		"localizationKey_DESCRIPTION_LONG": "#UPGRADE_WATTSON_PAS_AMPED_REVIVE_LONG_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#UPGRADE_WATTSON_PAS_AMPED_REVIVE_SHORT_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/legend_upgrades/wattson_ampedrevive_icon",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_PAS_UPGRADE_ONE",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

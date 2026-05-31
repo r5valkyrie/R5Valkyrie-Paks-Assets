@@ -1,0 +1,33 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_charm_layout.rpak",
+	"uniqueId": 2094512489,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_charm/charm_apex_asset_v22_misc_goldoctanestim01.rpak",
+		"itemType": "weapon_charm",
+		"parentItemFlavor": "settings/itemflav/loot/main_weapon/_base.rpak",
+		"settingsAssetID": "SAID02094512489",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#CHARM_apex_asset_v22_misc_goldoctanestim01",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "EPIC",
+		"icon": "",
+		"tagIcon": "rui/menu/buttons/source_ea_access",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "weapon_charm_apex_asset_v22_misc_goldoctanestim01",
+		"ownershipTarget": "",
+		"charmModel": "mdl/props/charm/charm_apex_asset_v22_misc_goldoctanestim01",
+		"exclusiveFunc": "ea_play",
+		"attachmentName": "CHARM",
+		"customSkinMenuBlurb": "",
+		"multipleOwnershipTargets": [
+			],
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false,
+		"exclusive": true
+	}
+}

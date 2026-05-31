@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 41734057,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/bangalore/legendary_smokesignals.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/bangalore.rpak",
+		"settingsAssetID": "SAID00041734057",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#CHAR_EMOTE_063",
+		"localizationKey_NAME_SHORT": "#CHAR_EMOTE_063",
+		"localizationKey_DESCRIPTION_LONG": "#CHAR_EMOTE_063",
+		"localizationKey_DESCRIPTION_SHORT": "#CHAR_EMOTE_063",
+		"quality": "LEGENDARY",
+		"icon": "rui/menu/buttons/character_emotes/bangalore/smokesignals",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_bangalore_legendary_smokesignals",
+		"ownershipTarget": "",
+		"anim3p": "bangalore_ground_emote_smokesignals",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

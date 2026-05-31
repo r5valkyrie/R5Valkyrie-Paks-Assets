@@ -1,0 +1,33 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_stat_tracker_layout.rpak",
+	"uniqueId": 1924779640,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_tracker/bloodhound/s04e02_career_damage_done.rpak",
+		"itemType": "gladiator_card_stat_tracker",
+		"parentItemFlavor": "settings/itemflav/character/bloodhound.rpak",
+		"settingsAssetID": "SAID01924779640",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#gcard_tracker_bloodhound_damage_done_NAME",
+		"localizationKey_NAME_SHORT": "#gcard_tracker_bloodhound_damage_done_s04e02_NAME_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "RARE",
+		"icon": "",
+		"tagIcon": "rui/events/s04e02/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "gcard_tracker_bloodhound_s04e02_career_damage_done",
+		"ownershipTarget": "",
+		"statRef": "stats.characters[%char%].damage_done",
+		"valueNumberFormat": "INTEGER",
+		"valueSuffix": "",
+		"backgroundImage": "rui/gladiator_cards/trackers/events/s04e02/bloodhound_bg_bot",
+		"multipleOwnershipTargets": [
+			],
+		"color0": "<1.000000,1.000000,1.000000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false
+	}
+}

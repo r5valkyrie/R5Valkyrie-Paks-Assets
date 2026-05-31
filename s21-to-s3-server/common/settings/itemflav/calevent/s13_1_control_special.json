@@ -1,0 +1,72 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_calevent_story_challenges_layout.rpak",
+	"uniqueId": 1506120171,
+	"settings": {
+		"assetName": "settings/itemflav/calevent/s13_1_control_special.rpak",
+		"itemType": "calevent_story_challenges",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01506120171",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#S13_CONTROL_CHALLENGES_TITLE_SHORT",
+		"localizationKey_NAME_SHORT": "#S13_CONTROL_CHALLENGES_TITLE_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"revealUnixTime": "",
+		"hideUnixTime": "",
+		"defaultStartTime": "2022-06-21 10:00:00 -07:00",
+		"defaultFinishTime": "2022-07-05 10:00:00 -07:00",
+		"headerIcon": "",
+		"eventChallengeHeaderImage": "",
+		"storyEventAboutHeroImage": "",
+		"storyCompletionFlavor": "",
+		"storyCompletionQuantity": 1,
+		"challengeGroups": [
+				{
+					"aboutScreenshotImage": "",
+					"aboutTitle": "",
+					"aboutDesc": "",
+					"hasSeenAboutChallengesPersistentVarName": "",
+					"requiredChallengesPersistentVarName": "",
+					"hasSeenChallengesPersistentVarName": "",
+					"requiredStartTime": "",
+					"prologueLobbyDesc": "",
+					"prologuePersistentVarName": "",
+					"radioVignetteBk": "",
+					"radioVignetteMilesEvent": "",
+					"playlistName": "",
+					"requiredChallengesPersistentVarNameCount": 1,
+					"challenges": [
+							{
+								"challengeFlav": "settings/itemflav/challenge/control/stars_games_played.rpak"
+							},
+							{
+								"challengeFlav": "settings/itemflav/challenge/control/stars_kills_or_assists.rpak"
+							},
+							{
+								"challengeFlav": "settings/itemflav/challenge/control/stars_placements_win.rpak"
+							},
+							{
+								"challengeFlav": "settings/itemflav/challenge/control/stars_objectives_captured.rpak"
+							},
+							{
+								"challengeFlav": "settings/itemflav/challenge/control/stars_control_rating.rpak"
+							},
+							{
+								"challengeFlav": "settings/itemflav/challenge/control/stars_capture_bonuses_claimed.rpak"
+							}
+						],
+					"isPrologue": false
+				}
+			],
+		"dialogueMessages": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showInChallengeBox": false
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_PlayFX_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/fx_catalyst_throne_prop_lobby.rpak",
+		"devDescription": "catalyst_throne_prop_lobby/n",
+		"type": "PlayFX",
+		"particleSystemName": "P_ferro_prop_throne_lobby",
+		"attachPoint": "REF",
+		"followAttach": true,
+		"playEndCap": false
+	}
+}

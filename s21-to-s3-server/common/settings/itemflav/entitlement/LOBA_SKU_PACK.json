@@ -1,0 +1,56 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_entitlement_layout.rpak",
+	"uniqueId": 1574166241,
+	"settings": {
+		"assetName": "settings/itemflav/entitlement/LOBA_SKU_PACK.rpak",
+		"itemType": "entitlement",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01574166241",
+		"__featureFlag": "",
+		"devDescription": "Retail SKU items, Loba edition",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"entitlementType": "firstparty",
+		"twitchRef": "",
+		"twitchRef": "",
+		"enum": "LOBA_SKU_PACK",
+		"pc": "APEX_BANGALORE_CONTENT",
+		"ps4": "LOBACONTENT00000",
+		"xb1": "LOBA_SKU_PACK",
+		"switch": "apexleglobac",
+		"pc_offer": "Origin.OFR.50.0004636",
+		"steam_offer": "Steam.OFR.50.0000067",
+		"xb1_offer": "4c4b4e39-4a54-304d-c043-48444d517600",
+		"menuTitleText": "#PROMO_LOBA_EDITION",
+		"menuDescText": "#PROMO_LOBA_SKU_OWNED",
+		"menuImageName": "redemption_sku_loba_01",
+		"menuPersistenceVarName": "",
+		"list": [
+				{
+					"flavor": "settings/itemflav/character_skin/loba/sku09_lgnd_v21_exoskeleton.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/3030repeater/sku09_lgnd_v21_exoskeleton.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_mutate_loba_wolf01.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/gcard_badge/loba/sku09.rpak",
+					"quantity": 1
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isMenuEnabled": false
+	}
+}

@@ -1,0 +1,21 @@
+seqs:
+[
+	animseq\weapons\empty_handed\ptpov_valkyrie_passive_jets\charge.rseq
+	animseq\weapons\empty_handed\ptpov_valkyrie_passive_jets\charge_backward.rseq
+	animseq\weapons\empty_handed\ptpov_valkyrie_passive_jets\charge_forward.rseq
+	animseq\weapons\empty_handed\ptpov_valkyrie_passive_jets\draw.rseq
+	animseq\weapons\empty_handed\ptpov_valkyrie_passive_jets\draw_to_charge.rseq
+	animseq\weapons\empty_handed\ptpov_valkyrie_passive_jets\draw_to_charge_backward.rseq
+	animseq\weapons\empty_handed\ptpov_valkyrie_passive_jets\draw_to_charge_forward.rseq
+	animseq\weapons\empty_handed\ptpov_valkyrie_passive_jets\draw_to_charge_left.rseq
+	animseq\weapons\empty_handed\ptpov_valkyrie_passive_jets\draw_to_charge_right.rseq
+	animseq\weapons\empty_handed\ptpov_valkyrie_passive_jets\holster.rseq
+	animseq\weapons\empty_handed\ptpov_valkyrie_passive_jets\holster_captain.rseq
+	animseq\weapons\empty_handed\ptpov_valkyrie_passive_jets\holster_fireball.rseq
+	animseq\weapons\empty_handed\ptpov_valkyrie_passive_jets\holster_gunz.rseq
+	animseq\weapons\empty_handed\ptpov_valkyrie_passive_jets\holster_peace.rseq
+	animseq\weapons\empty_handed\ptpov_valkyrie_passive_jets\holster_salute.rseq
+	animseq\weapons\empty_handed\ptpov_valkyrie_passive_jets\holster_spin.rseq
+	animseq\weapons\empty_handed\ptpov_valkyrie_passive_jets\lower.rseq
+	animseq\weapons\empty_handed\ptpov_valkyrie_passive_jets\raise.rseq
+]

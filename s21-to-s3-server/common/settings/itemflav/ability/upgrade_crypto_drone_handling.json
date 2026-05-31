@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 550180260,
+	"settings": {
+		"assetName": "settings/itemflav/ability/upgrade_crypto_drone_handling.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00550180260",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#UPGRADE_CRYPTO_DRONE_HANDLING_NAME",
+		"localizationKey_NAME_SHORT": "#UPGRADE_TYPE_TACTICAL",
+		"localizationKey_DESCRIPTION_LONG": "#UPGRADE_CRYPTO_DRONE_HANDLING_LONG_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#UPGRADE_CRYPTO_DRONE_HANDLING_SHORT_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/legend_upgrades/crypto_tac_speed_boost_icon",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_TAC_UPGRADE_TWO",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/revenant/legacy.rpak",
+		"roots": [
+				{
+					"asset": "mdl/Humans/class/heavy/pilot_heavy_revenant_legacy.rmdl",
+					"featureFlag": ""
+				},
+				{
+					"asset": "mdl/Weapons/arms/pov_pilot_heavy_revenant.rmdl",
+					"featureFlag": ""
+				}
+			]
+	}
+}

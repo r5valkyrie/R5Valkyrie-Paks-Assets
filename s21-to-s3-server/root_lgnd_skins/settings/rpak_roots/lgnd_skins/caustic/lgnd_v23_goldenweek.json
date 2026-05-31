@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/caustic/lgnd_v23_goldenweek.rpak",
+		"roots": [
+				{
+					"asset": "mdl/humans/class/heavy/caustic_v23_goldenweek_w.rmdl",
+					"featureFlag": "HAS_20_1_RELEASE"
+				},
+				{
+					"asset": "mdl/Weapons/arms/caustic_v23_goldenweek_v.rmdl",
+					"featureFlag": "HAS_20_1_RELEASE"
+				}
+			]
+	}
+}

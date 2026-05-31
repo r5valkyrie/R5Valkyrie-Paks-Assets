@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/wraith/s09bp_legendary_01.rpak",
+		"roots": [
+				{
+					"asset": "mdl/Humans/class/light/wraith_v21_jpnlegacy_w.rmdl",
+					"featureFlag": ""
+				},
+				{
+					"asset": "mdl/Weapons/arms/wraith_v21_jpnlegacy_v.rmdl",
+					"featureFlag": ""
+				}
+			]
+	}
+}

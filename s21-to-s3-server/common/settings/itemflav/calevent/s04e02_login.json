@@ -1,0 +1,34 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_calevent_login_layout.rpak",
+	"uniqueId": 485262079,
+	"settings": {
+		"assetName": "settings/itemflav/calevent/s04e02_login.rpak",
+		"itemType": "calevent_login",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00485262079",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#S04E02_GIFT_TITLE",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "#LOGIN_REWARD",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"revealUnixTime": "",
+		"hideUnixTime": "",
+		"defaultStartTime": "2020-04-07 10:00:00 -08:00",
+		"defaultFinishTime": "2020-04-21 10:00:00 -08:00",
+		"ceremonyImage": "",
+		"ceremonyTitle": "#S04E02_GIFT_TITLE",
+		"ceremonyDesc": "#LOGIN_REWARD",
+		"loginRewards": [
+				{
+					"flavor": "settings/itemflav/musicpack/s04e02.rpak"
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

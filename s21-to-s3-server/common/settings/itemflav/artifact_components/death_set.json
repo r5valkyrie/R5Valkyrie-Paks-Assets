@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_artifact_component_set_layout.rpak",
+	"settings": {
+		"assetName": "settings/itemflav/artifact_components/death_set.rpak",
+		"themeName": "DEATH",
+		"worldModel": "mdl/Weapons/char_artifact/w_set_v23_death.rmdl",
+		"viewModel": "mdl/Weapons/char_artifact/ptpov_set_v23_death.rmdl",
+		"blade": "settings/itemflav/artifact_components/death/death_blade.rpak",
+		"theme": "settings/itemflav/artifact_components/death/death_theme.rpak",
+		"powerSource": "settings/itemflav/artifact_components/death/death_power_source.rpak",
+		"deathbox": "settings/itemflav/artifact_components/death/death_deathbox.rpak",
+		"activationEmote": "settings/itemflav/artifact_components/death/death_activation_emote.rpak",
+		"setName": "#Molten_Set_NAME",
+		"setImageRef": "dl_store_atfc_mltnset_sp4q"
+	}
+}

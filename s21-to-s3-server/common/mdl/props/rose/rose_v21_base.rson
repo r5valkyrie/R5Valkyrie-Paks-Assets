@@ -1,0 +1,10 @@
+rigs:
+[
+	animrig\props\rose\rose_v21_animrig.rrig
+]
+seqs:
+[
+	animseq\props\rose\prop_rose_mirage_holo_gladcard_animated_matador.rseq
+	animseq\props\rose\prop_rose_mirage_holo_gladcard_animated_matador_idle.rseq
+	animseq\props\rose\rose_v21_base\rose_pariah_ground_emote_rose.rseq
+]

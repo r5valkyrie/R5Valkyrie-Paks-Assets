@@ -1,0 +1,9 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_SetLodOriginAttachment_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/SetLodOriginAttachment_VDU.rpak",
+		"devDescription": "",
+		"type": "SetLodOriginAttachment",
+		"attachment": "VDU"
+	}
+}

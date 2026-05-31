@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/fuse/lgnd_v24_anniversary.rpak",
+		"roots": [
+				{
+					"asset": "mdl/Humans/class/medium/fuse_v24_anniversary_w.rmdl",
+					"featureFlag": "HAS_20_0_RELEASE"
+				},
+				{
+					"asset": "mdl/Weapons/arms/fuse_v24_anniversary_v.rmdl",
+					"featureFlag": "HAS_20_0_RELEASE"
+				}
+			]
+	}
+}

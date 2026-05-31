@@ -1,0 +1,10 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_SetPropSkin_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/prop_bloodhound_horn_rt01.rpak",
+		"devDescription": "",
+		"type": "SetPropSkin",
+		"skinName": "bloodhound_nordichorn_rt01",
+		"camoIndex": 0
+	}
+}

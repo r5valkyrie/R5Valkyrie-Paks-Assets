@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 982370317,
+	"settings": {
+		"assetName": "settings/itemflav/ability/upgrade_caustic_gas_range.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00982370317",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#UPGRADE_CAUSTIC_ULT_RANGE_NAME",
+		"localizationKey_NAME_SHORT": "#UPGRADE_TYPE_ULTIMATE",
+		"localizationKey_DESCRIPTION_LONG": "#UPGRADE_CAUSTIC_ULT_RANGE_LONG_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#UPGRADE_CAUSTIC_ULT_RANGE_SHORT_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/legend_upgrades/caustic_diffuse_icon",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_ULT_UPGRADE_TWO",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

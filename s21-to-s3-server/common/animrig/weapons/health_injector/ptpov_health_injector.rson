@@ -1,0 +1,31 @@
+seqs:
+[
+	animseq\weapons\health_injector\ptpov_health_injector\charge.rseq
+	animseq\weapons\health_injector\ptpov_health_injector\charge_ash.rseq
+	animseq\weapons\health_injector\ptpov_health_injector\charge_pathfinder.rseq
+	animseq\weapons\health_injector\ptpov_health_injector\charge_revenant.rseq
+	animseq\weapons\health_injector\ptpov_health_injector\fire.rseq
+	animseq\weapons\health_injector\ptpov_health_injector\fire_ash.rseq
+	animseq\weapons\health_injector\ptpov_health_injector\fire_pathfinder.rseq
+	animseq\weapons\health_injector\ptpov_health_injector\fire_revenant.rseq
+	animseq\weapons\health_injector\ptpov_health_injector\holster.rseq
+	animseq\weapons\health_injector\ptpov_health_injector\holster_ash.rseq
+	animseq\weapons\health_injector\ptpov_health_injector\holster_pathfinder.rseq
+	animseq\weapons\health_injector\ptpov_health_injector\holster_revenant.rseq
+	animseq\weapons\health_injector\ptpov_health_injector\holster_used_ash.rseq
+	animseq\weapons\health_injector\ptpov_health_injector\holster_used_pathfinder.rseq
+	animseq\weapons\health_injector\ptpov_health_injector\holster_used_revenant.rseq
+	animseq\weapons\health_injector\ptpov_health_injector\injector_layer.rseq
+	animseq\weapons\health_injector\ptpov_health_injector\injector_layer_ash.rseq
+	animseq\weapons\health_injector\ptpov_health_injector\injector_layer_pathfinder.rseq
+	animseq\weapons\health_injector\ptpov_health_injector\injector_layer_revenant.rseq
+	animseq\weapons\health_injector\ptpov_health_injector\jump.rseq
+	animseq\weapons\health_injector\ptpov_health_injector\land.rseq
+	animseq\weapons\health_injector\ptpov_health_injector\land_high.rseq
+	animseq\weapons\health_injector\ptpov_health_injector\land_low.rseq
+	animseq\weapons\health_injector\ptpov_health_injector\land_med.rseq
+	animseq\weapons\health_injector\ptpov_health_injector\raise.rseq
+	animseq\weapons\health_injector\ptpov_health_injector\raise_ash.rseq
+	animseq\weapons\health_injector\ptpov_health_injector\raise_pathfinder.rseq
+	animseq\weapons\health_injector\ptpov_health_injector\raise_revenant.rseq
+]

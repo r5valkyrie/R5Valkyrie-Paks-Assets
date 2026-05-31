@@ -1,0 +1,874 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_skin_layout.rpak",
+	"uniqueId": 502340657,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_skin/g7/s06bp_legendary_01.rpak",
+		"itemType": "weapon_skin",
+		"parentItemFlavor": "settings/itemflav/loot/main_weapon/g7.rpak",
+		"settingsAssetID": "SAID00502340657",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#SKIN_588",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "LEGENDARY",
+		"icon": "rui/events/s06bp/g7_01",
+		"tagIcon": "rui/events/s06bp/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "weapon_skin_g7_s06bp_legendary_01",
+		"ownershipTarget": "",
+		"worldModel": "mdl/Weapons/g2/w_g2a4_s06_bp.rmdl",
+		"viewModel": "mdl/Weapons/g2/ptpov_g2a4_s06_bp.rmdl",
+		"skinName": "tier1",
+		"exclusiveFunc": "",
+		"unlockFuncKey": "",
+		"video": "media/battle_pass/s06bp/g7_skin_s06bp_legendary_01",
+		"customSkinMenuBlurb": "",
+		"multipleOwnershipTargets": [
+			],
+		"camoIndex": 0,
+		"hackyRUISchemeIdentifier": 0,
+		"featureReactsToKillsLevels": [
+				{
+					"killSoundEvent1p": "weapon_G7_reactiveFX_ClosedDoor",
+					"killSoundEvent3p": "",
+					"transitionSoundEvent1p": "",
+					"transitionSoundEvent3p": "",
+					"persistentSoundEvent1p": "",
+					"persistentSoundEvent3p": "",
+					"killCount": 0,
+					"killSoundDuration": 0.000000,
+					"transitionSoundDuration": 0.000000,
+					"emissiveIntensity": 0.000000,
+					"killFXList": [
+							{
+								"fx1p": "P_g7_s6_kill_center0_FP",
+								"fx3p": "",
+								"attachment": "fx_center",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_kill_rear0_L_FP",
+								"fx3p": "P_g7_s6_kill_rear_3P",
+								"attachment": "fx_exhaust_ring_L1",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_kill_rear0_L_FP",
+								"fx3p": "P_g7_s6_kill_rear_3P",
+								"attachment": "fx_exhaust_ring_L2",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_kill_rear0_R_FP",
+								"fx3p": "P_g7_s6_kill_rear_3P",
+								"attachment": "fx_exhaust_ring_R1",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_kill_rear0_R_FP",
+								"fx3p": "P_g7_s6_kill_rear_3P",
+								"attachment": "fx_exhaust_ring_R2",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_kill_side0_FP",
+								"fx3p": "P_g7_s6_kill_side_3P",
+								"attachment": "fx_vent_side_L1",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_kill_side0_FP",
+								"fx3p": "P_g7_s6_kill_side_3P",
+								"attachment": "fx_vent_side_L2",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_kill_side0_FP",
+								"fx3p": "P_g7_s6_kill_side_3P",
+								"attachment": "fx_vent_side_L3",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_kill_side0_FP",
+								"fx3p": "P_g7_s6_kill_side_3P",
+								"attachment": "fx_vent_side_R1",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_kill_side0_FP",
+								"fx3p": "P_g7_s6_kill_side_3P",
+								"attachment": "fx_vent_side_R2",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_kill_side0_FP",
+								"fx3p": "P_g7_s6_kill_side_3P",
+								"attachment": "fx_vent_side_R3",
+								"controlPoints": [
+									]
+							}
+						],
+					"transitionFXList": [
+						],
+					"persistentFXList": [
+						],
+					"bodygroupChangeList": [
+						],
+					"weaponModListAdd": [
+							{
+								"weaponMod": "g7_reactive_ammo_counter_mod"
+							}
+						],
+					"weaponModListRemove": [
+						],
+					"killSoundSyncToAnim": false,
+					"transitionSoundSyncToAnim": false
+				},
+				{
+					"killSoundEvent1p": "weapon_G7_reactiveFX_Phase01",
+					"killSoundEvent3p": "",
+					"transitionSoundEvent1p": "weapon_G7_reactiveFX_Phase01",
+					"transitionSoundEvent3p": "",
+					"persistentSoundEvent1p": "",
+					"persistentSoundEvent3p": "",
+					"killCount": 1,
+					"killSoundDuration": 0.000000,
+					"transitionSoundDuration": 0.000000,
+					"emissiveIntensity": 0.500000,
+					"killFXList": [
+							{
+								"fx1p": "P_g7_s6_kill_side_FP",
+								"fx3p": "P_g7_s6_kill_side_3P",
+								"attachment": "fx_vent_side_L1",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_kill_side_FP",
+								"fx3p": "P_g7_s6_kill_side_3P",
+								"attachment": "fx_vent_side_L2",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_kill_side_FP",
+								"fx3p": "P_g7_s6_kill_side_3P",
+								"attachment": "fx_vent_side_L3",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_kill_side_FP",
+								"fx3p": "P_g7_s6_kill_side_3P",
+								"attachment": "fx_vent_side_R1",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_kill_side_FP",
+								"fx3p": "P_g7_s6_kill_side_3P",
+								"attachment": "fx_vent_side_R2",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_kill_side_FP",
+								"fx3p": "P_g7_s6_kill_side_3P",
+								"attachment": "fx_vent_side_R3",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_kill_rear_FP",
+								"fx3p": "P_g7_s6_kill_rear_3P",
+								"attachment": "fx_exhaust_ring_L1",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_kill_rear_FP",
+								"fx3p": "P_g7_s6_kill_rear_3P",
+								"attachment": "fx_exhaust_ring_L2",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_kill_rear_FP",
+								"fx3p": "P_g7_s6_kill_rear_3P",
+								"attachment": "fx_exhaust_ring_R1",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_kill_rear_FP",
+								"fx3p": "P_g7_s6_kill_rear_3P",
+								"attachment": "fx_exhaust_ring_R2",
+								"controlPoints": [
+									]
+							}
+						],
+					"transitionFXList": [
+							{
+								"fx1p": "P_g7_s6_kill_side_FP",
+								"fx3p": "P_g7_s6_kill_side_3P",
+								"attachment": "fx_vent_side_L1",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_kill_side_FP",
+								"fx3p": "P_g7_s6_kill_side_3P",
+								"attachment": "fx_vent_side_L2",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_kill_side_FP",
+								"fx3p": "P_g7_s6_kill_side_3P",
+								"attachment": "fx_vent_side_L3",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_kill_side_FP",
+								"fx3p": "P_g7_s6_kill_side_3P",
+								"attachment": "fx_vent_side_R1",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_kill_side_FP",
+								"fx3p": "P_g7_s6_kill_side_3P",
+								"attachment": "fx_vent_side_R2",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_kill_side_FP",
+								"fx3p": "P_g7_s6_kill_side_3P",
+								"attachment": "fx_vent_side_R3",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_kill_rear_FP",
+								"fx3p": "P_g7_s6_kill_rear_3P",
+								"attachment": "fx_exhaust_ring_L1",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_kill_rear_FP",
+								"fx3p": "P_g7_s6_kill_rear_3P",
+								"attachment": "fx_exhaust_ring_L2",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_kill_rear_FP",
+								"fx3p": "P_g7_s6_kill_rear_3P",
+								"attachment": "fx_exhaust_ring_R1",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_kill_rear_FP",
+								"fx3p": "P_g7_s6_kill_rear_3P",
+								"attachment": "fx_exhaust_ring_R2",
+								"controlPoints": [
+									]
+							}
+						],
+					"persistentFXList": [
+							{
+								"fx1p": "P_g7_s6_lvl1_side",
+								"fx3p": "P_g7_s6_lvl1_side_3P",
+								"attachment": "fx_vent_side_L1",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_lvl1_side",
+								"fx3p": "P_g7_s6_lvl1_side_3P",
+								"attachment": "fx_vent_side_L2",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_lvl1_side",
+								"fx3p": "P_g7_s6_lvl1_side_3P",
+								"attachment": "fx_vent_side_L3",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_lvl1_side",
+								"fx3p": "P_g7_s6_lvl1_side_3P",
+								"attachment": "fx_vent_side_R1",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_lvl1_side",
+								"fx3p": "P_g7_s6_lvl1_side_3P",
+								"attachment": "fx_vent_side_R2",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_lvl1_side",
+								"fx3p": "P_g7_s6_lvl1_side_3P",
+								"attachment": "fx_vent_side_R3",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_lvl1_rear",
+								"fx3p": "P_g7_s6_lvl1_rear_3P",
+								"attachment": "fx_exhaust_ring_L1",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_lvl1_rear",
+								"fx3p": "P_g7_s6_lvl1_rear_3P",
+								"attachment": "fx_exhaust_ring_L2",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_lvl1_rear",
+								"fx3p": "P_g7_s6_lvl1_rear_3P",
+								"attachment": "fx_exhaust_ring_R1",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_lvl1_rear",
+								"fx3p": "P_g7_s6_lvl1_rear_3P",
+								"attachment": "fx_exhaust_ring_R2",
+								"controlPoints": [
+									]
+							}
+						],
+					"bodygroupChangeList": [
+						],
+					"weaponModListAdd": [
+							{
+								"weaponMod": "g7_reactive_ammo_counter_mod"
+							}
+						],
+					"weaponModListRemove": [
+						],
+					"killSoundSyncToAnim": false,
+					"transitionSoundSyncToAnim": false
+				},
+				{
+					"killSoundEvent1p": "weapon_G7_reactiveFX_Phase02",
+					"killSoundEvent3p": "",
+					"transitionSoundEvent1p": "weapon_G7_reactiveFX_Phase02",
+					"transitionSoundEvent3p": "",
+					"persistentSoundEvent1p": "",
+					"persistentSoundEvent3p": "",
+					"killCount": 3,
+					"killSoundDuration": 0.000000,
+					"transitionSoundDuration": 0.000000,
+					"emissiveIntensity": 1.000000,
+					"killFXList": [
+							{
+								"fx1p": "P_g7_s6_kill_side_FP",
+								"fx3p": "P_g7_s6_kill_side_3P",
+								"attachment": "fx_vent_side_L1",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_kill_side_FP",
+								"fx3p": "P_g7_s6_kill_side_3P",
+								"attachment": "fx_vent_side_L2",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_kill_side_FP",
+								"fx3p": "P_g7_s6_kill_side_3P",
+								"attachment": "fx_vent_side_L3",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_kill_side_FP",
+								"fx3p": "P_g7_s6_kill_side_3P",
+								"attachment": "fx_vent_side_R1",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_kill_side_FP",
+								"fx3p": "P_g7_s6_kill_side_3P",
+								"attachment": "fx_vent_side_R2",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_kill_side_FP",
+								"fx3p": "P_g7_s6_kill_side_3P",
+								"attachment": "fx_vent_side_R3",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_kill_rear_FP",
+								"fx3p": "P_g7_s6_kill_rear_3P",
+								"attachment": "fx_exhaust_ring_L1",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_kill_rear_FP",
+								"fx3p": "P_g7_s6_kill_rear_3P",
+								"attachment": "fx_exhaust_ring_L2",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_kill_rear_FP",
+								"fx3p": "P_g7_s6_kill_rear_3P",
+								"attachment": "fx_exhaust_ring_R1",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_kill_rear_FP",
+								"fx3p": "P_g7_s6_kill_rear_3P",
+								"attachment": "fx_exhaust_ring_R2",
+								"controlPoints": [
+									]
+							}
+						],
+					"transitionFXList": [
+							{
+								"fx1p": "P_g7_s6_kill_side_FP",
+								"fx3p": "P_g7_s6_kill_side_3P",
+								"attachment": "fx_vent_side_L1",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_kill_side_FP",
+								"fx3p": "P_g7_s6_kill_side_3P",
+								"attachment": "fx_vent_side_L2",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_kill_side_FP",
+								"fx3p": "P_g7_s6_kill_side_3P",
+								"attachment": "fx_vent_side_L3",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_kill_side_FP",
+								"fx3p": "P_g7_s6_kill_side_3P",
+								"attachment": "fx_vent_side_R1",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_kill_side_FP",
+								"fx3p": "P_g7_s6_kill_side_3P",
+								"attachment": "fx_vent_side_R2",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_kill_side_FP",
+								"fx3p": "P_g7_s6_kill_side_3P",
+								"attachment": "fx_vent_side_R3",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_kill_rear_FP",
+								"fx3p": "P_g7_s6_kill_rear_3P",
+								"attachment": "fx_exhaust_ring_L1",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_kill_rear_FP",
+								"fx3p": "P_g7_s6_kill_rear_3P",
+								"attachment": "fx_exhaust_ring_L2",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_kill_rear_FP",
+								"fx3p": "P_g7_s6_kill_rear_3P",
+								"attachment": "fx_exhaust_ring_R1",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_kill_rear_FP",
+								"fx3p": "P_g7_s6_kill_rear_3P",
+								"attachment": "fx_exhaust_ring_R2",
+								"controlPoints": [
+									]
+							}
+						],
+					"persistentFXList": [
+							{
+								"fx1p": "P_g7_s6_lvl2_side",
+								"fx3p": "P_g7_s6_lvl2_side_3P",
+								"attachment": "fx_vent_side_L1",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_lvl2_side",
+								"fx3p": "P_g7_s6_lvl2_side_3P",
+								"attachment": "fx_vent_side_L2",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_lvl2_side",
+								"fx3p": "P_g7_s6_lvl2_side_3P",
+								"attachment": "fx_vent_side_L3",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_lvl2_side",
+								"fx3p": "P_g7_s6_lvl2_side_3P",
+								"attachment": "fx_vent_side_R1",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_lvl2_side",
+								"fx3p": "P_g7_s6_lvl2_side_3P",
+								"attachment": "fx_vent_side_R2",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_lvl2_side",
+								"fx3p": "P_g7_s6_lvl2_side_3P",
+								"attachment": "fx_vent_side_R3",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_lvl2_rear",
+								"fx3p": "P_g7_s6_lvl2_rear_3P",
+								"attachment": "fx_exhaust_ring_L1",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_lvl2_rear",
+								"fx3p": "P_g7_s6_lvl2_rear_3P",
+								"attachment": "fx_exhaust_ring_L2",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_lvl2_rear",
+								"fx3p": "P_g7_s6_lvl2_rear_3P",
+								"attachment": "fx_exhaust_ring_R1",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_lvl2_rear",
+								"fx3p": "P_g7_s6_lvl2_rear_3P",
+								"attachment": "fx_exhaust_ring_R2",
+								"controlPoints": [
+									]
+							}
+						],
+					"bodygroupChangeList": [
+						],
+					"weaponModListAdd": [
+							{
+								"weaponMod": "g7_reactive_ammo_counter_mod"
+							}
+						],
+					"weaponModListRemove": [
+						],
+					"killSoundSyncToAnim": false,
+					"transitionSoundSyncToAnim": false
+				},
+				{
+					"killSoundEvent1p": "weapon_G7_reactiveFX_Phase03",
+					"killSoundEvent3p": "",
+					"transitionSoundEvent1p": "weapon_G7_reactiveFX_Phase03",
+					"transitionSoundEvent3p": "",
+					"persistentSoundEvent1p": "",
+					"persistentSoundEvent3p": "",
+					"killCount": 5,
+					"killSoundDuration": 0.000000,
+					"transitionSoundDuration": 0.000000,
+					"emissiveIntensity": 1.500000,
+					"killFXList": [
+							{
+								"fx1p": "P_g7_s6_kill_side_FP",
+								"fx3p": "P_g7_s6_kill_side_3P",
+								"attachment": "fx_vent_side_L1",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_kill_side_FP",
+								"fx3p": "P_g7_s6_kill_side_3P",
+								"attachment": "fx_vent_side_L2",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_kill_side_FP",
+								"fx3p": "P_g7_s6_kill_side_3P",
+								"attachment": "fx_vent_side_L3",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_kill_side_FP",
+								"fx3p": "P_g7_s6_kill_side_3P",
+								"attachment": "fx_vent_side_R1",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_kill_side_FP",
+								"fx3p": "P_g7_s6_kill_side_3P",
+								"attachment": "fx_vent_side_R2",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_kill_side_FP",
+								"fx3p": "P_g7_s6_kill_side_3P",
+								"attachment": "fx_vent_side_R3",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_kill_rear_FP",
+								"fx3p": "P_g7_s6_kill_rear_3P",
+								"attachment": "fx_exhaust_ring_L1",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_kill_rear_FP",
+								"fx3p": "P_g7_s6_kill_rear_3P",
+								"attachment": "fx_exhaust_ring_L2",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_kill_rear_FP",
+								"fx3p": "P_g7_s6_kill_rear_3P",
+								"attachment": "fx_exhaust_ring_R1",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_kill_rear_FP",
+								"fx3p": "P_g7_s6_kill_rear_3P",
+								"attachment": "fx_exhaust_ring_R2",
+								"controlPoints": [
+									]
+							}
+						],
+					"transitionFXList": [
+							{
+								"fx1p": "P_g7_s6_kill_side_FP",
+								"fx3p": "P_g7_s6_kill_side_3P",
+								"attachment": "fx_vent_side_L1",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_kill_side_FP",
+								"fx3p": "P_g7_s6_kill_side_3P",
+								"attachment": "fx_vent_side_L2",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_kill_side_FP",
+								"fx3p": "P_g7_s6_kill_side_3P",
+								"attachment": "fx_vent_side_L3",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_kill_side_FP",
+								"fx3p": "P_g7_s6_kill_side_3P",
+								"attachment": "fx_vent_side_R1",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_kill_side_FP",
+								"fx3p": "P_g7_s6_kill_side_3P",
+								"attachment": "fx_vent_side_R2",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_kill_side_FP",
+								"fx3p": "P_g7_s6_kill_side_3P",
+								"attachment": "fx_vent_side_R3",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_kill_rear_FP",
+								"fx3p": "P_g7_s6_kill_rear_3P",
+								"attachment": "fx_exhaust_ring_L1",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_kill_rear_FP",
+								"fx3p": "P_g7_s6_kill_rear_3P",
+								"attachment": "fx_exhaust_ring_L2",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_kill_rear_FP",
+								"fx3p": "P_g7_s6_kill_rear_3P",
+								"attachment": "fx_exhaust_ring_R1",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_kill_rear_FP",
+								"fx3p": "P_g7_s6_kill_rear_3P",
+								"attachment": "fx_exhaust_ring_R2",
+								"controlPoints": [
+									]
+							}
+						],
+					"persistentFXList": [
+							{
+								"fx1p": "P_g7_s6_lvl3_side",
+								"fx3p": "P_g7_s6_lvl3_side_3P",
+								"attachment": "fx_vent_side_L1",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_lvl3_side",
+								"fx3p": "P_g7_s6_lvl3_side_3P",
+								"attachment": "fx_vent_side_L2",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_lvl3_side",
+								"fx3p": "P_g7_s6_lvl3_side_3P",
+								"attachment": "fx_vent_side_L3",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_lvl3_side",
+								"fx3p": "P_g7_s6_lvl3_side_3P",
+								"attachment": "fx_vent_side_R1",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_lvl3_side",
+								"fx3p": "P_g7_s6_lvl3_side_3P",
+								"attachment": "fx_vent_side_R2",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_lvl3_side",
+								"fx3p": "P_g7_s6_lvl3_side_3P",
+								"attachment": "fx_vent_side_R3",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_lvl3_rear",
+								"fx3p": "P_g7_s6_lvl3_rear_3P",
+								"attachment": "fx_exhaust_ring_L1",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_lvl3_rear",
+								"fx3p": "P_g7_s6_lvl3_rear_3P",
+								"attachment": "fx_exhaust_ring_L2",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_lvl3_rear",
+								"fx3p": "P_g7_s6_lvl3_rear_3P",
+								"attachment": "fx_exhaust_ring_R1",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_g7_s6_lvl3_rear",
+								"fx3p": "P_g7_s6_lvl3_rear_3P",
+								"attachment": "fx_exhaust_ring_R2",
+								"controlPoints": [
+									]
+							}
+						],
+					"bodygroupChangeList": [
+						],
+					"weaponModListAdd": [
+							{
+								"weaponMod": "g7_reactive_ammo_counter_mod"
+							}
+						],
+					"weaponModListRemove": [
+						],
+					"killSoundSyncToAnim": false,
+					"transitionSoundSyncToAnim": false
+				}
+			],
+		"skinAlias_vfxAliases": [
+			],
+		"skinAlias_sfxAliases": [
+			],
+		"skinAlias_bodyGroupAliases": [
+			],
+		"skinAlias_impactTableAliases": [
+			],
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"exclusive": false,
+		"shouldHideIfLocked": false,
+		"forceFullWeaponIcon": false,
+		"featureReactsToKills": true,
+		"forceVideoInspect": false
+	}
+}

@@ -1,0 +1,31 @@
+seqs:
+[
+	animseq\humans\class\char_select_light_default.rseq
+	animseq\humans\class\medium\pilot_medium_pariah\char_select_light_custom_seer.rseq
+	animseq\humans\class\medium\pilot_medium_pariah\pariah_gladcard_animated_cheers_idle_light.rseq
+	animseq\humans\class\medium\pilot_medium_pariah\pariah_gladcard_animated_cheers_light.rseq
+	animseq\humans\class\medium\pilot_medium_pariah\pariah_gladcard_animated_deceiver_idle_light.rseq
+	animseq\humans\class\medium\pilot_medium_pariah\pariah_gladcard_animated_deceiver_light.rseq
+	animseq\humans\class\medium\pilot_medium_pariah\pariah_gladcard_animated_dronecommander_light.rseq
+	animseq\humans\class\medium\pilot_medium_pariah\Pariah_gladcard_animated_forthefans_light.rseq
+	animseq\humans\class\medium\pilot_medium_pariah\pariah_gladcard_animated_mothsflame_idle_light.rseq
+	animseq\humans\class\medium\pilot_medium_pariah\pariah_gladcard_animated_mothsflame_light.rseq
+	animseq\humans\class\medium\pilot_medium_pariah\pariah_gladcard_animated_takedown_idle_light.rseq
+	animseq\humans\class\medium\pilot_medium_pariah\pariah_gladcard_animated_takedown_light.rseq
+	animseq\humans\class\medium\pilot_medium_pariah\pariah_gladcard_animated_treepounce_idle_light.rseq
+	animseq\humans\class\medium\pilot_medium_pariah\pariah_gladcard_animated_treepounce_light.rseq
+	animseq\humans\class\medium\pilot_medium_pariah\pariah_gladcard_idle_dronecommander_idle_light.rseq
+	animseq\humans\class\medium\pilot_medium_pariah\pariah_gladcard_idle_forthefans_light.rseq
+	animseq\humans\class\medium\pilot_medium_pariah\pariah_gladcard_static_aircast_light.rseq
+	animseq\humans\class\medium\pilot_medium_pariah\pariah_gladcard_static_dance_light.rseq
+	animseq\humans\class\medium\pilot_medium_pariah\pariah_gladcard_static_gunslinger_light.rseq
+	animseq\humans\class\medium\pilot_medium_pariah\pariah_gladcard_static_handfulofdrones_light.rseq
+	animseq\humans\class\medium\pilot_medium_pariah\pariah_gladcard_static_hunting_light.rseq
+	animseq\humans\class\medium\pilot_medium_pariah\pariah_gladcard_static_openheart_light.rseq
+	animseq\humans\class\medium\pilot_medium_pariah\pariah_gladcard_static_rose_light.rseq
+	animseq\humans\class\medium\pilot_medium_pariah\pariah_gladcard_static_soar_light.rseq
+	animseq\humans\class\medium\pilot_medium_pariah\pariah_gladcard_static_touchhat_light.rseq
+	animseq\humans\class\medium\pilot_medium_pariah\pariah_gladcard_static_writing_light.rseq
+	animseq\humans\class\medium\pilot_medium_pariah\seer_gladcard_animated_heirloom_idle_light.rseq
+	animseq\humans\class\medium\pilot_medium_pariah\seer_gladcard_animated_heirloom_light.rseq
+]

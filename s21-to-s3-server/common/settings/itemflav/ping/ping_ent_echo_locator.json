@@ -1,0 +1,30 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ping_layout.rpak",
+	"uniqueId": 904667539,
+	"settings": {
+		"assetName": "settings/itemflav/ping/ping_ent_echo_locator.rpak",
+		"itemType": "ping",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00904667539",
+		"__featureFlag": "",
+		"devDescription": "Seer Exhibit/n",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "rui/hud/ping/icon_ping_pariah_ult",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"colorKey": "none",
+		"innerIcon": "rui/hud/ping/icon_ping_any_inner",
+		"innerShadowIcon": "rui/hud/ping/icon_ping_any_shadow",
+		"outerIcon": "rui/hud/ping/icon_ping_pariah_ult",
+		"shadowIcon": "rui/hud/ping/icon_ping_pariah_ult_shadow",
+		"animIcon": "rui/hud/ping/icon_ping_go_outline",
+		"defaultColor": "<1.000000,1.000000,1.000000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"drawHeightLine": false
+	}
+}

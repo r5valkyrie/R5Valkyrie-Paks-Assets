@@ -1,0 +1,42 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_execution_layout.rpak",
+	"uniqueId": 164576858,
+	"settings": {
+		"assetName": "settings/itemflav/character_execution/ash/slash.rpak",
+		"itemType": "character_execution",
+		"parentItemFlavor": "settings/itemflav/character/ash.rpak",
+		"settingsAssetID": "SAID00164576858",
+		"__featureFlag": "",
+		"devDescription": "Slash",
+		"localizationKey_NAME": "#character_execution_ash_slash_NAME",
+		"localizationKey_NAME_SHORT": "#character_execution_ash_slash_NAME",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "LEGENDARY",
+		"icon": "rui/menu/buttons/finisher_emotes/finisher_emote",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_execution_ash_slash",
+		"ownershipTarget": "",
+		"video": "media/character_executions/ash_execution_backstab",
+		"attackerAnimSeq": "animseq/humans/class/medium/pilot_medium_ash/ash_execution_slash.rseq",
+		"victimLightAnimSeq": "animseq/humans/class/light/mp_pilot_light_core/light_victim_ash_execution_slash.rseq",
+		"victimMediumAnimSeq": "animseq/humans/class/medium/mp_pilot_medium_core/medium_victim_ash_execution_slash.rseq",
+		"victimHeavyAnimSeq": "animseq/humans/class/heavy/mp_pilot_heavy_core/heavy_victim_ash_execution_slash.rseq",
+		"victimNPCMediumAnimSeq": "animseq/humans/pete/ai_npc_core/npc_victim_ash_execution_slash.rseq",
+		"attackerPreviewAnimSeq": "animseq/humans/class/medium/pilot_medium_ash/ash_execution_slash_loot.rseq",
+		"victimPreviewAnimSeq": "animseq/humans/class/medium/mp_pilot_medium_core/medium_victim_ash_execution_slash_loot.rseq",
+		"multipleOwnershipTargets": [
+			],
+		"executionDependency": 0,
+		"additionalAttackerAnimSeq": [
+			],
+		"victimPerCharacterAnimSeq": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isNotEquippable": false,
+		"shouldHideIfNotEquippable": false
+	}
+}

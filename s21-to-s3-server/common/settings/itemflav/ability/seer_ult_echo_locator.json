@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 1059413356,
+	"settings": {
+		"assetName": "settings/itemflav/ability/seer_ult_echo_locator.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01059413356",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#WPN_ECHO_LOCATOR",
+		"localizationKey_NAME_SHORT": "#WPN_ECHO_LOCATOR",
+		"localizationKey_DESCRIPTION_LONG": "#WPN_ECHO_LOCATOR_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#WPN_ECHO_LOCATOR_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/ultimate_icons/ultimate_seer",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "mp_ability_echo_locator",
+		"passiveScriptRef": "",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

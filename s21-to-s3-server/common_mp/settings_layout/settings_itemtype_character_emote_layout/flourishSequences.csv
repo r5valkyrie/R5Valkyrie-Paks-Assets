@@ -1,0 +1,4 @@
+"fieldName","dataType","layoutIndex","helpText"
+"sequence","string","0","The animsequence to be included."
+"weight","int","0","The likelihood of this sequence being chosen over other sequences."
+"flourishEndsLoop","bool","0","If the emote performance should end after the flourish completes."

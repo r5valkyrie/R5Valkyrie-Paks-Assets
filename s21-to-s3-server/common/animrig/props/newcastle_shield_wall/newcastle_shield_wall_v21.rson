@@ -1,0 +1,10 @@
+seqs:
+[
+	animseq\props\newcastle_shield_wall\newcastle_shield_wall_v21_animrig\shieldwall_expand_C.rseq
+	animseq\props\newcastle_shield_wall\newcastle_shield_wall_v21_animrig\shieldwall_expand_L.rseq
+	animseq\props\newcastle_shield_wall\newcastle_shield_wall_v21_animrig\shieldwall_expand_R.rseq
+	animseq\props\newcastle_shield_wall\newcastle_shield_wall_v21_animrig\shieldwall_newcastle_gladcard_animated_wall.rseq
+	animseq\props\newcastle_shield_wall\newcastle_shield_wall_v21_animrig\shieldwall_newcastle_gladcard_animated_wall_idle.rseq
+	animseq\props\newcastle_shield_wall\newcastle_shield_wall_v21_animrig\shieldwall_travel_L.rseq
+	animseq\props\newcastle_shield_wall\newcastle_shield_wall_v21_animrig\shieldwall_travel_R.rseq
+]

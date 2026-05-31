@@ -1,0 +1,34 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_calevent_login_layout.rpak",
+	"uniqueId": 1096364885,
+	"settings": {
+		"assetName": "settings/itemflav/calevent/valentines2020.rpak",
+		"itemType": "calevent_login",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01096364885",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#VALENTINES2020_LONG_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "#LOGIN_REWARD",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"revealUnixTime": "",
+		"hideUnixTime": "",
+		"defaultStartTime": "2020-02-12 10:00:00 -08:00",
+		"defaultFinishTime": "2020-02-19 10:00:00 -08:00",
+		"ceremonyImage": "",
+		"ceremonyTitle": "#VALENTINES2020_LONG_NAME",
+		"ceremonyDesc": "#LOGIN_REWARD",
+		"loginRewards": [
+				{
+					"flavor": "settings/itemflav/gcard_badge/account/valentines_2020.rpak"
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

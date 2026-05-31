@@ -1,0 +1,4 @@
+"fieldName","dataType","layoutIndex","helpText"
+"variantName","string","0","The exact name of the variant as set up on the Kepler Dashboard (case sensitive!)"
+"controlledCollection","asset_noprecache","0","The Challenge Collection whose availability will be controlled by participation in this variant"
+"controlledImage","asset_noprecache","0","The image that will be associated with participation in this variant"

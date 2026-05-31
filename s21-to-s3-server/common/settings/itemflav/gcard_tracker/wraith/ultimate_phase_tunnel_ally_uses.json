@@ -1,0 +1,33 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_stat_tracker_layout.rpak",
+	"uniqueId": 281170868,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_tracker/wraith/ultimate_phase_tunnel_ally_uses.rpak",
+		"itemType": "gladiator_card_stat_tracker",
+		"parentItemFlavor": "settings/itemflav/character/wraith.rpak",
+		"settingsAssetID": "SAID00281170868",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#gcard_tracker_wraith_ultimate_phase_tunnel_ally_uses_NAME",
+		"localizationKey_NAME_SHORT": "#gcard_tracker_wraith_ultimate_phase_tunnel_ally_uses_NAME_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "RARE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "gcard_tracker_wraith_ultimate_phase_tunnel_ally_uses",
+		"ownershipTarget": "",
+		"statRef": "stats.wraith_ultimate_phase_tunnel_ally_uses",
+		"valueNumberFormat": "INTEGER",
+		"valueSuffix": "",
+		"backgroundImage": "",
+		"multipleOwnershipTargets": [
+			],
+		"color0": "<0.550000,0.540000,0.540000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false
+	}
+}

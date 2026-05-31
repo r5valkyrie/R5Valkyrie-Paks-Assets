@@ -1,0 +1,20 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_CreateProp_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/prop_valk_sunglasses_gladcard_animated_toocool_idle.rpak",
+		"devDescription": "",
+		"type": "CreateProp",
+		"selectModelFrom": "HARD_CODED",
+		"modelName": "mdl/props/sunglass/sunglass.rmdl",
+		"modelScriptKey": "",
+		"attachPoint": "REF",
+		"animSequence": "animseq/props/sunglass/sunglass/valkyrie_glasses_gladcard_animated_toocool_idle.rseq",
+		"scriptCallbackKey": "",
+		"scale": 1.000000,
+		"additionalAnims": [
+			],
+		"propBodygroups": [
+			],
+		"syncCycle": true
+	}
+}

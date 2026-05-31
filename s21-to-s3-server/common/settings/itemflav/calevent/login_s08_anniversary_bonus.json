@@ -1,0 +1,43 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_calevent_login_layout.rpak",
+	"uniqueId": 1443019295,
+	"settings": {
+		"assetName": "settings/itemflav/calevent/login_s08_anniversary_bonus.rpak",
+		"itemType": "calevent_login",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01443019295",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#ANNIVERSARY02_LONG_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "#LOGIN_REWARD",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"revealUnixTime": "",
+		"hideUnixTime": "",
+		"defaultStartTime": "2021-02-09 08:00:00 -07:00",
+		"defaultFinishTime": "2021-02-23 10:00:00 -07:00",
+		"ceremonyImage": "",
+		"ceremonyTitle": "#ANNIVERSARY02_LONG_NAME",
+		"ceremonyDesc": "#LOGIN_REWARD",
+		"loginRewards": [
+				{
+					"flavor": "settings/itemflav/gcard_badge/account/s08ace_main.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_tracker/bangalore/s08ace_career_damage_done.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_tracker/bangalore/s08ace_career_kills.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_tracker/bangalore/s08ace_career_wins.rpak"
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

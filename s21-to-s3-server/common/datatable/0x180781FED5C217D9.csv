@@ -1,0 +1,11 @@
+"conversation","map","trigger","name","alias","order","rarityOverride","speakLegend","reqLegends","forbidLegends","repeatType","priority","allSpeakersRequired","mutualExclusiveConvos","optInHint","activationTimestamp"
+"s19_kc_art_ballistic_newcastle","mp_rr_canyonlands_hu","amb_diag_artillery","s20_kc_art_ballistic_newcastle_1","diag_mp_ballistic_bc_locationTHD_01_%perspective%",0,0.75,"ballistic","ballistic;newcastle","pathfinder",0,15,true,"","",0
+"","","","s20_kc_art_ballistic_newcastle_2","diag_mp_newcastle_bc_locationTHD_02_%perspective%",1,0.75,"newcastle","ballistic;newcastle","pathfinder",1,15,true,"","",0
+"s19_kc_art_ballistic_newcastle_pathfinder","mp_rr_canyonlands_hu","amb_diag_artillery","s20_kc_art_ballistic_newcastle_pathfinder_1","diag_mp_ballistic_bc_locationTHD_01_%perspective%",0,0.75,"ballistic","ballistic;newcastle;pathfinder","",0,15,true,"","",0
+"","","","s20_kc_art_ballistic_newcastle_pathfinder_2","diag_mp_newcastle_bc_locationTHD_02_%perspective%",1,0.75,"newcastle","ballistic;newcastle;pathfinder","",1,15,true,"","",0
+"","","","s20_kc_art_ballistic_newcastle_pathfinder_3","diag_mp_pathfinder_bc_locationTHD_03_%perspective%",2,0.75,"pathfinder","ballistic;newcastle;pathfinder","",1,15,true,"","",0
+"s19_sp_fbz_bloodhound","mp_rr_tropic_island_mu2","amb_diag_forbiddenzone_wreck","s19_sp_fbz_bloodhound_1","diag_mp_bloodhound_bc_locationSPD_01_%perspective%",0,0.75,"bloodhound","bloodhound","",0,15,true,"","",0
+"s19_sp_wtt_wattson","mp_rr_tropic_island_mu2","amb_diag_wpylon_room","s19_sp_wtt_wattson_1","diag_mp_wattson_bc_locationWTT_01_%perspective%",0,0.75,"wattson","wattson","",0,15,true,"","",0
+"s19_sp_hes_newcastle","mp_rr_tropic_island_mu2","amb_diag_hestia_wreck","s19_sp_hes_newcastle_1","diag_mp_newcastle_bc_locationSPH_01_%perspective%",0,0.75,"newcastle","newcastle","bangalore",0,15,true,"","",0
+"s19_sp_hes_bangalore","mp_rr_tropic_island_mu2","amb_diag_hestia_wreck","s19_sp_hes_bangalore_1","diag_mp_bangalore_bc_locationSPH_02_%perspective%",0,0.75,"bangalore","bangalore","newcastle",0,15,true,"","",0
+"string","string","string","string","string","int","float","string","string","string","int","int","bool","string","string","int"

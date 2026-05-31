@@ -1,0 +1,8 @@
+rigs:
+[
+]
+seqs:
+[
+	animseq\weapons\ash_sword\ash_sword_v21_base_v_prop\Ash_sword_execution_slash.rseq
+	animseq\weapons\ash_sword\ash_sword_v21_base_v_prop\Ash_sword_execution_slash_loot.rseq
+]

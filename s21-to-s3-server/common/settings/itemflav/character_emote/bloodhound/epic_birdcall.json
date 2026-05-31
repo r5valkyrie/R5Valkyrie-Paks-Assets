@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 1549759790,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/bloodhound/epic_birdcall.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/bloodhound.rpak",
+		"settingsAssetID": "SAID01549759790",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#CHAR_EMOTE_birdcall",
+		"localizationKey_NAME_SHORT": "#CHAR_EMOTE_birdcall",
+		"localizationKey_DESCRIPTION_LONG": "#CHAR_EMOTE_birdcall",
+		"localizationKey_DESCRIPTION_SHORT": "#CHAR_EMOTE_birdcall",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/character_emotes/bloodhound/birdcall",
+		"tagIcon": "rui/events/s11e01/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_bloodhound_epic_birdcall",
+		"ownershipTarget": "",
+		"anim3p": "bloodhound_ground_emote_birdcall",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

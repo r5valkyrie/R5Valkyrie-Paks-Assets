@@ -1,0 +1,51 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_skin_layout.rpak",
+	"uniqueId": 14753666,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_skin/dmr/s09e01_epicp_v21_jpnlegacy.rpak",
+		"itemType": "weapon_skin",
+		"parentItemFlavor": "settings/itemflav/loot/main_weapon/dmr.rpak",
+		"settingsAssetID": "SAID00014753666",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#SKIN_997",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "EPIC",
+		"icon": "",
+		"tagIcon": "rui/events/s09e01/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "weapon_skin_dmr_s09e01_epicp_v21_jpnlegacy",
+		"ownershipTarget": "",
+		"worldModel": "mdl/weapons/rspn101_dmr/w_rspn101_dmr.rmdl",
+		"viewModel": "mdl/weapons/rspn101_dmr/ptpov_rspn101_dmr.rmdl",
+		"skinName": "epicp_v21_jpnlegacy",
+		"exclusiveFunc": "",
+		"unlockFuncKey": "",
+		"video": "",
+		"customSkinMenuBlurb": "",
+		"multipleOwnershipTargets": [
+			],
+		"camoIndex": 0,
+		"hackyRUISchemeIdentifier": 0,
+		"featureReactsToKillsLevels": [
+			],
+		"skinAlias_vfxAliases": [
+			],
+		"skinAlias_sfxAliases": [
+			],
+		"skinAlias_bodyGroupAliases": [
+			],
+		"skinAlias_impactTableAliases": [
+			],
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"exclusive": false,
+		"shouldHideIfLocked": false,
+		"forceFullWeaponIcon": false,
+		"featureReactsToKills": false,
+		"forceVideoInspect": false
+	}
+}

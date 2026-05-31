@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 1205267079,
+	"settings": {
+		"assetName": "settings/itemflav/ability/upgrade_vantage_ult_accel.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01205267079",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#UPGRADE_VANTAGE_PASSIVE_ULT_ACCEL_CHARGE_NAME",
+		"localizationKey_NAME_SHORT": "#UPGRADE_TYPE_ULTIMATE",
+		"localizationKey_DESCRIPTION_LONG": "#UPGRADE_VANTAGE_PASSIVE_ULT_ACCEL_CHARGE_LONG_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#UPGRADE_VANTAGE_PASSIVE_ULT_ACCEL_CHARGE_SHORT_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/legend_upgrades/vantage_ultimateefficiency_icon",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_ULT_ACCEL_CHARGE",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

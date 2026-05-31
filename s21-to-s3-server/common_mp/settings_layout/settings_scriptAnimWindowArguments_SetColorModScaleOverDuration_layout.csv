@@ -1,0 +1,7 @@
+"fieldName","dataType","layoutIndex","helpText"
+"assetName","string","0",""
+"devDescription","string","0",""
+"type","string","0",""
+"rampUpDuration","float","0","The time in seconds that it takes to reach max color mod scale intensity."
+"plateauDuration","float","0","The time in seconds that the color mod scale value stays at its max"
+"rampDownDuration","float","0","The time in seconds that it takes for the color mod scale value to go back down to its minimum"

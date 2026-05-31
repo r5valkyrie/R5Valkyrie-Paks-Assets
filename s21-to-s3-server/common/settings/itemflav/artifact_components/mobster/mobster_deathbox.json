@@ -1,0 +1,38 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_artifact_component_deathbox_layout.rpak",
+	"uniqueId": 273122163,
+	"settings": {
+		"assetName": "settings/itemflav/artifact_components/mobster/mobster_deathbox.rpak",
+		"itemType": "artifact_component_deathbox",
+		"parentItemFlavor": "settings/itemflav/loot/melee_weapon/artifact_dagger.rpak",
+		"settingsAssetID": "SAID00273122163",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#DEATHBOX_ARTIFACTS_MOB",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "MYTHIC",
+		"icon": "rui/menu/melee_customization/deathboxes/deathbox_outnoir",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "artifact_dagger_mobsters_deathbox",
+		"ownershipTarget": "",
+		"artifactComponentType": "DEATHBOX",
+		"themeName": "MOB",
+		"componentIcon": "rui/menu/melee_customization/deathboxes/deathbox_outnoir",
+		"artifactDeathboxFXName": "P_death_box_artifact_mdl",
+		"artifactDeathboxModel": "mdl/techart/mshop/props/loot/deathbox/deathbox_lgnd_v23_mob.rmdl",
+		"video": "media/deathboxes/deathbox_mobster",
+		"spawnSFX": "Artifact_PS_Mobster_DeathBox_Appear",
+		"multipleOwnershipTargets": [
+			],
+		"artifactMainColor": "<0.502000,1.000000,1.000000>",
+		"artifactSecondaryColor": "<0.000000,0.502000,1.000000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isEmpty": false,
+		"shouldHideIfLocked": false
+	}
+}

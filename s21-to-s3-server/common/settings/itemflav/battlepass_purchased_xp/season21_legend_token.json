@@ -1,0 +1,27 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_battlepass_purchased_xp_layout.rpak",
+	"uniqueId": 888619695,
+	"settings": {
+		"assetName": "settings/itemflav/battlepass_purchased_xp/season21_legend_token.rpak",
+		"itemType": "battlepass_purchased_xp",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00888619695",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "CONSUMABLE",
+		"grxMode": "CONSUMABLE",
+		"grxRef": "battlepass_season21_purchased_xp_legend_token",
+		"ownershipTarget": "",
+		"multipleOwnershipTargets": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

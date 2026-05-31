@@ -1,0 +1,34 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_calevent_login_layout.rpak",
+	"uniqueId": 602119246,
+	"settings": {
+		"assetName": "settings/itemflav/calevent/login_switch_launch.rpak",
+		"itemType": "calevent_login",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00602119246",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#SWITCH_LAUNCH_GIFT",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "#LOGIN_REWARD",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"revealUnixTime": "",
+		"hideUnixTime": "",
+		"defaultStartTime": "2021-03-09 10:00:00 -08:00",
+		"defaultFinishTime": "2021-05-04 10:00:00 -07:00",
+		"ceremonyImage": "",
+		"ceremonyTitle": "#SWITCH_LAUNCH_GIFT",
+		"ceremonyDesc": "#LOGIN_REWARD",
+		"loginRewards": [
+				{
+					"flavor": "settings/itemflav/character_skin/pathfinder/shop_legendary_05.rpak"
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

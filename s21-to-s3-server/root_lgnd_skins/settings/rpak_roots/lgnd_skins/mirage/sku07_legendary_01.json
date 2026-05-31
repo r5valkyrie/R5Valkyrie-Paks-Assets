@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/mirage/sku07_legendary_01.rpak",
+		"roots": [
+				{
+					"asset": "mdl/humans/class/medium/mirage_v20_sku07_w.rmdl",
+					"featureFlag": ""
+				},
+				{
+					"asset": "mdl/Weapons/arms/mirage_v20_sku07_v.rmdl",
+					"featureFlag": ""
+				}
+			]
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_calevent_story_challenges_layout.rpak",
+	"uniqueId": 180717956,
+	"settings": {
+		"assetName": "settings/itemflav/calevent/s21/solo_challenges.rpak",
+		"itemType": "calevent_story_challenges",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00180717956",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#S21SOLOS_CHALLENGES_CATEGORY_TITLE_SHORT",
+		"localizationKey_NAME_SHORT": "#S21SOLOS_CHALLENGES_CATEGORY_TITLE_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"revealUnixTime": "",
+		"hideUnixTime": "",
+		"defaultStartTime": "2024-05-07 10:00:00 -07:00",
+		"defaultFinishTime": "2024-06-25 10:00:00 -07:00",
+		"headerIcon": "",
+		"eventChallengeHeaderImage": "",
+		"storyEventAboutHeroImage": "",
+		"storyCompletionFlavor": "",
+		"storyCompletionQuantity": 1,
+		"challengeGroups": [
+				{
+					"aboutScreenshotImage": "",
+					"aboutTitle": "",
+					"aboutDesc": "",
+					"hasSeenAboutChallengesPersistentVarName": "",
+					"requiredChallengesPersistentVarName": "",
+					"hasSeenChallengesPersistentVarName": "",
+					"requiredStartTime": "2024-05-07 10:00:00 -07:00",
+					"prologueLobbyDesc": "",
+					"prologuePersistentVarName": "",
+					"radioVignetteBk": "",
+					"radioVignetteMilesEvent": "",
+					"playlistName": "",
+					"requiredChallengesPersistentVarNameCount": 1,
+					"challenges": [
+							{
+								"challengeFlav": "settings/itemflav/challenge/solos/games_played.rpak"
+							},
+							{
+								"challengeFlav": "settings/itemflav/challenge/solos/damage_done.rpak"
+							},
+							{
+								"challengeFlav": "settings/itemflav/challenge/solos/kills.rpak"
+							},
+							{
+								"challengeFlav": "settings/itemflav/challenge/solos/damage_done_match.rpak"
+							},
+							{
+								"challengeFlav": "settings/itemflav/challenge/solos/kills_match.rpak"
+							},
+							{
+								"challengeFlav": "settings/itemflav/challenge/solos/win_match.rpak"
+							},
+							{
+								"challengeFlav": "settings/itemflav/challenge/solos/placement_top_10_with_10_legends.rpak"
+							},
+							{
+								"challengeFlav": "settings/itemflav/challenge/solos/complete_all_challenges.rpak"
+							}
+						],
+					"isPrologue": false
+				}
+			],
+		"dialogueMessages": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showInChallengeBox": false
+	}
+}

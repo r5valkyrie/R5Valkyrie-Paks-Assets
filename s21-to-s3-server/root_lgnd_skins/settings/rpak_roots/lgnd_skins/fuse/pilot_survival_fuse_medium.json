@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/fuse/pilot_survival_fuse_medium.rpak",
+		"roots": [
+				{
+					"asset": "mdl/Humans/class/medium/dummy_v20_base_w.rmdl",
+					"featureFlag": ""
+				},
+				{
+					"asset": "mdl/Weapons/arms/dummy_v20_base_v.rmdl",
+					"featureFlag": ""
+				}
+			]
+	}
+}

@@ -1,0 +1,6 @@
+seqs:
+[
+	animseq\props\welder\prop_rampart_welder_menu_lobby_idle_weld.rseq
+	animseq\props\welder\ptpov_wrench_rampart_draw_welder_prop.rseq
+	animseq\props\welder\ptpov_wrench_rampart_melee_welder_prop.rseq
+]

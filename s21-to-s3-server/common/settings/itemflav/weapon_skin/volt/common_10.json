@@ -1,0 +1,51 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_skin_layout.rpak",
+	"uniqueId": 747117756,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_skin/volt/common_10.rpak",
+		"itemType": "weapon_skin",
+		"parentItemFlavor": "settings/itemflav/loot/main_weapon/volt_smg.rpak",
+		"settingsAssetID": "SAID00747117756",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#SKIN_ORCHID",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "COMMON",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "weapon_skin_volt_common_10",
+		"ownershipTarget": "",
+		"worldModel": "mdl/weapons/hemlok_smg/w_hemlok_smg.rmdl",
+		"viewModel": "mdl/weapons/hemlok_smg/ptpov_hemlok_smg.rmdl",
+		"skinName": "common/rare mask",
+		"exclusiveFunc": "",
+		"unlockFuncKey": "",
+		"video": "",
+		"customSkinMenuBlurb": "",
+		"multipleOwnershipTargets": [
+			],
+		"camoIndex": 9,
+		"hackyRUISchemeIdentifier": 0,
+		"featureReactsToKillsLevels": [
+			],
+		"skinAlias_vfxAliases": [
+			],
+		"skinAlias_sfxAliases": [
+			],
+		"skinAlias_bodyGroupAliases": [
+			],
+		"skinAlias_impactTableAliases": [
+			],
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"exclusive": false,
+		"shouldHideIfLocked": false,
+		"forceFullWeaponIcon": false,
+		"featureReactsToKills": false,
+		"forceVideoInspect": false
+	}
+}

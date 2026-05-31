@@ -1,0 +1,10 @@
+{
+	"extraDataSizeIndex": 1,
+	"subLayouts": [
+		"settings_layout/settings_itemtype_calevent_buffet_layout/bonusChallengeFlavs.csv",
+		"settings_layout/settings_itemtype_calevent_buffet_layout/dailyChallengeFlavs.csv",
+		"settings_layout/settings_itemtype_calevent_buffet_layout/hiddenChallengeFlavs.csv",
+		"settings_layout/settings_itemtype_calevent_buffet_layout/modes.csv",
+		"settings_layout/settings_itemtype_calevent_buffet_layout/badgeFlavs.csv"
+	]
+}

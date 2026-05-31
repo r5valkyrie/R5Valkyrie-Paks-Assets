@@ -1,0 +1,45 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_lore_layout.rpak",
+	"uniqueId": 1726911003,
+	"settings": {
+		"assetName": "settings/itemflav/lore/character/lore_wraith.rpak",
+		"itemType": "lore",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01726911003",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"type": "Legend",
+		"legend_real_name": "#LORE_WRAITH_REAL_NAME",
+		"legend_alias": "",
+		"legend_age": "#LORE_WRAITH_AGE",
+		"legend_home_world": "#LORE_WRAITH_HOME_WORLD",
+		"bio": [
+				{
+					"line": "#LORE_WRAITH_0",
+					"featureFlag": "",
+					"paddingLeft": 0,
+					"paddingRight": 0,
+					"paddingTop": 0,
+					"paddingBottom": 15
+				},
+				{
+					"line": "#LORE_WRAITH_1",
+					"featureFlag": "",
+					"paddingLeft": 0,
+					"paddingRight": 0,
+					"paddingTop": 0,
+					"paddingBottom": 15
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

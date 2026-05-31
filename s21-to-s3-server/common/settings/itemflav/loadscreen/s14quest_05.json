@@ -1,0 +1,33 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_loadscreen_layout.rpak",
+	"uniqueId": 380882814,
+	"settings": {
+		"assetName": "settings/itemflav/loadscreen/s14quest_05.rpak",
+		"itemType": "loadscreen",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00380882814",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#LOADSCREEN_173",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "RARE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "loadscreen_s14quest_05",
+		"ownershipTarget": "",
+		"exclusiveFunc": "",
+		"loadscreenImage": "loadscreens/custom/loadscreen_s14quest_05",
+		"overlayText": "#LOADSCREEN_173_TEXT",
+		"multipleOwnershipTargets": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false,
+		"isTheRandom": false,
+		"exclusive": false
+	}
+}

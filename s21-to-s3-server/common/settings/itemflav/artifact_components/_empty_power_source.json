@@ -1,0 +1,56 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_artifact_component_power_source_layout.rpak",
+	"uniqueId": 57830231,
+	"settings": {
+		"assetName": "settings/itemflav/artifact_components/_empty_power_source.rpak",
+		"itemType": "artifact_component_power_source",
+		"parentItemFlavor": "settings/itemflav/loot/melee_weapon/artifact_dagger.rpak",
+		"settingsAssetID": "SAID00057830231",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#empty_powersource_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"grxMode": "NONE",
+		"grxRef": "",
+		"ownershipTarget": "",
+		"artifactComponentType": "POWER_SOURCE",
+		"themeName": "_EMPTY",
+		"componentIcon": "rui/menu/melee_customization/power_sources/power_source_default",
+		"multipleOwnershipTargets": [
+			],
+		"artifactMainColor": "<0.471000,0.471000,0.471000>",
+		"artifactSecondaryColor": "<0.471000,0.471000,0.471000>",
+		"smearColor": "<0.753000,0.753000,0.753000>",
+		"skinIdx": 0,
+		"attackFX": [
+			],
+		"idleFX": [
+			],
+		"startupFX": [
+			],
+		"flourishFX": [
+			],
+		"inspectFX": [
+			],
+		"lobbyFX": [
+			],
+		"skinAlias_sfxAliases": [
+				{
+					"flavor": "settings/itemflav/sfx_alias/powersource_none_sfx.rpak",
+					"featureFlag": ""
+				}
+			],
+		"skinAlias_impactTableAliases": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isEmpty": true,
+		"shouldHideIfLocked": false
+	}
+}

@@ -1,0 +1,36 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_emote_icon_layout.rpak",
+	"uniqueId": 796494004,
+	"settings": {
+		"assetName": "settings/itemflav/emote_icon/crypto/s09bp_epic_01.rpak",
+		"itemType": "emote_icon",
+		"parentItemFlavor": "settings/itemflav/character/crypto.rpak",
+		"settingsAssetID": "SAID00796494004",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#spray_epic_v21_crypto_01",
+		"localizationKey_NAME_SHORT": "#spray_epic_v21_crypto_01",
+		"localizationKey_DESCRIPTION_LONG": "#spray_epic_v21_crypto_01",
+		"localizationKey_DESCRIPTION_SHORT": "#spray_epic_v21_crypto_01",
+		"quality": "EPIC",
+		"icon": "rui/menu/holosprays/hspray_epic_v21_crypto_01",
+		"tagIcon": "rui/events/s09bp/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "emote_icon_crypto_s09bp_epic_01",
+		"ownershipTarget": "",
+		"anim3p": "",
+		"holoProjectorSprayModel": "mdl/props/holo_spray/hspray_epic_v21_crypto_01.rmdl",
+		"quickchatAliasSubName": "",
+		"customSkinMenuBlurb": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<0.886000,0.749000,0.427000>",
+		"holoProjectorEffectColor2": "<0.000000,0.843000,0.843000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": true,
+		"holoProjectorUseEffectColor2": true,
+		"isTheEmpty": false
+	}
+}

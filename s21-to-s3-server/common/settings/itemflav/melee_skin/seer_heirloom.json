@@ -1,0 +1,51 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_melee_skin_layout.rpak",
+	"uniqueId": 1036437235,
+	"settings": {
+		"assetName": "settings/itemflav/melee_skin/seer_heirloom.rpak",
+		"itemType": "melee_skin",
+		"parentItemFlavor": "settings/itemflav/loot/melee_weapon/seer_heirloom.rpak",
+		"settingsAssetID": "SAID01036437235",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#MELEE_SKIN_SEER_HEIRLOOM_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "#MELEE_SKIN_SEER_HEIRLOOM_NAME",
+		"quality": "MYTHIC",
+		"icon": "rui/menu/buttons/battlepass/melee_skin_seer",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "melee_skin_seer_heirloom",
+		"ownershipTarget": "",
+		"worldModel": "mdl/props/seer_heirloom/seer_heirloom_static.rmdl",
+		"viewModel": "mdl/Weapons/seer_heirloom/ptpov_seer_heirloom.rmdl",
+		"skinName": "heirloom",
+		"menuAnimSeq": "animseq/weapons/seer_heirloom/ptpov_seer_heirloom/menu.rseq",
+		"koSound": "",
+		"storeImage": "rui/menu/heirloom_crafting/heirloom_page_item_seer",
+		"equipImage": "rui/menu/buttons/melee_skins/seer_blades",
+		"multipleOwnershipTargets": [
+			],
+		"artifactConfigIndex": 0,
+		"camoIndex": 0,
+		"menuMdlRot": "<0.000000,0.000000,0.000000>",
+		"battlePassScale": 2.000000,
+		"lootCeremonyScale": 1.200000,
+		"itemInspectScale": 0.850000,
+		"itemInspectOffset": "<0.000000,0.000000,-235.000000>",
+		"skinAlias_vfxAliases": [
+			],
+		"skinAlias_sfxAliases": [
+			],
+		"skinAlias_bodyGroupAliases": [
+			],
+		"skinAlias_impactTableAliases": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isArtifactConfigPointer": false,
+		"shouldHideIfLocked": false
+	}
+}

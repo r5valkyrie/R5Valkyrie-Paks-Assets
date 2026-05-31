@@ -1,0 +1,25 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_class_perk_layout.rpak",
+	"uniqueId": 567228056,
+	"settings": {
+		"assetName": "settings/itemflav/class_perk/enemy_scan.rpak",
+		"itemType": "character_perk",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00567228056",
+		"__featureFlag": "",
+		"devDescription": "Class perk to scan enemies",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "#BEACON_ENEMY_SCAN_PERK_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#BEACON_ENEMY_SCAN_PERK_SHORT_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/gametype_icons/survival/perk_inworld_recon",
+		"tagIcon": "rui/hud/gametype_icons/survival/perk_minimap_recon",
+		"grxMode": "NONE",
+		"perkScriptRef": "BEACON_ENEMY_SCAN",
+		"fullmapSmallIcon": "",
+		"localizationKey_PropName": "#PERK_FEATURE_SURVEY_BEACON",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

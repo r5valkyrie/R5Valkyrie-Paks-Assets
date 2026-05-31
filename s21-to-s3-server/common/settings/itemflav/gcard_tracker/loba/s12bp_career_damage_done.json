@@ -1,0 +1,33 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_stat_tracker_layout.rpak",
+	"uniqueId": 1441758387,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_tracker/loba/s12bp_career_damage_done.rpak",
+		"itemType": "gladiator_card_stat_tracker",
+		"parentItemFlavor": "settings/itemflav/character/loba.rpak",
+		"settingsAssetID": "SAID01441758387",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#gcard_tracker_loba_damage_done_NAME",
+		"localizationKey_NAME_SHORT": "#gcard_tracker_loba_damage_done_NAME_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "RARE",
+		"icon": "",
+		"tagIcon": "rui/events/s12bp/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "gcard_tracker_loba_s12bp_career_damage_done",
+		"ownershipTarget": "",
+		"statRef": "stats.characters[%char%].damage_done",
+		"valueNumberFormat": "INTEGER",
+		"valueSuffix": "",
+		"backgroundImage": "rui/gladiator_cards/trackers/event/s12bp/loba_bg_bot",
+		"multipleOwnershipTargets": [
+			],
+		"color0": "<0.996000,0.984000,0.000000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false
+	}
+}

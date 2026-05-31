@@ -1,0 +1,171 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_account_pack_layout.rpak",
+	"uniqueId": 1945244616,
+	"settings": {
+		"assetName": "settings/itemflav/pack/cosmetic_event_s13e02.rpak",
+		"itemType": "account_pack",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01945244616",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#S13E02_PACK_NAME_LONG",
+		"localizationKey_NAME_SHORT": "#S13E02_PACK_NAME_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "RARE",
+		"icon": "rui/events/s13e02/event_pack_icon",
+		"tagIcon": "rui/events/s13e02/item_source_icon",
+		"grxMode": "PACK",
+		"grxMode": "PACK",
+		"grxRef": "pack_cosmetic_event_s13e02",
+		"ownershipTarget": "",
+		"packType": "EVENT_THEMATIC_PACK",
+		"themeFlavor": "",
+		"stickerRewardPack": "",
+		"stickerRewardSequence": "",
+		"tickMdl": "mdl/robots/drone_frag/drone_frag_loot.rmdl",
+		"tickMdlSkin": "s13_heroanime",
+		"openButtonIcon": "rui/events/s13e02/open_pack_btn_icon",
+		"triadBounceSound": "LootCeremony_Triad_Bounce",
+		"puckLandSound": "LootCeremony_IronCrown_Tick_PuckLand",
+		"unpackSound": "LootCeremony_IronCrown_Tick_Unpack",
+		"deployTriadExplo1Sound": "LootCeremony_IronCrown_Tick_Deploy_TriadExplo1",
+		"deployTriadExplo2Sound": "LootCeremony_IronCrown_Tick_Deploy_TriadExplo2",
+		"deployTriadExplo3Sound": "LootCeremony_IronCrown_Tick_Deploy_TriadExplo3",
+		"multipleOwnershipTargets": [
+			],
+		"packContents": [
+				{
+					"flavor": "settings/itemflav/character_skin/wattson/lgnd_v21_heroanime.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/character_skin/revenant/lgnd_v21_heroanime.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/character_skin/mirage/lgnd_v21_heroanime.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/character_skin/octane/lgnd_v21_heroanime.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/chargerifle/lgnd_v21_heroanime.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/flatline/lgnd_v21_heroanime.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/wingman/lgnd_v21_heroanime.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/eva/lgnd_v21_heroanime.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_frame/wattson/epic_v21_heroanime01.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_frame/revenant/epic_v21_heroanime01.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_frame/mirage/epic_v21_heroanime01.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_frame/octane/epic_v21_heroanime01.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_stance/wattson/s13e02_epic_01.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_stance/revenant/s13e02_epic_01.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_stance/mirage/s13e02_epic_01.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_stance/octane/s13e02_epic_01.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_tracker/wattson/s13e02_career_kills.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_tracker/wattson/s13e02_breaches_detected.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_tracker/wattson/s13e02_career_damage_done.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_tracker/revenant/s13e02_career_kills.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_tracker/revenant/s13e02_silenced_targets.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_tracker/revenant/s13e02_career_damage_done.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_tracker/mirage/s13e02_career_kills.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_tracker/mirage/s13e02_successful_bamboozles.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_tracker/mirage/s13e02_career_damage_done.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_tracker/octane/s13e02_career_kills.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_tracker/octane/s13e02_stim_distance_traveled.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_tracker/octane/s13e02_career_damage_done.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/character_skin/bloodhound/epicp_v21_heroanime.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/character_skin/seer/epicp_v21_heroanime.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/character_skin/bangalore/epicp_v21_heroanime.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/character_skin/crypto/epicp_v21_heroanime.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/emote_icon/bloodhound_heroanime/epic_v21_bloodhound_heroanime_01.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/emote_icon/seer_heroanime/epic_v21_seer_heroanime_01.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/emote_icon/bangalore_heroanime/epic_v21_bangalore_heroanime_01.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/emote_icon/crypto_heroanime/epic_v21_crypto_heroanime_01.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_frame/bloodhound/rare_v21_heroanime01.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_frame/seer/rare_v21_heroanime01.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_frame/bangalore/rare_v21_heroanime01.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_frame/crypto/rare_v21_heroanime01.rpak"
+				}
+			],
+		"customCol0": "<2.000000,2.000000,2.000000>",
+		"countTextCol": "<1.000000,1.000000,1.000000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"hasStickers": false,
+		"hasSkydives": false,
+		"hasHolosprays": false,
+		"usesMOTDButtonForCount": false,
+		"isEphemeral": false,
+		"isExpectedToContainSingleItemWithCurrency": false,
+		"useCustomColors": true
+	}
+}

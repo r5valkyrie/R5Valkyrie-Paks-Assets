@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 2097858194,
+	"settings": {
+		"assetName": "settings/itemflav/ability/alter_ult_transport_portal.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID02097858194",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#ABL_ULT_TRANSPORT_PORTAL",
+		"localizationKey_NAME_SHORT": "#ABL_ULT_TRANSPORT_PORTAL",
+		"localizationKey_DESCRIPTION_LONG": "#ABL_ULT_TRANSPORT_PORTAL_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#ABL_ULT_TRANSPORT_PORTAL_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/ultimate_icons/ultimate_alter",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "mp_ability_transport_portal",
+		"passiveScriptRef": "",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

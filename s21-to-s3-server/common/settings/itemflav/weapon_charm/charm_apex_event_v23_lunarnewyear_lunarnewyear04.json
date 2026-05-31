@@ -1,0 +1,33 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_charm_layout.rpak",
+	"uniqueId": 849567042,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_charm/charm_apex_event_v23_lunarnewyear_lunarnewyear04.rpak",
+		"itemType": "weapon_charm",
+		"parentItemFlavor": "settings/itemflav/loot/main_weapon/_base.rpak",
+		"settingsAssetID": "SAID00849567042",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#CHARM_apex_event_v23_lunarnewyear_lunarnewyear04",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "LEGENDARY",
+		"icon": "",
+		"tagIcon": "rui/events/s15lny/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "weapon_charm_apex_event_v23_lunarnewyear_lunarnewyear04",
+		"ownershipTarget": "",
+		"charmModel": "mdl/props/charm/charm_apex_event_v23_lunarnewyear_lunarnewyear04",
+		"exclusiveFunc": "",
+		"attachmentName": "CHARM",
+		"customSkinMenuBlurb": "",
+		"multipleOwnershipTargets": [
+			],
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false,
+		"exclusive": false
+	}
+}

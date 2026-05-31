@@ -1,0 +1,33 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_charm_layout.rpak",
+	"uniqueId": 883718432,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_charm/charm_apex_asset_v20_wep_ordnance_thermite01.rpak",
+		"itemType": "weapon_charm",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00883718432",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#CHARM_040",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "EPIC",
+		"icon": "",
+		"tagIcon": "rui/events/s08e02/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "weapon_charm_thermite_grenade",
+		"ownershipTarget": "",
+		"charmModel": "mdl/props/charm/charm_thermite_grenade",
+		"exclusiveFunc": "",
+		"attachmentName": "CHARM",
+		"customSkinMenuBlurb": "",
+		"multipleOwnershipTargets": [
+			],
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false,
+		"exclusive": false
+	}
+}

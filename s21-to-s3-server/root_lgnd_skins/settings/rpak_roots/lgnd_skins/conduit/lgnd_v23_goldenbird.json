@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/conduit/lgnd_v23_goldenbird.rpak",
+		"roots": [
+				{
+					"asset": "mdl/techart/mshop/characters/legends/conduit/conduit_v23_goldenbird_w.rmdl",
+					"featureFlag": "HAS_19_0_RELEASE"
+				},
+				{
+					"asset": "mdl/techart/mshop/characters/legends/conduit/conduit_v23_goldenbird_v.rmdl",
+					"featureFlag": "HAS_19_0_RELEASE"
+				}
+			]
+	}
+}

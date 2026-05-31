@@ -1,0 +1,31 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_skydive_emote_layout.rpak",
+	"uniqueId": 38028520,
+	"settings": {
+		"assetName": "settings/itemflav/skydive_emote/bangalore/smoked.rpak",
+		"itemType": "skydive_emote",
+		"parentItemFlavor": "settings/itemflav/character/bangalore.rpak",
+		"settingsAssetID": "SAID00038028520",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#EMOTE_002",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/battlepass/skydive_emote_smoked",
+		"tagIcon": "rui/events/s04e01/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "skydive_emote_bangalore_smoked",
+		"ownershipTarget": "",
+		"animSequence": "animseq/humans/class/medium/pilot_medium_bangalore/bangalore_freefall_emote_smoked.rseq",
+		"video": "media/skydive_emotes/bangalore_smoked",
+		"bcEvent": "bc_skydive",
+		"multipleOwnershipTargets": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false
+	}
+}

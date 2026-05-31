@@ -1,0 +1,441 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_quest_layout.rpak",
+	"uniqueId": 2104205426,
+	"settings": {
+		"assetName": "settings/itemflav/quest/season11.rpak",
+		"itemType": "quest",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID02104205426",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#QUEST_NAME_S11",
+		"localizationKey_NAME_SHORT": "#QUEST_NAME_S11",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"questModel": "",
+		"questTabLongDesc": "#QUEST_INFO_S11",
+		"questTabCornerImage": "rui/menu/quest/quest_ash",
+		"questTabRightCornerImage": "",
+		"questTabDeepLinkLabel": "",
+		"deepLinkStartTime": "",
+		"deepLinkFinishTime": "",
+		"questTabDeepLink": "",
+		"questTabBasicInfoHeader": "not_in_use",
+		"questTabBasicInfoItemText0": "not_in_use",
+		"questTabBasicInfoItemText1": "not_in_use",
+		"questTabBasicInfoItemText2": "not_in_use",
+		"questTabBasicInfoItemText3": "not_in_use",
+		"questTabArtifactProgressHeader": "not_in_use",
+		"grxOfferLocation": "s11_quest",
+		"treasureBoxPurchaseFlav": "settings/itemflav/voucher/s11_quest_piece.rpak",
+		"treasurePacksSequenceMarketplaceVar": "rewardseq_s11_quest_piece",
+		"comicPageRewardsSequenceMarketplaceVar": "rewardseq_s11_quest",
+		"missionRewardsSequenceMarketplaceVar": "",
+		"defaultQuestItemIcon": "",
+		"loreSequencePrologueDT": "",
+		"loreSequenceEpilogueDT": "",
+		"completionRewards": [
+				{
+					"flavor": "settings/itemflav/pack/cosmetic_rare.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/eva/epicp_v21_scavenger.rpak",
+					"quantity": 1
+				}
+			],
+		"treasurePacksSchedule": [
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_scavenger_island_nessie01.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/voucher/DEPRECATED_quest_reward_stars_2.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/pack/cosmetic_rare.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/voucher/DEPRECATED_quest_reward_stars_2.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/grx_currency/crafting.rpak",
+								"quantity": 15
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/voucher/DEPRECATED_quest_reward_stars_2.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/pack/cosmetic_rare.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/voucher/DEPRECATED_quest_reward_stars_2.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/grx_currency/crafting.rpak",
+								"quantity": 15
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_scavenger_island_nessie02.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/voucher/DEPRECATED_quest_reward_stars_2.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/pack/cosmetic_rare.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/voucher/DEPRECATED_quest_reward_stars_2.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/voucher/DEPRECATED_quest_reward_stars_2.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/voucher/DEPRECATED_quest_reward_stars_2.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/pack/cosmetic_rare.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/voucher/DEPRECATED_quest_reward_stars_2.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/grx_currency/crafting.rpak",
+								"quantity": 15
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_scavenger_island_nessie03.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/voucher/DEPRECATED_quest_reward_stars_2.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/pack/cosmetic_rare.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/voucher/DEPRECATED_quest_reward_stars_2.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/grx_currency/crafting.rpak",
+								"quantity": 15
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/voucher/DEPRECATED_quest_reward_stars_2.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/grx_currency/crafting.rpak",
+								"quantity": 15
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/voucher/DEPRECATED_quest_reward_stars_2.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/grx_currency/crafting.rpak",
+								"quantity": 15
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_scavenger_island_nessie04.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/voucher/DEPRECATED_quest_reward_stars_2.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/pack/cosmetic_rare.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/voucher/DEPRECATED_quest_reward_stars_2.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/grx_currency/crafting.rpak",
+								"quantity": 15
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/voucher/DEPRECATED_quest_reward_stars_2.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/grx_currency/crafting.rpak",
+								"quantity": 15
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/voucher/DEPRECATED_quest_reward_stars_2.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/grx_currency/crafting.rpak",
+								"quantity": 15
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_scavenger_island_nessie05.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/voucher/DEPRECATED_quest_reward_stars_2.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/pack/cosmetic_rare.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/voucher/DEPRECATED_quest_reward_stars_2.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/grx_currency/crafting.rpak",
+								"quantity": 15
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/voucher/DEPRECATED_quest_reward_stars_2.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/grx_currency/crafting.rpak",
+								"quantity": 15
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/voucher/DEPRECATED_quest_reward_stars_2.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/grx_currency/crafting.rpak",
+								"quantity": 15
+							}
+						]
+				}
+			],
+		"comicPages": [
+			],
+		"missions": [
+				{
+					"flavor": "settings/itemflav/quest_mission/s11/mission01.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/quest_mission/s11/mission02.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/quest_mission/s11/mission03.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/quest_mission/s11/mission04.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/quest_mission/s11/mission05.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/quest_mission/s11/mission06.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/quest_mission/s11/mission07.rpak"
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

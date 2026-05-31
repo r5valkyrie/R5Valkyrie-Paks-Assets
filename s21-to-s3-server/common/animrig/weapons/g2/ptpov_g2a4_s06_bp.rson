@@ -1,0 +1,6 @@
+seqs:
+[
+	animseq\weapons\g2\ptpov_g2a4\idle_reactive_layer.rseq
+	animseq\weapons\g2\ptpov_g2a4\kill_reactive_layer.rseq
+	animseq\weapons\g2\ptpov_g2a4_s06_bp\inspect_reactive.rseq
+]

@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 2068675164,
+	"settings": {
+		"assetName": "settings/itemflav/ability/upgrade_alter_ult_duration.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID02068675164",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#UPGRADE_ALTER_ULT_DURATION_NAME",
+		"localizationKey_NAME_SHORT": "#UPGRADE_TYPE_ULTIMATE",
+		"localizationKey_DESCRIPTION_LONG": "#UPGRADE_ALTER_ULT_DURATION_LONG_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#UPGRADE_ALTER_ULT_DURATION_SHORT_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/legend_upgrades/alter_ult_extension_icon",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_ALTER_UPGRADE_ULT_DURATION",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

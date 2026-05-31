@@ -1,0 +1,31 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_skydive_emote_layout.rpak",
+	"uniqueId": 1724905823,
+	"settings": {
+		"assetName": "settings/itemflav/skydive_emote/wraith/portal.rpak",
+		"itemType": "skydive_emote",
+		"parentItemFlavor": "settings/itemflav/character/wraith.rpak",
+		"settingsAssetID": "SAID01724905823",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#EMOTE_020",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/battlepass/skydive_emote_portal",
+		"tagIcon": "rui/events/s08bp/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "skydive_emote_wraith_portal",
+		"ownershipTarget": "",
+		"animSequence": "animseq/humans/class/light/pilot_light_wraith/wraith_freefall_emote_portal.rseq",
+		"video": "media/skydive_emotes/wraith_portals",
+		"bcEvent": "bc_skydive",
+		"multipleOwnershipTargets": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false
+	}
+}

@@ -1,0 +1,44 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_badge_layout.rpak",
+	"uniqueId": 824096897,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_badge/account/s18ce03_kills_or_assists.rpak",
+		"itemType": "gladiator_card_badge",
+		"parentItemFlavor": "settings/itemflav/challenge/s18ce03/hidden_kills_or_assists.rpak",
+		"settingsAssetID": "SAID00824096897",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#S18CE03_BADGE_3_NAME",
+		"localizationKey_NAME_SHORT": "#S18CE03_BADGE_3_NAME",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "#S18CE03_BADGE_3_DESC",
+		"quality": "EPIC",
+		"icon": "rui/gladiator_cards/badges/s18ce03_kills_or_assists",
+		"tagIcon": "rui/events/s18ce03/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "gcard_badge_account_s18ce03_kills_or_assists",
+		"ownershipTarget": "",
+		"exclusiveFunc": "",
+		"unlockStatRef": "",
+		"dynamicTextStatRef": "",
+		"badgeCategory": "MENU_BADGE_EVENT",
+		"multipleOwnershipTargets": [
+			],
+		"tiers": [
+				{
+					"imageAsset": "rui/gladiator_cards/badges/s18ce03_kills_or_assists",
+					"ruiAsset": "",
+					"unlocksAt": 1.000000
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false,
+		"exclusive": false,
+		"shouldHideIfLocked": true,
+		"isCharacterBadge": false,
+		"hasOwnRui": false,
+		"isOversizedImage": true
+	}
+}

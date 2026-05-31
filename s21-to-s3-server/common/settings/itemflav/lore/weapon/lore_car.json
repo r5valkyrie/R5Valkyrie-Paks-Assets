@@ -1,0 +1,37 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_lore_layout.rpak",
+	"uniqueId": 2141039914,
+	"settings": {
+		"assetName": "settings/itemflav/lore/weapon/lore_car.rpak",
+		"itemType": "lore",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID02141039914",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"type": "Weapon",
+		"legend_real_name": "",
+		"legend_alias": "",
+		"legend_age": "",
+		"legend_home_world": "",
+		"bio": [
+				{
+					"line": "#LORE_CAR_0",
+					"featureFlag": "",
+					"paddingLeft": 0,
+					"paddingRight": 0,
+					"paddingTop": 0,
+					"paddingBottom": 15
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

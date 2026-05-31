@@ -1,0 +1,44 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_entitlement_layout.rpak",
+	"uniqueId": 1506428457,
+	"settings": {
+		"assetName": "settings/itemflav/entitlement/twitch_launch_promo.rpak",
+		"itemType": "entitlement",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01506428457",
+		"__featureFlag": "",
+		"devDescription": "Twitch Launch Promo Reward",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"entitlementType": "twitch_prime",
+		"twitchRef": "twitch_launch_promo",
+		"twitchRef": "twitch_launch_promo",
+		"enum": "",
+		"pc": "",
+		"ps4": "",
+		"xb1": "",
+		"switch": "",
+		"pc_offer": "",
+		"steam_offer": "",
+		"xb1_offer": "",
+		"menuTitleText": "#TWITCH_PRIME",
+		"menuDescText": "#TWITCH_ENTITLEMENT_OWNED",
+		"menuImageName": "apex_title_blue",
+		"menuPersistenceVarName": "twitchAcknowledged",
+		"list": [
+				{
+					"flavor": "settings/itemflav/character_skin/pathfinder/legendary_omega.rpak",
+					"quantity": 1
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isMenuEnabled": false
+	}
+}

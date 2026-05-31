@@ -1,0 +1,5 @@
+seqs:
+[
+	animseq\weapons\car\car_base_reactive_v\idle_reactive.rseq
+	animseq\weapons\car\car_base_reactive_v\idle_toggle_fire.rseq
+]

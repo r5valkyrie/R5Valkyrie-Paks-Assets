@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 980471274,
+	"settings": {
+		"assetName": "settings/itemflav/ability/upgrade_ult_spinup_time.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00980471274",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#UPGRADE_RAMPART_ULT_HANDLING_NAME",
+		"localizationKey_NAME_SHORT": "#UPGRADE_TYPE_ULTIMATE",
+		"localizationKey_DESCRIPTION_LONG": "#UPGRADE_RAMPART_ULT_HANDLING_LONG_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#UPGRADE_RAMPART_ULT_HANDLING_SHORT_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/legend_upgrades/rampart_runninghot_icon",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_ULT_UPGRADE_TWO",
+		"passiveWeaponMod": "upgrade_core_modify_spinup_time",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

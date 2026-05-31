@@ -1,0 +1,83 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_calevent_buffet_layout.rpak",
+	"uniqueId": 1210329140,
+	"settings": {
+		"assetName": "settings/itemflav/calevent/flash_events/s13_01/buffet.rpak",
+		"itemType": "calevent_buffet",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01210329140",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#FLASH_EVENTS_S13_01_TITLE_SHORT",
+		"localizationKey_NAME_SHORT": "#FLASH_EVENTS_S13_01_TITLE_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "#FLASH_EVENTS_S13_01_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#FLASH_EVENTS_S13_01_TITLE_SHORT",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"revealUnixTime": "",
+		"hideUnixTime": "",
+		"defaultStartTime": "2022-07-05 10:00:00 -07:00",
+		"defaultFinishTime": "2022-07-12 10:00:00 -07:00",
+		"headerIcon": "rui/events/flash_events/s13_01/challenges_logo",
+		"mainChallengeFlav": "settings/itemflav/challenge/flash_events/s13_01/main.rpak",
+		"eventChallengeHeaderImage": "rui/events/flash_events/s13_01/challenge_panel_event_header",
+		"eventChallengeButtonImage": "rui/events/flash_events/s13_01/event_tracker_button",
+		"eventChallengeButtonText": "",
+		"aboutPageBGImage": "rui/events/flash_events/s13_01/about_bg",
+		"aboutPageBigIcon": "",
+		"aboutPageBarImage": "rui/events/flash_events/s13_01/about_progress_bar",
+		"aboutPageUnownedRewardBorderImage": "rui/events/flash_events/s13_01/reward_border_unowned",
+		"aboutPageOwnedRewardBorderImage": "rui/events/flash_events/s13_01/reward_border_owned",
+		"aboutPageLineImage": "rui/events/flash_events/s13_01/line",
+		"aboutPageTitleText": "#FLASH_EVENTS_S13_01_TITLE_SHORT",
+		"aboutPageDescText": "#FLASH_EVENTS_S13_01_DESC",
+		"aboutPageScoreTitleText": "#EARNED_POINTS_COLON",
+		"highlightGamemodeSelectorSlot": "",
+		"bonusChallengeFlavs": [
+			],
+		"dailyChallengeFlavs": [
+				{
+					"challengeFlav": "settings/itemflav/challenge/flash_events/s13_01/2_games_played.rpak"
+				},
+				{
+					"challengeFlav": "settings/itemflav/challenge/flash_events/s13_01/damage_done.rpak"
+				},
+				{
+					"challengeFlav": "settings/itemflav/challenge/flash_events/s13_01/loot_bins_opened.rpak"
+				},
+				{
+					"challengeFlav": "settings/itemflav/challenge/flash_events/s13_01/knockdowns_br.rpak"
+				},
+				{
+					"challengeFlav": "settings/itemflav/challenge/flash_events/s13_01/top_10_finish.rpak"
+				}
+			],
+		"hiddenChallengeFlavs": [
+			],
+		"modes": [
+			],
+		"badgeFlavs": [
+			],
+		"eventChallengeHeaderColor1": "<1.000000,0.000000,0.000000>",
+		"eventChallengeHeaderColor2": "<0.976000,0.835000,0.420000>",
+		"eventChallengeButtonTextColor": "<1.000000,1.000000,1.000000>",
+		"eventChallengeCategoryButtonTint": "<0.525000,0.137000,0.074000>",
+		"progressBarColor": "<1.200000,1.200000,1.200000>",
+		"progressBarTextColor": "<1.200000,1.200000,1.200000>",
+		"rewardIconColor": "<0.400000,0.400000,0.400000>",
+		"aboutPageBGCol": "<0.035000,0.055000,0.075000>",
+		"aboutPageHeaderTextCol": "<0.976000,0.835000,0.420000>",
+		"aboutPageBodyTextCol": "<0.894000,0.757000,0.369000>",
+		"aboutPageScoreLabelCol": "<0.894000,0.757000,0.369000>",
+		"aboutPageScoreCol": "<0.894000,0.757000,0.369000>",
+		"aboutPageThemeCol": "<0.607000,0.188000,0.027000>",
+		"aboutPageBarTextCol": "<0.607000,0.188000,0.027000>",
+		"aboutPageBarTextOwnedCol": "<0.804000,0.255000,0.020000>",
+		"aboutPageCheckMarkCol": "<0.000000,1.000000,0.251000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"aboutPageShowsModes": false
+	}
+}

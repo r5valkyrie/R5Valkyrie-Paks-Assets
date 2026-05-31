@@ -1,0 +1,60 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_account_pack_layout.rpak",
+	"uniqueId": 926853893,
+	"settings": {
+		"assetName": "settings/itemflav/pack/pathfinder_heirloom.rpak",
+		"itemType": "account_pack",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00926853893",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#PATHFINDER_HEIRLOOM_SET",
+		"localizationKey_NAME_SHORT": "#HEIRLOOM_SET",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "MYTHIC",
+		"icon": "rui/menu/heirloom_crafting/heirloom_page_item_pathfinder",
+		"tagIcon": "",
+		"grxMode": "PACK",
+		"grxMode": "PACK",
+		"grxRef": "pack_pathfinder_heirloom",
+		"ownershipTarget": "",
+		"packType": "HEIRLOOM_PACK",
+		"themeFlavor": "",
+		"stickerRewardPack": "",
+		"stickerRewardSequence": "",
+		"tickMdl": "mdl/robots/drone_frag/drone_frag_loot.rmdl",
+		"tickMdlSkin": "base",
+		"openButtonIcon": "rui/menu/buttons/melee_skins/pathfinder_gloves",
+		"triadBounceSound": "LootCeremony_Triad_Bounce",
+		"puckLandSound": "LootCeremony_IronCrown_Tick_PuckLand",
+		"unpackSound": "LootCeremony_IronCrown_Tick_Unpack",
+		"deployTriadExplo1Sound": "LootCeremony_IronCrown_Tick_Deploy_TriadExplo1",
+		"deployTriadExplo2Sound": "LootCeremony_IronCrown_Tick_Deploy_TriadExplo2",
+		"deployTriadExplo3Sound": "LootCeremony_IronCrown_Tick_Deploy_TriadExplo3",
+		"multipleOwnershipTargets": [
+			],
+		"packContents": [
+				{
+					"flavor": "settings/itemflav/melee_skin/pathfinder_gloves.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_stance/pathfinder/heirloom_01.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/character_kill_quip/pathfinder/heirloom_01.rpak"
+				}
+			],
+		"customCol0": "<1.000000,1.000000,1.000000>",
+		"countTextCol": "<1.000000,1.000000,1.000000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"hasStickers": false,
+		"hasSkydives": false,
+		"hasHolosprays": false,
+		"usesMOTDButtonForCount": false,
+		"isEphemeral": false,
+		"isExpectedToContainSingleItemWithCurrency": false,
+		"useCustomColors": true
+	}
+}

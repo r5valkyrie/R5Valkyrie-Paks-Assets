@@ -1,0 +1,55 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_melee_skin_layout.rpak",
+	"uniqueId": 1980968388,
+	"settings": {
+		"assetName": "settings/itemflav/melee_skin/crypto_heirloom_rt01.rpak",
+		"itemType": "melee_skin",
+		"parentItemFlavor": "settings/itemflav/loot/melee_weapon/crypto_heirloom.rpak",
+		"settingsAssetID": "SAID01980968388",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#MELEE_SKIN_CRYPTO_HEIRLOOM_RT01_NAME",
+		"localizationKey_NAME_SHORT": "#MELEE_SKIN_CRYPTO_HEIRLOOM_RT01_NAME",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "#MELEE_SKIN_CRYPTO_HEIRLOOM_RT01_NAME",
+		"quality": "MYTHIC",
+		"icon": "rui/menu/buttons/battlepass/melee_skin_crypto",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "melee_skin_crypto_heirloom_rt01",
+		"ownershipTarget": "",
+		"worldModel": "mdl/props/crypto_heirloom/crypto_heirloom.rmdl",
+		"viewModel": "mdl/Weapons/crypto_heirloom/ptpov_crypto_heirloom_rt.rmdl",
+		"skinName": "heirloom_rt01",
+		"menuAnimSeq": "animseq/weapons/crypto_heirloom/ptpov_crypto_heirloom/menu_rt01.rseq",
+		"koSound": "",
+		"storeImage": "rui/menu/heirloom_crafting/heirloom_page_item_crypto_02",
+		"equipImage": "rui/menu/buttons/melee_skins/crypto_sword_rt01",
+		"multipleOwnershipTargets": [
+			],
+		"artifactConfigIndex": 0,
+		"camoIndex": 0,
+		"menuMdlRot": "<0.000000,0.000000,0.000000>",
+		"battlePassScale": 1.200000,
+		"lootCeremonyScale": 1.500000,
+		"itemInspectScale": 0.700000,
+		"itemInspectOffset": "<-4.000000,0.000000,-190.000000>",
+		"skinAlias_vfxAliases": [
+				{
+					"flavor": "settings/itemflav/vfx_alias/crypto_sword_rt01.rpak",
+					"featureFlag": "HAS_19_1_RELEASE"
+				}
+			],
+		"skinAlias_sfxAliases": [
+			],
+		"skinAlias_bodyGroupAliases": [
+			],
+		"skinAlias_impactTableAliases": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isArtifactConfigPointer": false,
+		"shouldHideIfLocked": false
+	}
+}

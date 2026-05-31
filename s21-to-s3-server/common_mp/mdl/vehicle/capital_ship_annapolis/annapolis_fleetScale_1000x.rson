@@ -1,0 +1,10 @@
+rigs:
+[
+]
+seqs:
+[
+	animseq\vehicle\capital_ship_annapolis\annapolis_fleetScale_1000x\cb_space_flyby_anna.rseq
+	animseq\vehicle\capital_ship_annapolis\annapolis_fleetScale_1000x\cb_space_scramble_anna.rseq
+	animseq\vehicle\capital_ship_annapolis\annapolis_fleetScale_1000x\idle.rseq
+	animseq\vehicle\capital_ship_annapolis\annapolis_fleetScale_1000x\idle_fixed.rseq
+]

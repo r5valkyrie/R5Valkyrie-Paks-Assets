@@ -1,0 +1,39 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_boost_type_layout.rpak",
+	"uniqueId": 710353254,
+	"settings": {
+		"assetName": "settings/itemflav/boost_type/accxp_mode_mult_template.rpak",
+		"itemType": "boost_type",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00710353254",
+		"__featureFlag": "",
+		"devDescription": "Template for game mode multipliers",
+		"localizationKey_NAME": "#PROGRESSION_MODIFIERS_ACCOUNT_MODE_TITLE",
+		"localizationKey_NAME_SHORT": "#PROGRESSION_MODIFIERS_ACCOUNT_MODE_TITLE",
+		"localizationKey_DESCRIPTION_LONG": "#PROGRESSION_MODIFIERS_ACCOUNT_MODE_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#PROGRESSION_MODIFIERS_ACCOUNT_MODE_DESC",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"typeId": "accxp_mode_mult_template",
+		"condition_party": "FALSE",
+		"boostReqDescription": "",
+		"uiModifierSummary": "#PROGRESSION_MODIFIERS_PERCENTAGE_ADD",
+		"uiBadgeIconSmall": "",
+		"effects": [
+			],
+		"conditions_gamemode": [
+			],
+		"conditions_region": [
+			],
+		"conditions_platform": [
+			],
+		"boostCategory": 0,
+		"uiModifierSummaryAmount": 0.000000,
+		"uiColor": "<0.000000,0.000000,0.000000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isDevType": false
+	}
+}

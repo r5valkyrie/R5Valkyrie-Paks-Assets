@@ -1,0 +1,31 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_skydive_emote_layout.rpak",
+	"uniqueId": 2041257080,
+	"settings": {
+		"assetName": "settings/itemflav/skydive_emote/seer/rings.rpak",
+		"itemType": "skydive_emote",
+		"parentItemFlavor": "settings/itemflav/character/seer.rpak",
+		"settingsAssetID": "SAID02041257080",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#EMOTE_038",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/battlepass/skydive_emote_rings",
+		"tagIcon": "rui/events/s10e01/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "skydive_emote_seer_rings",
+		"ownershipTarget": "",
+		"animSequence": "animseq/humans/class/medium/pilot_medium_pariah/pariah_freefall_emote_rings.rseq",
+		"video": "media/skydive_emotes/seer_rings",
+		"bcEvent": "bc_skydive",
+		"multipleOwnershipTargets": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false
+	}
+}

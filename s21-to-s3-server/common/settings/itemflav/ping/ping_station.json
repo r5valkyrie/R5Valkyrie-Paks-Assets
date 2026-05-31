@@ -1,0 +1,30 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ping_layout.rpak",
+	"uniqueId": 2037529436,
+	"settings": {
+		"assetName": "settings/itemflav/ping/ping_station.rpak",
+		"itemType": "ping",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID02037529436",
+		"__featureFlag": "",
+		"devDescription": "Winter Express Station/n",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"colorKey": "none",
+		"innerIcon": "rui/hud/gametype_icons/survival/objective_icon_inner",
+		"innerShadowIcon": "rui/hud/gametype_icons/survival/objective_icon_inner_shadow",
+		"outerIcon": "rui/hud/gametype_icons/survival/objective_icon_inner",
+		"shadowIcon": "rui/hud/gametype_icons/survival/objective_icon_inner_shadow",
+		"animIcon": "rui/hud/gametype_icons/survival/objective_icon_outline",
+		"defaultColor": "<1.000000,0.780000,0.000000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"drawHeightLine": false
+	}
+}

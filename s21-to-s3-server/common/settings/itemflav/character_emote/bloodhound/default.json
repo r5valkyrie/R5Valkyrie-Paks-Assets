@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 1920899948,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/bloodhound/default.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/bloodhound.rpak",
+		"settingsAssetID": "SAID01920899948",
+		"__featureFlag": "",
+		"devDescription": "/t",
+		"localizationKey_NAME": "#CHAR_EMOTE_004",
+		"localizationKey_NAME_SHORT": "#CHAR_EMOTE_004",
+		"localizationKey_DESCRIPTION_LONG": "#CHAR_EMOTE_004",
+		"localizationKey_DESCRIPTION_SHORT": "#CHAR_EMOTE_004",
+		"quality": "RARE",
+		"icon": "rui/menu/buttons/character_emotes/bloodhound/tracking",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"grxMode": "NONE",
+		"grxRef": "character_emote_bloodhound_rare_tracking",
+		"ownershipTarget": "",
+		"anim3p": "bloodhound_ground_emote_tracking",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

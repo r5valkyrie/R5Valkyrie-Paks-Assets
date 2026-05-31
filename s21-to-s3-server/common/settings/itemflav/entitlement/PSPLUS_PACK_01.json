@@ -1,0 +1,64 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_entitlement_layout.rpak",
+	"uniqueId": 114212887,
+	"settings": {
+		"assetName": "settings/itemflav/entitlement/PSPLUS_PACK_01.rpak",
+		"itemType": "entitlement",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00114212887",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"entitlementType": "firstparty",
+		"twitchRef": "",
+		"twitchRef": "",
+		"enum": "PSPLUS_PACK",
+		"pc": "PSPLUS_PACK",
+		"ps4": "PSPLS10000000000",
+		"xb1": "PSPLUS_PACK",
+		"switch": "PSPLUS_PACK",
+		"pc_offer": "",
+		"steam_offer": "",
+		"xb1_offer": "",
+		"menuTitleText": "#PROMO_REWARDS_UNLOCKED",
+		"menuDescText": "#PROMO_PS4_PLUS_OWNED",
+		"menuImageName": "apex_title_blue",
+		"menuPersistenceVarName": "plusAcknowledged",
+		"list": [
+				{
+					"flavor": "settings/itemflav/character_skin/bloodhound/rare_ps4.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/character_skin/gibraltar/rare_ps4.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/gcard_frame/bloodhound/rare_ps4.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/gcard_frame/gibraltar/rare_ps4.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/autopistol/rare_ps4.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/flatline/rare_ps4.rpak",
+					"quantity": 1
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isMenuEnabled": false
+	}
+}

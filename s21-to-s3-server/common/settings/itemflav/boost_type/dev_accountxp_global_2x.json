@@ -1,0 +1,45 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_boost_type_layout.rpak",
+	"uniqueId": 767774890,
+	"settings": {
+		"assetName": "settings/itemflav/boost_type/dev_accountxp_global_2x.rpak",
+		"itemType": "boost_type",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00767774890",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#DEV_BOOSTEVENT_2X_XP_TITLE_FROM_TYPE",
+		"localizationKey_NAME_SHORT": "#DEV_BOOSTEVENT_2X_XP_TITLE_FROM_TYPE",
+		"localizationKey_DESCRIPTION_LONG": "#DEV_BOOSTEVENT_2X_XP_DESC_FROM_TYPE",
+		"localizationKey_DESCRIPTION_SHORT": "#DEV_BOOSTEVENT_2X_XP_DESC_FROM_TYPE",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"typeId": "dev_accountxp_global_2x",
+		"condition_party": "FALSE",
+		"boostReqDescription": "#DEV_BOOSTEVENT_REQ_ALL_MODES",
+		"uiModifierSummary": "#PROGRESSION_MODIFIERS_PERCENTAGE_ADD",
+		"uiBadgeIconSmall": "",
+		"effects": [
+				{
+					"property": "ACCXP_GLOBAL",
+					"modifierType": 0,
+					"amount": 2.000000,
+					"calculationType": 0
+				}
+			],
+		"conditions_gamemode": [
+			],
+		"conditions_region": [
+			],
+		"conditions_platform": [
+			],
+		"boostCategory": 0,
+		"uiModifierSummaryAmount": 100.000000,
+		"uiColor": "<0.000000,0.000000,0.000000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isDevType": true
+	}
+}

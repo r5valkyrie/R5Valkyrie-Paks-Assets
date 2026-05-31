@@ -1,0 +1,7 @@
+seqs:
+[
+	animseq\weapons\hemlock_br\ptpov_hemlock_br\fire_optic_reactive.rseq
+	animseq\weapons\hemlock_br\ptpov_hemlock_br\fire_reactive.rseq
+	animseq\weapons\hemlock_br\ptpov_hemlock_br\idle_reactive_layer.rseq
+	animseq\weapons\hemlock_br\ptpov_hemlock_br_s09_bp\fire_onehanded.rseq
+]

@@ -1,0 +1,25 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_class_perk_layout.rpak",
+	"uniqueId": 382044522,
+	"settings": {
+		"assetName": "settings/itemflav/class_perk/next_zone_scan.rpak",
+		"itemType": "character_perk",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00382044522",
+		"__featureFlag": "",
+		"devDescription": "Class perk to scan next zone",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "#BEACON_CIRCLE_SCAN_PERK_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#BEACON_CIRCLE_SCAN_PERK_SHORT_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/gametype_icons/survival/perk_inworld_controller",
+		"tagIcon": "rui/hud/gametype_icons/survival/perk_minimap_controller",
+		"grxMode": "NONE",
+		"perkScriptRef": "BEACON_SCAN",
+		"fullmapSmallIcon": "",
+		"localizationKey_PropName": "#PERK_FEATURE_RING_CONSOLE",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

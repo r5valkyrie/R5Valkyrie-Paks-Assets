@@ -1,0 +1,60 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_entitlement_layout.rpak",
+	"uniqueId": 2065640891,
+	"settings": {
+		"assetName": "settings/itemflav/entitlement/PS_SIE_PACK_01.rpak",
+		"itemType": "entitlement",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID02065640891",
+		"__featureFlag": "",
+		"devDescription": "PS SIE Pack 01",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"entitlementType": "firstparty",
+		"twitchRef": "",
+		"twitchRef": "",
+		"enum": "PS_SIE_PACK_01",
+		"pc": "PS_SIE_PACK_01",
+		"ps4": "PARTACTIVATION00",
+		"xb1": "PS_SIE_PACK_01",
+		"switch": "PS_SIE_PACK_01",
+		"pc_offer": "",
+		"steam_offer": "",
+		"xb1_offer": "",
+		"menuTitleText": "#PROMO_REWARDS_UNLOCKED",
+		"menuDescText": "#PROMO_PS_SIE_PACK_01_OWNED",
+		"menuImageName": "playstation_sie_pack01",
+		"menuPersistenceVarName": "",
+		"list": [
+				{
+					"flavor": "settings/itemflav/character/octane.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/character_skin/octane/s08ace_epic_01.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/character_skin/octane/s09e01_epicp_v21_jpnlegacy.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/wingman/s08ace_epic_01.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/g7/s08ace_epic_01.rpak",
+					"quantity": 1
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isMenuEnabled": true
+	}
+}

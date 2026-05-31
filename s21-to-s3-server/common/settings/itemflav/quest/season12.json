@@ -1,0 +1,441 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_quest_layout.rpak",
+	"uniqueId": 493824547,
+	"settings": {
+		"assetName": "settings/itemflav/quest/season12.rpak",
+		"itemType": "quest",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00493824547",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#QUEST_NAME_S12",
+		"localizationKey_NAME_SHORT": "#QUEST_NAME_S12",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"questModel": "",
+		"questTabLongDesc": "#QUEST_INFO_S12",
+		"questTabCornerImage": "rui/menu/quest/quest_octane",
+		"questTabRightCornerImage": "",
+		"questTabDeepLinkLabel": "",
+		"deepLinkStartTime": "",
+		"deepLinkFinishTime": "",
+		"questTabDeepLink": "",
+		"questTabBasicInfoHeader": "not_in_use",
+		"questTabBasicInfoItemText0": "not_in_use",
+		"questTabBasicInfoItemText1": "not_in_use",
+		"questTabBasicInfoItemText2": "not_in_use",
+		"questTabBasicInfoItemText3": "not_in_use",
+		"questTabArtifactProgressHeader": "not_in_use",
+		"grxOfferLocation": "s12_quest",
+		"treasureBoxPurchaseFlav": "settings/itemflav/voucher/s12_quest_piece.rpak",
+		"treasurePacksSequenceMarketplaceVar": "rewardseq_s12_quest_piece",
+		"comicPageRewardsSequenceMarketplaceVar": "rewardseq_s12_quest",
+		"missionRewardsSequenceMarketplaceVar": "",
+		"defaultQuestItemIcon": "",
+		"loreSequencePrologueDT": "",
+		"loreSequenceEpilogueDT": "",
+		"completionRewards": [
+				{
+					"flavor": "settings/itemflav/pack/cosmetic_rare.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/g7/epicp_v21_rebelbiker.rpak",
+					"quantity": 1
+				}
+			],
+		"treasurePacksSchedule": [
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/voucher/DEPRECATED_quest_reward_stars_2.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/voucher/DEPRECATED_quest_reward_stars_2.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/pack/cosmetic_rare.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/voucher/DEPRECATED_quest_reward_stars_2.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/grx_currency/crafting.rpak",
+								"quantity": 15
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/voucher/DEPRECATED_quest_reward_stars_2.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/pack/cosmetic_rare.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/voucher/DEPRECATED_quest_reward_stars_2.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/grx_currency/crafting.rpak",
+								"quantity": 15
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v21_misc_leather_keychain01.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/voucher/DEPRECATED_quest_reward_stars_2.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/pack/cosmetic_rare.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/voucher/DEPRECATED_quest_reward_stars_2.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/voucher/DEPRECATED_quest_reward_stars_2.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/voucher/DEPRECATED_quest_reward_stars_2.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/pack/cosmetic_rare.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/voucher/DEPRECATED_quest_reward_stars_2.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/grx_currency/crafting.rpak",
+								"quantity": 15
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/voucher/DEPRECATED_quest_reward_stars_2.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/voucher/DEPRECATED_quest_reward_stars_2.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/pack/cosmetic_rare.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/voucher/DEPRECATED_quest_reward_stars_2.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/grx_currency/crafting.rpak",
+								"quantity": 15
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/voucher/DEPRECATED_quest_reward_stars_2.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/grx_currency/crafting.rpak",
+								"quantity": 15
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/voucher/DEPRECATED_quest_reward_stars_2.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/voucher/DEPRECATED_quest_reward_stars_2.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/grx_currency/crafting.rpak",
+								"quantity": 15
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/voucher/DEPRECATED_quest_reward_stars_2.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/pack/cosmetic_rare.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/voucher/DEPRECATED_quest_reward_stars_2.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/grx_currency/crafting.rpak",
+								"quantity": 15
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/voucher/DEPRECATED_quest_reward_stars_2.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/grx_currency/crafting.rpak",
+								"quantity": 15
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/voucher/DEPRECATED_quest_reward_stars_2.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/grx_currency/crafting.rpak",
+								"quantity": 15
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v21_misc_rebelbiker01_rc01.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/voucher/DEPRECATED_quest_reward_stars_2.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/pack/cosmetic_rare.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/voucher/DEPRECATED_quest_reward_stars_2.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/grx_currency/crafting.rpak",
+								"quantity": 15
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/voucher/DEPRECATED_quest_reward_stars_2.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/grx_currency/crafting.rpak",
+								"quantity": 15
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/voucher/DEPRECATED_quest_reward_stars_2.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/grx_currency/crafting.rpak",
+								"quantity": 15
+							}
+						]
+				}
+			],
+		"comicPages": [
+			],
+		"missions": [
+				{
+					"flavor": "settings/itemflav/quest_mission/s12/mission01.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/quest_mission/s12/mission02.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/quest_mission/s12/mission03.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/quest_mission/s12/mission04.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/quest_mission/s12/mission05.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/quest_mission/s12/mission06.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/quest_mission/s12/mission07.rpak"
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

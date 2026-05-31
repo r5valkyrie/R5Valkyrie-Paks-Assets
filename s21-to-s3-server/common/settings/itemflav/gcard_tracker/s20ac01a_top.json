@@ -1,0 +1,33 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_stat_tracker_layout.rpak",
+	"uniqueId": 88951498,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_tracker/s20ac01a_top.rpak",
+		"itemType": "gladiator_card_stat_tracker",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00088951498",
+		"__featureFlag": "",
+		"devDescription": "",
+		"localizationKey_NAME": "#gcard_tracker_s20ac01a_top_NAME",
+		"localizationKey_NAME_SHORT": "#gcard_tracker_s20ac01a_top_NAME_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "RARE",
+		"icon": "rui/events/s20ac01/tracker_s20ac01a",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "gcard_tracker_s20ac01a_top",
+		"ownershipTarget": "",
+		"statRef": "stats.modes[threestrikes].damage_done",
+		"valueNumberFormat": "INTEGER",
+		"valueSuffix": "",
+		"backgroundImage": "rui/events/s20ac01/tracker_s20ac01a_top",
+		"multipleOwnershipTargets": [
+			],
+		"color0": "<0.550000,0.540000,0.540000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false
+	}
+}

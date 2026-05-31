@@ -1,0 +1,48 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_entitlement_layout.rpak",
+	"uniqueId": 653454821,
+	"settings": {
+		"assetName": "settings/itemflav/entitlement/amazon_drop_31.rpak",
+		"itemType": "entitlement",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00653454821",
+		"__featureFlag": "",
+		"devDescription": "Prime Gaming Reward - Drop 31",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"entitlementType": "twitch_prime",
+		"twitchRef": "amazon_drop_31",
+		"twitchRef": "amazon_drop_31",
+		"enum": "",
+		"pc": "",
+		"ps4": "",
+		"xb1": "",
+		"switch": "",
+		"pc_offer": "",
+		"steam_offer": "",
+		"xb1_offer": "",
+		"menuTitleText": "#PRIME_GAMING",
+		"menuDescText": "#PRIME_GAMING_DROP31_ENTITLEMENT_OWNED",
+		"menuImageName": "twitch_promo_51",
+		"menuPersistenceVarName": "",
+		"list": [
+				{
+					"flavor": "settings/itemflav/pack/thematic_octane.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/pack/cosmetic_rare.rpak",
+					"quantity": 1
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isMenuEnabled": true
+	}
+}

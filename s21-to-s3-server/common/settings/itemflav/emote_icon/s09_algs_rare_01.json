@@ -1,0 +1,36 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_emote_icon_layout.rpak",
+	"uniqueId": 1370463179,
+	"settings": {
+		"assetName": "settings/itemflav/emote_icon/s09_algs_rare_01.rpak",
+		"itemType": "emote_icon",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01370463179",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#spray_algs_01",
+		"localizationKey_NAME_SHORT": "#spray_algs_01",
+		"localizationKey_DESCRIPTION_LONG": "#spray_algs_01",
+		"localizationKey_DESCRIPTION_SHORT": "#spray_algs_01",
+		"quality": "RARE",
+		"icon": "rui/menu/holosprays/hspry_rare_v21_algs_01",
+		"tagIcon": "rui/events/algs/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "emote_icon_s09_algs_rare_01",
+		"ownershipTarget": "",
+		"anim3p": "",
+		"holoProjectorSprayModel": "mdl/props/holo_spray/spray_rare_v21_algs_01.rmdl",
+		"quickchatAliasSubName": "",
+		"customSkinMenuBlurb": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,0.502000,0.000000>",
+		"holoProjectorEffectColor2": "<1.000000,0.502000,0.251000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": true,
+		"holoProjectorUseEffectColor2": false,
+		"isTheEmpty": false
+	}
+}

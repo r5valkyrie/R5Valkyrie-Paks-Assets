@@ -1,0 +1,33 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_stat_tracker_layout.rpak",
+	"uniqueId": 1000050441,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_tracker/bangalore/season09_kills.rpak",
+		"itemType": "gladiator_card_stat_tracker",
+		"parentItemFlavor": "settings/itemflav/character/bangalore.rpak",
+		"settingsAssetID": "SAID01000050441",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#gcard_tracker_bangalore_season09_kills_NAME",
+		"localizationKey_NAME_SHORT": "#TRACKER_SEASON_9_KILLS",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "RARE",
+		"icon": "",
+		"tagIcon": "rui/events/s09bp/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "gcard_tracker_bangalore_season09_kills",
+		"ownershipTarget": "",
+		"statRef": "stats.seasons[SAID01080534582].characters[%char%].kills",
+		"valueNumberFormat": "INTEGER",
+		"valueSuffix": "",
+		"backgroundImage": "rui/gladiator_cards/trackers/event/s09bp/season09_stat_tracker_bangalore",
+		"multipleOwnershipTargets": [
+			],
+		"color0": "<0.522000,0.207000,0.890000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false
+	}
+}

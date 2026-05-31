@@ -1,0 +1,36 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_emote_icon_layout.rpak",
+	"uniqueId": 360776496,
+	"settings": {
+		"assetName": "settings/itemflav/emote_icon/newcastle_magicsnowbeast/epic_v22_newcastle_magicsnowbeast_01.rpak",
+		"itemType": "emote_icon",
+		"parentItemFlavor": "settings/itemflav/character/newcastle.rpak",
+		"settingsAssetID": "SAID00360776496",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#spray_epic_v22_newcastle_magicsnowbeast_01",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "EPIC",
+		"icon": "rui/menu/holosprays/hspray_epic_v22_newcastle_magicsnowbeast_01",
+		"tagIcon": "rui/events/s15e00/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "emote_icon_epic_v22_newcastle_magicsnowbeast_01",
+		"ownershipTarget": "",
+		"anim3p": "",
+		"holoProjectorSprayModel": "mdl/props/holo_spray/hspray_epic_v22_newcastle_magicsnowbeast_01.rmdl",
+		"quickchatAliasSubName": "",
+		"customSkinMenuBlurb": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<0.157000,0.325000,1.000000>",
+		"holoProjectorEffectColor2": "<0.996000,0.812000,0.255000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": true,
+		"holoProjectorUseEffectColor2": true,
+		"isTheEmpty": false
+	}
+}

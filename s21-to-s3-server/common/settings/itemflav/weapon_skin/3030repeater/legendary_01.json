@@ -1,0 +1,51 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_skin_layout.rpak",
+	"uniqueId": 687100672,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_skin/3030repeater/legendary_01.rpak",
+		"itemType": "weapon_skin",
+		"parentItemFlavor": "settings/itemflav/loot/main_weapon/3030repeater.rpak",
+		"settingsAssetID": "SAID00687100672",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#SKIN_837",
+		"localizationKey_NAME_SHORT": "#SKIN_837",
+		"localizationKey_DESCRIPTION_LONG": "#SKIN_837",
+		"localizationKey_DESCRIPTION_SHORT": "#SKIN_837",
+		"quality": "LEGENDARY",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "weapon_skin_3030repeater_legendary_01",
+		"ownershipTarget": "",
+		"worldModel": "mdl/weapons/3030repeater/w_3030repeater_supersonic.rmdl",
+		"viewModel": "mdl/weapons/3030repeater/ptpov_3030repeater_supersonic.rmdl",
+		"skinName": "supersonic",
+		"exclusiveFunc": "",
+		"unlockFuncKey": "",
+		"video": "",
+		"customSkinMenuBlurb": "",
+		"multipleOwnershipTargets": [
+			],
+		"camoIndex": 0,
+		"hackyRUISchemeIdentifier": 0,
+		"featureReactsToKillsLevels": [
+			],
+		"skinAlias_vfxAliases": [
+			],
+		"skinAlias_sfxAliases": [
+			],
+		"skinAlias_bodyGroupAliases": [
+			],
+		"skinAlias_impactTableAliases": [
+			],
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"exclusive": false,
+		"shouldHideIfLocked": false,
+		"forceFullWeaponIcon": false,
+		"featureReactsToKills": false,
+		"forceVideoInspect": false
+	}
+}

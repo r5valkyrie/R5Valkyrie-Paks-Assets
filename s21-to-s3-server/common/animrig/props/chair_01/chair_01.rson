@@ -1,0 +1,8 @@
+seqs:
+[
+	animseq\props\chair_01\chair_01\ballistic_gladcard_static_checkthetime_chair_.rseq
+	animseq\props\chair_01\chair_01\chair_bloodhound_gladcard_animated_activate.rseq
+	animseq\props\chair_01\chair_01\chair_bloodhound_gladcard_animated_activate_idle.rseq
+	animseq\props\chair_01\chair_01\chair_vantage_gladcard_animated_wakeup.rseq
+	animseq\props\chair_01\chair_01\chair_vantage_gladcard_animated_wakeup_idle.rseq
+]

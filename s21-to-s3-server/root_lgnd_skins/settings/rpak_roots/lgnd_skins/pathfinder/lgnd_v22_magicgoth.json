@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/pathfinder/lgnd_v22_magicgoth.rpak",
+		"roots": [
+				{
+					"asset": "mdl/techart/mshop/characters/legends/pathfinder/pathfinder_v22_magicgoth_w.rmdl",
+					"featureFlag": ""
+				},
+				{
+					"asset": "mdl/techart/mshop/characters/legends/pathfinder/pathfinder_v22_magicgoth_v.rmdl",
+					"featureFlag": ""
+				}
+			]
+	}
+}

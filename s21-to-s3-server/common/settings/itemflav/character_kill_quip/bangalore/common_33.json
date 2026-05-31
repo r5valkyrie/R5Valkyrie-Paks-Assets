@@ -1,0 +1,36 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_kill_quip_layout.rpak",
+	"uniqueId": 2023836749,
+	"settings": {
+		"assetName": "settings/itemflav/character_kill_quip/bangalore/common_33.rpak",
+		"itemType": "gladiator_card_kill_quip",
+		"parentItemFlavor": "settings/itemflav/character/bangalore.rpak",
+		"settingsAssetID": "SAID02023836749",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#character_kill_quip_bangalore_common_33_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "COMMON",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_kill_quip_bangalore_common_33",
+		"ownershipTarget": "",
+		"anim3p": "",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "glad_taunt_33",
+		"victimVoiceSoundEvent": "diag_mp_bangalore_glad_taunt_33_3p_victim",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false,
+		"isTheEmpty": false
+	}
+}

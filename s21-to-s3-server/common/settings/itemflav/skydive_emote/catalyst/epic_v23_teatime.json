@@ -1,0 +1,31 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_skydive_emote_layout.rpak",
+	"uniqueId": 840480296,
+	"settings": {
+		"assetName": "settings/itemflav/skydive_emote/catalyst/epic_v23_teatime.rpak",
+		"itemType": "skydive_emote",
+		"parentItemFlavor": "settings/itemflav/character/catalyst.rpak",
+		"settingsAssetID": "SAID00840480296",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#skydive_emote_catalyst_teatime_01",
+		"localizationKey_NAME_SHORT": "#skydive_emote_catalyst_teatime_01",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/battlepass/skydive_emote_catalyst_teatime",
+		"tagIcon": "rui/events/s16ce02/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "skydive_emote_catalyst_epic_v23_teatime",
+		"ownershipTarget": "",
+		"animSequence": "animseq/humans/class/medium/pilot_medium_catalyst/catalyst_freefall_emote_teatime.rseq",
+		"video": "media/skydive_emotes/catalyst_teatime",
+		"bcEvent": "bc_skydive",
+		"multipleOwnershipTargets": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false
+	}
+}

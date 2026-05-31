@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 1948611450,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/pathfinder/lgnd_v22_magicwitch_sparkler.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/pathfinder.rpak",
+		"settingsAssetID": "SAID01948611450",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#ground_emote_pathfinder_sparkler",
+		"localizationKey_NAME_SHORT": "#ground_emote_pathfinder_sparkler",
+		"localizationKey_DESCRIPTION_LONG": "#ground_emote_pathfinder_sparkler",
+		"localizationKey_DESCRIPTION_SHORT": "#ground_emote_pathfinder_sparkler",
+		"quality": "LEGENDARY",
+		"icon": "rui/menu/buttons/character_emotes/pathfinder/sparksofjoy",
+		"tagIcon": "rui/events/s15lny/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_pathfinder_lgnd_v22_magicwitch_sparkler",
+		"ownershipTarget": "",
+		"anim3p": "pathfinder_ground_emote_sparkler",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

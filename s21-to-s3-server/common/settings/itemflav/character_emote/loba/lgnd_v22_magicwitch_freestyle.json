@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 529729572,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/loba/lgnd_v22_magicwitch_freestyle.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/loba.rpak",
+		"settingsAssetID": "SAID00529729572",
+		"__featureFlag": "",
+		"devDescription": "loba_ground_emote_freestyle",
+		"localizationKey_NAME": "#loba_ground_emote_freestyle",
+		"localizationKey_NAME_SHORT": "#loba_ground_emote_freestyle",
+		"localizationKey_DESCRIPTION_LONG": "#loba_ground_emote_freestyle",
+		"localizationKey_DESCRIPTION_SHORT": "#loba_ground_emote_freestyle",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/character_emotes/loba/toying_with_enemy",
+		"tagIcon": "rui/events/s15e01/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_loba_lgnd_v22_magicwitch_freestyle",
+		"ownershipTarget": "",
+		"anim3p": "loba_ground_emote_freestyle",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

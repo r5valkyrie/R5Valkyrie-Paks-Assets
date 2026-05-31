@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 757534453,
+	"settings": {
+		"assetName": "settings/itemflav/ability/upgrade_revenant_squadwipe_squad_count.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00757534453",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#UPGRADE_REVENANT_PASSIVE_NEARBY_SQUADS_NAME",
+		"localizationKey_NAME_SHORT": "#UPGRADE_TYPE_TACTICAL",
+		"localizationKey_DESCRIPTION_LONG": "#UPGRADE_REVENANT_PASSIVE_NEARBY_SQUADS_LONG_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#UPGRADE_REVENANT_PASSIVE_NEARBY_SQUADS_SHORT_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/legend_upgrades/ash_murdermachine_icon",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_SQUADWIPE_SQUAD_COUNT",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

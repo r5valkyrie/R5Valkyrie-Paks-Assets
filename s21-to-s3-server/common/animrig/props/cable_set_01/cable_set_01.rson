@@ -1,0 +1,7 @@
+seqs:
+[
+	animseq\props\cable_set_01\cable_set_01\cable_gladcard_animated_activate.rseq
+	animseq\props\cable_set_01\cable_set_01\cable_gladcard_animated_activate_02.rseq
+	animseq\props\cable_set_01\cable_set_01\cable_gladcard_animated_activate_idle.rseq
+	animseq\props\cable_set_01\cable_set_01\cable_gladcard_animated_activate_idle_02.rseq
+]

@@ -1,0 +1,21 @@
+seqs:
+[
+	animseq\props\pariah_heart\pariah_heart\freefall_pariah_rings_heart.rseq
+	animseq\props\pariah_heart\pariah_heart\pariah_heart_gladcard_animated_deceiver.rseq
+	animseq\props\pariah_heart\pariah_heart\pariah_heart_gladcard_animated_deceiver_idle.rseq
+	animseq\props\pariah_heart\pariah_heart\pariah_prop_heart_gladcard_animated_dronecommander.rseq
+	animseq\props\pariah_heart\pariah_heart\pariah_prop_heart_gladcard_idle_dronecommander.rseq
+	animseq\props\pariah_heart\pariah_heart\prop_pariah_heart_execution_droneslinger.rseq
+	animseq\props\pariah_heart\pariah_heart\prop_pariah_heart_execution_droneslinger_loot.rseq
+	animseq\props\pariah_heart\pariah_heart\prop_pariah_heart_menu_lobby_right_idle_static.rseq
+	animseq\props\pariah_heart\pariah_heart_held\prop_pariah_heart_deploy.rseq
+	animseq\props\pariah_heart\pariah_heart_held\prop_pariah_heart_deploy_idle.rseq
+	animseq\props\pariah_heart\pariah_heart_held\prop_pariah_heart_deploy_trans.rseq
+	animseq\props\pariah_heart\pariah_heart_held\prop_pariah_heart_idle.rseq
+	animseq\props\pariah_heart\pariah_heart_held\prop_pariah_heart_menu_select.rseq
+	animseq\props\pariah_heart\pariah_heart_held\prop_pariah_heart_menu_select_idle.rseq
+	animseq\props\pariah_heart\pariah_heart_held\prop_pariah_heart_menu_select_ready_up.rseq
+	animseq\props\pariah_heart\pariah_heart_held\prop_pariah_heart_shutdown.rseq
+	animseq\props\pariah_heart\pariah_heart_held\prop_pariah_heart_shutdown_idle.rseq
+	animseq\props\pariah_heart_actual_size\pariah_heart_actual_size_gladcard_static_handfulofdrones.rseq
+]

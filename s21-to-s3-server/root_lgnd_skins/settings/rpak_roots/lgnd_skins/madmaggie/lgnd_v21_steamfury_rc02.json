@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/madmaggie/lgnd_v21_steamfury_rc02.rpak",
+		"roots": [
+				{
+					"asset": "mdl/techart/mshop/characters/legends/madmaggie/madmaggie_v21_steamfury_w.rmdl",
+					"featureFlag": ""
+				},
+				{
+					"asset": "mdl/techart/mshop/characters/legends/madmaggie/madmaggie_v21_steamfury_v.rmdl",
+					"featureFlag": ""
+				}
+			]
+	}
+}

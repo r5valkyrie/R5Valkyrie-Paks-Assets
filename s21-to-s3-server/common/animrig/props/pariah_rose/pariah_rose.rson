@@ -1,0 +1,9 @@
+seqs:
+[
+	animseq\props\pariah_rose\pariah_rose\prop_rose_main_seer_sickle_inspect_magic.rseq
+	animseq\props\pariah_rose\pariah_rose\prop_rose_petals_seer_sickle_inspect_magic.rseq
+	animseq\props\pariah_rose\pariah_rose\prop_rose_revenant_sprintDraw_unbox_01.rseq
+	animseq\props\pariah_rose\pariah_rose\prop_rose_revenant_sprintDraw_unbox_02.rseq
+	animseq\props\pariah_rose\pariah_rose_gladcard_static_rose.rseq
+	animseq\props\pariah_rose\seer_heirloom_drawsprint_roseprop.rseq
+]

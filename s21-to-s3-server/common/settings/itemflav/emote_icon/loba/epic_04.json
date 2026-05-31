@@ -1,0 +1,36 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_emote_icon_layout.rpak",
+	"uniqueId": 752608714,
+	"settings": {
+		"assetName": "settings/itemflav/emote_icon/loba/epic_04.rpak",
+		"itemType": "emote_icon",
+		"parentItemFlavor": "settings/itemflav/character/loba.rpak",
+		"settingsAssetID": "SAID00752608714",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#spray_epic_v20_loba_04",
+		"localizationKey_NAME_SHORT": "#spray_epic_v20_loba_04",
+		"localizationKey_DESCRIPTION_LONG": "#spray_epic_v20_loba_04",
+		"localizationKey_DESCRIPTION_SHORT": "#spray_epic_v20_loba_04",
+		"quality": "EPIC",
+		"icon": "rui/menu/holosprays/hspray_epic_v20_loba_04",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "emote_icon_loba_epic_04",
+		"ownershipTarget": "",
+		"anim3p": "",
+		"holoProjectorSprayModel": "mdl/props/holo_spray/hspray_epic_v20_loba_04.rmdl",
+		"quickchatAliasSubName": "",
+		"customSkinMenuBlurb": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<0.888000,0.674000,1.000000>",
+		"holoProjectorEffectColor2": "<0.900000,0.000000,0.538000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": true,
+		"holoProjectorUseEffectColor2": true,
+		"isTheEmpty": false
+	}
+}

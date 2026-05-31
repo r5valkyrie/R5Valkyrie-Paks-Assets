@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 1489164996,
+	"settings": {
+		"assetName": "settings/itemflav/ability/upgrade_bangalore_ult_cooldown.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01489164996",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#UPGRADE_BANGALORE_ULT_COOLDOWN_NAME",
+		"localizationKey_NAME_SHORT": "#UPGRADE_TYPE_ULTIMATE",
+		"localizationKey_DESCRIPTION_LONG": "#UPGRADE_BANGALORE_ULT_COOLDOWN_LONG_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#UPGRADE_BANGALORE_ULT_COOLDOWN_SHORT_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/legend_upgrades/bangalore_ultimateartillery_icon",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_ULT_UPGRADE_ONE",
+		"passiveWeaponMod": "upgrade_core_ult_cooldown_reduction",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

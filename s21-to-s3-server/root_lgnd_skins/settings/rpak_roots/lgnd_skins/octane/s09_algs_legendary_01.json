@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/octane/s09_algs_legendary_01.rpak",
+		"roots": [
+				{
+					"asset": "mdl/humans/class/medium/octane_v21_origins_w.rmdl",
+					"featureFlag": ""
+				},
+				{
+					"asset": "mdl/Weapons/arms/octane_v21_origins_v.rmdl",
+					"featureFlag": ""
+				}
+			]
+	}
+}

@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 1572101091,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/wattson/epic_v22_magicwitch_dancenowatch.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/wattson.rpak",
+		"settingsAssetID": "SAID01572101091",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#ground_emote_wattson_dancenowatch",
+		"localizationKey_NAME_SHORT": "#ground_emote_wattson_dancenowatch",
+		"localizationKey_DESCRIPTION_LONG": "#ground_emote_wattson_dancenowatch",
+		"localizationKey_DESCRIPTION_SHORT": "#ground_emote_wattson_dancenowatch",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/character_emotes/wattson/electricboogie",
+		"tagIcon": "rui/events/s15e01/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_wattson_epic_v22_magicwitch_dancenowatch",
+		"ownershipTarget": "",
+		"anim3p": "wattson_ground_emote_danceLikeNoOnesWatching",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

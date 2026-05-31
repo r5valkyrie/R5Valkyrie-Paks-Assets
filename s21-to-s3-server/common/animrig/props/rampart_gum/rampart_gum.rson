@@ -1,0 +1,8 @@
+seqs:
+[
+	animseq\props\rampart_gum\rampart_gum\prop_gum_rampart_gladcard_animated_gum.rseq
+	animseq\props\rampart_gum\rampart_gum\ptpov_wrench_rampart_drawfirst_gum.rseq
+	animseq\props\rampart_gum\rampart_gum\ptpov_wrench_rampart_drawfirst_gum_crouch.rseq
+	animseq\props\rampart_gum\rampart_gum\ptpov_wrench_rampart_inspect_sticker_gum.rseq
+	animseq\props\rampart_gum\rampart_gum\ptpov_wrench_rampart_inspect_sticker_gum1.rseq
+]

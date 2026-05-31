@@ -1,0 +1,10 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_SetPropSkin_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/propSkin_balistic_gladcard_teatime_teacup_rc01.rpak",
+		"devDescription": "",
+		"type": "SetPropSkin",
+		"skinName": "teacup_01_rc01",
+		"camoIndex": 0
+	}
+}

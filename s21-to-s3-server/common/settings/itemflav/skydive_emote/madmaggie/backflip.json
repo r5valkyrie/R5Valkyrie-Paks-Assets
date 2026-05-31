@@ -1,0 +1,31 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_skydive_emote_layout.rpak",
+	"uniqueId": 1425159952,
+	"settings": {
+		"assetName": "settings/itemflav/skydive_emote/madmaggie/backflip.rpak",
+		"itemType": "skydive_emote",
+		"parentItemFlavor": "settings/itemflav/character/madmaggie.rpak",
+		"settingsAssetID": "SAID01425159952",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#EMOTE_041",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/battlepass/skydive_emote_backflip",
+		"tagIcon": "rui/events/s12bp/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "skydive_emote_madmaggie_backflip",
+		"ownershipTarget": "",
+		"animSequence": "animseq/humans/class/medium/pilot_medium_madmaggie/madmaggie_freefall_emote_backflip.rseq",
+		"video": "media/skydive_emotes/madmaggie_backflip",
+		"bcEvent": "bc_skydive",
+		"multipleOwnershipTargets": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false
+	}
+}

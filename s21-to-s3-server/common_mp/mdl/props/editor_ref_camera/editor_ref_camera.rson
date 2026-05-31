@@ -1,0 +1,11 @@
+rigs:
+[
+]
+seqs:
+[
+	animseq\props\editor_ref_camera\editor_ref_camera\CC_ccStart_cam0.rseq
+	animseq\props\editor_ref_camera\editor_ref_camera\CC_ccStart_cam1.rseq
+	animseq\props\editor_ref_camera\editor_ref_camera\CC_ccStart_cam2.rseq
+	animseq\props\editor_ref_camera\editor_ref_camera\CC_ccStart_cam3.rseq
+	animseq\props\editor_ref_camera\editor_ref_camera\mp_cam_victory.rseq
+]

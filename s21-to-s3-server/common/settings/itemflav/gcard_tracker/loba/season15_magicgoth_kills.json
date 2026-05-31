@@ -1,0 +1,33 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_stat_tracker_layout.rpak",
+	"uniqueId": 708471731,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_tracker/loba/season15_magicgoth_kills.rpak",
+		"itemType": "gladiator_card_stat_tracker",
+		"parentItemFlavor": "settings/itemflav/character/loba.rpak",
+		"settingsAssetID": "SAID00708471731",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#gcard_tracker_loba_season15_magicgoth_kills_NAME",
+		"localizationKey_NAME_SHORT": "#TRACKER_SEASON_15_KILLS",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "RARE",
+		"icon": "",
+		"tagIcon": "rui/events/s15bp/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "gcard_tracker_loba_season15_magicgoth_kills",
+		"ownershipTarget": "",
+		"statRef": "stats.seasons[SAID00589335273].characters[%char%].kills",
+		"valueNumberFormat": "INTEGER",
+		"valueSuffix": "",
+		"backgroundImage": "rui/gladiator_cards/trackers/event/s15bp/season15_stat_tracker_loba",
+		"multipleOwnershipTargets": [
+			],
+		"color0": "<0.776000,0.309000,0.862000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false
+	}
+}

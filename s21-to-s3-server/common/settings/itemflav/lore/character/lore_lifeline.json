@@ -1,0 +1,69 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_lore_layout.rpak",
+	"uniqueId": 732769516,
+	"settings": {
+		"assetName": "settings/itemflav/lore/character/lore_lifeline.rpak",
+		"itemType": "lore",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00732769516",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"type": "Legend",
+		"legend_real_name": "#LORE_LIFELINE_REAL_NAME",
+		"legend_alias": "",
+		"legend_age": "#LORE_LIFELINE_AGE",
+		"legend_home_world": "#LORE_LIFELINE_HOME_WORLD",
+		"bio": [
+				{
+					"line": "#LORE_LIFELINE_0_LEGENDSWAP",
+					"featureFlag": "",
+					"paddingLeft": 0,
+					"paddingRight": 0,
+					"paddingTop": 0,
+					"paddingBottom": 15
+				},
+				{
+					"line": "#LORE_LIFELINE_1_LEGENDSWAP",
+					"featureFlag": "",
+					"paddingLeft": 0,
+					"paddingRight": 0,
+					"paddingTop": 0,
+					"paddingBottom": 15
+				},
+				{
+					"line": "#LORE_LIFELINE_2_LEGENDSWAP",
+					"featureFlag": "",
+					"paddingLeft": 0,
+					"paddingRight": 0,
+					"paddingTop": 0,
+					"paddingBottom": 15
+				},
+				{
+					"line": "#LORE_LIFELINE_3_LEGENDSWAP",
+					"featureFlag": "",
+					"paddingLeft": 0,
+					"paddingRight": 0,
+					"paddingTop": 0,
+					"paddingBottom": 15
+				},
+				{
+					"line": "#LORE_LIFELINE_4_LEGENDSWAP",
+					"featureFlag": "",
+					"paddingLeft": 0,
+					"paddingRight": 0,
+					"paddingTop": 0,
+					"paddingBottom": 15
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

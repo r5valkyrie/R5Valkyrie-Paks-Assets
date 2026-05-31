@@ -1,0 +1,36 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_kill_quip_layout.rpak",
+	"uniqueId": 1074414411,
+	"settings": {
+		"assetName": "settings/itemflav/character_kill_quip/mirage/s20bp_rare_01.rpak",
+		"itemType": "gladiator_card_kill_quip",
+		"parentItemFlavor": "settings/itemflav/character/mirage.rpak",
+		"settingsAssetID": "SAID01074414411",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#character_kill_quip_mirage_s20bp_rare_01_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "RARE",
+		"icon": "",
+		"tagIcon": "rui/events/s20bp/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_kill_quip_mirage_s20bp_rare_01",
+		"ownershipTarget": "settings/itemflav/character_skin/bloodhound/s03e01_legendary_01.rpak",
+		"anim3p": "",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "glad_taunt_58",
+		"victimVoiceSoundEvent": "diag_mp_mirage_glad_taunt_58_3p_victim",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false,
+		"isTheEmpty": false
+	}
+}

@@ -1,0 +1,14 @@
+rigs:
+[
+]
+seqs:
+[
+	animseq\weapons\3030repeater\w_3030repeater\fuse_3030repeater_gladcard_animated_3030.rseq
+	animseq\weapons\3030repeater\w_3030repeater\fuse_3030repeater_gladcard_animated_idle.rseq
+	animseq\weapons\3030repeater\w_3030repeater\fuse_3030repeater_gladcard_animated_tropics.rseq
+	animseq\weapons\3030repeater\w_3030repeater\fuse_3030repeater_gladcard_animated_tropics_idle.rseq
+	animseq\weapons\3030repeater\w_3030repeater\fuse_oni_3030_menu_select.rseq
+	animseq\weapons\3030repeater\w_3030repeater\fuse_oni_3030_menu_select_idle.rseq
+	animseq\weapons\3030repeater\w_3030repeater\fuse_oni_3030_menu_select_readyup.rseq
+	animseq\weapons\3030repeater\w_3030repeater\fuse_oni_3030_menu_select_readyup_idle.rseq
+]

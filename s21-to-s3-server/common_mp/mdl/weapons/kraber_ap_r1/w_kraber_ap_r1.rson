@@ -1,0 +1,10 @@
+rigs:
+[
+]
+seqs:
+[
+	animseq\weapons\kraber_ap_r1\w_kraber_ap_r1\attack_seq.rseq
+	animseq\weapons\kraber_ap_r1\w_kraber_ap_r1\attack_seq_alt1.rseq
+	animseq\weapons\kraber_ap_r1\w_kraber_ap_r1\attack_seq_alt2.rseq
+	animseq\weapons\kraber_ap_r1\w_kraber_ap_r1\idle_seq.rseq
+]

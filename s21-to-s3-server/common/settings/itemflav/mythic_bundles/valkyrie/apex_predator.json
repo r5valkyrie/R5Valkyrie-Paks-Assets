@@ -1,0 +1,56 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_mythic_bundle_layout.rpak",
+	"uniqueId": 1609259996,
+	"settings": {
+		"assetName": "settings/itemflav/mythic_bundles/valkyrie/apex_predator.rpak",
+		"itemType": "mythic_bundle",
+		"parentItemFlavor": "settings/itemflav/character/valkyrie.rpak",
+		"settingsAssetID": "SAID01609259996",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#pack_mythic_valkyrie_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "MYTHIC",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"parentItemFlavor": "settings/itemflav/character/valkyrie.rpak",
+		"challengeAsset": "settings/itemflav/challenge/mythic/valkyrie/apex_predator.rpak",
+		"executionAsset": "settings/itemflav/character_execution/valkyrie/mythic_v22_angelofdeath.rpak",
+		"skydivetrailAsset": "settings/itemflav/skydive_trail/mythic_wings.rpak",
+		"baseSkinName": "#character_skin_valkyrie_mythic_v23_pilot_level01_NAME",
+		"skinsByTier": [
+				{
+					"skinAsset": "settings/itemflav/character_skin/valkyrie/mythic_v23_pilot_level01.rpak",
+					"unlocksAt": 1.000000
+				},
+				{
+					"skinAsset": "settings/itemflav/character_skin/valkyrie/mythic_v23_pilot_level02.rpak",
+					"unlocksAt": 2.000000
+				},
+				{
+					"skinAsset": "settings/itemflav/character_skin/valkyrie/mythic_v23_pilot_level03.rpak",
+					"unlocksAt": 3.000000
+				}
+			],
+		"storeImagesByTier": [
+				{
+					"storeImage": "rui/menu/heirloom_crafting/mythic_heirloomshop_menuicon_valkyrie_t1",
+					"unlocksAt": 1.000000
+				},
+				{
+					"storeImage": "rui/menu/heirloom_crafting/mythic_heirloomshop_menuicon_valkyrie_t2",
+					"unlocksAt": 2.000000
+				},
+				{
+					"storeImage": "rui/menu/heirloom_crafting/mythic_heirloomshop_menuicon_valkyrie_t3",
+					"unlocksAt": 3.000000
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isExecutionUsableOnTier1AndTier2": true
+	}
+}

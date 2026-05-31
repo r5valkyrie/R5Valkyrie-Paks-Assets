@@ -1,0 +1,10 @@
+rigs:
+[
+]
+seqs:
+[
+	animseq\communication\radar_tower_imc_01_animated\idle_spinning.rseq
+	animseq\communication\radar_tower_imc_01_animated\idle_stopped.rseq
+	animseq\communication\radar_tower_imc_01_animated\starting.rseq
+	animseq\communication\radar_tower_imc_01_animated\stopping.rseq
+]

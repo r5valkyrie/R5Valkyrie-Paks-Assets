@@ -1,0 +1,10 @@
+seqs:
+[
+	animseq\weapons\bangalore_heirloom\menu_bangalore_heirloom\menu_pose_sheath.rseq
+	animseq\weapons\bangalore_heirloom\ptpov_bangalore_heirloom\draw_unsheath_sheath.rseq
+	animseq\weapons\bangalore_heirloom\ptpov_bangalore_heirloom\drawfirst_sheath.rseq
+	animseq\weapons\bangalore_heirloom\ptpov_bangalore_heirloom\drawsprint_unsheath_sheath.rseq
+	animseq\weapons\bangalore_heirloom\ptpov_bangalore_heirloom\inspect_drills_sheath.rseq
+	animseq\weapons\bangalore_heirloom\ptpov_bangalore_heirloom\melee_sheath_sheath.rseq
+	animseq\weapons\bangalore_heirloom\ptpov_bangalore_heirloom_sheath\inspect_maintenance_sheath.rseq
+]

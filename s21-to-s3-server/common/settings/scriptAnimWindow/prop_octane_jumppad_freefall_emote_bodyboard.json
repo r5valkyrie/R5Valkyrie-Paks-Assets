@@ -1,0 +1,20 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_CreateProp_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/prop_octane_jumppad_freefall_emote_bodyboard.rpak",
+		"devDescription": "",
+		"type": "CreateProp",
+		"selectModelFrom": "HARD_CODED",
+		"modelName": "mdl/props/octane_jump_pad/octane_jump_pad.rmdl",
+		"modelScriptKey": "",
+		"attachPoint": "REF",
+		"animSequence": "animseq/props/octane_jump_pad/octane_jump_pad/octane_jumppad_freefall_bodyboard.rseq",
+		"scriptCallbackKey": "",
+		"scale": 1.000000,
+		"additionalAnims": [
+			],
+		"propBodygroups": [
+			],
+		"syncCycle": true
+	}
+}

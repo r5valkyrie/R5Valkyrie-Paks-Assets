@@ -1,0 +1,5 @@
+"fieldName","dataType","layoutIndex","helpText"
+"tierType","string","0",""
+"tierIcon","asset_noprecache","0",""
+"bound","int","0","All players above this bound will be in this tier"
+"rewards","array_dynamic","0",""

@@ -1,0 +1,8 @@
+rigs:
+[
+]
+seqs:
+[
+	animseq\props\shogi_board\shogi_board_v20_base\prop_gladcard_animated_shogi.rseq
+	animseq\props\shogi_board\shogi_board_v20_base\prop_gladcard_animated_shogi_idle.rseq
+]

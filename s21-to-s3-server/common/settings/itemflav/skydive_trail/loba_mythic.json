@@ -1,0 +1,127 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_skydive_trail_layout.rpak",
+	"uniqueId": 1339481618,
+	"settings": {
+		"assetName": "settings/itemflav/skydive_trail/loba_mythic.rpak",
+		"itemType": "skydive_trail",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01339481618",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#LOBA_MYTHIC_SKYDIVE_TRAIL",
+		"localizationKey_NAME_SHORT": "#LOBA_MYTHIC_SKYDIVE_TRAIL",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "MYTHIC",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "OWNERSHIP_TARGET",
+		"grxMode": "OWNERSHIP_TARGET",
+		"grxRef": "skydive_trail_mythic_wings",
+		"ownershipTarget": "settings/itemflav/character_skin/loba/mythic_v23_pilot_level01.rpak",
+		"DropSequenceLaunch1P": "Survival_Flight_Launch_MythicLoba_1P",
+		"DropSequenceLaunch3P": "Survival_DropSequence_Launch_MythicLoba_3P",
+		"DropSequenceTravel1P": "Survival_Flight_Travel_MythicLoba_1P",
+		"DropSequenceTravel3P": "Survival_DropSequence_Travel_MythicLoba_3P",
+		"DropSequenceLandStart1P": "Survival_DropSequence_Land_Start_1P",
+		"DropSequenceLandStart3P": "Survival_DropSequence_Land_Start_3P",
+		"DropSequenceLandStop1P": "Survival_DropSequence_Land_Stop_1P",
+		"DropSequenceLandStop3P": "Survival_DropSequence_Land_Stop_3P",
+		"InGameFlightLaunch1P": "Survival_Flight_Launch_MythicLoba_1P",
+		"InGameFlightLaunch3P": "Survival_InGameFlight_Launch_MythicLoba_3P",
+		"InGameFlightTravel1P": "Survival_Flight_Travel_MythicLoba_1P",
+		"InGameFlightTravel3P": "Survival_InGameFlight_Travel_MythicLoba_3P",
+		"InGameFlightLandStart1P": "Survival_InGameFlight_Land_Start_1P",
+		"InGameFlightLandStart3P": "Survival_InGameFlight_Land_Start_3P",
+		"InGameFlightLandStop1P": "Survival_InGameFlight_Land_Stop_1P",
+		"InGameFlightLandStop3P": "Survival_InGameFlight_Land_Stop_3P",
+		"DropSequenceCameraTransition1P": "Survival_DropSequence_CameraTransition_1P",
+		"video": "media/skydive_trails/skydive_trail_loba_mythic_translocator",
+		"multipleOwnershipTargets": [
+			],
+		"smokeColorFXPackage": [
+				{
+					"fxAsset": "P_skydive_prestige_loba_trail_far",
+					"attachName": "vent_center",
+					"controlPoint": "<0.000000,0.000000,0.000000>",
+					"useCustomControlPoint": false
+				},
+				{
+					"fxAsset": "P_skydive_prestige_loba_vc",
+					"attachName": "vent_center",
+					"controlPoint": "<0.000000,0.000000,0.000000>",
+					"useCustomControlPoint": false
+				}
+			],
+		"friendlyJumpJetFXPackage": [
+				{
+					"fxAsset": "P_loba_prestige_skydive_body_rings",
+					"attachName": "CHESTFOCUS",
+					"controlPoint": "<0.000000,0.000000,0.000000>",
+					"useCustomControlPoint": false
+				},
+				{
+					"fxAsset": "P_skydive_prestige_loba_jet",
+					"attachName": "vent_left",
+					"controlPoint": "<200.000000,90.000000,252.000000>",
+					"useCustomControlPoint": true
+				},
+				{
+					"fxAsset": "P_skydive_prestige_loba_jet",
+					"attachName": "vent_right",
+					"controlPoint": "<200.000000,90.000000,252.000000>",
+					"useCustomControlPoint": true
+				},
+				{
+					"fxAsset": "P_skydive_prestige_loba_body",
+					"attachName": "CHESTFOCUS",
+					"controlPoint": "<255.000000,99.000000,57.000000>",
+					"useCustomControlPoint": false
+				}
+			],
+		"enemyJumpJetFXPackage": [
+				{
+					"fxAsset": "P_skydive_prestige_loba_jet_enemy",
+					"attachName": "vent_left",
+					"controlPoint": "<200.000000,90.000000,252.000000>",
+					"useCustomControlPoint": true
+				},
+				{
+					"fxAsset": "P_skydive_prestige_loba_jet_enemy",
+					"attachName": "vent_right",
+					"controlPoint": "<200.000000,90.000000,252.000000>",
+					"useCustomControlPoint": true
+				},
+				{
+					"fxAsset": "P_loba_prestige_skydive_body_rings",
+					"attachName": "CHESTFOCUS",
+					"controlPoint": "<0.000000,0.000000,0.000000>",
+					"useCustomControlPoint": false
+				},
+				{
+					"fxAsset": "P_skydive_prestige_loba_body",
+					"attachName": "CHESTFOCUS",
+					"controlPoint": "<255.000000,99.000000,57.000000>",
+					"useCustomControlPoint": false
+				}
+			],
+		"jumpJetLandFXPackage": [
+				{
+					"fxAsset": "P_skydive_prestige_loba_s19_jumpjet_land",
+					"attachName": "vent_left",
+					"controlPoint": "<200.000000,90.000000,252.000000>",
+					"useCustomControlPoint": true
+				},
+				{
+					"fxAsset": "P_skydive_prestige_loba_s19_jumpjet_land",
+					"attachName": "vent_right",
+					"controlPoint": "<200.000000,90.000000,252.000000>",
+					"useCustomControlPoint": true
+				}
+			],
+		"props": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

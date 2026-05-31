@@ -1,0 +1,15 @@
+rigs:
+[
+]
+seqs:
+[
+	animseq\humans\class\medium\pilot_medium_ash\ash_ground_emote_slicesanddices\card2_ash_ground_emote_slicesanddices.rseq
+	animseq\humans\class\medium\pilot_medium_ash\ash_ground_emote_slicesanddices\card3_ash_ground_emote_slicesanddices.rseq
+	animseq\humans\class\medium\pilot_medium_ash\ash_ground_emote_slicesanddices\card4_ash_ground_emote_slicesanddices.rseq
+	animseq\humans\class\medium\pilot_medium_ash\ash_ground_emote_slicesanddices\card5_ash_ground_emote_slicesanddices.rseq
+	animseq\props\blisk_card_animated\blisk_taunt_scene_card.rseq
+	animseq\props\blisk_card_animated\card1_ash_ground_emote_slicesanddices.rseq
+	animseq\props\blisk_card_animated\card_ash_ground_emote_slicesanddices.rseq
+	animseq\props\blisk_card_animated\card_valkyrie_heirloom_drawsprint_logo.rseq
+	animseq\props\blisk_card_animated\card_valkyrie_heirloom_drawsprint_quote.rseq
+]

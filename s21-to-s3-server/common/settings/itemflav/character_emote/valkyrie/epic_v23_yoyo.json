@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 907375719,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/valkyrie/epic_v23_yoyo.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/valkyrie.rpak",
+		"settingsAssetID": "SAID00907375719",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#valkyrie_ground_emote_yoyo",
+		"localizationKey_NAME_SHORT": "#valkyrie_ground_emote_yoyo",
+		"localizationKey_DESCRIPTION_LONG": "#valkyrie_ground_emote_yoyo",
+		"localizationKey_DESCRIPTION_SHORT": "#valkyrie_ground_emote_yoyo",
+		"quality": "EPIC",
+		"icon": "rui/hud/character_emotes/valkyrie/icon_character_emote_valkyrie_yoyo",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_valkyrie_epic_v23_yoyo",
+		"ownershipTarget": "",
+		"anim3p": "valkyrie_ground_emote_yoyo",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

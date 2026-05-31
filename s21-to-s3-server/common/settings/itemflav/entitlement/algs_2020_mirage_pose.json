@@ -1,0 +1,44 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_entitlement_layout.rpak",
+	"uniqueId": 708587356,
+	"settings": {
+		"assetName": "settings/itemflav/entitlement/algs_2020_mirage_pose.rpak",
+		"itemType": "entitlement",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00708587356",
+		"__featureFlag": "",
+		"devDescription": "Twitch Drops Mirage gladiator card pose",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "rui/events/algs/item_source_icon",
+		"grxMode": "NONE",
+		"entitlementType": "twitch_drops",
+		"twitchRef": "algs_2020_mirage_pose",
+		"twitchRef": "algs_2020_mirage_pose",
+		"enum": "",
+		"pc": "",
+		"ps4": "",
+		"xb1": "",
+		"switch": "",
+		"pc_offer": "",
+		"steam_offer": "",
+		"xb1_offer": "",
+		"menuTitleText": "#TWITCH_DROPS",
+		"menuDescText": "#TWITCH_DROP_MIRAGE_POSE_ENTITLEMENT_OWNED",
+		"menuImageName": "redemption_algs_winter_2021",
+		"menuPersistenceVarName": "algs_2020_mirage_poseAcknowledged",
+		"list": [
+				{
+					"flavor": "settings/itemflav/gcard_stance/mirage/twitch04_rare_01.rpak",
+					"quantity": 1
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isMenuEnabled": false
+	}
+}

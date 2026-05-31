@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/gibraltar/classic.rpak",
+		"roots": [
+				{
+					"asset": "mdl/humans/class/heavy/pilot_heavy_gibraltar.rmdl",
+					"featureFlag": ""
+				},
+				{
+					"asset": "mdl/weapons/arms/pov_pilot_heavy_gibraltar.rmdl",
+					"featureFlag": ""
+				}
+			]
+	}
+}

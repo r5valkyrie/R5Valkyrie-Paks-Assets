@@ -1,0 +1,9 @@
+rigs:
+[
+	animrig\props\grenade_pin_01\grenade_pin_01.rrig
+]
+seqs:
+[
+	animseq\props\grenade_pin_01\grenadepin_madmaggie_banner_goldmomento.rseq
+	animseq\props\grenade_pin_01\grenadepin_madmaggie_banner_goldmomento_idle.rseq
+]

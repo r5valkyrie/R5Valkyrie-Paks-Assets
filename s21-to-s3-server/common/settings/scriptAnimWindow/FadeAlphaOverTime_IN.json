@@ -1,0 +1,11 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_FadeAlphaOverTime_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/FadeAlphaOverTime_IN.rpak",
+		"devDescription": "Fade the alpha of an entity on the client.",
+		"type": "FadeAlphaOverTime",
+		"fadeDuration": 0.250000,
+		"alphaStart": 0,
+		"alphaEnd": 255
+	}
+}

@@ -1,0 +1,33 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_loadscreen_layout.rpak",
+	"uniqueId": 839382964,
+	"settings": {
+		"assetName": "settings/itemflav/loadscreen/s17ce02_01.rpak",
+		"itemType": "loadscreen",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00839382964",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#LOADSCREEN_s17ce02_01",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "RARE",
+		"icon": "rui/events/s17ce02/loadscreen_icon_01",
+		"tagIcon": "rui/events/s17ce02/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "loadscreen_s17ce02_01",
+		"ownershipTarget": "",
+		"exclusiveFunc": "",
+		"loadscreenImage": "loadscreens/custom/loadscreen_s17ce02_01",
+		"overlayText": "#LOADSCREEN_s17ce02_01_TEXT",
+		"multipleOwnershipTargets": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false,
+		"isTheRandom": false,
+		"exclusive": false
+	}
+}

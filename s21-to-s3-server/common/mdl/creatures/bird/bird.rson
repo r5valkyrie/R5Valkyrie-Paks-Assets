@@ -1,0 +1,57 @@
+rigs:
+[
+]
+seqs:
+[
+	animseq\creatures\bird\bird\bird_bloodhound_freefall_emote_grenades.rseq
+	animseq\creatures\bird\bird\bird_bloodhound_ground_emote_birdmaster.rseq
+	animseq\creatures\bird\bird\Bird_casual_idle.rseq
+	animseq\creatures\bird\bird\Bird_casual_idle_s10e04.rseq
+	animseq\creatures\bird\bird\Bird_cleaning_idle.rseq
+	animseq\creatures\bird\bird\Bird_eating_idle.rseq
+	animseq\creatures\bird\bird\Bird_fly_cycle_long.rseq
+	animseq\creatures\bird\bird\Bird_fly_cycle_long_185f.rseq
+	animseq\creatures\bird\bird\Bird_fly_cycle_long_no_root_motion.rseq
+	animseq\creatures\bird\bird\Bird_fly_skit_C.rseq
+	animseq\creatures\bird\bird\bird_gladcard_animated_activate.rseq
+	animseq\creatures\bird\bird\bird_gladcard_animated_activate_idle.rseq
+	animseq\creatures\bird\bird\bird_gladcard_animated_bird.rseq
+	animseq\creatures\bird\bird\bird_gladcard_animated_bird_idle.rseq
+	animseq\creatures\bird\bird\bird_gloves_inspect.rseq
+	animseq\creatures\bird\bird\bird_ground_emote_birdcall.rseq
+	animseq\creatures\bird\bird\bird_Pathfinder_gladcard_animated_01.rseq
+	animseq\creatures\bird\bird\bird_Pathfinder_gladcard_animated_pose01.rseq
+	animseq\creatures\bird\bird\Bird_react_fly_small.rseq
+	animseq\creatures\bird\bird\Bird_react_fly_small_s10e04.rseq
+	animseq\creatures\bird\bird\bloodhound_ground_emote_stubborn_raven.rseq
+	animseq\creatures\bird\bird\bloodhound_raven_menu_lobby_center_coo.rseq
+	animseq\creatures\bird\bird\bloodhound_raven_menu_lobby_center_idle.rseq
+	animseq\creatures\bird\bird\bloodhound_raven_menu_lobby_center_pet.rseq
+	animseq\creatures\bird\bird\bloodhound_raven_menu_lobby_center_readyup.rseq
+	animseq\creatures\bird\bird\bloodhound_raven_menu_lobby_right_idle.rseq
+	animseq\creatures\bird\bird\caustic_bird_gladcard_static_deadbird.rseq
+	animseq\creatures\bird\bird\freefall_bird01_pathfinder_triplebirdattack.rseq
+	animseq\creatures\bird\bird\freefall_bird02_bloodhound_summoncrow.rseq
+	animseq\creatures\bird\bird\freefall_bird02_pathfinder_triplebirdattack.rseq
+	animseq\creatures\bird\bird\freefall_bird03_bloodhound_summoncrow.rseq
+	animseq\creatures\bird\bird\freefall_bird03_pathfinder_triplebirdattack.rseq
+	animseq\creatures\bird\bird\freefall_bird04_bloodhound_summoncrow.rseq
+	animseq\creatures\bird\bird\freefall_bird05_bloodhound_summoncrow.rseq
+	animseq\creatures\bird\bird\freefall_bird06_bloodhound_summoncrow.rseq
+	animseq\creatures\bird\bird\freefall_bird_bloodhound_summoncrow.rseq
+	animseq\creatures\bird\bird\freefall_bird_pathfinder_birdattack_idle.rseq
+	animseq\creatures\bird\bird\freefall_bird_pathfinder_swinging.rseq
+	animseq\creatures\bird\bird\mirage_bird_gladcard_animated_crow.rseq
+	animseq\creatures\bird\bird\mirage_bird_gladcard_animated_crow_idle.rseq
+	animseq\creatures\bird\bird\mp_bird_loot_idle.rseq
+	animseq\creatures\bird\bird\mp_pt_raven_bloodhound_menu_ready_up.rseq
+	animseq\creatures\bird\bird\mp_pt_raven_bloodhound_menu_ready_up_idle.rseq
+	animseq\creatures\bird\bird\mp_pt_raven_bloodhound_menu_select.rseq
+	animseq\creatures\bird\bird\mp_pt_raven_training_intro_start.rseq
+	animseq\creatures\bird\bird\mp_pt_raven_training_intro_start_idle.rseq
+	animseq\creatures\bird\bird\prop_bird_pathfinder_ground_emote_shutdown_loop.rseq
+	animseq\creatures\bird\bird\prop_bird_Pathfinder_ground_emote_Shutdown_start.rseq
+	animseq\creatures\bird\bird\raven_bloodhound_execution_raven.rseq
+	animseq\creatures\bird\bird\raven_bloodhound_execution_raven_loot.rseq
+	animseq\creatures\bird\bird\raven_gladcard_common_pose_01_prop.rseq
+]

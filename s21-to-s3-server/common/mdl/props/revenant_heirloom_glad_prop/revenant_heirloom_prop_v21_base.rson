@@ -1,0 +1,9 @@
+rigs:
+[
+	animrig\props\revenant_heirloom_glad_prop\revenant_heirloom_prop_v21_animrig.rrig
+]
+seqs:
+[
+	animseq\props\revenant_heirloom_gladcard\prop_scythe_revenant_gladcard_animated_heirloom.rseq
+	animseq\props\revenant_heirloom_gladcard\prop_scythe_revenant_gladcard_animated_heirloom_idle.rseq
+]

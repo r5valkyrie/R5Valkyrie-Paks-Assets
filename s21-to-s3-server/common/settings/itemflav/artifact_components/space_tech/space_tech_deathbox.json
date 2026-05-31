@@ -1,0 +1,38 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_artifact_component_deathbox_layout.rpak",
+	"uniqueId": 1105459091,
+	"settings": {
+		"assetName": "settings/itemflav/artifact_components/space_tech/space_tech_deathbox.rpak",
+		"itemType": "artifact_component_deathbox",
+		"parentItemFlavor": "settings/itemflav/loot/melee_weapon/artifact_dagger.rpak",
+		"settingsAssetID": "SAID01105459091",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#spacetech_deathbox_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "MYTHIC",
+		"icon": "rui/menu/melee_customization/deathboxes/deathbox_space",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "artifact_dagger_spacetech_deathbox",
+		"ownershipTarget": "",
+		"artifactComponentType": "DEATHBOX",
+		"themeName": "STECH",
+		"componentIcon": "rui/menu/melee_customization/deathboxes/deathbox_space",
+		"artifactDeathboxFXName": "P_death_box_artifact_stech",
+		"artifactDeathboxModel": "mdl/techart/mshop/props/loot/deathbox/deathbox_lgnd_v23_stech.rmdl",
+		"video": "media/deathboxes/deathbox_space_tech",
+		"spawnSFX": "Artifact_PS_Stech_DeathBox_Appear",
+		"multipleOwnershipTargets": [
+			],
+		"artifactMainColor": "<0.965000,0.984000,0.008000>",
+		"artifactSecondaryColor": "<0.090000,0.639000,0.000000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isEmpty": false,
+		"shouldHideIfLocked": false
+	}
+}

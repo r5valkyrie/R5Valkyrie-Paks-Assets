@@ -1,0 +1,171 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_account_pack_layout.rpak",
+	"uniqueId": 193920618,
+	"settings": {
+		"assetName": "settings/itemflav/pack/cosmetic_event_s10e02.rpak",
+		"itemType": "account_pack",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00193920618",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#S10E02_PACK_NAME_LONG",
+		"localizationKey_NAME_SHORT": "#S10E02_PACK_NAME_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "RARE",
+		"icon": "",
+		"tagIcon": "rui/events/s10e02/item_source_icon",
+		"grxMode": "PACK",
+		"grxMode": "PACK",
+		"grxRef": "pack_cosmetic_event_s10e02",
+		"ownershipTarget": "",
+		"packType": "EVENT_THEMATIC_PACK",
+		"themeFlavor": "",
+		"stickerRewardPack": "",
+		"stickerRewardSequence": "",
+		"tickMdl": "mdl/robots/drone_frag/drone_frag_loot.rmdl",
+		"tickMdlSkin": "s10_rt_monsters",
+		"openButtonIcon": "rui/events/s10e02/open_pack_btn_icon",
+		"triadBounceSound": "LootCeremony_Triad_Bounce",
+		"puckLandSound": "LootCeremony_IronCrown_Tick_PuckLand",
+		"unpackSound": "LootCeremony_IronCrown_Tick_Unpack",
+		"deployTriadExplo1Sound": "LootCeremony_IronCrown_Tick_Deploy_TriadExplo1",
+		"deployTriadExplo2Sound": "LootCeremony_IronCrown_Tick_Deploy_TriadExplo2",
+		"deployTriadExplo3Sound": "LootCeremony_IronCrown_Tick_Deploy_TriadExplo3",
+		"multipleOwnershipTargets": [
+			],
+		"packContents": [
+				{
+					"flavor": "settings/itemflav/character_skin/caustic/s10e02_lgnd_v21_monsters.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/character_skin/seer/s10e02_lgnd_v21_monsters.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/character_skin/revenant/s10e02_lgnd_v21_monsters.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/character_skin/bloodhound/s10e02_lgnd_v21_monsters.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/r97/s10e02_lgnd_v21_monsters.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/hemlok/s10e02_lgnd_v21_monsters.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/spitfire/s10e02_lgnd_v21_monsters.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/r301/s10e02_lgnd_v21_monsters.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_frame/bloodhound/s10e02_epic_v21_monsters.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_frame/caustic/s10e02_epic_v21_monsters.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_frame/revenant/s10e02_epic_v21_monsters.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_frame/seer/s10e02_epic_v21_monsters.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_stance/caustic/s10e02_epic_v21_monsters_01.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_stance/seer/s10e02_epic_v21_monsters_01.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_stance/revenant/s10e02_epic_v21_monsters_01.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_stance/bloodhound/s10e02_epic_v21_monsters_01.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_tracker/caustic/s10e02_career_damage_done.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_tracker/caustic/s10e02_career_kills.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_tracker/caustic/s10e02_gas_damage_dealt.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_tracker/seer/s10e02_career_damage_done.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_tracker/seer/s10e02_career_kills.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_tracker/seer/s10e02_tactical_focus_of_attention_hits.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_tracker/revenant/s10e02_career_damage_done.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_tracker/revenant/s10e02_career_kills.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_tracker/revenant/s10e02_silenced_targets.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_tracker/bloodhound/s10e02_career_damage_done.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_tracker/bloodhound/s10e02_career_kills.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_tracker/bloodhound/s10e02_tactical_enemies_detected.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/character_skin/gibraltar/s10e02_epicp_v21_monsters.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/character_skin/wraith/s10e02_epicp_v21_monsters.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/character_skin/valkyrie/s10e02_epicp_v21_monsters.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/character_skin/horizon/s10e02_epicp_v21_monsters.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_monsters_gibraltar_shield01.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_monsters_wraith_helmet01.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_event_v21_halloween_valkyrie_alien01.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_monsters_horizon_helmet01.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_frame/gibraltar/s10e02_rare_v21_monsters.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_frame/wraith/s10e02_rare_v21_monsters.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_frame/valkyrie/s10e02_rare_v21_monsters.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_frame/horizon/s10e02_rare_v21_monsters.rpak"
+				}
+			],
+		"customCol0": "<1.000000,1.000000,1.000000>",
+		"countTextCol": "<1.000000,1.000000,1.000000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"hasStickers": false,
+		"hasSkydives": false,
+		"hasHolosprays": false,
+		"usesMOTDButtonForCount": false,
+		"isEphemeral": false,
+		"isExpectedToContainSingleItemWithCurrency": false,
+		"useCustomColors": true
+	}
+}

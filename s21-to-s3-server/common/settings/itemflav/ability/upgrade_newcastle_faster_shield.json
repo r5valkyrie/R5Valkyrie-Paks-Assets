@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 1427168932,
+	"settings": {
+		"assetName": "settings/itemflav/ability/upgrade_newcastle_faster_shield.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01427168932",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#UPGRADE_NEWCASTLE_MOBILE_SHIELD_SPEED_NAME",
+		"localizationKey_NAME_SHORT": "#UPGRADE_TYPE_TACTICAL",
+		"localizationKey_DESCRIPTION_LONG": "#UPGRADE_NEWCASTLE_MOBILE_SHIELD_SPEED_LONG_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#UPGRADE_NEWCASTLE_MOBILE_SHIELD_SPEED_SHORT_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/legend_upgrades/newcastle_mobilesupport_icon",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_TAC_UPGRADE_ONE",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

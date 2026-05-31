@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 362824289,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/madmaggie/legendary_emote_firebreath.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/madmaggie.rpak",
+		"settingsAssetID": "SAID00362824289",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#CHAR_EMOTE_059",
+		"localizationKey_NAME_SHORT": "#CHAR_EMOTE_059",
+		"localizationKey_DESCRIPTION_LONG": "#CHAR_EMOTE_059",
+		"localizationKey_DESCRIPTION_SHORT": "#CHAR_EMOTE_059",
+		"quality": "LEGENDARY",
+		"icon": "rui/menu/buttons/character_emotes/madmaggie/flamebreath",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_madmaggie_legendary_emote_firebreath",
+		"ownershipTarget": "",
+		"anim3p": "madmaggie_ground_emote_fireBreath",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

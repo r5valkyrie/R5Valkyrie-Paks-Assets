@@ -1,0 +1,31 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_club_search_tag_layout.rpak",
+	"uniqueId": 2811897,
+	"settings": {
+		"assetName": "settings/itemflav/club_search_tag/itemtype_club_search_tag_experiencelevel_experienced.rpak",
+		"itemType": "club_search_tag",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00002811897",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#CLUBTAG_EXPERIENCE_EXPERIENCED",
+		"localizationKey_NAME_SHORT": "#CLUBTAG_EXPERIENCE_EXPERIENCED",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"tagCategory": "CLUBTAGTYPE_EXPERIENCE",
+		"tagCategoryGameModeList": "CLUBTAG_GAMEMODE_UNRANKED",
+		"tagCategoryPlaystyleList": "CLUBTAG_PLAYSTYLE_ALLSTYLES",
+		"tagCategoryExperienceLevelList": "CLUBTAG_EXPERIENCE_EXPERIENCED",
+		"tagCategoryCommunicationList": "CLUBTAG_COMMUNICATION_MICSONLY",
+		"tagCategorySocialList": "CLUBTAG_SOCIAL_FAMILYFRIENDLY",
+		"tagCategoryPlatformList": "CLUBTAG_PLATFORM_CROSSPLATYES",
+		"tagBitAddress": 12,
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isSearchTagEnabled": true
+	}
+}

@@ -1,0 +1,116 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_calevent_buffet_layout.rpak",
+	"uniqueId": 1477102192,
+	"settings": {
+		"assetName": "settings/itemflav/calevent/s21ce01/buffet.rpak",
+		"itemType": "calevent_buffet",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01477102192",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#S21CE01_TITLE_SHORT",
+		"localizationKey_NAME_SHORT": "#S21CE01_TITLE_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "#S21CE01_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#S21CE01_TITLE_SHORT",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"revealUnixTime": "",
+		"hideUnixTime": "",
+		"defaultStartTime": "2024-06-25 10:00:00 -07:00",
+		"defaultFinishTime": "2024-07-09 10:00:00 -07:00",
+		"headerIcon": "rui/events/s21ce01/challenges_logo",
+		"mainChallengeFlav": "settings/itemflav/challenge/s21ce01/main.rpak",
+		"eventChallengeHeaderImage": "rui/events/s21ce01/challenge_panel_event_header",
+		"eventChallengeButtonImage": "rui/events/s21ce01/event_tracker_button",
+		"eventChallengeButtonText": "",
+		"aboutPageBGImage": "rui/events/s21ce01/about_bg",
+		"aboutPageBigIcon": "",
+		"aboutPageBarImage": "rui/events/s21ce01/about_progress_bar",
+		"aboutPageUnownedRewardBorderImage": "rui/events/s21ce01/reward_border_unowned",
+		"aboutPageOwnedRewardBorderImage": "rui/events/s21ce01/reward_border_owned",
+		"aboutPageLineImage": "rui/events/s21ce01/line",
+		"aboutPageTitleText": "#S21CE01_TITLE_SHORT",
+		"aboutPageDescText": "#S21CE01_DESC",
+		"aboutPageScoreTitleText": "#EARNED_POINTS_COLON",
+		"highlightGamemodeSelectorSlot": "",
+		"bonusChallengeFlavs": [
+			],
+		"dailyChallengeFlavs": [
+				{
+					"challengeFlav": "settings/itemflav/challenge/s21ce01/games_played_any_mode.rpak"
+				},
+				{
+					"challengeFlav": "settings/itemflav/challenge/s21ce01/damage_done_any_mode.rpak"
+				},
+				{
+					"challengeFlav": "settings/itemflav/challenge/s21ce01/kills_or_assists_any_mode.rpak"
+				},
+				{
+					"challengeFlav": "settings/itemflav/challenge/s21ce01/knockdowns_quads.rpak"
+				},
+				{
+					"challengeFlav": "settings/itemflav/challenge/s21ce01/placements_top_10.rpak"
+				}
+			],
+		"hiddenChallengeFlavs": [
+				{
+					"challengeFlav": "settings/itemflav/challenge/s21ce01/hidden_b2.rpak"
+				},
+				{
+					"challengeFlav": "settings/itemflav/challenge/s21ce01/hidden_b3.rpak"
+				},
+				{
+					"challengeFlav": "settings/itemflav/challenge/s21ce01/hidden_b4.rpak"
+				}
+			],
+		"modes": [
+			],
+		"badgeFlavs": [
+				{
+					"badgeFlav": "settings/itemflav/gcard_badge/account/s21ce01_b2.rpak",
+					"badgeX": 219,
+					"badgeY": -28,
+					"badgeSize": 118
+				},
+				{
+					"badgeFlav": "settings/itemflav/gcard_badge/account/s21ce01_b3.rpak",
+					"badgeX": 412,
+					"badgeY": -28,
+					"badgeSize": 118
+				},
+				{
+					"badgeFlav": "settings/itemflav/gcard_badge/account/s21ce01_b4.rpak",
+					"badgeX": 605,
+					"badgeY": -28,
+					"badgeSize": 118
+				},
+				{
+					"badgeFlav": "settings/itemflav/gcard_badge/account/s21ce01_b5.rpak",
+					"badgeX": 798,
+					"badgeY": -28,
+					"badgeSize": 118
+				}
+			],
+		"eventChallengeHeaderColor1": "<1.000000,0.000000,0.000000>",
+		"eventChallengeHeaderColor2": "<0.502000,1.000000,0.502000>",
+		"eventChallengeButtonTextColor": "<1.000000,1.000000,1.000000>",
+		"eventChallengeCategoryButtonTint": "<1.000000,0.110000,0.933000>",
+		"progressBarColor": "<1.200000,1.200000,1.200000>",
+		"progressBarTextColor": "<1.200000,1.200000,1.200000>",
+		"rewardIconColor": "<0.400000,0.400000,0.400000>",
+		"aboutPageBGCol": "<0.035000,0.055000,0.075000>",
+		"aboutPageHeaderTextCol": "<0.502000,1.000000,0.502000>",
+		"aboutPageBodyTextCol": "<0.502000,1.000000,0.502000>",
+		"aboutPageScoreLabelCol": "<0.502000,1.000000,0.502000>",
+		"aboutPageScoreCol": "<0.502000,1.000000,0.502000>",
+		"aboutPageThemeCol": "<0.502000,1.000000,0.502000>",
+		"aboutPageBarTextCol": "<0.502000,1.000000,0.502000>",
+		"aboutPageBarTextOwnedCol": "<0.996000,0.353000,0.980000>",
+		"aboutPageCheckMarkCol": "<1.000000,1.000000,1.000000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"aboutPageShowsModes": false
+	}
+}

@@ -1,0 +1,45 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_boost_type_layout.rpak",
+	"uniqueId": 1935775017,
+	"settings": {
+		"assetName": "settings/itemflav/boost_type/accxp_global_mult_2x.rpak",
+		"itemType": "boost_type",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01935775017",
+		"__featureFlag": "",
+		"devDescription": "2x XP for all game modes",
+		"localizationKey_NAME": "#PROGRESSION_MODIFIERS_ACCOUNT_GLOBAL_TITLE",
+		"localizationKey_NAME_SHORT": "#PROGRESSION_MODIFIERS_ACCOUNT_GLOBAL_TITLE",
+		"localizationKey_DESCRIPTION_LONG": "#PROGRESSION_MODIFIERS_ACCOUNT_GLOBAL_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#PROGRESSION_MODIFIERS_ACCOUNT_GLOBAL_DESC",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"typeId": "accxp_global_mult_2x",
+		"condition_party": "FALSE",
+		"boostReqDescription": "",
+		"uiModifierSummary": "#PROGRESSION_MODIFIERS_PERCENTAGE_ADD",
+		"uiBadgeIconSmall": "",
+		"effects": [
+				{
+					"property": "ACCXP_GLOBAL",
+					"modifierType": 0,
+					"amount": 2.000000,
+					"calculationType": 0
+				}
+			],
+		"conditions_gamemode": [
+			],
+		"conditions_region": [
+			],
+		"conditions_platform": [
+			],
+		"boostCategory": 0,
+		"uiModifierSummaryAmount": 100.000000,
+		"uiColor": "<0.000000,0.000000,0.000000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isDevType": false
+	}
+}

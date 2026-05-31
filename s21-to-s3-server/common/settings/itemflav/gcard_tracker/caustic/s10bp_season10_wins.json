@@ -1,0 +1,33 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_stat_tracker_layout.rpak",
+	"uniqueId": 868282009,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_tracker/caustic/s10bp_season10_wins.rpak",
+		"itemType": "gladiator_card_stat_tracker",
+		"parentItemFlavor": "settings/itemflav/character/caustic.rpak",
+		"settingsAssetID": "SAID00868282009",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#gcard_tracker_caustic_season10_wins_NAME",
+		"localizationKey_NAME_SHORT": "#gcard_tracker_caustic_season10_wins_NAME_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "RARE",
+		"icon": "",
+		"tagIcon": "rui/events/s10bp/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "gcard_tracker_caustic_s10bp_season10_wins",
+		"ownershipTarget": "",
+		"statRef": "stats.seasons[SAID01783977028].characters[%char%].placements_win",
+		"valueNumberFormat": "INTEGER",
+		"valueSuffix": "",
+		"backgroundImage": "rui/gladiator_cards/trackers/event/s10bp/season10_stat_tracker_caustic",
+		"multipleOwnershipTargets": [
+			],
+		"color0": "<0.235000,0.682000,0.765000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 923394184,
+	"settings": {
+		"assetName": "settings/itemflav/ability/crypto_pas_neurolink.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00923394184",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#PAS_CRYPTO",
+		"localizationKey_NAME_SHORT": "#PAS_CRYPTO",
+		"localizationKey_DESCRIPTION_LONG": "#PAS_CRYPTO_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#PAS_CRYPTO_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/passive_icons/passive_crypto",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_CRYPTO",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

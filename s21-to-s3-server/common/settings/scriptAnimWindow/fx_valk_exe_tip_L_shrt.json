@@ -1,0 +1,12 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_PlayFX_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/fx_valk_exe_tip_L_shrt.rpak",
+		"devDescription": "",
+		"type": "PlayFX",
+		"particleSystemName": "P_valk_jet_exec_tip_contrail_shrt",
+		"attachPoint": "valk_wingtip_L",
+		"followAttach": true,
+		"playEndCap": false
+	}
+}

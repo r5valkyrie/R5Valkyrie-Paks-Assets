@@ -1,0 +1,169 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_battlepass_layout.rpak",
+	"uniqueId": 735560801,
+	"settings": {
+		"assetName": "settings/itemflav/battlepass/season12.rpak",
+		"itemType": "battlepass",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00735560801",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#BP_S12_NAME",
+		"localizationKey_NAME_SHORT": "#BP_S12_STRING",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "battlepass_season12",
+		"ownershipTarget": "",
+		"basicPurchasePack": "settings/itemflav/pack/battle_pass_season12_basic.rpak",
+		"bundlePurchasePack": "settings/itemflav/pack/battle_pass_season12_bundle.rpak",
+		"xpPurchaseFlav": "settings/itemflav/battlepass_purchased_xp/season12_single_level.rpak",
+		"bubblePurchaseFlav": "",
+		"xpBoostFlav": "settings/itemflav/xp_boost/battlepass_season12.rpak",
+		"challengeRerollFlav": "settings/itemflav/challenge_reroll/challenge_reroll_generic.rpak",
+		"rewardScheduleDatatableV2": "",
+		"rewardScheduleDatatable": "datatable/progression/battlepass_season12_schedule.rpak",
+		"milestoneScheduleDatatable": "",
+		"milestoneTierRepImage": "",
+		"milestoneBundleRepImage": "",
+		"storeBundleContentsImage": "",
+		"aboutPurchaseTitle": "#BP_S12_ABOUT_TITLE",
+		"featureTitle": "#BP_S12_FEATURE_TITLE",
+		"largeLogo": "rui/events/s12bp/season_icon_large",
+		"smallLogo": "rui/events/s12bp/season_icon_small",
+		"xSmallLogo": "rui/events/s12bp/season_icon_xsmall",
+		"bannerImage": "rui/events/s08bp/season_banner",
+		"progressBadge": "settings/itemflav/gcard_badge/account/season12_bplevel.rpak",
+		"rewardsVideo": "media//battle_pass//s12bp//s12bp_rewards",
+		"levelUpSound": "UI_Menu_BattlePass_LevelUp_Season12",
+		"multipleOwnershipTargets": [
+			],
+		"milestoneTierRepLevels": [
+			],
+		"milestoneBundleRepLevels": [
+			],
+		"bulletTextStandard": [
+				{
+					"text": "#BP_S12_FEATURE_1"
+				},
+				{
+					"text": "#BP_S12_FEATURE_2"
+				},
+				{
+					"text": "#BP_S12_FEATURE_3"
+				},
+				{
+					"text": "#BP_S12_FEATURE_4"
+				},
+				{
+					"text": "#BP_S12_FEATURE_5"
+				},
+				{
+					"text": "#BP_S12_FEATURE_6"
+				},
+				{
+					"text": "#BP_S12_FEATURE_7"
+				},
+				{
+					"text": "#BP_S12_FEATURE_8"
+				},
+				{
+					"text": "#BP_S12_FEATURE_9"
+				},
+				{
+					"text": "#BP_S12_FEATURE_10"
+				},
+				{
+					"text": "#BP_S12_FEATURE_11"
+				},
+				{
+					"text": "#BP_S12_FEATURE_12"
+				},
+				{
+					"text": "#BP_S12_FEATURE_13"
+				},
+				{
+					"text": "#BP_S12_FEATURE_14"
+				},
+				{
+					"text": "#BP_S12_FEATURE_15"
+				},
+				{
+					"text": "#BP_S12_FEATURE_16"
+				}
+			],
+		"bulletTextRestricted": [
+				{
+					"text": "#BP_S12_FEATURE_RESTRICTED_01"
+				},
+				{
+					"text": "#BP_S12_FEATURE_RESTRICTED_02"
+				},
+				{
+					"text": "#BP_S12_FEATURE_5"
+				},
+				{
+					"text": "#BP_S12_FEATURE_6"
+				},
+				{
+					"text": "#BP_S12_FEATURE_7"
+				},
+				{
+					"text": "#BP_S12_FEATURE_8"
+				},
+				{
+					"text": "#BP_S12_FEATURE_9"
+				},
+				{
+					"text": "#BP_S12_FEATURE_10"
+				},
+				{
+					"text": "#BP_S12_FEATURE_11"
+				},
+				{
+					"text": "#BP_S12_FEATURE_12"
+				},
+				{
+					"text": "#BP_S12_FEATURE_13"
+				},
+				{
+					"text": "#BP_S12_FEATURE_14"
+				},
+				{
+					"text": "#BP_S12_FEATURE_15"
+				},
+				{
+					"text": "#BP_S12_FEATURE_16"
+				}
+			],
+		"dailyChallenges": [
+			],
+		"weeklyRecurringChallenges": [
+			],
+		"weeklyChallenges": [
+			],
+		"rewardPopupLevels": [
+				{
+					"popupLevel": 25
+				},
+				{
+					"popupLevel": 50
+				},
+				{
+					"popupLevel": 75
+				},
+				{
+					"popupLevel": 100
+				}
+			],
+		"headerColor": "<0.000000,0.000000,0.000000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"useStarsToProgress": true,
+		"weeklyRecurringResetsEveryWeek": false
+	}
+}

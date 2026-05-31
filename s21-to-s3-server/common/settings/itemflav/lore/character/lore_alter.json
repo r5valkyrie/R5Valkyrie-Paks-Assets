@@ -1,0 +1,77 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_lore_layout.rpak",
+	"uniqueId": 1373165149,
+	"settings": {
+		"assetName": "settings/itemflav/lore/character/lore_alter.rpak",
+		"itemType": "lore",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01373165149",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"type": "Legend",
+		"legend_real_name": "#LORE_ALTER_REAL_NAME",
+		"legend_alias": "",
+		"legend_age": "#LORE_ALTER_AGE",
+		"legend_home_world": "#LORE_ALTER_HOME_WORLD",
+		"bio": [
+				{
+					"line": "#LORE_ALTER_0_LEGENDSWAP",
+					"featureFlag": "",
+					"paddingLeft": 0,
+					"paddingRight": 0,
+					"paddingTop": 0,
+					"paddingBottom": 15
+				},
+				{
+					"line": "#LORE_ALTER_1_LEGENDSWAP",
+					"featureFlag": "",
+					"paddingLeft": 0,
+					"paddingRight": 0,
+					"paddingTop": 0,
+					"paddingBottom": 15
+				},
+				{
+					"line": "#LORE_ALTER_2_LEGENDSWAP",
+					"featureFlag": "",
+					"paddingLeft": 0,
+					"paddingRight": 0,
+					"paddingTop": 0,
+					"paddingBottom": 15
+				},
+				{
+					"line": "#LORE_ALTER_3_LEGENDSWAP",
+					"featureFlag": "",
+					"paddingLeft": 0,
+					"paddingRight": 0,
+					"paddingTop": 0,
+					"paddingBottom": 15
+				},
+				{
+					"line": "#LORE_ALTER_4_LEGENDSWAP",
+					"featureFlag": "",
+					"paddingLeft": 0,
+					"paddingRight": 0,
+					"paddingTop": 0,
+					"paddingBottom": 15
+				},
+				{
+					"line": "#LORE_ALTER_5_LEGENDSWAP",
+					"featureFlag": "",
+					"paddingLeft": 0,
+					"paddingRight": 0,
+					"paddingTop": 0,
+					"paddingBottom": 15
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

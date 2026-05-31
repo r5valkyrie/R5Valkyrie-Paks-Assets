@@ -1,0 +1,10 @@
+{
+	"extraDataSizeIndex": 1,
+	"subLayouts": [
+		"settings_layout/settings_itemtype_melee_skin_layout/multipleOwnershipTargets.csv",
+		"settings_layout/settings_itemtype_melee_skin_layout/skinAlias_vfxAliases.csv",
+		"settings_layout/settings_itemtype_melee_skin_layout/skinAlias_sfxAliases.csv",
+		"settings_layout/settings_itemtype_melee_skin_layout/skinAlias_bodyGroupAliases.csv",
+		"settings_layout/settings_itemtype_melee_skin_layout/skinAlias_impactTableAliases.csv"
+	]
+}

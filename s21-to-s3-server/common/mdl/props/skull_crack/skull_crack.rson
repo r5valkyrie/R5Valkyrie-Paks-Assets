@@ -1,0 +1,8 @@
+rigs:
+[
+]
+seqs:
+[
+	animseq\props\skull_crack\skull_crack\skullcrack_gladcard_animated_possessed.rseq
+	animseq\props\skull_crack\skull_crack\skullcrack_gladcard_animated_possessed_idle.rseq
+]

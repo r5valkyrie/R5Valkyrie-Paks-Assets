@@ -1,0 +1,13 @@
+seqs:
+[
+	animseq\robots\marvin\marvin_anims\marvin_Gladcard_static_bighug.rseq
+	animseq\robots\marvin\marvin_anims\marvin_Gladcard_static_stabby.rseq
+	animseq\robots\marvin\marvin_anims\marvin_Gladcard_static_wait.rseq
+	animseq\robots\marvin\marvin_anims_gladcards\marvin_caustic_gladcards_animated_marvinattack.rseq
+	animseq\robots\marvin\marvin_anims_gladcards\marvin_caustic_gladcards_animated_marvinattack_idle.rseq
+	animseq\robots\marvin\marvin_anims_gladcards\marvin_caustic_gladcards_animated_smash.rseq
+	animseq\robots\marvin\marvin_anims_gladcards\marvin_caustic_gladcards_animated_smash_idle.rseq
+	animseq\robots\marvin\marvin_anims_gladcards\marvinA_caustic_gladcards_animated_smash.rseq
+	animseq\robots\marvin\marvin_anims_gladcards\marvinB_caustic_gladcards_animated_smash.rseq
+	animseq\robots\marvin\marvin_gladcard\marvin_gladcard_static_choking.rseq
+]

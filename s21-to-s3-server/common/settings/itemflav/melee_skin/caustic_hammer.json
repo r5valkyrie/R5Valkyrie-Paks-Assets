@@ -1,0 +1,51 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_melee_skin_layout.rpak",
+	"uniqueId": 1480704598,
+	"settings": {
+		"assetName": "settings/itemflav/melee_skin/caustic_hammer.rpak",
+		"itemType": "melee_skin",
+		"parentItemFlavor": "settings/itemflav/loot/melee_weapon/caustic_hammer.rpak",
+		"settingsAssetID": "SAID01480704598",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#MELEE_SKIN_CAUSTIC_HAMMER_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "#MELEE_SKIN_CAUSTIC_HAMMER_NAME",
+		"quality": "MYTHIC",
+		"icon": "rui/menu/buttons/battlepass/melee_skin_caustic",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "melee_skin_caustic_hammer",
+		"ownershipTarget": "",
+		"worldModel": "mdl/Weapons/caustic_heirloom/w_caustic_heirloom.rmdl",
+		"viewModel": "mdl/Weapons/caustic_heirloom/ptpov_caustic_heirloom.rmdl",
+		"skinName": "hammer",
+		"menuAnimSeq": "animseq/weapons/caustic_heirloom/ptpov_sledgehammer_caustic/menu.rseq",
+		"koSound": "",
+		"storeImage": "rui/menu/heirloom_crafting/heirloom_page_item_caustic",
+		"equipImage": "rui/menu/buttons/melee_skins/caustic_hammer",
+		"multipleOwnershipTargets": [
+			],
+		"artifactConfigIndex": 0,
+		"camoIndex": 0,
+		"menuMdlRot": "<0.000000,0.000000,0.000000>",
+		"battlePassScale": 2.600000,
+		"lootCeremonyScale": 1.800000,
+		"itemInspectScale": 0.780000,
+		"itemInspectOffset": "<0.000000,0.000000,-3.000000>",
+		"skinAlias_vfxAliases": [
+			],
+		"skinAlias_sfxAliases": [
+			],
+		"skinAlias_bodyGroupAliases": [
+			],
+		"skinAlias_impactTableAliases": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isArtifactConfigPointer": false,
+		"shouldHideIfLocked": false
+	}
+}

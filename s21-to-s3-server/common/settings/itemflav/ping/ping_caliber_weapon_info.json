@@ -1,0 +1,30 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ping_layout.rpak",
+	"uniqueId": 2076134977,
+	"settings": {
+		"assetName": "settings/itemflav/ping/ping_caliber_weapon_info.rpak",
+		"itemType": "ping",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID02076134977",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "rui/hud/ping/icon_ping_go_outer",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"colorKey": "enemy",
+		"innerIcon": "rui/hud/ping/icon_ping_go_inner",
+		"innerShadowIcon": "rui/hud/ping/icon_ping_go_inner_shadow",
+		"outerIcon": "rui/hud/tactical_icons/tactical_caliber",
+		"shadowIcon": "",
+		"animIcon": "rui/hud/ping/icon_ping_enemy_outline",
+		"defaultColor": "<1.000000,0.192000,0.051000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"drawHeightLine": true
+	}
+}

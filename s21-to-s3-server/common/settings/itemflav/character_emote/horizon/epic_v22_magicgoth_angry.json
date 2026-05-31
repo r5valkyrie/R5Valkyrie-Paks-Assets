@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 1849529365,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/horizon/epic_v22_magicgoth_angry.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/horizon.rpak",
+		"settingsAssetID": "SAID01849529365",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#ground_emote_horizon_angry",
+		"localizationKey_NAME_SHORT": "#ground_emote_horizon_angry",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/battlepass/character_emote_horizon_epic_v22_magicgoth_angry",
+		"tagIcon": "rui/events/s15bp/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_horizon_epic_v22_magicgoth_angry",
+		"ownershipTarget": "",
+		"anim3p": "horizon_ground_emote_angry",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

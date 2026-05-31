@@ -1,0 +1,44 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_badge_layout.rpak",
+	"uniqueId": 1530574324,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_badge/account/s18ce02_base_badge.rpak",
+		"itemType": "gladiator_card_badge",
+		"parentItemFlavor": "settings/itemflav/challenge/s18ce02/main.rpak",
+		"settingsAssetID": "SAID01530574324",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#S18CE02_BADGE_1_NAME",
+		"localizationKey_NAME_SHORT": "#S18CE02_BADGE_1_NAME",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "#S18CE02_BADGE_1_DESC",
+		"quality": "EPIC",
+		"icon": "rui/gladiator_cards/badges/s18ce02_base_badge",
+		"tagIcon": "rui/events/s18ce02/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "gcard_badge_account_s18ce02_base_badge",
+		"ownershipTarget": "",
+		"exclusiveFunc": "",
+		"unlockStatRef": "",
+		"dynamicTextStatRef": "",
+		"badgeCategory": "MENU_BADGE_EVENT",
+		"multipleOwnershipTargets": [
+			],
+		"tiers": [
+				{
+					"imageAsset": "rui/gladiator_cards/badges/s18ce02_base_badge",
+					"ruiAsset": "",
+					"unlocksAt": 1.000000
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false,
+		"exclusive": false,
+		"shouldHideIfLocked": true,
+		"isCharacterBadge": false,
+		"hasOwnRui": false,
+		"isOversizedImage": true
+	}
+}

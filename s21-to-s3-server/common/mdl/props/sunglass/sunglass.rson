@@ -1,0 +1,9 @@
+rigs:
+[
+]
+seqs:
+[
+	animseq\props\sunglass\sunglass\prop_valkyrie_glasses_lootidle_UA.rseq
+	animseq\props\sunglass\sunglass\valkyrie_glasses_gladcard_animated_toocool.rseq
+	animseq\props\sunglass\sunglass\valkyrie_glasses_gladcard_animated_toocool_idle.rseq
+]

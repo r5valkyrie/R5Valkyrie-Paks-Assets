@@ -1,0 +1,36 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_kill_quip_layout.rpak",
+	"uniqueId": 88224415,
+	"settings": {
+		"assetName": "settings/itemflav/character_kill_quip/valkyrie/s10bp_rare_01.rpak",
+		"itemType": "gladiator_card_kill_quip",
+		"parentItemFlavor": "settings/itemflav/character/valkyrie.rpak",
+		"settingsAssetID": "SAID00088224415",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#QUIP_113",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "RARE",
+		"icon": "",
+		"tagIcon": "rui/events/s10bp/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_kill_quip_valkyrie_s10bp_rare_01",
+		"ownershipTarget": "settings/itemflav/character_skin/bloodhound/s03e01_legendary_01.rpak",
+		"anim3p": "",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "glad_tauntMutation_01",
+		"victimVoiceSoundEvent": "diag_mp_valkyrie_glad_tauntMutation_01_3p_victim",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false,
+		"isTheEmpty": false
+	}
+}

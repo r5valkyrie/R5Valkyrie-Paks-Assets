@@ -1,0 +1,33 @@
+seqs:
+[
+	animseq\humans\class\char_select_light_default.rseq
+	animseq\humans\class\medium\pilot_medium_fuse\char_select_light_custom_fuse.rseq
+	animseq\humans\class\medium\pilot_medium_fuse\fuse_gladcard_animated_3030_idle_light.rseq
+	animseq\humans\class\medium\pilot_medium_fuse\fuse_gladcard_animated_3030_light.rseq
+	animseq\humans\class\medium\pilot_medium_fuse\fuse_gladcard_animated_bicep_idle_light.rseq
+	animseq\humans\class\medium\pilot_medium_fuse\fuse_gladcard_animated_bicep_light.rseq
+	animseq\humans\class\medium\pilot_medium_fuse\fuse_gladcard_animated_conan_idle_light.rseq
+	animseq\humans\class\medium\pilot_medium_fuse\fuse_gladcard_animated_conan_light.rseq
+	animseq\humans\class\medium\pilot_medium_fuse\fuse_gladcard_animated_grenadejuggle_light.rseq
+	animseq\humans\class\medium\pilot_medium_fuse\fuse_gladcard_animated_heirloom_idle_light.rseq
+	animseq\humans\class\medium\pilot_medium_fuse\fuse_gladcard_animated_heirloom_light.rseq
+	animseq\humans\class\medium\pilot_medium_fuse\fuse_gladcard_animated_kick_idle_light.rseq
+	animseq\humans\class\medium\pilot_medium_fuse\fuse_gladcard_animated_kick_light.rseq
+	animseq\humans\class\medium\pilot_medium_fuse\fuse_gladcard_animated_knife_idle_light.rseq
+	animseq\humans\class\medium\pilot_medium_fuse\fuse_gladcard_animated_knife_light.rseq
+	animseq\humans\class\medium\pilot_medium_fuse\fuse_gladcard_animated_trick_idle_light.rseq
+	animseq\humans\class\medium\pilot_medium_fuse\fuse_gladcard_animated_trick_light.rseq
+	animseq\humans\class\medium\pilot_medium_fuse\fuse_gladcard_animated_tropics_idle_light.rseq
+	animseq\humans\class\medium\pilot_medium_fuse\fuse_gladcard_animated_tropics_light.rseq
+	animseq\humans\class\medium\pilot_medium_fuse\fuse_gladcard_static_boxing_light.rseq
+	animseq\humans\class\medium\pilot_medium_fuse\fuse_gladcard_static_celebrate_light.rseq
+	animseq\humans\class\medium\pilot_medium_fuse\fuse_gladcard_static_firing_launcher_light.rseq
+	animseq\humans\class\medium\pilot_medium_fuse\fuse_gladcard_static_foot_on_bomb_light.rseq
+	animseq\humans\class\medium\pilot_medium_fuse\fuse_gladcard_static_grenade_toss_light.rseq
+	animseq\humans\class\medium\pilot_medium_fuse\fuse_gladcard_static_grenadejuggle_idle_light.rseq
+	animseq\humans\class\medium\pilot_medium_fuse\fuse_gladcard_static_gunpoint_light.rseq
+	animseq\humans\class\medium\pilot_medium_fuse\fuse_gladcard_static_kiss_light.rseq
+	animseq\humans\class\medium\pilot_medium_fuse\fuse_gladcard_static_playing_guitar_light.rseq
+	animseq\humans\class\medium\pilot_medium_fuse\fuse_gladcard_static_thumbs_up_light.rseq
+	animseq\humans\class\medium\pilot_medium_fuse\fuse_gladcard_static_welcome_light.rseq
+]

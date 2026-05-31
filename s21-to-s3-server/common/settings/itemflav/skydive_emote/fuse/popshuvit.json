@@ -1,0 +1,31 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_skydive_emote_layout.rpak",
+	"uniqueId": 885343703,
+	"settings": {
+		"assetName": "settings/itemflav/skydive_emote/fuse/popshuvit.rpak",
+		"itemType": "skydive_emote",
+		"parentItemFlavor": "settings/itemflav/character/fuse.rpak",
+		"settingsAssetID": "SAID00885343703",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#skydive_emote_fuse_popshuvit",
+		"localizationKey_NAME_SHORT": "#skydive_emote_fuse_popshuvit",
+		"localizationKey_DESCRIPTION_LONG": "#skydive_emote_fuse_popshuvit",
+		"localizationKey_DESCRIPTION_SHORT": "#skydive_emote_fuse_popshuvit",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/battlepass/skydive_emote_popshuvit",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "skydive_emote_fuse_epic_v23_opbundle_popshuvit",
+		"ownershipTarget": "",
+		"animSequence": "animseq/humans/class/medium/pilot_medium_fuse/fuse_freefall_emote_popshuvit.rseq",
+		"video": "media/skydive_emotes/fuse_popshuvit",
+		"bcEvent": "",
+		"multipleOwnershipTargets": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false
+	}
+}

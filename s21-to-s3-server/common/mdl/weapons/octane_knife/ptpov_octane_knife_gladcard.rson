@@ -1,0 +1,8 @@
+rigs:
+[
+]
+seqs:
+[
+	animseq\weapons\octane_knife\ptpov_octane_knife\octaneknife_gladcard_animated_butterflyknife.rseq
+	animseq\weapons\octane_knife\ptpov_octane_knife\octaneknife_gladcard_animated_butterflyknife_idle.rseq
+]

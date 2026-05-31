@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 2000150998,
+	"settings": {
+		"assetName": "settings/itemflav/ability/revenant_shadow_form.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID02000150998",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#ABL_FORGED_SHADOWS",
+		"localizationKey_NAME_SHORT": "#ABL_FORGED_SHADOWS",
+		"localizationKey_DESCRIPTION_LONG": "#ABL_FORGED_SHADOWS_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#ABL_FORGED_SHADOWS_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/ultimate_icons/ultimate_revenant_rework",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "mp_ability_shadow_form",
+		"passiveScriptRef": "",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

@@ -1,0 +1,33 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_stat_tracker_layout.rpak",
+	"uniqueId": 524331471,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_tracker/pathfinder/v23_goldenweek_career_wins.rpak",
+		"itemType": "gladiator_card_stat_tracker",
+		"parentItemFlavor": "settings/itemflav/character/pathfinder.rpak",
+		"settingsAssetID": "SAID00524331471",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#gcard_tracker_pathfinder_placements_win_NAME",
+		"localizationKey_NAME_SHORT": "#TRACKER_WINS",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "RARE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "gcard_tracker_pathfinder_v23_goldenweek_career_wins",
+		"ownershipTarget": "",
+		"statRef": "stats.characters[%char%].placements_win",
+		"valueNumberFormat": "INTEGER",
+		"valueSuffix": "",
+		"backgroundImage": "rui/gladiator_cards/trackers/pathfinder/v23_goldenweek_bg_mid",
+		"multipleOwnershipTargets": [
+			],
+		"color0": "<1.000000,0.420000,0.420000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false
+	}
+}

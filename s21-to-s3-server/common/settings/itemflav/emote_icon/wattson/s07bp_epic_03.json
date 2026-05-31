@@ -1,0 +1,36 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_emote_icon_layout.rpak",
+	"uniqueId": 1443457226,
+	"settings": {
+		"assetName": "settings/itemflav/emote_icon/wattson/s07bp_epic_03.rpak",
+		"itemType": "emote_icon",
+		"parentItemFlavor": "settings/itemflav/character/wattson.rpak",
+		"settingsAssetID": "SAID01443457226",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#spray_epic_v20_wattson_03",
+		"localizationKey_NAME_SHORT": "#spray_epic_v20_wattson_03",
+		"localizationKey_DESCRIPTION_LONG": "#spray_epic_v20_wattson_03",
+		"localizationKey_DESCRIPTION_SHORT": "#spray_epic_v20_wattson_03",
+		"quality": "EPIC",
+		"icon": "rui/menu/holosprays/hspray_epic_v20_wattson_03_col",
+		"tagIcon": "rui/events/s07bp/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "emote_icon_wattson_s07bp_epic_03",
+		"ownershipTarget": "",
+		"anim3p": "",
+		"holoProjectorSprayModel": "mdl/props/holo_spray/spray_epic_v20_wattson_03.rmdl",
+		"quickchatAliasSubName": "",
+		"customSkinMenuBlurb": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<0.624000,0.871000,1.000000>",
+		"holoProjectorEffectColor2": "<0.510000,0.871000,0.992000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": true,
+		"holoProjectorUseEffectColor2": true,
+		"isTheEmpty": false
+	}
+}

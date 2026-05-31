@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/gibraltar/lgnd_v23_resharb.rpak",
+		"roots": [
+				{
+					"asset": "mdl/humans/class/heavy/gibraltar_v23_resharb_w.rmdl",
+					"featureFlag": ""
+				},
+				{
+					"asset": "mdl/weapons/arms/gibraltar_v23_resharb_v.rmdl",
+					"featureFlag": ""
+				}
+			]
+	}
+}

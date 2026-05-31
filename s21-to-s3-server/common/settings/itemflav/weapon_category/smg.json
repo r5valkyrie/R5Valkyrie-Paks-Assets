@@ -1,0 +1,24 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_category_layout.rpak",
+	"uniqueId": 813223296,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_category/smg.rpak",
+		"itemType": "weapon_category",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00813223296",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#weapon_category_smg_NAME",
+		"localizationKey_NAME_SHORT": "#TAG_SMG",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "rui/weapon_icons/r5/weapon_r97",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"statsKey": "smg",
+		"menuZoomOffset": "<6.000000,0.000000,4.000000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

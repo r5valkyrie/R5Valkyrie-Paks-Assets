@@ -1,0 +1,44 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_entitlement_layout.rpak",
+	"uniqueId": 1569276115,
+	"settings": {
+		"assetName": "settings/itemflav/entitlement/algs_s11_weapon_charm.rpak",
+		"itemType": "entitlement",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01569276115",
+		"__featureFlag": "",
+		"devDescription": "Twitch Drops Weapon Charm",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "rui/events/algs/item_source_icon",
+		"grxMode": "NONE",
+		"entitlementType": "twitch_drops",
+		"twitchRef": "algs_s11_weapon_charm",
+		"twitchRef": "algs_s11_weapon_charm",
+		"enum": "",
+		"pc": "",
+		"ps4": "",
+		"xb1": "",
+		"switch": "",
+		"pc_offer": "",
+		"steam_offer": "",
+		"xb1_offer": "",
+		"menuTitleText": "#TWITCH_DROPS",
+		"menuDescText": "#TWITCH_DROP_S11_WEAPON_CHARM_ENTITLEMENT_OWNED",
+		"menuImageName": "algs_s11_weapon_charm",
+		"menuPersistenceVarName": "",
+		"list": [
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_event_v21_algs_champion_cup01.rpak",
+					"quantity": 1
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isMenuEnabled": false
+	}
+}

@@ -1,0 +1,7 @@
+seqs:
+[
+	animseq\props\district_horizontal_launcher\district_horizontal_launcher_fireA.rseq
+	animseq\props\district_horizontal_launcher\district_horizontal_launcher_fireB.rseq
+	animseq\props\district_horizontal_launcher\district_horizontal_launcher_fireC.rseq
+	animseq\props\district_horizontal_launcher\district_horizontal_launcher_static.rseq
+]

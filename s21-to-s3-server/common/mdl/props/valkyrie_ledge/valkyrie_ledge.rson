@@ -1,0 +1,21 @@
+rigs:
+[
+]
+seqs:
+[
+	animseq\props\valk_ledge\valkyrie_ledge_gladcard_animated_basejump.rseq
+	animseq\props\valk_ledge\valkyrie_ledge_gladcard_animated_basejump_idle.rseq
+	animseq\props\valk_ledge\valkyrie_ledge_gladcard_animated_tackle_idle.rseq
+	animseq\props\valk_ledge\valkyrie_ledge_gladcard_static_overlook.rseq
+	animseq\props\valkyrie_ledge\prop_ledge1_ash_gladcard_animated_bullets.rseq
+	animseq\props\valkyrie_ledge\prop_ledge1_ash_gladcard_animated_bullets_idle.rseq
+	animseq\props\valkyrie_ledge\prop_ledge2_ash_gladcard_animated_bullets.rseq
+	animseq\props\valkyrie_ledge\prop_ledge2_ash_gladcard_animated_bullets_idle.rseq
+	animseq\props\valkyrie_ledge\prop_ledge3_ash_gladcard_animated_bullets.rseq
+	animseq\props\valkyrie_ledge\prop_ledge3_ash_gladcard_animated_bullets_idle.rseq
+	animseq\props\valkyrie_ledge\valkyrie_ledge\ledge_gladcard_animated_byebye.rseq
+	animseq\props\valkyrie_ledge\valkyrie_ledge\ledge_gladcard_static_invasion.rseq
+	animseq\props\valkyrie_ledge\valkyrie_ledge\ledge_gladcard_static_spin.rseq
+	animseq\props\valkyrie_ledge\valkyrie_ledge\ledge_gladcard_static_wolf.rseq
+	animseq\props\valkyrie_ledge\valkyrie_ledge\valkyrieLedge_newcastle_gladcard_animated_shieldslide.rseq
+]

@@ -1,0 +1,68 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_challenge_layout.rpak",
+	"uniqueId": 884740930,
+	"settings": {
+		"assetName": "settings/itemflav/challenge/solos/kills_match.rpak",
+		"itemType": "challenge",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00884740930",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"typeOfMetaChallenge": "CHALLENGE_SET",
+		"challengeSet": "",
+		"challengeCollection": "",
+		"rewardCampaign": "",
+		"timeSpan": "EVENT_SPECIAL_2",
+		"autogenSlot": "SLOT_00",
+		"autogenScriptHook": "ON_PLAYER_WIN",
+		"difficulty": "MEDIUM",
+		"mode": "BATTLE_ROYALE",
+		"modeAlt": "BATTLE_ROYALE",
+		"grxRewardSequenceRef": "",
+		"weekNumber": 0,
+		"tiers": [
+				{
+					"description": "#SOLO_KILLS_MATCH",
+					"statRef": "stats.gamemode_solo_kills",
+					"descriptionAlt": "",
+					"statRefAlt": "",
+					"progressAccrual": "startAtZero",
+					"matchRequirement": "inSingleMatch",
+					"goalVal": 20,
+					"goalValAlt": 0,
+					"characters": [
+						],
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/gcard_badge/account/solochallenge_reward02.rpak",
+								"quantity": 1
+							}
+						],
+					"convertSecondsToMinutesDisplay": false
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isMetaChallenge": false,
+		"autoGenerateStatBacker": false,
+		"isBoostEnabled": false,
+		"isEitherOr": false,
+		"isRerollEnabled": true,
+		"isPremium": false,
+		"isGoldenScheme": false,
+		"maxOneTierPerMatch": false,
+		"lastTierIsInfinite": false,
+		"pinnedLocal": false,
+		"excludeFromPostMatchSummary": false,
+		"hasGRXRewardSequenceForPDEF": false,
+		"grxRewardSequenceAllowsSkipAhead": false
+	}
+}

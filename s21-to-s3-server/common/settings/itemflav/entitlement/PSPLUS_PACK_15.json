@@ -1,0 +1,64 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_entitlement_layout.rpak",
+	"uniqueId": 186362182,
+	"settings": {
+		"assetName": "settings/itemflav/entitlement/PSPLUS_PACK_15.rpak",
+		"itemType": "entitlement",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00186362182",
+		"__featureFlag": "",
+		"devDescription": "PS Plus Pack 15",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"entitlementType": "firstparty",
+		"twitchRef": "",
+		"twitchRef": "",
+		"enum": "PSPLUS_PACK_15",
+		"pc": "PSPLUS_PACK_15",
+		"ps4": "PLP0150000000000",
+		"xb1": "PSPLUS_PACK_15",
+		"switch": "PSPLUS_PACK_15",
+		"pc_offer": "",
+		"steam_offer": "",
+		"xb1_offer": "",
+		"menuTitleText": "#PROMO_REWARDS_UNLOCKED",
+		"menuDescText": "#PROMO_PS4_PLUS15_OWNED",
+		"menuImageName": "playstation_plus_pack15",
+		"menuPersistenceVarName": "",
+		"list": [
+				{
+					"flavor": "settings/itemflav/gcard_frame/caustic/rare_v22_herohunter01.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/gcard_frame/pathfinder/rare_v22_herohunter01.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/character_skin/caustic/rare_v21_herohunter.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/character_skin/pathfinder/rare_v21_herohunter.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/rare_v21_herohunter.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/autopistol/rare_v21_herohunter.rpak",
+					"quantity": 1
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isMenuEnabled": false
+	}
+}

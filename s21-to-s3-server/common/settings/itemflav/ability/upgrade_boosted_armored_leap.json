@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 632595861,
+	"settings": {
+		"assetName": "settings/itemflav/ability/upgrade_boosted_armored_leap.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00632595861",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#UPGRADE_NEWCASTLE_CASTLE_WALL_STRONGHOLD_NAME",
+		"localizationKey_NAME_SHORT": "#UPGRADE_TYPE_ULTIMATE",
+		"localizationKey_DESCRIPTION_LONG": "#UPGRADE_NEWCASTLE_CASTLE_WALL_STRONGHOLD_LONG_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#UPGRADE_NEWCASTLE_CASTLE_WALL_STRONGHOLD_SHORT_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/legend_upgrades/newcastle_stronghold_icon",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_ULT_UPGRADE_TWO",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

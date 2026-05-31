@@ -1,0 +1,42 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_execution_layout.rpak",
+	"uniqueId": 1269122443,
+	"settings": {
+		"assetName": "settings/itemflav/character_execution/bangalore/tactical_blade.rpak",
+		"itemType": "character_execution",
+		"parentItemFlavor": "settings/itemflav/character/bangalore.rpak",
+		"settingsAssetID": "SAID01269122443",
+		"__featureFlag": "",
+		"devDescription": "tactical blade",
+		"localizationKey_NAME": "#character_execution_bangalore_tactical_blade_NAME",
+		"localizationKey_NAME_SHORT": "#character_execution_bangalore_tactical_blade_NAME",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "MYTHIC",
+		"icon": "rui/menu/buttons/finisher_emotes/finisher_emote_bangalore_prestigeskin",
+		"tagIcon": "",
+		"grxMode": "OWNERSHIP_TARGET",
+		"grxMode": "OWNERSHIP_TARGET",
+		"grxRef": "character_execution_bangalore_prototype2",
+		"ownershipTarget": "settings/itemflav/character_skin/bangalore/mythic_v22_pilot_level01.rpak",
+		"video": "media/character_executions/bangalore_execution_tactical_blade",
+		"attackerAnimSeq": "animseq/humans/class/medium/pilot_medium_bangalore/bangalore_execution_tacticalBlade.rseq",
+		"victimLightAnimSeq": "animseq/humans/class/light/mp_pilot_light_core/light_victim_bangalore_execution_tacticalBlade.rseq",
+		"victimMediumAnimSeq": "animseq/humans/class/medium/mp_pilot_medium_core/medium_victim_bangalore_execution_tacticalBlade.rseq",
+		"victimHeavyAnimSeq": "animseq/humans/class/heavy/mp_pilot_heavy_core/heavy_victim_bangalore_execution_tacticalBlade.rseq",
+		"victimNPCMediumAnimSeq": "animseq/humans/pete/ai_npc_core/npc_victim_bangalore_execution_tacticalBlade.rseq",
+		"attackerPreviewAnimSeq": "",
+		"victimPreviewAnimSeq": "",
+		"multipleOwnershipTargets": [
+			],
+		"executionDependency": 1,
+		"additionalAttackerAnimSeq": [
+			],
+		"victimPerCharacterAnimSeq": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isNotEquippable": true,
+		"shouldHideIfNotEquippable": false
+	}
+}

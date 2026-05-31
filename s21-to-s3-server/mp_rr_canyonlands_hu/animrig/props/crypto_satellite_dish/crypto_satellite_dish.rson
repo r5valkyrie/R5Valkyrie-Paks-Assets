@@ -1,0 +1,7 @@
+seqs:
+[
+	animseq\props\crypto_satellite_dish\crypto_satellite_dish\crypto_satellite_blend.rseq
+	animseq\props\crypto_satellite_dish\crypto_satellite_dish\crypto_satellite_dish_activate.rseq
+	animseq\props\crypto_satellite_dish\crypto_satellite_dish\crypto_satellite_dish_blendmatrix.rseq
+	animseq\props\crypto_satellite_dish\crypto_satellite_dish\crypto_satellite_dish_idle.rseq
+]

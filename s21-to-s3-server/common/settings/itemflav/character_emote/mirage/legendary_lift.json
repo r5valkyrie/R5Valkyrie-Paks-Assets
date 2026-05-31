@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 1234150082,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/mirage/legendary_lift.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/mirage.rpak",
+		"settingsAssetID": "SAID01234150082",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#character_emote_mirage_legendary_lift_NAME",
+		"localizationKey_NAME_SHORT": "#character_emote_mirage_legendary_lift_NAME",
+		"localizationKey_DESCRIPTION_LONG": "#character_emote_mirage_legendary_lift_NAME",
+		"localizationKey_DESCRIPTION_SHORT": "#character_emote_mirage_legendary_lift_NAME",
+		"quality": "LEGENDARY",
+		"icon": "rui/menu/buttons/character_emotes/mirage/lift",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_mirage_legendary_lift",
+		"ownershipTarget": "",
+		"anim3p": "mirage_ground_emote_lift",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

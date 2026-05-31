@@ -1,0 +1,44 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_badge_layout.rpak",
+	"uniqueId": 565557802,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_badge/account/s13e01_b1_heroes_challenge_1.rpak",
+		"itemType": "gladiator_card_badge",
+		"parentItemFlavor": "settings/itemflav/challenge/s13e01/hidden_heroes_badge.rpak",
+		"settingsAssetID": "SAID00565557802",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#S13E01_BADGE_1_NAME",
+		"localizationKey_NAME_SHORT": "#S13E01_BADGE_1_NAME",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "#S13E01_BADGE_1_DESC",
+		"quality": "EPIC",
+		"icon": "rui/gladiator_cards/badges/s13e01_heroes_challenge_1",
+		"tagIcon": "rui/events/s13e01/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "gcard_badge_account_s13e01_b1_heroes_challenge_1",
+		"ownershipTarget": "",
+		"exclusiveFunc": "",
+		"unlockStatRef": "",
+		"dynamicTextStatRef": "",
+		"badgeCategory": "MENU_BADGE_EVENT",
+		"multipleOwnershipTargets": [
+			],
+		"tiers": [
+				{
+					"imageAsset": "rui/gladiator_cards/badges/s13e01_heroes_challenge_1",
+					"ruiAsset": "",
+					"unlocksAt": 1.000000
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false,
+		"exclusive": false,
+		"shouldHideIfLocked": true,
+		"isCharacterBadge": false,
+		"hasOwnRui": false,
+		"isOversizedImage": true
+	}
+}

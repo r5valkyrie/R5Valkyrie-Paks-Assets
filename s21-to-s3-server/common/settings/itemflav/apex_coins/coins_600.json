@@ -1,0 +1,30 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_apex_coins_layout.rpak",
+	"uniqueId": 318565702,
+	"settings": {
+		"assetName": "settings/itemflav/apex_coins/coins_600.rpak",
+		"itemType": "apex_coins",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00318565702",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#SKU_COINS_600",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "LEGENDARY",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"grxMode": "NONE",
+		"grxRef": "",
+		"ownershipTarget": "",
+		"apexCoinAmount": "600",
+		"apexCoinTierImage": "rui/menu/sku_store/apex_coins_card_t3",
+		"apexCoinCardBaseImage": "rui/menu/sku_store/apex_coins_card_base",
+		"multipleOwnershipTargets": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

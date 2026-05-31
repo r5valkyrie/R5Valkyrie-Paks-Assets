@@ -1,0 +1,6 @@
+seqs:
+[
+	animseq\humans\class\char_select_light_default.rseq
+	animseq\humans\class\loot_ceremony_light_character.rseq
+	animseq\humans\class\loot_ceremony_light_weapon.rseq
+]

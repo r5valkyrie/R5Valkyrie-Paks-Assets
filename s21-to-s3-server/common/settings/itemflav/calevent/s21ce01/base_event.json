@@ -1,0 +1,67 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_calevent_base_event_layout.rpak",
+	"uniqueId": 1764321353,
+	"settings": {
+		"assetName": "settings/itemflav/calevent/s21ce01/base_event.rpak",
+		"itemType": "calevent_base_event",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01764321353",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#S21CE01_EVENT",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"revealUnixTime": "",
+		"hideUnixTime": "",
+		"defaultStartTime": "2024-06-25 10:00:00 -07:00",
+		"defaultFinishTime": "2024-07-09 10:00:00 -07:00",
+		"mainLandingImage": "rui/events/s21ce01/event_logo",
+		"buttonBackgroundImage": "rui/events/s21ce01/intro_page_panel_bg",
+		"landingPageTitleSize": 62,
+		"landingPageTitleColor": "<1.000000,1.000000,1.000000>",
+		"landingPageTitleOutlineInnerColor": "<0.000000,0.000000,0.000000>",
+		"landingPageTitleOutlineInnerAlpha": 0.900000,
+		"landingPageTitleOutlineOuterColor": "<0.000000,0.000000,0.000000>",
+		"landingPageTitleOutlineOuterAlpha": 0.600000,
+		"landingPageTitleOutlineWidth": 3.500000,
+		"backgroundDarkeningOpacity": 0.000000,
+		"landingPageSubtitleSize": 50,
+		"landingPageSubtitleColor": "<1.000000,1.000000,1.000000>",
+		"buttonData": [
+				{
+					"buttonImage": "rui/events/s21ce01/landing_page_button",
+					"buttonName": "#LANDING_PAGE_BUTTON_COLLECTION_NAME",
+					"buttonImageRestricted": "",
+					"buttonNameRestricted": "",
+					"customDeeplinkType": "",
+					"customDeeplink": "",
+					"pageRedirect": 4
+				},
+				{
+					"buttonImage": "rui/events/s21ce01/prize_tracker_button",
+					"buttonName": "#CHELLENGES_PRIZE_TRACKER",
+					"buttonImageRestricted": "rui/events/s21ce01/prize_tracker_button_restrict",
+					"buttonNameRestricted": "",
+					"customDeeplinkType": "",
+					"customDeeplink": "",
+					"pageRedirect": 7
+				},
+				{
+					"buttonImage": "rui/events/s20me01/titlescreen_item_gamemode",
+					"buttonName": "#LANDING_PAGE_BUTTON_GAMEMODE_NAME",
+					"buttonImageRestricted": "",
+					"buttonNameRestricted": "",
+					"customDeeplinkType": "",
+					"customDeeplink": "",
+					"pageRedirect": 6
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

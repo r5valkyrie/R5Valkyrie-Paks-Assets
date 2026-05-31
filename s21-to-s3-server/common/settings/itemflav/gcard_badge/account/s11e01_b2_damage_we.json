@@ -1,0 +1,44 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_badge_layout.rpak",
+	"uniqueId": 650293726,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_badge/account/s11e01_b2_damage_we.rpak",
+		"itemType": "gladiator_card_badge",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00650293726",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#S11E01_BADGE_2_NAME",
+		"localizationKey_NAME_SHORT": "#S11E01_BADGE_2_NAME",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "#S11E01_BADGE_2_DESC",
+		"quality": "EPIC",
+		"icon": "rui/gladiator_cards/badges/s11e01_raiders_challenge_2",
+		"tagIcon": "rui/events/s11e01/item_source_icon",
+		"grxMode": "NONE",
+		"grxMode": "NONE",
+		"grxRef": "gcard_badge_account_s11e01_damage_br",
+		"ownershipTarget": "",
+		"exclusiveFunc": "",
+		"unlockStatRef": "stats.s11e01_winter_express_damage_done",
+		"dynamicTextStatRef": "",
+		"badgeCategory": "MENU_BADGE_EVENT",
+		"multipleOwnershipTargets": [
+			],
+		"tiers": [
+				{
+					"imageAsset": "rui/gladiator_cards/badges/s11e01_raiders_challenge_2",
+					"ruiAsset": "",
+					"unlocksAt": 10000.000000
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false,
+		"exclusive": false,
+		"shouldHideIfLocked": true,
+		"isCharacterBadge": false,
+		"hasOwnRui": false,
+		"isOversizedImage": true
+	}
+}

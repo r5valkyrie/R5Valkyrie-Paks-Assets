@@ -1,0 +1,44 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_entitlement_layout.rpak",
+	"uniqueId": 387405204,
+	"settings": {
+		"assetName": "settings/itemflav/entitlement/ASSIMILATION_PACK_REVENANT.rpak",
+		"itemType": "entitlement",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00387405204",
+		"__featureFlag": "",
+		"devDescription": "Revenant starter pack",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"entitlementType": "firstparty",
+		"twitchRef": "",
+		"twitchRef": "",
+		"enum": "ASSIMILATION_PACK_REVENANT",
+		"pc": "APEX_ASSIMILATION_CONTENT",
+		"ps4": "REVASS0000000000",
+		"xb1": "ASSIMILATION_PACK_REVENANT",
+		"switch": "ASSIMILATION_PACK_REVENANT",
+		"pc_offer": "Origin.OFR.50.0003970",
+		"steam_offer": "Steam.OFR.50.0000023",
+		"xb1_offer": "4a4a4e39-424e-3034-c036-4a5058313800",
+		"menuTitleText": "#PROMO_REVENANT_STARTER_PACK_HEADER",
+		"menuDescText": "#PROMO_REVENANT_STARTER_PACK_TEXT",
+		"menuImageName": "revenant_starter_pack",
+		"menuPersistenceVarName": "revenantStarterPackAcknowledged",
+		"list": [
+				{
+					"flavor": "settings/itemflav/character_skin/revenant/starterpack_rare_01.rpak",
+					"quantity": 1
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isMenuEnabled": true
+	}
+}

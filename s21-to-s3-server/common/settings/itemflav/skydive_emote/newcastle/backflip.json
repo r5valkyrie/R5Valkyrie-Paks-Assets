@@ -1,0 +1,31 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_skydive_emote_layout.rpak",
+	"uniqueId": 776999727,
+	"settings": {
+		"assetName": "settings/itemflav/skydive_emote/newcastle/backflip.rpak",
+		"itemType": "skydive_emote",
+		"parentItemFlavor": "settings/itemflav/character/newcastle.rpak",
+		"settingsAssetID": "SAID00776999727",
+		"__featureFlag": "",
+		"devDescription": "newcastle's basic backflip",
+		"localizationKey_NAME": "#skydive_emote_newcastle_backflip_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/battlepass/skydive_emote_backflip",
+		"tagIcon": "rui/events/s13bp/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "skydive_emote_newcastle_backflip",
+		"ownershipTarget": "",
+		"animSequence": "animseq/humans/class/heavy/pilot_heavy_newcastle/newcastle_freefall_emote_backflip.rseq",
+		"video": "media/skydive_emotes/newcastle_backflip",
+		"bcEvent": "bc_skydive",
+		"multipleOwnershipTargets": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false
+	}
+}

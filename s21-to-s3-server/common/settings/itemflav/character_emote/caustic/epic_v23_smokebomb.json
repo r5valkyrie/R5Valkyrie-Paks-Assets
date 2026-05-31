@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 1109397425,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/caustic/epic_v23_smokebomb.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/caustic.rpak",
+		"settingsAssetID": "SAID01109397425",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#ground_emote_caustic_smokebomb",
+		"localizationKey_NAME_SHORT": "#ground_emote_caustic_smokebomb",
+		"localizationKey_DESCRIPTION_LONG": "#ground_emote_caustic_smokebomb",
+		"localizationKey_DESCRIPTION_SHORT": "#ground_emote_caustic_smokebomb",
+		"quality": "EPIC",
+		"icon": "rui/hud/character_emotes/caustic/icon_character_emote_caustic_smokebomb",
+		"tagIcon": "rui/events/s21me01/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_caustic_epic_v23_smokebomb",
+		"ownershipTarget": "",
+		"anim3p": "caustic_ground_emote_smokebomb",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

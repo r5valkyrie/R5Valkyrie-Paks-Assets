@@ -1,0 +1,6 @@
+seqs:
+[
+	animseq\weapons\peacekeeper\ptpov_peacekeeper\s20KeyArt.rseq
+	animseq\weapons\peacekeeper\w_peacekeeper\attack_seq.rseq
+	animseq\weapons\peacekeeper\w_peacekeeper\idle_seq.rseq
+]

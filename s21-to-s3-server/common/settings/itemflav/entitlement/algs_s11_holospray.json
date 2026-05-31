@@ -1,0 +1,44 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_entitlement_layout.rpak",
+	"uniqueId": 1928706166,
+	"settings": {
+		"assetName": "settings/itemflav/entitlement/algs_s11_holospray.rpak",
+		"itemType": "entitlement",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01928706166",
+		"__featureFlag": "",
+		"devDescription": "Twitch Drops Holospray",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "rui/events/algs/item_source_icon",
+		"grxMode": "NONE",
+		"entitlementType": "twitch_drops",
+		"twitchRef": "algs_s11_holospray",
+		"twitchRef": "algs_s11_holospray",
+		"enum": "",
+		"pc": "",
+		"ps4": "",
+		"xb1": "",
+		"switch": "",
+		"pc_offer": "",
+		"steam_offer": "",
+		"xb1_offer": "",
+		"menuTitleText": "#TWITCH_DROPS",
+		"menuDescText": "#TWITCH_DROP_S11_HOLOSPRAY_ENTITLEMENT_OWNED",
+		"menuImageName": "algs_s11_holospray",
+		"menuPersistenceVarName": "",
+		"list": [
+				{
+					"flavor": "settings/itemflav/emote_icon/s11_algs/rare_v21_s11_algs_01.rpak",
+					"quantity": 1
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isMenuEnabled": false
+	}
+}

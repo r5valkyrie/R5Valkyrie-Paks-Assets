@@ -1,0 +1,33 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_stat_tracker_layout.rpak",
+	"uniqueId": 614936396,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_tracker/valkyrie/s09e01_career_wins.rpak",
+		"itemType": "gladiator_card_stat_tracker",
+		"parentItemFlavor": "settings/itemflav/character/valkyrie.rpak",
+		"settingsAssetID": "SAID00614936396",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#gcard_tracker_valkyrie_placements_win_NAME",
+		"localizationKey_NAME_SHORT": "#TRACKER_WINS",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "RARE",
+		"icon": "",
+		"tagIcon": "rui/events/s09e01/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "gcard_tracker_valkyrie_s09e01_career_wins",
+		"ownershipTarget": "",
+		"statRef": "stats.characters[%char%].placements_win",
+		"valueNumberFormat": "INTEGER",
+		"valueSuffix": "",
+		"backgroundImage": "rui/gladiator_cards/trackers/events/s09e01/valkyrie_bg_mid",
+		"multipleOwnershipTargets": [
+			],
+		"color0": "<0.522000,0.207000,0.890000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false
+	}
+}

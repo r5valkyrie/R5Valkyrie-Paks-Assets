@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 392102597,
+	"settings": {
+		"assetName": "settings/itemflav/ability/upgrade_seer_ult_cooldown_reduction.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00392102597",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#UPGRADE_ULTIMATE_COOLDOWN_REDUCTION_NAME",
+		"localizationKey_NAME_SHORT": "#UPGRADE_TYPE_ULTIMATE",
+		"localizationKey_DESCRIPTION_LONG": "#UPGRADE_ULTIMATE_COOLDOWN_REDUCTION_LONG_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#UPGRADE_ULTIMATE_COOLDOWN_REDUCTION_SHORT_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/legend_upgrades/upgrade_seer_ult_cooldown",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_MOD_UPGRADE_ONLY",
+		"passiveWeaponMod": "upgrade_core_ult_cooldown_reduction",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

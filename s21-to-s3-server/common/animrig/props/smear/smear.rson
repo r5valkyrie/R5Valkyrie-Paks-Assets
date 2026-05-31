@@ -1,0 +1,43 @@
+seqs:
+[
+	animseq\props\smear\smear\pov_smear_kunai_draw_hlctest.rseq
+	animseq\props\smear\smear\pov_smear_kunai_draw_hlctest_rethemed.rseq
+	animseq\props\smear\smear\pov_smear_kunai_drawfirst.rseq
+	animseq\props\smear\smear\pov_smear_kunai_drawfirst_rethemed.rseq
+	animseq\props\smear\smear\pov_smear_kunai_inspect_fly.rseq
+	animseq\props\smear\smear\pov_smear_kunai_inspect_fly_rethemed.rseq
+	animseq\props\smear\smear\pov_smear_kunai_melee_idle_swipe.rseq
+	animseq\props\smear\smear\pov_smear_kunai_melee_idle_swipe_rethemed.rseq
+	animseq\props\smear\smear\smear_ash_freefall_emote_swimmingmouse.rseq
+	animseq\props\smear\smear\smear_caustic_ground_emote_smokebomb.rseq
+	animseq\props\smear\smear\smear_conduit_ground_emote_smokebomb.rseq
+	animseq\props\smear\smear\smear_ground_emote_kunai_beam_kunaiL.rseq
+	animseq\props\smear\smear\smear_ground_emote_kunai_beam_kunaiR.rseq
+	animseq\props\smear\smear\smear_ground_emote_kunai_easter_kunaiR.rseq
+	animseq\props\smear\smear\smear_ground_emote_kunai_final_KunaiL.rseq
+	animseq\props\smear\smear\smear_ground_emote_kunai_final_KunaiR.rseq
+	animseq\props\smear\smear\smear_ground_emote_kunai_kick_kunaiL.rseq
+	animseq\props\smear\smear\smear_ground_emote_kunai_kick_kunaiR.rseq
+	animseq\props\smear\smear\smear_ground_emote_kunai_kick_leg.rseq
+	animseq\props\smear\smear\smear_ground_emote_kunai_loop_kunaiL.rseq
+	animseq\props\smear\smear\smear_ground_emote_kunai_loop_kunaiR.rseq
+	animseq\props\smear\smear\smear_ground_emote_kunai_spin_kunaiL.rseq
+	animseq\props\smear\smear\smear_ground_emote_kunai_spin_kunaiR.rseq
+	animseq\props\smear\smear\smear_meleeStand_kunai.rseq
+	animseq\props\smear\smear\smear_meleeStand_kunai_rethemed.rseq
+	animseq\props\smear\smear\smear_octane_ground_emote_smokebomb.rseq
+	animseq\props\smear\smear\smear_rampart_ground_emote_smokebomb.rseq
+	animseq\props\smear\smear\smear_wraith_freefall_emote_run.rseq
+	animseq\props\smear\smear\smear_wraith_ground_emote_kunai_intro_L.rseq
+	animseq\props\smear\smear\smear_wraith_ground_emote_kunai_intro_R.rseq
+	animseq\props\smear\smear\smear_wraith_meleeCrouch_kunai.rseq
+	animseq\props\smear\smear\smear_wraith_meleeCrouch_kunai_rethemed.rseq
+	animseq\props\smear\smear\smear_wraith_meleeJump_kunai.rseq
+	animseq\props\smear\smear\smear_wraith_meleeJump_kunai_rethemed.rseq
+	animseq\props\smear\smear\smear_wraith_meleeSlide_kunai.rseq
+	animseq\props\smear\smear\smear_wraith_meleeSlide_kunai_rethemed.rseq
+	animseq\props\smear\smear\smear_wraith_meleeSprint_kunai.rseq
+	animseq\props\smear\smear\smear_wraith_meleeSprint_kunai__rethemed.rseq
+	animseq\props\smear\smear\Smear_wraith_meleeStand_kunai_01.rseq
+	animseq\props\smear\smear\Smear_wraith_meleeStand_kunai_01_rethemed.rseq
+]

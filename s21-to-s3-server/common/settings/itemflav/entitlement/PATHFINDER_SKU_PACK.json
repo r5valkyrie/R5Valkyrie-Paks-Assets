@@ -1,0 +1,56 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_entitlement_layout.rpak",
+	"uniqueId": 1981287898,
+	"settings": {
+		"assetName": "settings/itemflav/entitlement/PATHFINDER_SKU_PACK.rpak",
+		"itemType": "entitlement",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01981287898",
+		"__featureFlag": "",
+		"devDescription": "Pathfinder SKU items",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"entitlementType": "firstparty",
+		"twitchRef": "",
+		"twitchRef": "",
+		"enum": "PATHFINDER_SKU_PACK",
+		"pc": "APEX_PATHFINDER_CONTENT",
+		"ps4": "PTHPCK0000000000",
+		"xb1": "PATHFINDER_SKU_PACK",
+		"switch": "apexlegpathf",
+		"pc_offer": "Origin.OFR.50.0004100",
+		"steam_offer": "",
+		"xb1_offer": "42505039-4848-3034-c058-535a30586c00",
+		"menuTitleText": "#PROMO_PATHFINDER_SKU_HEADER",
+		"menuDescText": "#PROMO_PATHFINDER_SKU_TEXT",
+		"menuImageName": "pathfinder_sku",
+		"menuPersistenceVarName": "pathfinderSKUAcknowledged",
+		"list": [
+				{
+					"flavor": "settings/itemflav/character_skin/pathfinder/sku04_legendary_01.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/energy_ar/sku04_legendary_01.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_assim_ordnance_molotov01.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/gcard_badge/pathfinder/sku04.rpak",
+					"quantity": 1
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isMenuEnabled": false
+	}
+}

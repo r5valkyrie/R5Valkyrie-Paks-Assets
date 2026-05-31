@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 752642448,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/ballistic/rare_v22_taunt.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/ballistic.rpak",
+		"settingsAssetID": "SAID00752642448",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#ground_emote_ballistic_taunt",
+		"localizationKey_NAME_SHORT": "#ground_emote_ballistic_taunt",
+		"localizationKey_DESCRIPTION_LONG": "#ground_emote_ballistic_taunt",
+		"localizationKey_DESCRIPTION_SHORT": "#ground_emote_ballistic_taunt",
+		"quality": "RARE",
+		"icon": "rui/menu/buttons/character_emotes/ballistic/brushoff",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"grxMode": "NONE",
+		"grxRef": "",
+		"ownershipTarget": "",
+		"anim3p": "ballistic_ground_emote_taunt",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

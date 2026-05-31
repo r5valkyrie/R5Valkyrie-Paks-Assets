@@ -1,0 +1,20 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_CreateProp_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/prop_newcastle_shield_execution_hero.rpak",
+		"devDescription": "",
+		"type": "CreateProp",
+		"selectModelFrom": "HARD_CODED",
+		"modelName": "mdl/props/newcastle_shield_prop/newcastle_shield_v21_base_w.rmdl",
+		"modelScriptKey": "",
+		"attachPoint": "REF",
+		"animSequence": "animseq/props/newcastle_shield_prop/newcastle_shield_v21/newcastleshield_execution_hero.rseq",
+		"scriptCallbackKey": "",
+		"scale": 1.000000,
+		"additionalAnims": [
+			],
+		"propBodygroups": [
+			],
+		"syncCycle": true
+	}
+}

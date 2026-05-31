@@ -1,0 +1,10 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_SetPropSkin_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/prop_smear_wraith_kunai_base.rpak",
+		"devDescription": "",
+		"type": "SetPropSkin",
+		"skinName": "wraith_kunai_base_smear",
+		"camoIndex": 0
+	}
+}

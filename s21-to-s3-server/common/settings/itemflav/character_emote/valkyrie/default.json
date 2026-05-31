@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 1338257589,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/valkyrie/default.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/valkyrie.rpak",
+		"settingsAssetID": "SAID01338257589",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#CHAR_EMOTE_043",
+		"localizationKey_NAME_SHORT": "#CHAR_EMOTE_043",
+		"localizationKey_DESCRIPTION_LONG": "#CHAR_EMOTE_043",
+		"localizationKey_DESCRIPTION_SHORT": "#CHAR_EMOTE_043",
+		"quality": "RARE",
+		"icon": "rui/menu/buttons/character_emotes/valkyrie/bow",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"grxMode": "NONE",
+		"grxRef": "character_emote_valkyrie_rare_bow",
+		"ownershipTarget": "",
+		"anim3p": "valkyrie_ground_emote_bowSarcastic",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

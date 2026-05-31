@@ -1,0 +1,31 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_skydive_emote_layout.rpak",
+	"uniqueId": 1381744738,
+	"settings": {
+		"assetName": "settings/itemflav/skydive_emote/ash/epic_v22_magicgoth_backflip.rpak",
+		"itemType": "skydive_emote",
+		"parentItemFlavor": "settings/itemflav/character/ash.rpak",
+		"settingsAssetID": "SAID01381744738",
+		"__featureFlag": "",
+		"devDescription": "",
+		"localizationKey_NAME": "#skydive_emote_ash_backflip",
+		"localizationKey_NAME_SHORT": "#skydive_emote_ash_backflip",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/battlepass/skydive_emote_backflip",
+		"tagIcon": "rui/events/s15bp/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "skydive_emote_ash_epic_v22_magicgoth_backflip",
+		"ownershipTarget": "",
+		"animSequence": "animseq/humans/class/medium/pilot_medium_ash/ash_freefall_emote_backflip.rseq",
+		"video": "media/skydive_emotes/ash_magicgoth_backflip",
+		"bcEvent": "",
+		"multipleOwnershipTargets": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false
+	}
+}

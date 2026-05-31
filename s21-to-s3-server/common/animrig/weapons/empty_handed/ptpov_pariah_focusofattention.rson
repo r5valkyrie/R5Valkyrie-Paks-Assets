@@ -1,0 +1,30 @@
+seqs:
+[
+	animseq\weapons\empty_handed\ptpov_pariah_focusofattention\crouch.rseq
+	animseq\weapons\empty_handed\ptpov_pariah_focusofattention\draw.rseq
+	animseq\weapons\empty_handed\ptpov_pariah_focusofattention\draw_onehanded.rseq
+	animseq\weapons\empty_handed\ptpov_pariah_focusofattention\draw_onehanded_to_hold_onehanded.rseq
+	animseq\weapons\empty_handed\ptpov_pariah_focusofattention\draw_to_crouch.rseq
+	animseq\weapons\empty_handed\ptpov_pariah_focusofattention\draw_to_hold.rseq
+	animseq\weapons\empty_handed\ptpov_pariah_focusofattention\draw_to_slide.rseq
+	animseq\weapons\empty_handed\ptpov_pariah_focusofattention\draw_to_sprint.rseq
+	animseq\weapons\empty_handed\ptpov_pariah_focusofattention\fire.rseq
+	animseq\weapons\empty_handed\ptpov_pariah_focusofattention\fire_onehanded.rseq
+	animseq\weapons\empty_handed\ptpov_pariah_focusofattention\hold_to_sprint.rseq
+	animseq\weapons\empty_handed\ptpov_pariah_focusofattention\holster.rseq
+	animseq\weapons\empty_handed\ptpov_pariah_focusofattention\idle.rseq
+	animseq\weapons\empty_handed\ptpov_pariah_focusofattention\idle_onehanded.rseq
+	animseq\weapons\empty_handed\ptpov_pariah_focusofattention\jump.rseq
+	animseq\weapons\empty_handed\ptpov_pariah_focusofattention\land_high.rseq
+	animseq\weapons\empty_handed\ptpov_pariah_focusofattention\land_low.rseq
+	animseq\weapons\empty_handed\ptpov_pariah_focusofattention\land_med.rseq
+	animseq\weapons\empty_handed\ptpov_pariah_focusofattention\onehanded_prep.rseq
+	animseq\weapons\empty_handed\ptpov_pariah_focusofattention\onehanded_to_twohanded.rseq
+	animseq\weapons\empty_handed\ptpov_pariah_focusofattention\slide.rseq
+	animseq\weapons\empty_handed\ptpov_pariah_focusofattention\slide_to_sprint.rseq
+	animseq\weapons\empty_handed\ptpov_pariah_focusofattention\sprint.rseq
+	animseq\weapons\empty_handed\ptpov_pariah_focusofattention\sprint_to_slide.rseq
+	animseq\weapons\empty_handed\ptpov_pariah_focusofattention\twohanded_to_onehanded.rseq
+	animseq\weapons\empty_handed\ptpov_pariah_focusofattention\walk_layer.rseq
+	animseq\weapons\empty_handed\ptpov_pariah_focusofattention\zipline_mount.rseq
+]

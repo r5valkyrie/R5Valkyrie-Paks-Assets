@@ -1,0 +1,44 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_entitlement_layout.rpak",
+	"uniqueId": 792957204,
+	"settings": {
+		"assetName": "settings/itemflav/entitlement/XBOX_EA_PLAY_CHARM_KNOCKOUTCITY.rpak",
+		"itemType": "entitlement",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00792957204",
+		"__featureFlag": "",
+		"devDescription": "Weapon charm for Xbox players",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"entitlementType": "firstparty",
+		"twitchRef": "",
+		"twitchRef": "",
+		"enum": "XBOX_EA_PLAY_CHARM_KNOCKOUTCITY",
+		"pc": "XBOX_EA_PLAY_CHARM_KNOCKOUTCITY",
+		"ps4": "XBOX_EA_PLAY_CHARM_KNOCKOUTCITY",
+		"xb1": "XBOX_EA_PLAY_CHARM_KNOCKOUTCITY",
+		"switch": "XBOX_EA_PLAY_CHARM_KNOCKOUTCITY",
+		"pc_offer": "",
+		"steam_offer": "",
+		"xb1_offer": "32335039-354e-3051-c054-4a364e4b2f00",
+		"menuTitleText": "#ORIGIN_ACCESS",
+		"menuDescText": "#PROMO_EA_PLAY_CHARM_OWNED",
+		"menuImageName": "ea_play_offer04",
+		"menuPersistenceVarName": "",
+		"list": [
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_knockoutcity_asset_v20_prop_ball_dodge01.rpak",
+					"quantity": 1
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isMenuEnabled": false
+	}
+}

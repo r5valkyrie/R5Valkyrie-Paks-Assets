@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/bloodhound/s03e01_legendary_01.rpak",
+		"roots": [
+				{
+					"asset": "mdl/Humans/class/medium/pilot_medium_bloodhound_season_03_halloween_legendary_01.rmdl",
+					"featureFlag": ""
+				},
+				{
+					"asset": "mdl/Weapons/arms/pov_pilot_medium_bloodhound_season_02_halloween_legendary_01.rmdl",
+					"featureFlag": ""
+				}
+			]
+	}
+}

@@ -1,0 +1,27 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_battlepass_purchased_xp_layout.rpak",
+	"uniqueId": 383301867,
+	"settings": {
+		"assetName": "settings/itemflav/battlepass_purchased_xp/season17_single_level.rpak",
+		"itemType": "battlepass_purchased_xp",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00383301867",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#BATTLEPASS_PURCHASED_XP",
+		"localizationKey_NAME_SHORT": "#BATTLEPASS_PURCHASED_XP",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "LEGENDARY",
+		"icon": "rui/menu/events/event_shop/shop_item_recurring_bp_stars",
+		"tagIcon": "",
+		"grxMode": "CONSUMABLE",
+		"grxMode": "CONSUMABLE",
+		"grxRef": "battlepass_season17_purchased_xp",
+		"ownershipTarget": "",
+		"multipleOwnershipTargets": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

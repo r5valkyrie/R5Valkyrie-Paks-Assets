@@ -1,0 +1,15 @@
+"bundle","base","base_item_cost"
+"","",0
+"health_bundle","health_pickup_health_large",0
+"","",0
+"shield_bundle","health_pickup_combo_large",0
+"","",0
+"ammo_bundle","bullet",0
+"","special",0
+"","shotgun",0
+"","highcal",0
+"","sniper",0
+"","arrows",0
+"","",0
+"banner_bundle","expired_banners",0
+"string","string","int"

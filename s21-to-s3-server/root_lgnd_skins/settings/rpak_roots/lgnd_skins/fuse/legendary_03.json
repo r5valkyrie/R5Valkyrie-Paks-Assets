@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/fuse/legendary_03.rpak",
+		"roots": [
+				{
+					"asset": "mdl/Humans/class/medium/fuse_v20_daredevil_w.rmdl",
+					"featureFlag": ""
+				},
+				{
+					"asset": "mdl/weapons/arms/fuse_v20_daredevil_v.rmdl",
+					"featureFlag": ""
+				}
+			]
+	}
+}

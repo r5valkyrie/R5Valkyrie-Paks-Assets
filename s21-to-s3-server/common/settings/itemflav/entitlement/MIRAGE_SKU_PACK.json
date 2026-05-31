@@ -1,0 +1,56 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_entitlement_layout.rpak",
+	"uniqueId": 1939752989,
+	"settings": {
+		"assetName": "settings/itemflav/entitlement/MIRAGE_SKU_PACK.rpak",
+		"itemType": "entitlement",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01939752989",
+		"__featureFlag": "",
+		"devDescription": "Retail SKU items, Mirage edition",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"entitlementType": "firstparty",
+		"twitchRef": "",
+		"twitchRef": "",
+		"enum": "MIRAGE_SKU_PACK",
+		"pc": "APEX_MIRAGE_CONTENT",
+		"ps4": "MIRPAC0000000000",
+		"xb1": "MIRAGE_SKU_PACK",
+		"switch": "apexlegmirag",
+		"pc_offer": "Origin.OFR.50.0004422",
+		"steam_offer": "Steam.OFR.50.0000059",
+		"xb1_offer": "52504e39-464c-3039-c032-513532351300",
+		"menuTitleText": "#PROMO_MIRAGE_EDITION",
+		"menuDescText": "#PROMO_MIRAGE_SKU_OWNED",
+		"menuImageName": "redemption_sku_mirage_01",
+		"menuPersistenceVarName": "",
+		"list": [
+				{
+					"flavor": "settings/itemflav/gcard_badge/mirage/sku07.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/character_skin/mirage/sku07_legendary_01.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_warlord_mirage_boot01.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/volt/sku07_legendary_01.rpak",
+					"quantity": 1
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isMenuEnabled": false
+	}
+}

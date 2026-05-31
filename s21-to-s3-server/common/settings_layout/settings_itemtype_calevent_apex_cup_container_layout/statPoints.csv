@@ -1,0 +1,5 @@
+"fieldName","dataType","layoutIndex","helpText"
+"statRef","string","0",""
+"pointsRate","float","0","The rate at which points accrue (i.e. 1 point per stat change).\nIf a fractional value is used, then the points will be calculated and only the integer part will be used"
+"statLimit","int","0",""
+"hasStatLimit","bool","0","Determines whether the points stop accruing after a set limit or not"

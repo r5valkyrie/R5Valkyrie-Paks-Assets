@@ -1,0 +1,34 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_calevent_login_layout.rpak",
+	"uniqueId": 1119821103,
+	"settings": {
+		"assetName": "settings/itemflav/calevent/login_medal_of_honor.rpak",
+		"itemType": "calevent_login",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01119821103",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#MEDAL_OF_HONOR_GIFT",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "#LOGIN_REWARD",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"revealUnixTime": "",
+		"hideUnixTime": "",
+		"defaultStartTime": "2020-12-10 10:00:00 -08:00",
+		"defaultFinishTime": "2021-01-14 24:00:00 -08:00",
+		"ceremonyImage": "",
+		"ceremonyTitle": "#MEDAL_OF_HONOR_GIFT",
+		"ceremonyDesc": "#LOGIN_REWARD",
+		"loginRewards": [
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_medalofhonor_asset_v20_char_manon_bighead01.rpak"
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

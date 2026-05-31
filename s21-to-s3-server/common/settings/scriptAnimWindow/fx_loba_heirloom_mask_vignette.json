@@ -1,0 +1,12 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_PlayFX_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/fx_loba_heirloom_mask_vignette.rpak",
+		"devDescription": "",
+		"type": "PlayFX",
+		"particleSystemName": "P_Loba_HL_Mask_Vignette",
+		"attachPoint": "CAMERA",
+		"followAttach": true,
+		"playEndCap": false
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 7179569,
+	"settings": {
+		"assetName": "settings/itemflav/ability/upgrade_gibraltar_tac_fast_heal.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00007179569",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#UPGRADE_GIBRALTAR_TACTICAL_FAST_HEAL_NAME",
+		"localizationKey_NAME_SHORT": "#UPGRADE_TYPE_TACTICAL",
+		"localizationKey_DESCRIPTION_LONG": "#UPGRADE_GIBRALTAR_TACTICAL_FAST_HEAL_LONG_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#UPGRADE_GIBRALTAR_TACTICAL_FAST_HEAL_SHORT_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/legend_upgrades/gibraltar_bubblebunker_icon",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_TAC_UPGRADE_ONE",
+		"passiveWeaponMod": "upgrade_dome_duration",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

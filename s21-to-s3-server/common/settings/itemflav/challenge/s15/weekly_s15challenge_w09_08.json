@@ -1,0 +1,68 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_challenge_layout.rpak",
+	"uniqueId": 103967572,
+	"settings": {
+		"assetName": "settings/itemflav/challenge/s15/weekly_s15challenge_w09_08.rpak",
+		"itemType": "challenge",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00103967572",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"typeOfMetaChallenge": "CHALLENGE_SET",
+		"challengeSet": "",
+		"challengeCollection": "",
+		"rewardCampaign": "",
+		"timeSpan": "SEASON_WEEKLY",
+		"autogenSlot": "SLOT_00",
+		"autogenScriptHook": "ON_PLAYER_WIN",
+		"difficulty": "MEDIUM",
+		"mode": "ANY",
+		"modeAlt": "BATTLE_ROYALE",
+		"grxRewardSequenceRef": "",
+		"weekNumber": 9,
+		"tiers": [
+				{
+					"description": "#CHALLENGE_DAILY_GAMES_PLAYED",
+					"statRef": "stats.games_played_any_mode",
+					"descriptionAlt": "",
+					"statRefAlt": "",
+					"progressAccrual": "startAtZero",
+					"matchRequirement": "none",
+					"goalVal": 10,
+					"goalValAlt": 0,
+					"characters": [
+						],
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/voucher/challenge_reward_stars_2.rpak",
+								"quantity": 1
+							}
+						],
+					"convertSecondsToMinutesDisplay": false
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isMetaChallenge": false,
+		"autoGenerateStatBacker": false,
+		"isBoostEnabled": false,
+		"isEitherOr": false,
+		"isRerollEnabled": true,
+		"isPremium": false,
+		"isGoldenScheme": false,
+		"maxOneTierPerMatch": false,
+		"lastTierIsInfinite": false,
+		"pinnedLocal": false,
+		"excludeFromPostMatchSummary": false,
+		"hasGRXRewardSequenceForPDEF": false,
+		"grxRewardSequenceAllowsSkipAhead": false
+	}
+}

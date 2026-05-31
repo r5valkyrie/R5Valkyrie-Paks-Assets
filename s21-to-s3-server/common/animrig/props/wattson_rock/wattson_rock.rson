@@ -1,0 +1,17 @@
+seqs:
+[
+	animseq\props\wattson_rock\alter_gladcard_animated_jokercar_rock01.rseq
+	animseq\props\wattson_rock\alter_gladcard_animated_jokercar_rock02.rseq
+	animseq\props\wattson_rock\alter_gladcard_animated_jokercar_rock03.rseq
+	animseq\props\wattson_rock\alter_gladcard_animated_jokercar_rock04.rseq
+	animseq\props\wattson_rock\alter_gladcard_animated_jokercar_rock05.rseq
+	animseq\props\wattson_rock\rock_wattson_menu_ready_up.rseq
+	animseq\ttson_rock\dmx\animation\wattson_rock01_ground_emote_poprocks.rseq
+	animseq\ttson_rock\dmx\animation\wattson_rock02_ground_emote_poprocks.rseq
+	animseq\ttson_rock\dmx\animation\wattson_rock03_ground_emote_poprocks.rseq
+	animseq\ttson_rock\dmx\animation\wattson_rock04_ground_emote_poprocks.rseq
+	animseq\ttson_rock\dmx\animation\wattson_rock05_ground_emote_poprocks.rseq
+	animseq\ttson_rock\dmx\animation\wattson_rock06_ground_emote_poprocks.rseq
+	animseq\ttson_rock\dmx\animation\wattson_rock07_ground_emote_poprocks.rseq
+	animseq\ttson_rock\dmx\animation\wattson_rock_ground_emote_poprocks.rseq
+]

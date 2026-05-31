@@ -1,0 +1,64 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_entitlement_layout.rpak",
+	"uniqueId": 554593155,
+	"settings": {
+		"assetName": "settings/itemflav/entitlement/XBOX_GOLD_PACK_07.rpak",
+		"itemType": "entitlement",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00554593155",
+		"__featureFlag": "",
+		"devDescription": "Xbox Gold Pack 7",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"entitlementType": "firstparty",
+		"twitchRef": "",
+		"twitchRef": "",
+		"enum": "XBOX_GOLD_PACK_07",
+		"pc": "XBOX_GOLD_PACK_07",
+		"ps4": "XBG7",
+		"xb1": "XBOX_GOLD_PACK_07",
+		"switch": "XBOX_GOLD_PACK_07",
+		"pc_offer": "",
+		"steam_offer": "",
+		"xb1_offer": "474e5039-4c47-3054-c05a-314d42517000",
+		"menuTitleText": "#PROMO_REWARDS_UNLOCKED",
+		"menuDescText": "#PROMO_XBOX_GOLD07_OWNED",
+		"menuImageName": "xbox_gold_pack07",
+		"menuPersistenceVarName": "",
+		"list": [
+				{
+					"flavor": "settings/itemflav/gcard_frame/wraith/rare_v22_magicwitch01.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/gcard_frame/mirage/rare_v22_magicwitch01.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/character_skin/wraith/rare_v22_magicwitch.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/character_skin/mirage/rare_v22_magicwitch.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/car/rare_v22_magicwitch.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/devotion/rare_v22_magicwitch.rpak",
+					"quantity": 1
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isMenuEnabled": false
+	}
+}

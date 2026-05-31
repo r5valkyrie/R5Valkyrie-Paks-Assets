@@ -1,0 +1,54 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_melee_weapon_layout.rpak",
+	"uniqueId": 1669457032,
+	"settings": {
+		"assetName": "settings/itemflav/loot/melee_weapon/kunai_rt01.rpak",
+		"itemType": "melee_weapon",
+		"parentItemFlavor": "settings/itemflav/character/wraith.rpak",
+		"settingsAssetID": "SAID01669457032",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"meleeWeaponType": "HEIRLOOM",
+		"configurationFramework": "SKIN_ONLY",
+		"mainWeaponClassname": "mp_weapon_wraith_kunai_rt01_primary",
+		"offhandWeaponClassname": "melee_wraith_kunai_rt01",
+		"deathbox": "",
+		"menuAnimSeq": "",
+		"koSound": "",
+		"storeImage": "",
+		"equipImage": "",
+		"legends": [
+				{
+					"flavor": "settings/itemflav/character/wraith.rpak",
+					"featureFlag": ""
+				}
+			],
+		"skins": [
+				{
+					"flavor": "settings/itemflav/melee_skin/kunai_rt01.rpak",
+					"featureFlag": ""
+				}
+			],
+		"componentSets": [
+			],
+		"menuMdlRot": "<0.000000,0.000000,0.000000>",
+		"skinAlias_sfxAliases": [
+			],
+		"battlePassScale": 2.600000,
+		"lootCeremonyScale": 1.800000,
+		"itemInspectScale": 1.000000,
+		"itemInspectOffset": "<0.000000,0.000000,0.000000>",
+		"scriptAnimWindowFXControls": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

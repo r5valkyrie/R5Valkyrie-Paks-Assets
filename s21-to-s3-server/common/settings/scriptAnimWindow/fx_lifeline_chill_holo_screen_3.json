@@ -1,0 +1,12 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_PlayFX_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/fx_lifeline_chill_holo_screen_3.rpak",
+		"devDescription": "",
+		"type": "PlayFX",
+		"particleSystemName": "lifeline_chill_holo_screen_3",
+		"attachPoint": "EYEGLOW",
+		"followAttach": true,
+		"playEndCap": false
+	}
+}

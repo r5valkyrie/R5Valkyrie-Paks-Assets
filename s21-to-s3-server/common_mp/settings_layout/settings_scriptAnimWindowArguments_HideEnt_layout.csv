@@ -1,0 +1,5 @@
+"fieldName","dataType","layoutIndex","helpText"
+"assetName","string","0",""
+"devDescription","string","0",""
+"type","string","0",""
+"hideChildren","bool","0","Hide entities that have this entity as a parent."

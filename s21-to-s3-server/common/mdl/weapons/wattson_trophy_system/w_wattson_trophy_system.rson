@@ -1,0 +1,8 @@
+rigs:
+[
+]
+seqs:
+[
+	animseq\props\wattson_trophy_system\wattson_trophy_system_emote\wattson_trophy_ground_emote_orchestra.rseq
+	animseq\weapons\wattson_trophy_system\w_wattson_trophy_system\wattson_trophy_ground_emote_dancewithtrophy.rseq
+]

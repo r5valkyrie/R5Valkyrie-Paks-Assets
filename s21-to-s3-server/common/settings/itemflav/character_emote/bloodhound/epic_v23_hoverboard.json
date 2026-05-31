@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 915314363,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/bloodhound/epic_v23_hoverboard.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/bloodhound.rpak",
+		"settingsAssetID": "SAID00915314363",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#ground_emote_bloodhound_hoverboard",
+		"localizationKey_NAME_SHORT": "#ground_emote_bloodhound_hoverboard",
+		"localizationKey_DESCRIPTION_LONG": "#ground_emote_bloodhound_hoverboard",
+		"localizationKey_DESCRIPTION_SHORT": "#ground_emote_bloodhound_hoverboard",
+		"quality": "EPIC",
+		"icon": "rui/hud/character_emotes/bloodhound/icon_character_emote_bloodhound_hoverboard",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_bloodhound_epic_v23_hoverboard",
+		"ownershipTarget": "",
+		"anim3p": "bloodhound_ground_emote_hoverboard",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

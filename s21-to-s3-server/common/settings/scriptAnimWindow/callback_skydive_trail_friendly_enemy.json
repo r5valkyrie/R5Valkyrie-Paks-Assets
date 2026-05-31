@@ -1,0 +1,10 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_Callback_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/callback_skydive_trail_friendly_enemy.rpak",
+		"devDescription": "",
+		"type": "Callback",
+		"callbackName": "SkydiveTrailFX",
+		"callbackParameter": ""
+	}
+}

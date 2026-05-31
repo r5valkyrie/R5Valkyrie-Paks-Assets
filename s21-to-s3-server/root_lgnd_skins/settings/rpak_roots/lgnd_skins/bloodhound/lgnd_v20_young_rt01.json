@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/bloodhound/lgnd_v20_young_rt01.rpak",
+		"roots": [
+				{
+					"asset": "mdl/Humans/class/medium/pilot_medium_bloodhound_old_ways.rmdl",
+					"featureFlag": ""
+				},
+				{
+					"asset": "mdl/Weapons/arms/pov_pilot_medium_bloodhound_season4_young_legendary_01.rmdl",
+					"featureFlag": ""
+				}
+			]
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_PlayFX_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/fx_evilvoidwalker_energy_burst.rpak",
+		"devDescription": "",
+		"type": "PlayFX",
+		"particleSystemName": "P_evilvoidwalker_emote_void_energy_body_burst",
+		"attachPoint": "CHESTFOCUS",
+		"followAttach": true,
+		"playEndCap": false
+	}
+}

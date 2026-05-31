@@ -1,0 +1,44 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 477096583,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/alter/epic_v23_tailstand.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/alter.rpak",
+		"settingsAssetID": "SAID00477096583",
+		"__featureFlag": "",
+		"devDescription": "cave tail stand ground emote",
+		"localizationKey_NAME": "#ground_emote_cave_tailstand",
+		"localizationKey_NAME_SHORT": "#ground_emote_cave_tailstand",
+		"localizationKey_DESCRIPTION_LONG": "#ground_emote_cave_tailstand",
+		"localizationKey_DESCRIPTION_SHORT": "#ground_emote_cave_tailstand",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/character_emotes/alter/tailstand",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_alter_epic_v23_tailstand",
+		"ownershipTarget": "",
+		"anim3p": "alter_ground_emote_tailstand",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+				{
+					"character": "",
+					"anim3p": ""
+				}
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

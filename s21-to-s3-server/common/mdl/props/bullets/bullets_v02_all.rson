@@ -1,0 +1,9 @@
+rigs:
+[
+]
+seqs:
+[
+	animseq\props\bullets\prop_bullet_horizon_ground_emote_battlerest.rseq
+	animseq\props\bullets\prop_rampart_bullet_v01_gladcard_animated_rainingbullets.rseq
+	animseq\props\bullets\prop_rampart_bullet_v01_gladcard_animated_rainingbullets_idle.rseq
+]

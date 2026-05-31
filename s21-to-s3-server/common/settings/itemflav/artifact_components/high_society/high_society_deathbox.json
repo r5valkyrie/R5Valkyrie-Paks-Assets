@@ -1,0 +1,38 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_artifact_component_deathbox_layout.rpak",
+	"uniqueId": 1801688152,
+	"settings": {
+		"assetName": "settings/itemflav/artifact_components/high_society/high_society_deathbox.rpak",
+		"itemType": "artifact_component_deathbox",
+		"parentItemFlavor": "settings/itemflav/loot/melee_weapon/artifact_dagger.rpak",
+		"settingsAssetID": "SAID01801688152",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#highsociety_deathbox_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "MYTHIC",
+		"icon": "rui/menu/melee_customization/deathboxes/deathbox_society",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "artifact_dagger_highsociety_deathbox",
+		"ownershipTarget": "",
+		"artifactComponentType": "DEATHBOX",
+		"themeName": "HISOC",
+		"componentIcon": "rui/menu/melee_customization/deathboxes/deathbox_society",
+		"artifactDeathboxFXName": "P_death_box_hisoc_artifact_mdl",
+		"artifactDeathboxModel": "mdl/techart/mshop/props/loot/deathbox/deathbox_lgnd_v23_hisoc.rmdl",
+		"video": "media/deathboxes/deathbox_high_society",
+		"spawnSFX": "Artifact_PS_HighSociety_DeathBox_Appear",
+		"multipleOwnershipTargets": [
+			],
+		"artifactMainColor": "<1.000000,0.651000,0.008000>",
+		"artifactSecondaryColor": "<0.639000,0.267000,0.000000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isEmpty": false,
+		"shouldHideIfLocked": false
+	}
+}

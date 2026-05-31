@@ -1,0 +1,24 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_category_layout.rpak",
+	"uniqueId": 481026934,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_category/ar.rpak",
+		"itemType": "weapon_category",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00481026934",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#weapon_category_ar_NAME",
+		"localizationKey_NAME_SHORT": "#TAG_LONG_ASSAULT",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "rui/weapon_icons/r5/weapon_hemlock",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"statsKey": "ar",
+		"menuZoomOffset": "<6.000000,0.000000,2.000000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

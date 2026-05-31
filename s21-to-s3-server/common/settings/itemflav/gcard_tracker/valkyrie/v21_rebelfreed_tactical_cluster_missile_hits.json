@@ -1,0 +1,33 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_stat_tracker_layout.rpak",
+	"uniqueId": 2075653396,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_tracker/valkyrie/v21_rebelfreed_tactical_cluster_missile_hits.rpak",
+		"itemType": "gladiator_card_stat_tracker",
+		"parentItemFlavor": "settings/itemflav/character/valkyrie.rpak",
+		"settingsAssetID": "SAID02075653396",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#gcard_tracker_valkyrie_tactical_cluster_missile_hits_NAME",
+		"localizationKey_NAME_SHORT": "#gcard_tracker_valkyrie_tactical_cluster_missile_hits_NAME_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "RARE",
+		"icon": "",
+		"tagIcon": "rui/events/s12e02/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "gcard_tracker_valkyrie_v21_rebelfreed_tactical_cluster_missile_hits",
+		"ownershipTarget": "",
+		"statRef": "stats.valk_enemies_hit_tactical",
+		"valueNumberFormat": "INTEGER",
+		"valueSuffix": "",
+		"backgroundImage": "rui/gladiator_cards/trackers/event/s12e02/valkyrie_bg_mid",
+		"multipleOwnershipTargets": [
+			],
+		"color0": "<0.996000,0.984000,0.000000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false
+	}
+}

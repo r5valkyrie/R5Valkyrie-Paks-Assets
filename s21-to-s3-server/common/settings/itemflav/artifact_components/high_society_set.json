@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_artifact_component_set_layout.rpak",
+	"settings": {
+		"assetName": "settings/itemflav/artifact_components/high_society_set.rpak",
+		"themeName": "HISOC",
+		"worldModel": "mdl/Weapons/char_artifact/w_set_v23_hisoc.rmdl",
+		"viewModel": "mdl/Weapons/char_artifact/ptpov_set_v23_hisoc.rmdl",
+		"blade": "settings/itemflav/artifact_components/high_society/high_society_blade.rpak",
+		"theme": "settings/itemflav/artifact_components/high_society/high_society_theme.rpak",
+		"powerSource": "settings/itemflav/artifact_components/high_society/high_society_power_source.rpak",
+		"deathbox": "settings/itemflav/artifact_components/high_society/high_society_deathbox.rpak",
+		"activationEmote": "settings/itemflav/artifact_components/high_society/high_society_activation_emote.rpak",
+		"setName": "#Gladius_Set_NAME",
+		"setImageRef": "dl_store_atfc_gldsset_69pe"
+	}
+}

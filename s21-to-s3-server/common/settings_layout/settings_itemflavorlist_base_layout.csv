@@ -1,0 +1,7 @@
+"fieldName","dataType","layoutIndex","helpText"
+"assetName","string","0",""
+"shortName","string","0",""
+"devDescription","string","0",""
+"associatedPackFlav","asset_noprecache","0",""
+"list","array_dynamic","0","A list of item flavors which script can iterate. If script refers to this list asset, all of the enable items in this array will be baked and loaded."
+"hasAssociatedPack","bool","0",""

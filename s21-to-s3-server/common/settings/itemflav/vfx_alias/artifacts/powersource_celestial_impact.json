@@ -1,0 +1,19 @@
+{
+	"layoutAsset": "settings_layout/settings_skinAlias_impactTable_layout.rpak",
+	"settings": {
+		"assetName": "settings/itemflav/vfx_alias/artifacts/powersource_celestial_impact.rpak",
+		"devDescription": "",
+		"type": "",
+		"impacttablealiasgroups": [
+				{
+					"name": "CELES",
+					"impactTableAliases": [
+							{
+								"impactTableAlias": "melee_artifact_celes",
+								"impactTableReal": "melee_artifact"
+							}
+						]
+				}
+			]
+	}
+}

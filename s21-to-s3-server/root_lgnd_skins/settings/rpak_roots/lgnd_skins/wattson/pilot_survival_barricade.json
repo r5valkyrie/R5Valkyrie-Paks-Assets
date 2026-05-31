@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/wattson/pilot_survival_barricade.rpak",
+		"roots": [
+				{
+					"asset": "mdl/Humans/class/light/pilot_light_wattson.rmdl",
+					"featureFlag": ""
+				},
+				{
+					"asset": "mdl/Weapons/arms/pov_pilot_medium_generic.rmdl",
+					"featureFlag": ""
+				}
+			]
+	}
+}

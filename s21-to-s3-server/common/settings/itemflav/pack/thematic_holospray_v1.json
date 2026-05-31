@@ -1,0 +1,81 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_account_pack_layout.rpak",
+	"uniqueId": 378883051,
+	"settings": {
+		"assetName": "settings/itemflav/pack/thematic_holospray_v1.rpak",
+		"itemType": "account_pack",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00378883051",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#pack_thematic_holospray_v1_NAME",
+		"localizationKey_NAME_SHORT": "#pack_thematic_holospray_v1_NAME_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/battlepass/thematic_pack_reward_icon_holosprays",
+		"tagIcon": "",
+		"grxMode": "PACK",
+		"grxMode": "PACK",
+		"grxRef": "pack_thematic_holospray_v1",
+		"ownershipTarget": "",
+		"packType": "EVENT_THEMATIC_PACK",
+		"themeFlavor": "",
+		"stickerRewardPack": "",
+		"stickerRewardSequence": "",
+		"tickMdl": "mdl/robots/drone_frag/drone_frag_loot.rmdl",
+		"tickMdlSkin": "epic_holospray_v1",
+		"openButtonIcon": "rui/menu/buttons/character_pack_button_icons/open_pack_btn_icon_holosprays",
+		"triadBounceSound": "LootCeremony_Triad_Bounce",
+		"puckLandSound": "LootCeremony_IronCrown_Tick_PuckLand",
+		"unpackSound": "LootCeremony_IronCrown_Tick_Unpack",
+		"deployTriadExplo1Sound": "LootCeremony_IronCrown_Tick_Deploy_TriadExplo1",
+		"deployTriadExplo2Sound": "LootCeremony_IronCrown_Tick_Deploy_TriadExplo2",
+		"deployTriadExplo3Sound": "LootCeremony_IronCrown_Tick_Deploy_TriadExplo3",
+		"multipleOwnershipTargets": [
+			],
+		"packContents": [
+				{
+					"flavor": "settings/itemflav/emote_icon/skydiveholobundle/epic_v23_skydiveholobundle_04.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/emote_icon/skydiveholobundle/epic_v23_skydiveholobundle_01.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/emote_icon/skydiveholobundle/epic_v23_skydiveholobundle_07.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/emote_icon/skydiveholobundle/epic_v23_skydiveholobundle_03.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/emote_icon/skydiveholobundle/epic_v23_skydiveholobundle_05.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/emote_icon/skydiveholobundle/epic_v23_skydiveholobundle_06.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/emote_icon/skydiveholobundle/epic_v23_skydiveholobundle_09.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/emote_icon/skydiveholobundle/epic_v23_skydiveholobundle_08.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/emote_icon/skydiveholobundle/epic_v23_skydiveholobundle_10.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/emote_icon/skydiveholobundle/epic_v23_skydiveholobundle_02.rpak"
+				}
+			],
+		"customCol0": "<1.000000,1.000000,1.000000>",
+		"countTextCol": "<1.000000,1.000000,1.000000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"hasStickers": false,
+		"hasSkydives": false,
+		"hasHolosprays": true,
+		"usesMOTDButtonForCount": true,
+		"isEphemeral": false,
+		"isExpectedToContainSingleItemWithCurrency": false,
+		"useCustomColors": true
+	}
+}

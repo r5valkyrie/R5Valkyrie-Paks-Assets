@@ -1,0 +1,4 @@
+"fieldName","dataType","layoutIndex","helpText"
+"themeName","string","0","UNIVERSAL callbacks trigger regardless of set; specific Sets (MOB, etc) can be chosen for Set-specific FX control."
+"fxPackageType","string","0",""
+"action","string","0","Should we start or stop these FX at the *start* of the Anim Window; the inverse action will be taken at the *stop* of the window."

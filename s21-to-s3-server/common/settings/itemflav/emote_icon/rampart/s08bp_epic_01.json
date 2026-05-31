@@ -1,0 +1,36 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_emote_icon_layout.rpak",
+	"uniqueId": 1534598722,
+	"settings": {
+		"assetName": "settings/itemflav/emote_icon/rampart/s08bp_epic_01.rpak",
+		"itemType": "emote_icon",
+		"parentItemFlavor": "settings/itemflav/character/rampart.rpak",
+		"settingsAssetID": "SAID01534598722",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#spray_epic_v20_rampart_04",
+		"localizationKey_NAME_SHORT": "#spray_epic_v20_rampart_04",
+		"localizationKey_DESCRIPTION_LONG": "#spray_epic_v20_rampart_04",
+		"localizationKey_DESCRIPTION_SHORT": "#spray_epic_v20_rampart_04",
+		"quality": "EPIC",
+		"icon": "rui/menu/holosprays/hspray_epic_v20_rampart_04",
+		"tagIcon": "rui/events/s08bp/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "emote_icon_rampart_s08bp_epic_01",
+		"ownershipTarget": "",
+		"anim3p": "",
+		"holoProjectorSprayModel": "mdl/props/holo_spray/hspray_epic_v20_rampart_04.rmdl",
+		"quickchatAliasSubName": "",
+		"customSkinMenuBlurb": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<0.957000,0.400000,0.400000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": true,
+		"holoProjectorUseEffectColor2": true,
+		"isTheEmpty": false
+	}
+}

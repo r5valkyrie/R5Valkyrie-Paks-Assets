@@ -1,0 +1,6 @@
+"fieldName","dataType","layoutIndex","helpText"
+"assetName","string","0",""
+"devDescription","string","0",""
+"type","string","0",""
+"callbackName","string","0","The name to be detected in sh_anim_windows.gnut to call the right callback"
+"callbackParameter","string","0","A string to pass with the callback"

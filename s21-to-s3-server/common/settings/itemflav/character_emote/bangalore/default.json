@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 1990692961,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/bangalore/default.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/bangalore.rpak",
+		"settingsAssetID": "SAID01990692961",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#CHAR_EMOTE_001",
+		"localizationKey_NAME_SHORT": "#CHAR_EMOTE_001",
+		"localizationKey_DESCRIPTION_LONG": "#CHAR_EMOTE_001",
+		"localizationKey_DESCRIPTION_SHORT": "#CHAR_EMOTE_001",
+		"quality": "RARE",
+		"icon": "rui/menu/buttons/character_emotes/bangalore/handstand",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"grxMode": "NONE",
+		"grxRef": "character_emote_bangalore_rare_pushups",
+		"ownershipTarget": "",
+		"anim3p": "bangalore_ground_emote_pushups",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

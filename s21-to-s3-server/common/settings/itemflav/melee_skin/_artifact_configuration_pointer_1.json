@@ -1,0 +1,51 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_melee_skin_layout.rpak",
+	"uniqueId": 2012311240,
+	"settings": {
+		"assetName": "settings/itemflav/melee_skin/_artifact_configuration_pointer_1.rpak",
+		"itemType": "melee_skin",
+		"parentItemFlavor": "settings/itemflav/loot/melee_weapon/artifact_dagger.rpak",
+		"settingsAssetID": "SAID02012311240",
+		"__featureFlag": "",
+		"devDescription": "dummy ItemFlavor that points to a specific ItemFlavor configuration Loadout set. Allows for back-compatibility with the simpler melee skin system and also allows Artifacts to more seamlessly be Skin-Only or Configuration based",
+		"localizationKey_NAME": "#MELEE_CUSTOMIZATION_ARTIFACT_INDEX",
+		"localizationKey_NAME_SHORT": "#MELEE_CUSTOMIZATION_ARTIFACT_INDEX",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "MYTHIC",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"grxMode": "NONE",
+		"grxRef": "",
+		"ownershipTarget": "",
+		"worldModel": "mdl/weapons/bangalore_heirloom/w_bangalore_heirloom.rmdl",
+		"viewModel": "mdl/weapons/bangalore_heirloom/ptpov_bangalore_heirloom.rmdl",
+		"skinName": "artifact_dagger",
+		"menuAnimSeq": "",
+		"koSound": "",
+		"storeImage": "rui/menu/heirloom_crafting/heirloom_page_item_bangalore",
+		"equipImage": "rui/menu/buttons/melee_skins/bangalore_knife",
+		"multipleOwnershipTargets": [
+			],
+		"artifactConfigIndex": 1,
+		"camoIndex": 0,
+		"menuMdlRot": "<0.000000,0.000000,0.000000>",
+		"battlePassScale": 2.600000,
+		"lootCeremonyScale": 1.800000,
+		"itemInspectScale": 1.200000,
+		"itemInspectOffset": "<0.000000,0.000000,-2.000000>",
+		"skinAlias_vfxAliases": [
+			],
+		"skinAlias_sfxAliases": [
+			],
+		"skinAlias_bodyGroupAliases": [
+			],
+		"skinAlias_impactTableAliases": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isArtifactConfigPointer": true,
+		"shouldHideIfLocked": true
+	}
+}

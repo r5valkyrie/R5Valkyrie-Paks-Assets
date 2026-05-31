@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_artifact_component_set_layout.rpak",
+	"settings": {
+		"assetName": "settings/itemflav/artifact_components/_empty_set.rpak",
+		"themeName": "_EMPTY",
+		"worldModel": "",
+		"viewModel": "",
+		"blade": "settings/itemflav/artifact_components/_empty_blade.rpak",
+		"theme": "settings/itemflav/artifact_components/_empty_theme.rpak",
+		"powerSource": "settings/itemflav/artifact_components/_empty_power_source.rpak",
+		"deathbox": "settings/itemflav/artifact_components/deathbox_default.rpak",
+		"activationEmote": "settings/itemflav/artifact_components/_empty_activation_emote.rpak",
+		"setName": "#ARTIFACT_THEME_EMPTY",
+		"setImageRef": ""
+	}
+}

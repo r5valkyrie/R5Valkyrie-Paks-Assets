@@ -1,0 +1,5 @@
+"fieldName","dataType","layoutIndex","helpText"
+"assetName","string","0",""
+"devDescription","string","0",""
+"type","string","0",""
+"attachment","string","0","The attachment to set as the lod origin."

@@ -1,0 +1,33 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_stat_tracker_layout.rpak",
+	"uniqueId": 733296929,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_tracker/lifeline/streetwear_career_kills.rpak",
+		"itemType": "gladiator_card_stat_tracker",
+		"parentItemFlavor": "settings/itemflav/character/lifeline.rpak",
+		"settingsAssetID": "SAID00733296929",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#gcard_tracker_lifeline_kills_NAME",
+		"localizationKey_NAME_SHORT": "#TRACKER_KILLS",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "RARE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "gcard_tracker_lifeline_streetwear_career_kills",
+		"ownershipTarget": "",
+		"statRef": "stats.characters[%char%].kills",
+		"valueNumberFormat": "INTEGER",
+		"valueSuffix": "",
+		"backgroundImage": "rui/gladiator_cards/trackers/lifeline/streetwear_top",
+		"multipleOwnershipTargets": [
+			],
+		"color0": "<1.000000,0.420000,0.420000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false
+	}
+}

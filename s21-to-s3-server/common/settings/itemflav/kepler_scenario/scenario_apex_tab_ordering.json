@@ -1,0 +1,37 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_kepler_scenario_layout.rpak",
+	"uniqueId": 1793413785,
+	"settings": {
+		"assetName": "settings/itemflav/kepler_scenario/scenario_apex_tab_ordering.rpak",
+		"itemType": "kepler_scenario",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01793413785",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"scenarioKey": "apex-tab-ordering",
+		"variants": [
+				{
+					"variantName": "control",
+					"controlledCollection": "",
+					"controlledImage": ""
+				},
+				{
+					"variantName": "treatment-a",
+					"controlledCollection": "",
+					"controlledImage": ""
+				}
+			],
+		"scenarioChallenges": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

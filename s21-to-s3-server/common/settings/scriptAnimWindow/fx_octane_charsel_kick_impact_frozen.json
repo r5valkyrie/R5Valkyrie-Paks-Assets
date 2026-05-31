@@ -1,0 +1,12 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_PlayFX_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/fx_octane_charsel_kick_impact_frozen.rpak",
+		"devDescription": "",
+		"type": "PlayFX",
+		"particleSystemName": "P_octane_kick_impact_dust",
+		"attachPoint": "FX_FOOT_R",
+		"followAttach": false,
+		"playEndCap": false
+	}
+}

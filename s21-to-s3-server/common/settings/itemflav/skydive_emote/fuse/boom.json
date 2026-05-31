@@ -1,0 +1,31 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_skydive_emote_layout.rpak",
+	"uniqueId": 426591402,
+	"settings": {
+		"assetName": "settings/itemflav/skydive_emote/fuse/boom.rpak",
+		"itemType": "skydive_emote",
+		"parentItemFlavor": "settings/itemflav/character/fuse.rpak",
+		"settingsAssetID": "SAID00426591402",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#EMOTE_036",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/battlepass/skydive_emote_boom",
+		"tagIcon": "rui/events/s09e01/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "skydive_emote_fuse_boom",
+		"ownershipTarget": "",
+		"animSequence": "animseq/humans/class/medium/pilot_medium_fuse/fuse_freefall_emote_boom.rseq",
+		"video": "media/skydive_emotes/Fuse_collection_dive",
+		"bcEvent": "bc_skydive",
+		"multipleOwnershipTargets": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false
+	}
+}

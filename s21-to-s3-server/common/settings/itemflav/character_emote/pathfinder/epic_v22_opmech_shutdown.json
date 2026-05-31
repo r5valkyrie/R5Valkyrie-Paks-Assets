@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 961799273,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/pathfinder/epic_v22_opmech_shutdown.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/pathfinder.rpak",
+		"settingsAssetID": "SAID00961799273",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#ground_emote_pathfinder_shutdown_NAME",
+		"localizationKey_NAME_SHORT": "#ground_emote_pathfinder_shutdown_NAME",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/character_emotes/pathfinder/shutdown",
+		"tagIcon": "rui/events/s17bp/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_pathfinder_epic_v22_opmech_shutdown",
+		"ownershipTarget": "",
+		"anim3p": "pathfinder_ground_emote_shutdown",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "pathfinder_ground_emote_shutdown_loop",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

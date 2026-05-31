@@ -1,0 +1,799 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_skin_layout.rpak",
+	"uniqueId": 409938492,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_skin/flatline/react_v20_assim_rt02.rpak",
+		"itemType": "weapon_skin",
+		"parentItemFlavor": "settings/itemflav/loot/main_weapon/flatline.rpak",
+		"settingsAssetID": "SAID00409938492",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#weapon_skin_flatline_react_v20_assim_rt02_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "LEGENDARY",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "weapon_skin_flatline_react_v20_assim_rt02",
+		"ownershipTarget": "",
+		"worldModel": "mdl/techart/mshop/weapons/class/assault/flatline/flatline_v20_assim_w.rmdl",
+		"viewModel": "mdl/techart/mshop/weapons/class/assault/flatline/flatline_v20_assim_v.rmdl",
+		"skinName": "flatline_react_v20_assim_rt02",
+		"exclusiveFunc": "",
+		"unlockFuncKey": "",
+		"video": "media/reactive_weapons/flatline_react_s21_rt02",
+		"customSkinMenuBlurb": "",
+		"multipleOwnershipTargets": [
+			],
+		"camoIndex": 0,
+		"hackyRUISchemeIdentifier": 0,
+		"featureReactsToKillsLevels": [
+				{
+					"killSoundEvent1p": "weapon_vinson_legendary_1P_level01",
+					"killSoundEvent3p": "",
+					"transitionSoundEvent1p": "",
+					"transitionSoundEvent3p": "",
+					"persistentSoundEvent1p": "",
+					"persistentSoundEvent3p": "",
+					"killCount": 0,
+					"killSoundDuration": 0.000000,
+					"transitionSoundDuration": 0.000000,
+					"emissiveIntensity": 0.500000,
+					"killFXList": [
+							{
+								"fx1p": "P_flat_s4_kill_hex",
+								"fx3p": "P_flat_s4_kill_hex_3P",
+								"attachment": "FX_L_HEXAGON_01",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_kill_hex",
+								"fx3p": "P_flat_s4_kill_hex_3P",
+								"attachment": "FX_R_HEXAGON_01",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_kill_hex",
+								"fx3p": "P_flat_s4_kill_hex_3P",
+								"attachment": "FX_L_HEXAGON_02",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_kill_hex",
+								"fx3p": "P_flat_s4_kill_hex_3P",
+								"attachment": "FX_R_HEXAGON_02",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_kill_hex",
+								"fx3p": "P_flat_s4_kill_hex_3P",
+								"attachment": "FX_L_HEXAGON_04",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_kill_hex",
+								"fx3p": "P_flat_s4_kill_hex_3P",
+								"attachment": "FX_R_HEXAGON_04",
+								"controlPoints": [
+									]
+							}
+						],
+					"transitionFXList": [
+						],
+					"persistentFXList": [
+							{
+								"fx1p": "P_flat_s4_body_mdl_1",
+								"fx3p": "P_flat_s4_body_mdl_4_3P",
+								"attachment": "glow_base",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_hex_LG_glow_1",
+								"fx3p": "",
+								"attachment": "FX_L_HEXAGON_01",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_hex_LG_glow_1",
+								"fx3p": "",
+								"attachment": "FX_L_HEXAGON_02",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_hex_SM_glow_1",
+								"fx3p": "",
+								"attachment": "FX_L_TOP_01",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_hex_SM_glow_1",
+								"fx3p": "",
+								"attachment": "FX_L_TOP_02",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_hex_SM_glow_1",
+								"fx3p": "",
+								"attachment": "FX_L_TOP_03",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_hex_LG_glow_1",
+								"fx3p": "",
+								"attachment": "FX_R_HEXAGON_01",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_hex_LG_glow_1",
+								"fx3p": "",
+								"attachment": "FX_R_HEXAGON_02",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_hex_SM_glow_1",
+								"fx3p": "",
+								"attachment": "FX_R_TOP_01",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_hex_SM_glow_1",
+								"fx3p": "",
+								"attachment": "FX_R_TOP_02",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_hex_SM_glow_1",
+								"fx3p": "",
+								"attachment": "FX_R_TOP_03",
+								"controlPoints": [
+									]
+							}
+						],
+					"bodygroupChangeList": [
+						],
+					"weaponModListAdd": [
+						],
+					"weaponModListRemove": [
+						],
+					"killSoundSyncToAnim": false,
+					"transitionSoundSyncToAnim": false
+				},
+				{
+					"killSoundEvent1p": "weapon_vinson_legendary_1P_level01",
+					"killSoundEvent3p": "",
+					"transitionSoundEvent1p": "weapon_vinson_legendary_1P_level01",
+					"transitionSoundEvent3p": "",
+					"persistentSoundEvent1p": "",
+					"persistentSoundEvent3p": "",
+					"killCount": 1,
+					"killSoundDuration": 0.000000,
+					"transitionSoundDuration": 0.000000,
+					"emissiveIntensity": 1.000000,
+					"killFXList": [
+							{
+								"fx1p": "P_flat_s4_kill_hex",
+								"fx3p": "P_flat_s4_kill_hex_3P",
+								"attachment": "FX_L_HEXAGON_01",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_kill_hex",
+								"fx3p": "P_flat_s4_kill_hex_3P",
+								"attachment": "FX_R_HEXAGON_01",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_kill_hex",
+								"fx3p": "P_flat_s4_kill_hex_3P",
+								"attachment": "FX_L_HEXAGON_02",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_kill_hex",
+								"fx3p": "P_flat_s4_kill_hex_3P",
+								"attachment": "FX_R_HEXAGON_02",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_kill_hex",
+								"fx3p": "P_flat_s4_kill_hex_3P",
+								"attachment": "FX_L_HEXAGON_04",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_kill_hex",
+								"fx3p": "P_flat_s4_kill_hex_3P",
+								"attachment": "FX_R_HEXAGON_04",
+								"controlPoints": [
+									]
+							}
+						],
+					"transitionFXList": [
+							{
+								"fx1p": "P_flat_s4_kill_hex",
+								"fx3p": "P_flat_s4_kill_hex_3P",
+								"attachment": "FX_L_HEXAGON_01",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_kill_hex",
+								"fx3p": "P_flat_s4_kill_hex_3P",
+								"attachment": "FX_R_HEXAGON_01",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_kill_hex",
+								"fx3p": "P_flat_s4_kill_hex_3P",
+								"attachment": "FX_L_HEXAGON_02",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_kill_hex",
+								"fx3p": "P_flat_s4_kill_hex_3P",
+								"attachment": "FX_R_HEXAGON_02",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_kill_hex",
+								"fx3p": "P_flat_s4_kill_hex_3P",
+								"attachment": "FX_L_HEXAGON_04",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_kill_hex",
+								"fx3p": "P_flat_s4_kill_hex_3P",
+								"attachment": "FX_R_HEXAGON_04",
+								"controlPoints": [
+									]
+							}
+						],
+					"persistentFXList": [
+							{
+								"fx1p": "P_flat_s4_body_mdl_2",
+								"fx3p": "P_flat_s4_body_mdl_4_3P",
+								"attachment": "glow_base",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_hex_LG_glow_2",
+								"fx3p": "P_flat_s4_hex_LG_glow_3P",
+								"attachment": "FX_L_HEXAGON_01",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_hex_LG_glow_2",
+								"fx3p": "",
+								"attachment": "FX_L_HEXAGON_02",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_hex_SM_glow_2",
+								"fx3p": "",
+								"attachment": "FX_L_TOP_01",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_hex_SM_glow_2",
+								"fx3p": "",
+								"attachment": "FX_L_TOP_02",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_hex_SM_glow_2",
+								"fx3p": "",
+								"attachment": "FX_L_TOP_03",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_hex_LG_glow_2",
+								"fx3p": "P_flat_s4_hex_LG_glow_3P",
+								"attachment": "FX_R_HEXAGON_01",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_hex_LG_glow_2",
+								"fx3p": "",
+								"attachment": "FX_R_HEXAGON_02",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_hex_SM_glow_2",
+								"fx3p": "",
+								"attachment": "FX_R_TOP_01",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_hex_SM_glow_2",
+								"fx3p": "",
+								"attachment": "FX_R_TOP_02",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_hex_SM_glow_2",
+								"fx3p": "",
+								"attachment": "FX_R_TOP_03",
+								"controlPoints": [
+									]
+							}
+						],
+					"bodygroupChangeList": [
+						],
+					"weaponModListAdd": [
+						],
+					"weaponModListRemove": [
+						],
+					"killSoundSyncToAnim": false,
+					"transitionSoundSyncToAnim": false
+				},
+				{
+					"killSoundEvent1p": "weapon_vinson_legendary_1P_level02",
+					"killSoundEvent3p": "",
+					"transitionSoundEvent1p": "weapon_vinson_legendary_1P_level02",
+					"transitionSoundEvent3p": "",
+					"persistentSoundEvent1p": "",
+					"persistentSoundEvent3p": "",
+					"killCount": 3,
+					"killSoundDuration": 0.000000,
+					"transitionSoundDuration": 0.000000,
+					"emissiveIntensity": 1.500000,
+					"killFXList": [
+							{
+								"fx1p": "P_flat_s4_kill_hex",
+								"fx3p": "P_flat_s4_kill_hex_3P",
+								"attachment": "FX_L_HEXAGON_01",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_kill_hex",
+								"fx3p": "P_flat_s4_kill_hex_3P",
+								"attachment": "FX_R_HEXAGON_01",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_kill_hex",
+								"fx3p": "P_flat_s4_kill_hex_3P",
+								"attachment": "FX_L_HEXAGON_02",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_kill_hex",
+								"fx3p": "P_flat_s4_kill_hex_3P",
+								"attachment": "FX_R_HEXAGON_02",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_kill_hex",
+								"fx3p": "P_flat_s4_kill_hex_3P",
+								"attachment": "FX_L_HEXAGON_04",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_kill_hex",
+								"fx3p": "P_flat_s4_kill_hex_3P",
+								"attachment": "FX_R_HEXAGON_04",
+								"controlPoints": [
+									]
+							}
+						],
+					"transitionFXList": [
+							{
+								"fx1p": "P_flat_s4_kill_hex",
+								"fx3p": "P_flat_s4_kill_hex_3P",
+								"attachment": "FX_L_HEXAGON_01",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_kill_hex",
+								"fx3p": "P_flat_s4_kill_hex_3P",
+								"attachment": "FX_R_HEXAGON_01",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_kill_hex",
+								"fx3p": "P_flat_s4_kill_hex_3P",
+								"attachment": "FX_L_HEXAGON_02",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_kill_hex",
+								"fx3p": "P_flat_s4_kill_hex_3P",
+								"attachment": "FX_R_HEXAGON_02",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_kill_hex",
+								"fx3p": "P_flat_s4_kill_hex_3P",
+								"attachment": "FX_L_HEXAGON_04",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_kill_hex",
+								"fx3p": "P_flat_s4_kill_hex_3P",
+								"attachment": "FX_R_HEXAGON_04",
+								"controlPoints": [
+									]
+							}
+						],
+					"persistentFXList": [
+							{
+								"fx1p": "P_flat_s4_body_mdl_3",
+								"fx3p": "P_flat_s4_body_mdl_4_3P",
+								"attachment": "glow_base",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_hex_LG_glow_2",
+								"fx3p": "P_flat_s4_hex_LG_glow_3P",
+								"attachment": "FX_L_HEXAGON_01",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_hex_LG_glow_2",
+								"fx3p": "",
+								"attachment": "FX_L_HEXAGON_02",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_hex_SM_glow_2",
+								"fx3p": "",
+								"attachment": "FX_L_TOP_01",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_hex_SM_glow_2",
+								"fx3p": "P_flat_s4_hex_LG_glow_3P",
+								"attachment": "FX_L_TOP_02",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_hex_SM_glow_2",
+								"fx3p": "",
+								"attachment": "FX_L_TOP_03",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_hex_LG_glow_2",
+								"fx3p": "P_flat_s4_hex_LG_glow_3P",
+								"attachment": "FX_R_HEXAGON_01",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_hex_LG_glow_2",
+								"fx3p": "",
+								"attachment": "FX_R_HEXAGON_02",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_hex_SM_glow_2",
+								"fx3p": "",
+								"attachment": "FX_R_TOP_01",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_hex_SM_glow_2",
+								"fx3p": "P_flat_s4_hex_LG_glow_3P",
+								"attachment": "FX_R_TOP_02",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_hex_SM_glow_2",
+								"fx3p": "",
+								"attachment": "FX_R_TOP_03",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_hex_LG_glow_2",
+								"fx3p": "P_flat_s4_hex_LG_glow_3P",
+								"attachment": "FX_L_HEXAGON_04",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_hex_LG_glow_2",
+								"fx3p": "P_flat_s4_hex_LG_glow_3P",
+								"attachment": "FX_R_HEXAGON_04",
+								"controlPoints": [
+									]
+							}
+						],
+					"bodygroupChangeList": [
+						],
+					"weaponModListAdd": [
+						],
+					"weaponModListRemove": [
+						],
+					"killSoundSyncToAnim": false,
+					"transitionSoundSyncToAnim": false
+				},
+				{
+					"killSoundEvent1p": "weapon_vinson_legendary_1P_level03",
+					"killSoundEvent3p": "",
+					"transitionSoundEvent1p": "weapon_vinson_legendary_1P_level03",
+					"transitionSoundEvent3p": "",
+					"persistentSoundEvent1p": "",
+					"persistentSoundEvent3p": "",
+					"killCount": 5,
+					"killSoundDuration": 0.000000,
+					"transitionSoundDuration": 0.000000,
+					"emissiveIntensity": 2.000000,
+					"killFXList": [
+							{
+								"fx1p": "P_flat_s4_kill_body_mdl",
+								"fx3p": "P_flat_s4_kill_hex_3P",
+								"attachment": "glow_base",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_kill_hex",
+								"fx3p": "P_flat_s4_kill_hex_3P",
+								"attachment": "FX_L_HEXAGON_01",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_kill_hex",
+								"fx3p": "P_flat_s4_kill_hex_3P",
+								"attachment": "FX_R_HEXAGON_01",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_kill_hex",
+								"fx3p": "P_flat_s4_kill_hex_3P",
+								"attachment": "FX_L_HEXAGON_02",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_kill_hex",
+								"fx3p": "P_flat_s4_kill_hex_3P",
+								"attachment": "FX_R_HEXAGON_02",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_kill_hex",
+								"fx3p": "P_flat_s4_kill_hex_3P",
+								"attachment": "FX_L_HEXAGON_04",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_kill_hex",
+								"fx3p": "P_flat_s4_kill_hex_3P",
+								"attachment": "FX_R_HEXAGON_04",
+								"controlPoints": [
+									]
+							}
+						],
+					"transitionFXList": [
+							{
+								"fx1p": "P_flat_s4_kill_body_mdl",
+								"fx3p": "P_flat_s4_kill_hex_3P",
+								"attachment": "glow_base",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_kill_hex",
+								"fx3p": "P_flat_s4_kill_hex_3P",
+								"attachment": "FX_L_HEXAGON_01",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_kill_hex",
+								"fx3p": "P_flat_s4_kill_hex_3P",
+								"attachment": "FX_R_HEXAGON_01",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_kill_hex",
+								"fx3p": "P_flat_s4_kill_hex_3P",
+								"attachment": "FX_L_HEXAGON_02",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_kill_hex",
+								"fx3p": "P_flat_s4_kill_hex_3P",
+								"attachment": "FX_R_HEXAGON_02",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_kill_hex",
+								"fx3p": "P_flat_s4_kill_hex_3P",
+								"attachment": "FX_L_HEXAGON_04",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_kill_hex",
+								"fx3p": "P_flat_s4_kill_hex_3P",
+								"attachment": "FX_R_HEXAGON_04",
+								"controlPoints": [
+									]
+							}
+						],
+					"persistentFXList": [
+							{
+								"fx1p": "P_flat_s4_body_mdl_4",
+								"fx3p": "P_flat_s4_body_mdl_4_3P",
+								"attachment": "glow_base",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_hex_LG_glow_3",
+								"fx3p": "P_flat_s4_hex_LG_glow_3P",
+								"attachment": "FX_L_HEXAGON_01",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_hex_LG_glow_3",
+								"fx3p": "",
+								"attachment": "FX_L_HEXAGON_02",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_hex_SM_glow_3",
+								"fx3p": "",
+								"attachment": "FX_L_TOP_01",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_hex_SM_glow_3",
+								"fx3p": "",
+								"attachment": "FX_L_TOP_02",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_hex_SM_glow_3",
+								"fx3p": "P_flat_s4_hex_LG_glow_3P",
+								"attachment": "FX_L_TOP_03",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_hex_LG_glow_3",
+								"fx3p": "",
+								"attachment": "FX_R_HEXAGON_01",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_hex_LG_glow_3",
+								"fx3p": "P_flat_s4_hex_LG_glow_3P",
+								"attachment": "FX_R_HEXAGON_02",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_hex_SM_glow_2",
+								"fx3p": "",
+								"attachment": "FX_R_TOP_01",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_hex_SM_glow_3",
+								"fx3p": "",
+								"attachment": "FX_R_TOP_02",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_hex_SM_glow_3",
+								"fx3p": "P_flat_s4_hex_LG_glow_3P",
+								"attachment": "FX_R_TOP_03",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_hex_LG_glow_2",
+								"fx3p": "P_flat_s4_hex_LG_glow_3P",
+								"attachment": "FX_L_HEXAGON_04",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_flat_s4_hex_LG_glow_2",
+								"fx3p": "P_flat_s4_hex_LG_glow_3P",
+								"attachment": "FX_R_HEXAGON_04",
+								"controlPoints": [
+									]
+							}
+						],
+					"bodygroupChangeList": [
+						],
+					"weaponModListAdd": [
+						],
+					"weaponModListRemove": [
+						],
+					"killSoundSyncToAnim": false,
+					"transitionSoundSyncToAnim": false
+				}
+			],
+		"skinAlias_vfxAliases": [
+			],
+		"skinAlias_sfxAliases": [
+			],
+		"skinAlias_bodyGroupAliases": [
+			],
+		"skinAlias_impactTableAliases": [
+			],
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"exclusive": false,
+		"shouldHideIfLocked": false,
+		"forceFullWeaponIcon": false,
+		"featureReactsToKills": true,
+		"forceVideoInspect": false
+	}
+}

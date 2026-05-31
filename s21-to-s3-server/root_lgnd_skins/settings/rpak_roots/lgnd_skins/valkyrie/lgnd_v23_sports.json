@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/valkyrie/lgnd_v23_sports.rpak",
+		"roots": [
+				{
+					"asset": "mdl/Humans/class/medium/valkyrie_lgnd_v23_sports_w.rmdl",
+					"featureFlag": "HAS_21_0_RELEASE"
+				},
+				{
+					"asset": "mdl/Weapons/arms/valkyrie_lgnd_v23_sports_v.rmdl",
+					"featureFlag": "HAS_21_0_RELEASE"
+				}
+			]
+	}
+}

@@ -1,0 +1,7 @@
+seqs:
+[
+	animseq\weapons\mastiff_stgn\w_mastiff\weapon_mastiff_pathfinder_menu_FN_ready_up.rseq
+	animseq\weapons\mastiff_stgn\w_mastiff\weapon_mastiff_pathfinder_menu_FN_ready_up_idle.rseq
+	animseq\weapons\mastiff_stgn\w_mastiff\weapon_mastiff_pathfinder_menu_FN_select.rseq
+	animseq\weapons\mastiff_stgn\w_mastiff\weapon_mastiff_pathfinder_menu_FN_select_idle.rseq
+]

@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/caustic/mythic_v22_pilot_level03.rpak",
+		"roots": [
+				{
+					"asset": "mdl/techart/mshop/characters/legends/caustic/caustic_v22_pilot_level03_w.rmdl",
+					"featureFlag": ""
+				},
+				{
+					"asset": "mdl/techart/mshop/characters/legends/caustic/caustic_v22_pilot_level03_v.rmdl",
+					"featureFlag": ""
+				}
+			]
+	}
+}

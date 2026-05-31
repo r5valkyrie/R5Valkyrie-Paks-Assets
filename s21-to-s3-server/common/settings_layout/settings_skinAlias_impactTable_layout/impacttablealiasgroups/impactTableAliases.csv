@@ -1,0 +1,3 @@
+"fieldName","dataType","layoutIndex","helpText"
+"impactTableAlias","string","0","The Impact Table Alias we're defining"
+"impactTableReal","string","0","The Real Impact Table Name"

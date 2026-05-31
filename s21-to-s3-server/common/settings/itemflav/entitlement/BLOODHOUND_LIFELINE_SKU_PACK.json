@@ -1,0 +1,72 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_entitlement_layout.rpak",
+	"uniqueId": 2061691572,
+	"settings": {
+		"assetName": "settings/itemflav/entitlement/BLOODHOUND_LIFELINE_SKU_PACK.rpak",
+		"itemType": "entitlement",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID02061691572",
+		"__featureFlag": "",
+		"devDescription": "Retail SKU items, Bloodhound and Lifeline Double Pack",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"entitlementType": "firstparty",
+		"twitchRef": "",
+		"twitchRef": "",
+		"enum": "BLOODHOUND_LIFELINE_PACK",
+		"pc": "ORIGIN_BUNDLE_OWNED",
+		"ps4": "BHLLBO0000000000",
+		"xb1": "BH_LL_BUNDLE",
+		"switch": "apexlegblife",
+		"pc_offer": "Origin.OFR.50.0003855",
+		"steam_offer": "Steam.OFR.50.0000018",
+		"xb1_offer": "68ceb554-9040-4428-a88d-6b54b691bdc0",
+		"menuTitleText": "",
+		"menuDescText": "",
+		"menuImageName": "",
+		"menuPersistenceVarName": "",
+		"list": [
+				{
+					"flavor": "settings/itemflav/gcard_badge/bloodhound/retail02.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/character_skin/bloodhound/retail02_legendary_01.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/gcard_frame/bloodhound/retail02_epic_01.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/pdw/retail02_legendary_01.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/gcard_badge/lifeline/retail01.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/character_skin/lifeline/retail01_legendary_01.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/gcard_frame/lifeline/retail01_epic_01.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/flatline/retail01_legendary_01.rpak",
+					"quantity": 1
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isMenuEnabled": false
+	}
+}

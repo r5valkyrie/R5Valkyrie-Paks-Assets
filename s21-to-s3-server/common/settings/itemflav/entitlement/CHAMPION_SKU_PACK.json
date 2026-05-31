@@ -1,0 +1,104 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_entitlement_layout.rpak",
+	"uniqueId": 459852413,
+	"settings": {
+		"assetName": "settings/itemflav/entitlement/CHAMPION_SKU_PACK.rpak",
+		"itemType": "entitlement",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00459852413",
+		"__featureFlag": "",
+		"devDescription": "Champion Edition SKU items",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"entitlementType": "firstparty",
+		"twitchRef": "",
+		"twitchRef": "",
+		"enum": "CHAMPION_SKU_PACK",
+		"pc": "APEX_CHAMPIONSHIP_CONTENT",
+		"ps4": "CHAMPC0000000000",
+		"xb1": "CHAMPION_SKU_PACK",
+		"switch": "apexlegchamp",
+		"pc_offer": "Origin.OFR.50.0004203",
+		"steam_offer": "",
+		"xb1_offer": "36444e39-4648-3052-c034-563144371700",
+		"menuTitleText": "#PROMO_CHAMPION_SKU_HEADER",
+		"menuDescText": "#PROMO_CHAMPION_SKU_TEXT",
+		"menuImageName": "champion_sku",
+		"menuPersistenceVarName": "",
+		"list": [
+				{
+					"flavor": "settings/itemflav/character/caustic.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/character/mirage.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/character/octane.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/character/wattson.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/character/crypto.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/character/revenant.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/character/loba.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/character/rampart.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/character/horizon.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/character_skin/wraith/sku05_legendary_01.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/character_skin/revenant/sku05_legendary_01.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/character_skin/crypto/sku05_legendary_01.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/tripletake/sku05_legendary_01.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/flatline/sku05_legendary_01.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/sentinel/sku05_legendary_01.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_trshunter_nessie_gold01.rpak",
+					"quantity": 1
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isMenuEnabled": false
+	}
+}

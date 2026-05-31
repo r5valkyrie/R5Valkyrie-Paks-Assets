@@ -1,0 +1,25 @@
+seqs:
+[
+	animseq\humans\class\char_select_light_default.rseq
+	animseq\humans\class\medium\pilot_medium_bangalore\bangalore_gladcard_animated_catch_idle_light.rseq
+	animseq\humans\class\medium\pilot_medium_bangalore\bangalore_gladcard_animated_catch_light.rseq
+	animseq\humans\class\medium\pilot_medium_bangalore\bangalore_gladcard_animated_drill_idle_light.rseq
+	animseq\humans\class\medium\pilot_medium_bangalore\bangalore_gladcard_animated_drill_light.rseq
+	animseq\humans\class\medium\pilot_medium_bangalore\bangalore_gladcard_animated_heirloom_idle_light.rseq
+	animseq\humans\class\medium\pilot_medium_bangalore\bangalore_gladcard_animated_heirloom_light.rseq
+	animseq\humans\class\medium\pilot_medium_bangalore\bangalore_gladcard_animated_takedown_idle_light.rseq
+	animseq\humans\class\medium\pilot_medium_bangalore\bangalore_gladcard_animated_takedown_light.rseq
+	animseq\humans\class\medium\pilot_medium_bangalore\Bangalore_gladcard_static_betterhalf_light.rseq
+	animseq\humans\class\medium\pilot_medium_bangalore\Bangalore_gladcard_static_farsight_light.rseq
+	animseq\humans\class\medium\pilot_medium_bangalore\Bangalore_gladcard_static_grenade_light.rseq
+	animseq\humans\class\medium\pilot_medium_bangalore\Bangalore_gladcard_static_hold_light.rseq
+	animseq\humans\class\medium\pilot_medium_bangalore\Bangalore_gladcard_static_hunter_light.rseq
+	animseq\humans\class\medium\pilot_medium_bangalore\Bangalore_gladcard_static_ready_light.rseq
+	animseq\humans\class\medium\pilot_medium_bangalore\Bangalore_gladcard_static_rechamber_light.rseq
+	animseq\humans\class\medium\pilot_medium_bangalore\Bangalore_gladcard_static_rocket_B_light.rseq
+	animseq\humans\class\medium\pilot_medium_bangalore\Bangalore_gladcard_static_slung_light.rseq
+	animseq\humans\class\medium\pilot_medium_bangalore\Bangalore_gladcard_static_sunset_light.rseq
+	animseq\humans\class\medium\pilot_medium_bangalore\Bangalore_gladcard_static_threat_light.rseq
+	animseq\humans\class\medium\pilot_medium_bangalore\char_select_light_custom_bangalore.rseq
+	animseq\humans\class\medium\pilot_medium_bangalore\char_select_light_custom_bangalore_origin.rseq
+]

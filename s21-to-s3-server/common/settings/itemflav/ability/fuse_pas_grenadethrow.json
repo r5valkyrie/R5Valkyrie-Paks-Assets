@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 632325077,
+	"settings": {
+		"assetName": "settings/itemflav/ability/fuse_pas_grenadethrow.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00632325077",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#GEAR_GRENADIER",
+		"localizationKey_NAME_SHORT": "#GEAR_GRENADIER_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "#GEAR_GRENADIER_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#GEAR_GRENADIER_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/passive_icons/passive_fuse",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_FUSE",
+		"passiveWeaponMod": "fuse_long_throw_passive",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

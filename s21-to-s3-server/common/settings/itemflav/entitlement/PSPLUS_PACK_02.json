@@ -1,0 +1,64 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_entitlement_layout.rpak",
+	"uniqueId": 1265902043,
+	"settings": {
+		"assetName": "settings/itemflav/entitlement/PSPLUS_PACK_02.rpak",
+		"itemType": "entitlement",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01265902043",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"entitlementType": "firstparty",
+		"twitchRef": "",
+		"twitchRef": "",
+		"enum": "PSPLUS_PACK_02",
+		"pc": "PSPLUS_PACK_02",
+		"ps4": "PSPLST1000000000",
+		"xb1": "PSPLUS_PACK_02",
+		"switch": "PSPLUS_PACK_02",
+		"pc_offer": "",
+		"steam_offer": "",
+		"xb1_offer": "",
+		"menuTitleText": "#PROMO_REWARDS_UNLOCKED",
+		"menuDescText": "#PROMO_PS4_PLUS02_OWNED",
+		"menuImageName": "apex_title_blue",
+		"menuPersistenceVarName": "plus02Acknowledged",
+		"list": [
+				{
+					"flavor": "settings/itemflav/character_skin/lifeline/psplus02_rare_01.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/character_skin/mirage/psplus02_rare_01.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/gcard_frame/lifeline/psplus02_rare_01.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/gcard_frame/mirage/psplus02_rare_01.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/eva/psplus02_rare_01.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/r97/psplus02_rare_01.rpak",
+					"quantity": 1
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isMenuEnabled": false
+	}
+}

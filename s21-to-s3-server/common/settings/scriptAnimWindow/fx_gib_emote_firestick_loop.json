@@ -1,0 +1,12 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_PlayFX_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/fx_gib_emote_firestick_loop.rpak",
+		"devDescription": "",
+		"type": "PlayFX",
+		"particleSystemName": "P_gib_emt_firestick_flameLoop",
+		"attachPoint": "__illumPosition",
+		"followAttach": true,
+		"playEndCap": false
+	}
+}

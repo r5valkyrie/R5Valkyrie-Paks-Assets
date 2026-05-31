@@ -1,0 +1,7 @@
+seqs:
+[
+	animseq\props\wrestling_ring_01\wrestling_ring_01\wrestling_ring_octane_op_v23_menu_ready_up.rseq
+	animseq\props\wrestling_ring_01\wrestling_ring_01\wrestling_ring_octane_op_v23_menu_ready_up_idle.rseq
+	animseq\props\wrestling_ring_01\wrestling_ring_01\wrestling_ring_octane_op_v23_menu_select.rseq
+	animseq\props\wrestling_ring_01\wrestling_ring_01\wrestling_ring_octane_op_v23_menu_select_idle.rseq
+]

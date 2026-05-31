@@ -1,0 +1,35 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_artifact_component_activation_emote_layout.rpak",
+	"uniqueId": 249280173,
+	"settings": {
+		"assetName": "settings/itemflav/artifact_components/celestial/celestial_activation_emote.rpak",
+		"itemType": "artifact_component_activation_emote",
+		"parentItemFlavor": "settings/itemflav/loot/melee_weapon/artifact_dagger.rpak",
+		"settingsAssetID": "SAID00249280173",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#celestial_activationemote_NAME",
+		"localizationKey_NAME_SHORT": "#celestial_activationemote_NAME",
+		"localizationKey_DESCRIPTION_LONG": "#activationemote_DESC_LONG",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "MYTHIC",
+		"icon": "rui/menu/buttons/character_emotes/shared/icon_character_emote_shared_katar_activation",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "artifact_dagger_celestial_activationemote",
+		"ownershipTarget": "",
+		"artifactComponentType": "ACTIVATION_EMOTE",
+		"themeName": "CELES",
+		"componentIcon": "rui/menu/melee_customization/power_sources/vfx_celestial",
+		"video": "media/activation/activation_celestial",
+		"multipleOwnershipTargets": [
+			],
+		"artifactMainColor": "<0.690000,0.435000,0.859000>",
+		"artifactSecondaryColor": "<0.341000,0.227000,0.969000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isEmpty": false,
+		"shouldHideIfLocked": false
+	}
+}

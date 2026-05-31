@@ -1,0 +1,28 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_club_logo_element_layout.rpak",
+	"uniqueId": 1596038699,
+	"settings": {
+		"assetName": "settings/itemflav/club_logo_element/itemtype_clublogo_element_background_drips01.rpak",
+		"itemType": "club_logo_element",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01596038699",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#CLUBLOGOELEMENT_BACKGROUND_DRIPS01",
+		"localizationKey_NAME_SHORT": "#CLUBLOGOELEMENT_BACKGROUND_DRIPS01",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"clubLogoElementImage": "ui/menu/clubs/club_logo_layer_images/clublogo_background_base",
+		"clubLogoElementSecondaryColorMask": "ui/menu/clubs/club_logo_layer_images/clublogo_background_drips01a",
+		"elementCategory": "CLUBLOGOTYPE_BACKGROUNDS",
+		"clubLogoElementFrameMask": "",
+		"elementCenterPointAdjustment": 0.000000,
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"clubLogoElementEnabled": false
+	}
+}

@@ -1,0 +1,54 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_melee_weapon_layout.rpak",
+	"uniqueId": 924796935,
+	"settings": {
+		"assetName": "settings/itemflav/loot/melee_weapon/mirage_statue.rpak",
+		"itemType": "melee_weapon",
+		"parentItemFlavor": "settings/itemflav/character/mirage.rpak",
+		"settingsAssetID": "SAID00924796935",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"meleeWeaponType": "HEIRLOOM",
+		"configurationFramework": "SKIN_ONLY",
+		"mainWeaponClassname": "mp_weapon_mirage_statue_primary",
+		"offhandWeaponClassname": "melee_mirage_statue",
+		"deathbox": "",
+		"menuAnimSeq": "",
+		"koSound": "",
+		"storeImage": "",
+		"equipImage": "",
+		"legends": [
+				{
+					"flavor": "settings/itemflav/character/mirage.rpak",
+					"featureFlag": ""
+				}
+			],
+		"skins": [
+				{
+					"flavor": "settings/itemflav/melee_skin/mirage_statue.rpak",
+					"featureFlag": ""
+				}
+			],
+		"componentSets": [
+			],
+		"menuMdlRot": "<0.000000,0.000000,0.000000>",
+		"skinAlias_sfxAliases": [
+			],
+		"battlePassScale": 2.600000,
+		"lootCeremonyScale": 1.800000,
+		"itemInspectScale": 1.000000,
+		"itemInspectOffset": "<0.000000,0.000000,0.000000>",
+		"scriptAnimWindowFXControls": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

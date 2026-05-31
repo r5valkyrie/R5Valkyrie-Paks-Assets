@@ -1,0 +1,13 @@
+rigs:
+[
+]
+seqs:
+[
+	animseq\weapons\grenades\ptpov_frag_grenade_menu\m20_bloodhound_freefall_emote_grenades_01.rseq
+	animseq\weapons\grenades\ptpov_frag_grenade_menu\m20_bloodhound_freefall_emote_grenades_02.rseq
+	animseq\weapons\grenades\ptpov_frag_grenade_menu\m20_bloodhound_freefall_emote_grenades_03.rseq
+	animseq\weapons\grenades\ptpov_frag_grenade_menu\m20_crypto_freefall_emote_teakwondo.rseq
+	animseq\weapons\grenades\ptpov_frag_grenade_menu\m20_fuse_freefall_emote_boom.rseq
+	animseq\weapons\grenades\ptpov_frag_grenade_menu\m20_gladcard_animated_puzzle.rseq
+	animseq\weapons\grenades\ptpov_frag_grenade_menu\m20_gladcard_animated_puzzle_idle.rseq
+]

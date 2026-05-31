@@ -1,0 +1,31 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_skydive_emote_layout.rpak",
+	"uniqueId": 822709041,
+	"settings": {
+		"assetName": "settings/itemflav/skydive_emote/newcastle/herocharge.rpak",
+		"itemType": "skydive_emote",
+		"parentItemFlavor": "settings/itemflav/character/newcastle.rpak",
+		"settingsAssetID": "SAID00822709041",
+		"__featureFlag": "",
+		"devDescription": "newcastle's hero charge",
+		"localizationKey_NAME": "#skydive_emote_newcastle_herocharge_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/battlepass/skydive_emote_newcastle_shield",
+		"tagIcon": "rui/events/s13bp/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "skydive_emote_newcastle_herocharge",
+		"ownershipTarget": "",
+		"animSequence": "animseq/humans/class/heavy/pilot_heavy_newcastle/newcastle_freefall_emote_herocharge.rseq",
+		"video": "media/skydive_emotes/newcastle_herocharge",
+		"bcEvent": "bc_skydive",
+		"multipleOwnershipTargets": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false
+	}
+}

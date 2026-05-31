@@ -1,0 +1,28 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_club_logo_element_layout.rpak",
+	"uniqueId": 965994753,
+	"settings": {
+		"assetName": "settings/itemflav/club_logo_element/itemtype_clublogo_element_emblem_lionhead.rpak",
+		"itemType": "club_logo_element",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00965994753",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#CLUBLOGOELEMENT_EMBLEM_LIONHEAD",
+		"localizationKey_NAME_SHORT": "#CLUBLOGOELEMENT_EMBLEM_LIONHEAD",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"clubLogoElementImage": "ui/menu/clubs/club_logo_layer_images/clublogo_emblem_lionhead_bot",
+		"clubLogoElementSecondaryColorMask": "ui/menu/clubs/club_logo_layer_images/clublogo_emblem_lionhead_top",
+		"elementCategory": "CLUBLOGOTYPE_EMBLEM",
+		"clubLogoElementFrameMask": "",
+		"elementCenterPointAdjustment": 0.000000,
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"clubLogoElementEnabled": true
+	}
+}

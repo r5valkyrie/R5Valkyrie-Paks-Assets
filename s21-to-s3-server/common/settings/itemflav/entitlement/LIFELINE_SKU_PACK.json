@@ -1,0 +1,56 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_entitlement_layout.rpak",
+	"uniqueId": 543618276,
+	"settings": {
+		"assetName": "settings/itemflav/entitlement/LIFELINE_SKU_PACK.rpak",
+		"itemType": "entitlement",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00543618276",
+		"__featureFlag": "",
+		"devDescription": "Retail SKU items, Lifeline edition",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"entitlementType": "firstparty",
+		"twitchRef": "",
+		"twitchRef": "",
+		"enum": "LIFELINE_SKU_PACK",
+		"pc": "APEX_LIFELINE_CONTENT",
+		"ps4": "LIFSKU0000000000",
+		"xb1": "LIFELINE_EDITION_PACK",
+		"switch": "apexleglifel",
+		"pc_offer": "Origin.OFR.50.0003698",
+		"steam_offer": "",
+		"xb1_offer": "e0888623-22e7-4329-b8df-34aff1fd95d2",
+		"menuTitleText": "#PROMO_LIFELINE_EDITION",
+		"menuDescText": "#PROMO_LIFELINE_SKU_OWNED",
+		"menuImageName": "lifeline_sku",
+		"menuPersistenceVarName": "lifelineSKUAcknowledged",
+		"list": [
+				{
+					"flavor": "settings/itemflav/gcard_badge/lifeline/retail01.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/character_skin/lifeline/retail01_legendary_01.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/gcard_frame/lifeline/retail01_epic_01.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/flatline/retail01_legendary_01.rpak",
+					"quantity": 1
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isMenuEnabled": false
+	}
+}

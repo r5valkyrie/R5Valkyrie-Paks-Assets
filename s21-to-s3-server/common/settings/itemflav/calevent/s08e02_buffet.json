@@ -1,0 +1,92 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_calevent_buffet_layout.rpak",
+	"uniqueId": 910103324,
+	"settings": {
+		"assetName": "settings/itemflav/calevent/s08e02_buffet.rpak",
+		"itemType": "calevent_buffet",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00910103324",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#S08E02_TITLE_SHORT",
+		"localizationKey_NAME_SHORT": "#S08E02_TITLE_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "#S08E02_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#S08E02_TITLE_SHORT",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "rui/events/s08e02/item_source_icon",
+		"grxMode": "NONE",
+		"revealUnixTime": "",
+		"hideUnixTime": "",
+		"defaultStartTime": "2021-04-13 10:00:00 -07:00",
+		"defaultFinishTime": "2021-04-27 10:00:00 -07:00",
+		"headerIcon": "rui/events/s08e02/challenges_logo",
+		"mainChallengeFlav": "settings/itemflav/challenge/s08e02/main.rpak",
+		"eventChallengeHeaderImage": "rui/events/s08e02/challenge_panel_event_header",
+		"eventChallengeButtonImage": "rui/events/s08e02/event_tracker_button",
+		"eventChallengeButtonText": "",
+		"aboutPageBGImage": "rui/events/s08e02/about_bg",
+		"aboutPageBigIcon": "",
+		"aboutPageBarImage": "rui/events/s08e02/about_progress_bar",
+		"aboutPageUnownedRewardBorderImage": "rui/events/s08e02/reward_border_unowned",
+		"aboutPageOwnedRewardBorderImage": "rui/events/s08e02/reward_border_owned",
+		"aboutPageLineImage": "rui/events/s08e02/line",
+		"aboutPageTitleText": "#S08E02_TITLE_SHORT",
+		"aboutPageDescText": "#S08E02_DESC",
+		"aboutPageScoreTitleText": "#EARNED_POINTS_COLON",
+		"highlightGamemodeSelectorSlot": "",
+		"bonusChallengeFlavs": [
+			],
+		"dailyChallengeFlavs": [
+			],
+		"hiddenChallengeFlavs": [
+			],
+		"modes": [
+			],
+		"badgeFlavs": [
+				{
+					"badgeFlav": "settings/itemflav/gcard_badge/account/s08e02_wargames_challenge_2.rpak",
+					"badgeX": 225,
+					"badgeY": -8,
+					"badgeSize": 118
+				},
+				{
+					"badgeFlav": "settings/itemflav/gcard_badge/account/s08e02_wargames_challenge_3.rpak",
+					"badgeX": 418,
+					"badgeY": -8,
+					"badgeSize": 118
+				},
+				{
+					"badgeFlav": "settings/itemflav/gcard_badge/account/s08e02_wargames_challenge_4.rpak",
+					"badgeX": 612,
+					"badgeY": -8,
+					"badgeSize": 118
+				},
+				{
+					"badgeFlav": "settings/itemflav/gcard_badge/account/s08e02_wargames_combined_badge.rpak",
+					"badgeX": 805,
+					"badgeY": -8,
+					"badgeSize": 118
+				}
+			],
+		"eventChallengeHeaderColor1": "<0.808000,0.000000,0.000000>",
+		"eventChallengeHeaderColor2": "<0.816000,0.071000,0.051000>",
+		"eventChallengeButtonTextColor": "<1.000000,1.000000,1.000000>",
+		"eventChallengeCategoryButtonTint": "<0.937000,0.094000,0.118000>",
+		"progressBarColor": "<1.200000,1.200000,1.200000>",
+		"progressBarTextColor": "<1.200000,1.200000,1.200000>",
+		"rewardIconColor": "<0.400000,0.400000,0.400000>",
+		"aboutPageBGCol": "<0.035000,0.055000,0.075000>",
+		"aboutPageHeaderTextCol": "<0.902000,0.765000,0.478000>",
+		"aboutPageBodyTextCol": "<0.816000,0.678000,0.404000>",
+		"aboutPageScoreLabelCol": "<0.816000,0.678000,0.404000>",
+		"aboutPageScoreCol": "<0.902000,0.765000,0.478000>",
+		"aboutPageThemeCol": "<0.816000,0.678000,0.404000>",
+		"aboutPageBarTextCol": "<0.816000,0.678000,0.404000>",
+		"aboutPageBarTextOwnedCol": "<0.804000,0.255000,0.020000>",
+		"aboutPageCheckMarkCol": "<0.000000,1.000000,0.251000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"aboutPageShowsModes": false
+	}
+}

@@ -1,0 +1,5 @@
+seqs:
+[
+	animseq\weapons\3030repeater\w_3030repeater\attack_seq.rseq
+	animseq\weapons\3030repeater\w_3030repeater\idle_seq.rseq
+]

@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 590619770,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/wattson/legendary_orchestra.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/wattson.rpak",
+		"settingsAssetID": "SAID00590619770",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#ground_emote_wattson_orchestra_NAME",
+		"localizationKey_NAME_SHORT": "#ground_emote_wattson_orchestra_NAME",
+		"localizationKey_DESCRIPTION_LONG": "#ground_emote_wattson_orchestra_NAME",
+		"localizationKey_DESCRIPTION_SHORT": "#ground_emote_wattson_orchestra_NAME",
+		"quality": "LEGENDARY",
+		"icon": "rui/menu/buttons/character_emotes/wattson/orchestra",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_wattson_legendary_orchestra",
+		"ownershipTarget": "",
+		"anim3p": "wattson_ground_emote_orchestra",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

@@ -1,0 +1,11 @@
+rigs:
+[
+]
+seqs:
+[
+	animseq\weapons\combat_knife\w_combat_knife\idle_seq.rseq
+	animseq\weapons\combat_knife\w_combat_knife\knife_bloodhound_execution_raven.rseq
+	animseq\weapons\combat_knife\w_combat_knife\knife_bloodhound_execution_respect.rseq
+	animseq\weapons\combat_knife\w_combat_knife\prop_combat_knife_Fuse_ground_emote_Blade.rseq
+	animseq\weapons\combat_knife\w_combat_knife\prop_combat_knife_madmaggie_ground_emote_trickster.rseq
+]

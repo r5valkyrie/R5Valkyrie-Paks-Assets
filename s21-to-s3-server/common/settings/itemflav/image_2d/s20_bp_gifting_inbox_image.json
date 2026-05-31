@@ -1,0 +1,28 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_image_2d_layout.rpak",
+	"uniqueId": 387097920,
+	"settings": {
+		"assetName": "settings/itemflav/image_2d/s20_bp_gifting_inbox_image.rpak",
+		"itemType": "image_2d",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00387097920",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#BP_S20_OFFER_BASIC_LONG_NAME",
+		"localizationKey_NAME_SHORT": "#OFFER_BASIC_NAME",
+		"localizationKey_DESCRIPTION_LONG": "#BP_S20_OFFER_BASIC_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "COMMON",
+		"icon": "rui/menu/battlepass/icon_battlepass_card",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "s20_bp_gifting_inbox_image",
+		"ownershipTarget": "",
+		"image2D": "image_2d/s20_bp_display_image",
+		"multipleOwnershipTargets": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

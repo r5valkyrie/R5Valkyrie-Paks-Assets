@@ -1,0 +1,7 @@
+"fieldName","dataType","layoutIndex","helpText"
+"line","string","0","Miles event ID string"
+"featureFlag","string","0","The reference will be ignored if the specified feature flag is disabled."
+"paddingLeft","int","0",""
+"paddingRight","int","0",""
+"paddingTop","int","0",""
+"paddingBottom","int","0",""

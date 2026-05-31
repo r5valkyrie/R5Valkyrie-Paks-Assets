@@ -1,0 +1,30 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ping_layout.rpak",
+	"uniqueId": 979757317,
+	"settings": {
+		"assetName": "settings/itemflav/ping/ping_ent_imc_armory.rpak",
+		"itemType": "ping",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00979757317",
+		"__featureFlag": "",
+		"devDescription": "Base ping flavor for custom ent pings./n",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "rui/hud/minimap/icon_minimap_imc_armory_small",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"colorKey": "none",
+		"innerIcon": "rui/hud/ping/icon_ping_any_inner",
+		"innerShadowIcon": "rui/hud/ping/icon_ping_any_shadow",
+		"outerIcon": "rui/hud/minimap/icon_minimap_imc_armory_small",
+		"shadowIcon": "rui/hud/minimap/icon_minimap_imc_armory_small",
+		"animIcon": "rui/hud/ping/icon_ping_go_outline",
+		"defaultColor": "<0.984000,0.804000,0.267000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"drawHeightLine": false
+	}
+}

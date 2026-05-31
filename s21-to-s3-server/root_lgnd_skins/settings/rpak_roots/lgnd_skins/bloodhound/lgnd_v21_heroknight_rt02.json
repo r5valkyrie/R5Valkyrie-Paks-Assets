@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/bloodhound/lgnd_v21_heroknight_rt02.rpak",
+		"roots": [
+				{
+					"asset": "mdl/techart/mshop/characters/legends/bloodhound/bloodhound_v21_heroknight_w.rmdl",
+					"featureFlag": "HAS_20_0_RELEASE"
+				},
+				{
+					"asset": "mdl/techart/mshop/characters/legends/bloodhound/bloodhound_v21_heroknight_v.rmdl",
+					"featureFlag": "HAS_20_0_RELEASE"
+				}
+			]
+	}
+}

@@ -1,0 +1,24 @@
+seqs:
+[
+	animseq\weapons\valkyrie_rockets\ptpov_valkyrie_rockets\doublejump.rseq
+	animseq\weapons\valkyrie_rockets\ptpov_valkyrie_rockets\draw.rseq
+	animseq\weapons\valkyrie_rockets\ptpov_valkyrie_rockets\draw_onehanded.rseq
+	animseq\weapons\valkyrie_rockets\ptpov_valkyrie_rockets\draw_to_idle.rseq
+	animseq\weapons\valkyrie_rockets\ptpov_valkyrie_rockets\draw_to_idle_onehanded.rseq
+	animseq\weapons\valkyrie_rockets\ptpov_valkyrie_rockets\draw_to_sprint.rseq
+	animseq\weapons\valkyrie_rockets\ptpov_valkyrie_rockets\fire.rseq
+	animseq\weapons\valkyrie_rockets\ptpov_valkyrie_rockets\fire_onehanded.rseq
+	animseq\weapons\valkyrie_rockets\ptpov_valkyrie_rockets\fire_passive.rseq
+	animseq\weapons\valkyrie_rockets\ptpov_valkyrie_rockets\fire_sequential.rseq
+	animseq\weapons\valkyrie_rockets\ptpov_valkyrie_rockets\fire_sequential_onehanded.rseq
+	animseq\weapons\valkyrie_rockets\ptpov_valkyrie_rockets\idle.rseq
+	animseq\weapons\valkyrie_rockets\ptpov_valkyrie_rockets\idle_layer.rseq
+	animseq\weapons\valkyrie_rockets\ptpov_valkyrie_rockets\idle_onehanded.rseq
+	animseq\weapons\valkyrie_rockets\ptpov_valkyrie_rockets\jump.rseq
+	animseq\weapons\valkyrie_rockets\ptpov_valkyrie_rockets\land.rseq
+	animseq\weapons\valkyrie_rockets\ptpov_valkyrie_rockets\land_high.rseq
+	animseq\weapons\valkyrie_rockets\ptpov_valkyrie_rockets\land_low.rseq
+	animseq\weapons\valkyrie_rockets\ptpov_valkyrie_rockets\land_med.rseq
+	animseq\weapons\valkyrie_rockets\ptpov_valkyrie_rockets\sprint.rseq
+	animseq\weapons\valkyrie_rockets\ptpov_valkyrie_rockets\sprint_layer.rseq
+]

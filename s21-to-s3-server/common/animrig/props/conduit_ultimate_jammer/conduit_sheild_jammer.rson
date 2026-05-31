@@ -1,0 +1,8 @@
+seqs:
+[
+	animseq\props\conduit_ultimate_jammer\conduit_ultimate_jammer\prop_conduit_ultimate_jammer_activate.rseq
+	animseq\props\conduit_ultimate_jammer\conduit_ultimate_jammer\prop_conduit_ultimate_jammer_deploy.rseq
+	animseq\props\conduit_ultimate_jammer\conduit_ultimate_jammer\prop_conduit_ultimate_jammer_end.rseq
+	animseq\props\conduit_ultimate_jammer\conduit_ultimate_jammer\prop_conduit_ultimate_jammer_idle.rseq
+	animseq\props\conduit_ultimate_jammer\conduit_ultimate_jammer\prop_conduit_ultimate_jammer_pre_activate_idle.rseq
+]

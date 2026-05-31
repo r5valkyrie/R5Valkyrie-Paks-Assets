@@ -1,0 +1,27 @@
+seqs:
+[
+	animseq\weapons\empty_handed\ptpov_catalyst_ferro_wall\fire_02.rseq
+	animseq\weapons\empty_handed\ptpov_catalyst_ferro_wall\fire_03.rseq
+	animseq\weapons\empty_handed\ptpov_catalyst_ferro_wall\fire_04.rseq
+	animseq\weapons\empty_handed\ptpov_catalyst_ferro_wall\holster.rseq
+	animseq\weapons\empty_handed\ptpov_catalyst_ferro_wall\holster_abilityUsed.rseq
+	animseq\weapons\empty_handed\ptpov_catalyst_ferro_wall\idle.rseq
+	animseq\weapons\empty_handed\ptpov_catalyst_ferro_wall\idle_onehanded.rseq
+	animseq\weapons\empty_handed\ptpov_catalyst_ferro_wall\jump.rseq
+	animseq\weapons\empty_handed\ptpov_catalyst_ferro_wall\jump_doublejump.rseq
+	animseq\weapons\empty_handed\ptpov_catalyst_ferro_wall\jump_sliding.rseq
+	animseq\weapons\empty_handed\ptpov_catalyst_ferro_wall\jump_sprinting.rseq
+	animseq\weapons\empty_handed\ptpov_catalyst_ferro_wall\land.rseq
+	animseq\weapons\empty_handed\ptpov_catalyst_ferro_wall\land_high.rseq
+	animseq\weapons\empty_handed\ptpov_catalyst_ferro_wall\land_low.rseq
+	animseq\weapons\empty_handed\ptpov_catalyst_ferro_wall\land_med.rseq
+	animseq\weapons\empty_handed\ptpov_catalyst_ferro_wall\lower.rseq
+	animseq\weapons\empty_handed\ptpov_catalyst_ferro_wall\raise.rseq
+	animseq\weapons\empty_handed\ptpov_catalyst_ferro_wall\raise_to_idle.rseq
+	animseq\weapons\empty_handed\ptpov_catalyst_ferro_wall\sprint.rseq
+	animseq\weapons\empty_handed\ptpov_catalyst_ferro_wall\sprint_onehanded.rseq
+	animseq\weapons\empty_handed\ptpov_catalyst_ferro_wall\sprintjump.rseq
+	animseq\weapons\empty_handed\ptpov_catalyst_ferro_wall\sprintraise.rseq
+	animseq\weapons\empty_handed\ptpov_catalyst_ferro_wall\sprintslide.rseq
+	animseq\weapons\empty_handed\ptpov_catalyst_ferro_wall\switch_to_twohanded.rseq
+]

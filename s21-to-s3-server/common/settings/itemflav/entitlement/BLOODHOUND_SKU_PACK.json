@@ -1,0 +1,56 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_entitlement_layout.rpak",
+	"uniqueId": 824416496,
+	"settings": {
+		"assetName": "settings/itemflav/entitlement/BLOODHOUND_SKU_PACK.rpak",
+		"itemType": "entitlement",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00824416496",
+		"__featureFlag": "",
+		"devDescription": "Retail SKU items, Bloodhound edition",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"entitlementType": "firstparty",
+		"twitchRef": "",
+		"twitchRef": "",
+		"enum": "BLOODHOUND_SKU_PACK",
+		"pc": "APEX_BLOODHOUND_CONTENT",
+		"ps4": "BHRSKU0000000000",
+		"xb1": "BLOODHOUND_EDITION_PACK",
+		"switch": "apexlegblood",
+		"pc_offer": "Origin.OFR.50.0003697",
+		"steam_offer": "",
+		"xb1_offer": "efd61c2c-f56f-4151-8117-98b7197be451",
+		"menuTitleText": "#PROMO_BLOODHOUND_EDITION",
+		"menuDescText": "#PROMO_BLOODHOUND_SKU_OWNED",
+		"menuImageName": "bloodhound_sku",
+		"menuPersistenceVarName": "bloodhoundSKUAcknowledged",
+		"list": [
+				{
+					"flavor": "settings/itemflav/gcard_badge/bloodhound/retail02.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/character_skin/bloodhound/retail02_legendary_01.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/gcard_frame/bloodhound/retail02_epic_01.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/pdw/retail02_legendary_01.rpak",
+					"quantity": 1
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isMenuEnabled": false
+	}
+}

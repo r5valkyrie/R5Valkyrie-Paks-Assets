@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 264253375,
+	"settings": {
+		"assetName": "settings/itemflav/ability/conduit_ultimate.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00264253375",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#ABL_CONDUIT_ULTIMATE",
+		"localizationKey_NAME_SHORT": "#ABL_CONDUIT_ULTIMATE",
+		"localizationKey_DESCRIPTION_LONG": "#ABL_CONDUIT_ULTIMATE_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#ABL_CONDUIT_ULTIMATE_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/ultimate_icons/ultimate_conduit",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "mp_ability_conduit_shield_mines",
+		"passiveScriptRef": "",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

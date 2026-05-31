@@ -1,0 +1,7 @@
+"fieldName","dataType","layoutIndex","helpText"
+"assetName","string","0",""
+"devDescription","string","0",""
+"type","string","0",""
+"fadeDuration","float","0","The time in seconds that it takes to fade from Start to End. Current max is 5 seconds."
+"alphaStart","int","0","The alha value between 0 and 255. 0 is completely transparent and 255 is opaque"
+"alphaEnd","int","0","The alha value between 0 and 255. 0 is completely transparent and 255 is opaque"

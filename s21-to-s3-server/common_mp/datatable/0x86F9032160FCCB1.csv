@@ -1,0 +1,4 @@
+"scriptName","className","editorClassName","targetName","skinName","priority","checkType","variableName","calevent","negativeCheck"
+"respawn_dropship","npc_dropship","","","lights_on",2,0,"","",false
+"","player_vehicle","hover_vehicle","","Tropics Varient",2,5,"tropics","",false
+"string","string","string","string","string","int","int","string","asset","bool"

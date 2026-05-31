@@ -1,0 +1,33 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_stat_tracker_layout.rpak",
+	"uniqueId": 1203596582,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_tracker/gibraltar/s15e01_career_wins.rpak",
+		"itemType": "gladiator_card_stat_tracker",
+		"parentItemFlavor": "settings/itemflav/character/gibraltar.rpak",
+		"settingsAssetID": "SAID01203596582",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#gcard_tracker_gibraltar_placements_win_NAME",
+		"localizationKey_NAME_SHORT": "#TRACKER_WINS",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "RARE",
+		"icon": "",
+		"tagIcon": "rui/events/s15e01/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "gcard_tracker_gibraltar_s15e01_career_wins",
+		"ownershipTarget": "",
+		"statRef": "stats.characters[%char%].placements_win",
+		"valueNumberFormat": "INTEGER",
+		"valueSuffix": "",
+		"backgroundImage": "rui/gladiator_cards/trackers/events/s15e01/gibraltar_bg_mid",
+		"multipleOwnershipTargets": [
+			],
+		"color0": "<1.000000,0.847000,0.113000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false
+	}
+}

@@ -1,0 +1,9 @@
+seqs:
+[
+	animseq\weapons\empty_handed\ptpov_revenant_shadow_form\fire_shadowform_clench.rseq
+	animseq\weapons\empty_handed\ptpov_revenant_shadow_form\fire_shadowform_ninjutsu.rseq
+	animseq\weapons\empty_handed\ptpov_revenant_shadow_form\fire_shadowform_skull.rseq
+	animseq\weapons\empty_handed\ptpov_revenant_shadow_form\fire_shadowform_surge.rseq
+	animseq\weapons\empty_handed\ptpov_revenant_shadow_form\fire_shadowform_witch.rseq
+	animseq\weapons\empty_handed\ptpov_revenant_shadow_form\tossprep_shadowform.rseq
+]

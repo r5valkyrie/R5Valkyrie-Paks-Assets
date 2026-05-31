@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 720810222,
+	"settings": {
+		"assetName": "settings/itemflav/ability/upgrade_increased_scan_duration.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00720810222",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#UPGRADE_BLOODHOUND_TAC_SCAN_DURATION_NAME",
+		"localizationKey_NAME_SHORT": "#UPGRADE_TYPE_TACTICAL",
+		"localizationKey_DESCRIPTION_LONG": "#UPGRADE_BLOODHOUND_TAC_SCAN_DURATION_LONG_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#UPGRADE_BLOODHOUND_TAC_SCAN_DURATION_SHORT_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/legend_upgrades/bloodhound_fullcoverage_icon",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_TAC_UPGRADE_ONE",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

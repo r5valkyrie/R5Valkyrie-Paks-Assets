@@ -1,0 +1,87 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_challenge_layout.rpak",
+	"uniqueId": 263236543,
+	"settings": {
+		"assetName": "settings/itemflav/challenge/s13e01/top_10_finish.rpak",
+		"itemType": "challenge",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00263236543",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"typeOfMetaChallenge": "CHALLENGE_SET",
+		"challengeSet": "",
+		"challengeCollection": "",
+		"rewardCampaign": "",
+		"timeSpan": "EVENT",
+		"autogenSlot": "SLOT_00",
+		"autogenScriptHook": "ON_PLAYER_WIN",
+		"difficulty": "HARD",
+		"mode": "BATTLE_ROYALE",
+		"modeAlt": "BATTLE_ROYALE",
+		"grxRewardSequenceRef": "",
+		"weekNumber": 0,
+		"tiers": [
+				{
+					"description": "#CHALLENGE_TOP_10_TIMES",
+					"statRef": "stats.placements_top_10",
+					"descriptionAlt": "",
+					"statRefAlt": "",
+					"progressAccrual": "startAtZero",
+					"matchRequirement": "none",
+					"goalVal": 4,
+					"goalValAlt": 0,
+					"characters": [
+						],
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/voucher/s13e01/buffet_points_200.rpak",
+								"quantity": 1
+							}
+						],
+					"convertSecondsToMinutesDisplay": false
+				},
+				{
+					"description": "#CHALLENGE_TOP_10_TIMES",
+					"statRef": "stats.placements_top_10",
+					"descriptionAlt": "",
+					"statRefAlt": "",
+					"progressAccrual": "addProgressFromPrevTier",
+					"matchRequirement": "none",
+					"goalVal": 8,
+					"goalValAlt": 0,
+					"characters": [
+						],
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/voucher/s13e01/buffet_points_200.rpak",
+								"quantity": 1
+							}
+						],
+					"convertSecondsToMinutesDisplay": false
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isMetaChallenge": false,
+		"autoGenerateStatBacker": false,
+		"isBoostEnabled": false,
+		"isEitherOr": false,
+		"isRerollEnabled": true,
+		"isPremium": false,
+		"isGoldenScheme": false,
+		"maxOneTierPerMatch": false,
+		"lastTierIsInfinite": false,
+		"pinnedLocal": false,
+		"excludeFromPostMatchSummary": false,
+		"hasGRXRewardSequenceForPDEF": false,
+		"grxRewardSequenceAllowsSkipAhead": false
+	}
+}

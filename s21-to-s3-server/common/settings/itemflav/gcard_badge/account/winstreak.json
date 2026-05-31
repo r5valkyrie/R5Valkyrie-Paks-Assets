@@ -1,0 +1,59 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_badge_layout.rpak",
+	"uniqueId": 807849220,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_badge/account/winstreak.rpak",
+		"itemType": "gladiator_card_badge",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00807849220",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#gcard_badge_winstreak_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "#gcard_badge_winstreak_DESCRIPTION_SHORT",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/gladiator_card_badges/undefined",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"grxMode": "NONE",
+		"grxRef": "",
+		"ownershipTarget": "",
+		"exclusiveFunc": "",
+		"unlockStatRef": "stats.win_streak_account_badge_longest",
+		"dynamicTextStatRef": "",
+		"badgeCategory": "MENU_BADGE_ACCOUNT",
+		"multipleOwnershipTargets": [
+			],
+		"tiers": [
+				{
+					"imageAsset": "rui/gladiator_cards/badges/winstreak_tier2",
+					"ruiAsset": "",
+					"unlocksAt": 2.000000
+				},
+				{
+					"imageAsset": "rui/gladiator_cards/badges/winstreak_tier3",
+					"ruiAsset": "",
+					"unlocksAt": 3.000000
+				},
+				{
+					"imageAsset": "rui/gladiator_cards/badges/winstreak_tier4",
+					"ruiAsset": "",
+					"unlocksAt": 4.000000
+				},
+				{
+					"imageAsset": "rui/gladiator_cards/badges/winstreak_tier5",
+					"ruiAsset": "",
+					"unlocksAt": 5.000000
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false,
+		"exclusive": false,
+		"shouldHideIfLocked": false,
+		"isCharacterBadge": false,
+		"hasOwnRui": false,
+		"isOversizedImage": true
+	}
+}

@@ -1,0 +1,12 @@
+seqs:
+[
+	animseq\weapons\horizon_heirloom\w_horizon_heirloom\nova_gladcard_mace_animated_heirloom.rseq
+	animseq\weapons\horizon_heirloom\w_horizon_heirloom\nova_gladcard_mace_animated_heirloom_idle.rseq
+	animseq\weapons\horizon_heirloom\w_horizon_heirloom\nova_heirloom_melee_crouch_prop_01.rseq
+	animseq\weapons\horizon_heirloom\w_horizon_heirloom\nova_heirloom_melee_door_prop_02.rseq
+	animseq\weapons\horizon_heirloom\w_horizon_heirloom\nova_heirloom_melee_jump_prop_01.rseq
+	animseq\weapons\horizon_heirloom\w_horizon_heirloom\nova_heirloom_melee_jump_slide_prop.rseq
+	animseq\weapons\horizon_heirloom\w_horizon_heirloom\nova_heirloom_melee_prop_01.rseq
+	animseq\weapons\horizon_heirloom\w_horizon_heirloom\nova_heirloom_melee_prop_02.rseq
+	animseq\weapons\horizon_heirloom\w_horizon_heirloom\nova_heirloom_melee_slide_prop.rseq
+]

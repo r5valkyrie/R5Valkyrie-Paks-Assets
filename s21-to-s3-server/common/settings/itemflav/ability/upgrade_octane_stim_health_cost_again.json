@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 1979356752,
+	"settings": {
+		"assetName": "settings/itemflav/ability/upgrade_octane_stim_health_cost_again.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01979356752",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#UPGRADE_OCTANE_TAC_HEALTH_COST_NAME",
+		"localizationKey_NAME_SHORT": "#UPGRADE_TYPE_TACTICAL",
+		"localizationKey_DESCRIPTION_LONG": "#UPGRADE_OCTANE_TAC_HEALTH_COST_LONG_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#UPGRADE_OCTANE_TAC_HEALTH_COST_SHORT_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/legend_upgrades/octane_stim_health_cost_icon",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_TAC_UPGRADE_TWO",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

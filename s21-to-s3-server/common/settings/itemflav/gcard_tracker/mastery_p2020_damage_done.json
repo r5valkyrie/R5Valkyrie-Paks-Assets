@@ -1,0 +1,33 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_stat_tracker_layout.rpak",
+	"uniqueId": 236708550,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_tracker/mastery_p2020_damage_done.rpak",
+		"itemType": "gladiator_card_stat_tracker",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00236708550",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#gcard_tracker_mastery_p2020_damage_done_NAME",
+		"localizationKey_NAME_SHORT": "#TRACKER_MASTERY_P2020_DAMAGE_DONE",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "RARE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "gcard_tracker_mastery_p2020_damage_done",
+		"ownershipTarget": "",
+		"statRef": "stats.weapons[SAID00970511567].damage_done",
+		"valueNumberFormat": "INTEGER",
+		"valueSuffix": "",
+		"backgroundImage": "rui/gladiator_cards/trackers/mastery/p2020",
+		"multipleOwnershipTargets": [
+			],
+		"color0": "<0.550000,0.540000,0.540000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/revenant/pilot_survival_revenant_rework.rpak",
+		"roots": [
+				{
+					"asset": "mdl/humans/class/heavy/pilot_heavy_revenant.rmdl",
+					"featureFlag": ""
+				},
+				{
+					"asset": "mdl/Weapons/arms/pov_pilot_medium_generic.rmdl",
+					"featureFlag": ""
+				}
+			]
+	}
+}

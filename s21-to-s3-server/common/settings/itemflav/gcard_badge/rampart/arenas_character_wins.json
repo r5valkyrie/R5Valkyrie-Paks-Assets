@@ -1,0 +1,64 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_badge_layout.rpak",
+	"uniqueId": 1906795605,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_badge/rampart/arenas_character_wins.rpak",
+		"itemType": "gladiator_card_badge",
+		"parentItemFlavor": "settings/itemflav/character/rampart.rpak",
+		"settingsAssetID": "SAID01906795605",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#gcard_badge_rampart_arenas_character_wins_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "#gcard_badge_arenas_wins_DESCRIPTION_SHORT",
+		"quality": "COMMON",
+		"icon": "rui/menu/buttons/gladiator_card_badges/undefined",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"grxMode": "NONE",
+		"grxRef": "",
+		"ownershipTarget": "",
+		"exclusiveFunc": "",
+		"unlockStatRef": "stats.modes[arenas].characters[%char%].placements_win",
+		"dynamicTextStatRef": "",
+		"badgeCategory": "MENU_BADGE_ARENAS",
+		"multipleOwnershipTargets": [
+			],
+		"tiers": [
+				{
+					"imageAsset": "rui/gladiator_cards/badges/apex_rampart",
+					"ruiAsset": "ui/arenas_badge_character_wins_rampart.rpak",
+					"unlocksAt": 5.000000
+				},
+				{
+					"imageAsset": "rui/gladiator_cards/badges/apex_rampart_lvl_2",
+					"ruiAsset": "ui/arenas_badge_character_wins_rampart.rpak",
+					"unlocksAt": 20.000000
+				},
+				{
+					"imageAsset": "rui/gladiator_cards/badges/apex_rampart_lvl_3",
+					"ruiAsset": "ui/arenas_badge_character_wins_rampart.rpak",
+					"unlocksAt": 50.000000
+				},
+				{
+					"imageAsset": "rui/gladiator_cards/badges/apex_rampart_lvl_4",
+					"ruiAsset": "ui/arenas_badge_character_wins_rampart.rpak",
+					"unlocksAt": 100.000000
+				},
+				{
+					"imageAsset": "rui/gladiator_cards/badges/apex_rampart_lvl_5",
+					"ruiAsset": "ui/arenas_badge_character_wins_rampart.rpak",
+					"unlocksAt": 500.000000
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false,
+		"exclusive": false,
+		"shouldHideIfLocked": false,
+		"isCharacterBadge": true,
+		"hasOwnRui": true,
+		"isOversizedImage": false
+	}
+}

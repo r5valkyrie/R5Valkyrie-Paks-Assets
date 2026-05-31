@@ -1,0 +1,8 @@
+rigs:
+[
+	animrig\weapons\arms\pov_mp_core.rrig
+]
+seqs:
+[
+	animseq\weapons\arms\pov_pilot_light_wraith_cyber_ninja\drawsprint_kunai.rseq
+]

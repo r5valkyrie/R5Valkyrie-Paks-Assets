@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 575487552,
+	"settings": {
+		"assetName": "settings/itemflav/ability/upgrade_newcastle_revive_heal.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00575487552",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#UPGRADE_NEWCASTLE_REVIVE_HEAL_NAME",
+		"localizationKey_NAME_SHORT": "#UPGRADE_TYPE_PASSIVE",
+		"localizationKey_DESCRIPTION_LONG": "#UPGRADE_NEWCASTLE_REVIVE_HEAL_LONG_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#UPGRADE_NEWCASTLE_REVIVE_HEAL_SHORT_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/legend_upgrades/common_revivemaster_icon",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_REVIVE_HEAL",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

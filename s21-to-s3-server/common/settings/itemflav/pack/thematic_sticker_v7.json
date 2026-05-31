@@ -1,0 +1,111 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_account_pack_layout.rpak",
+	"uniqueId": 1017865443,
+	"settings": {
+		"assetName": "settings/itemflav/pack/thematic_sticker_v7.rpak",
+		"itemType": "account_pack",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01017865443",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#pack_thematic_sticker_v7_NAME",
+		"localizationKey_NAME_SHORT": "#pack_thematic_sticker_v7_NAME_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/battlepass/thematic_pack_reward_icon_sticker",
+		"tagIcon": "",
+		"grxMode": "PACK",
+		"grxMode": "PACK",
+		"grxRef": "pack_thematic_sticker_v7",
+		"ownershipTarget": "",
+		"packType": "EVENT_THEMATIC_PACK",
+		"themeFlavor": "",
+		"stickerRewardPack": "settings/itemflav/pack/lgnd_sticker_v7.rpak",
+		"stickerRewardSequence": "rewardseq_s21_stickerv7_completion",
+		"tickMdl": "mdl/robots/drone_frag/drone_frag_loot.rmdl",
+		"tickMdlSkin": "loottick_epic_v23_sticker_007_01",
+		"openButtonIcon": "rui/menu/buttons/character_pack_button_icons/open_pack_btn_icon_sticker",
+		"triadBounceSound": "LootCeremony_Triad_Bounce",
+		"puckLandSound": "LootCeremony_IronCrown_Tick_PuckLand",
+		"unpackSound": "LootCeremony_IronCrown_Tick_Unpack",
+		"deployTriadExplo1Sound": "LootCeremony_IronCrown_Tick_Deploy_TriadExplo1",
+		"deployTriadExplo2Sound": "LootCeremony_IronCrown_Tick_Deploy_TriadExplo2",
+		"deployTriadExplo3Sound": "LootCeremony_IronCrown_Tick_Deploy_TriadExplo3",
+		"multipleOwnershipTargets": [
+			],
+		"packContents": [
+				{
+					"flavor": "settings/itemflav/stickers/sticker_epic_v23_void_12.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/stickers/sticker_epic_v23_void_01.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/stickers/sticker_epic_v23_void_17.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/stickers/sticker_epic_v23_void_10.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/stickers/sticker_epic_v23_void_20.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/stickers/sticker_epic_v23_void_18.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/stickers/sticker_epic_v23_void_02.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/stickers/sticker_epic_v23_void_06.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/stickers/sticker_epic_v23_void_09.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/stickers/sticker_epic_v23_void_13.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/stickers/sticker_epic_v23_void_05.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/stickers/sticker_epic_v23_void_19.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/stickers/sticker_epic_v23_void_03.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/stickers/sticker_epic_v23_void_08.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/stickers/sticker_epic_v23_void_04.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/stickers/sticker_epic_v23_void_14.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/stickers/sticker_epic_v23_void_15.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/stickers/sticker_epic_v23_void_11.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/stickers/sticker_epic_v23_void_07.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/stickers/sticker_epic_v23_void_16.rpak"
+				}
+			],
+		"customCol0": "<1.000000,1.000000,1.000000>",
+		"countTextCol": "<1.000000,1.000000,1.000000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"hasStickers": true,
+		"hasSkydives": false,
+		"hasHolosprays": false,
+		"usesMOTDButtonForCount": true,
+		"isEphemeral": false,
+		"isExpectedToContainSingleItemWithCurrency": false,
+		"useCustomColors": true
+	}
+}

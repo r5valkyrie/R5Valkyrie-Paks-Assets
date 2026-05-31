@@ -1,0 +1,2 @@
+"fieldName","dataType","layoutIndex","helpText"
+"region","string","0","Regions the boost will apply to. Codes should match with https://docs.ea.com/identity/references-and-resources/api-country-list/"

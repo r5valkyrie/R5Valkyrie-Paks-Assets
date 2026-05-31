@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/loba/lgnd_v21_herohunter_rt01.rpak",
+		"roots": [
+				{
+					"asset": "mdl/techart/mshop/characters/legends/loba/loba_v21_herohunter_w.rmdl",
+					"featureFlag": ""
+				},
+				{
+					"asset": "mdl/techart/mshop/characters/legends/loba/loba_v21_herohunter_v.rmdl",
+					"featureFlag": ""
+				}
+			]
+	}
+}

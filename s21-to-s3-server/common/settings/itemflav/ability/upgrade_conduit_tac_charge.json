@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 1650567364,
+	"settings": {
+		"assetName": "settings/itemflav/ability/upgrade_conduit_tac_charge.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01650567364",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#UPGRADE_CONDUIT_TAC_EXTRA_CHARGE_NAME",
+		"localizationKey_NAME_SHORT": "#UPGRADE_TYPE_TACTICAL",
+		"localizationKey_DESCRIPTION_LONG": "#UPGRADE_CONDUIT_TAC_EXTRA_CHARGE_LONG_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#UPGRADE_CONDUIT_TAC_EXTRA_CHARGE_SHORT_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/legend_upgrades/conduit_splitcharge_icon",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_TAC_UPGRADE_TWO",
+		"passiveWeaponMod": "upgrade_tac_one",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

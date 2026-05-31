@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/gibraltar/lgnd_v21_thrillseeker_rt02.rpak",
+		"roots": [
+				{
+					"asset": "mdl/humans/class/heavy/gibraltar_v21_arenas_w.rmdl",
+					"featureFlag": "HAS_20_0_RELEASE"
+				},
+				{
+					"asset": "mdl/Weapons/arms/gibraltar_v21_arenas_v.rmdl",
+					"featureFlag": "HAS_20_0_RELEASE"
+				}
+			]
+	}
+}

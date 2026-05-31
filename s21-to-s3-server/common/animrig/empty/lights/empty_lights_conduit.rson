@@ -1,0 +1,27 @@
+seqs:
+[
+	animseq\humans\class\char_select_light_default.rseq
+	animseq\humans\class\light\pilot_light_conduit\char_select_light_custom_conduit.rseq
+	animseq\humans\class\light\pilot_light_conduit\conduit_gladcard_animated_bigfan_idle_light.rseq
+	animseq\humans\class\light\pilot_light_conduit\conduit_gladcard_animated_bigfan_light.rseq
+	animseq\humans\class\light\pilot_light_conduit\conduit_gladcard_animated_blessed_idle_light.rseq
+	animseq\humans\class\light\pilot_light_conduit\conduit_gladcard_animated_blessed_light.rseq
+	animseq\humans\class\light\pilot_light_conduit\conduit_gladcard_animated_povrevive_idle_light.rseq
+	animseq\humans\class\light\pilot_light_conduit\conduit_gladcard_animated_povrevive_light.rseq
+	animseq\humans\class\light\pilot_light_conduit\conduit_gladcard_animated_proleague_idle_light.rseq
+	animseq\humans\class\light\pilot_light_conduit\conduit_gladcard_animated_proleague_light.rseq
+	animseq\humans\class\light\pilot_light_conduit\conduit_gladcard_animated_transform_idle_light.rseq
+	animseq\humans\class\light\pilot_light_conduit\conduit_gladcard_animated_transform_light.rseq
+	animseq\humans\class\light\pilot_light_conduit\conduit_gladcard_animated_ult_idle_light.rseq
+	animseq\humans\class\light\pilot_light_conduit\conduit_gladcard_animated_ult_light.rseq
+	animseq\humans\class\light\pilot_light_conduit\conduit_gladcard_static_beckon_light.rseq
+	animseq\humans\class\light\pilot_light_conduit\conduit_gladcard_static_boxing_light.rseq
+	animseq\humans\class\light\pilot_light_conduit\conduit_gladcard_static_camerapose_light.rseq
+	animseq\humans\class\light\pilot_light_conduit\conduit_gladcard_static_chair_light.rseq
+	animseq\humans\class\light\pilot_light_conduit\conduit_gladcard_static_chill_light.rseq
+	animseq\humans\class\light\pilot_light_conduit\conduit_gladcard_static_common_01_light.rseq
+	animseq\humans\class\light\pilot_light_conduit\conduit_gladcard_static_fingergun_light.rseq
+	animseq\humans\class\light\pilot_light_conduit\conduit_gladcard_static_flex_light.rseq
+	animseq\humans\class\light\pilot_light_conduit\conduit_gladcard_static_flower_light.rseq
+	animseq\humans\class\light\pilot_light_conduit\conduit_gladcard_static_fly_light.rseq
+]

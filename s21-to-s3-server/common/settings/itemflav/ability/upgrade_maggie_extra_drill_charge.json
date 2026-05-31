@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 809402096,
+	"settings": {
+		"assetName": "settings/itemflav/ability/upgrade_maggie_extra_drill_charge.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00809402096",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#UPGRADE_MAGGIE_TAC_TWO_DRILL_NAME",
+		"localizationKey_NAME_SHORT": "#UPGRADE_TYPE_TACTICAL",
+		"localizationKey_DESCRIPTION_LONG": "#UPGRADE_MAGGIE_TAC_TWO_DRILL_LONG_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#UPGRADE_MAGGIE_TAC_TWO_DRILL_SHORT_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/legend_upgrades/madmaggie_rowdycrowd_icon",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_TAC_UPGRADE_ONE",
+		"passiveWeaponMod": "upgrade_tac_one",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

@@ -1,0 +1,47 @@
+{
+	"layoutAsset": "settings_layout/settings_skinAlias_vfx_layout.rpak",
+	"settings": {
+		"assetName": "settings/itemflav/vfx_alias/octane_knife_rt01.rpak",
+		"devDescription": "",
+		"type": "",
+		"vfxaliasgroups": [
+				{
+					"name": "octane_knife_rt01",
+					"vfxAliases": [
+							{
+								"vfxAlias": "P_octane_knife_blur_geo_FP",
+								"vfxReal": "P_octane_knife_blur_geo_rt01_1p"
+							},
+							{
+								"vfxAlias": "P_octane_knife_needle_liquid",
+								"vfxReal": "P_octane_knife_needle_liquid_rt01_1p"
+							},
+							{
+								"vfxAlias": "P_octane_knife_swipe_geo_FP",
+								"vfxReal": "P_octane_knife_swipe_geo_rt01_1p"
+							},
+							{
+								"vfxAlias": "P_octane_knife_swipe_med_1p",
+								"vfxReal": "P_octane_knife_swipe_med_rt01_1p"
+							},
+							{
+								"vfxAlias": "P_octane_knife_swipe_thin_1p",
+								"vfxReal": "P_octane_knife_swipe_thin_rt01_1p"
+							},
+							{
+								"vfxAlias": "P_octane_knife_swipe_thin_down_1p",
+								"vfxReal": "P_octane_knife_swipe_thin_down_rt01_1p"
+							},
+							{
+								"vfxAlias": "P_octane_knife_blur_geo_ccw_FP",
+								"vfxReal": "P_octane_knife_blur_geo_ccw_rt01_1p"
+							},
+							{
+								"vfxAlias": "P_octane_knife_needle_liquid_trail_1p",
+								"vfxReal": "P_octane_knife_needle_liquid_trail_rt01_1p"
+							}
+						]
+				}
+			]
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/revenant/lgnd_v20_relic_rt02.rpak",
+		"roots": [
+				{
+					"asset": "mdl/humans/class/heavy/pilot_heavy_revenant_season5_treasure_hunt_01.rmdl",
+					"featureFlag": ""
+				},
+				{
+					"asset": "mdl/Weapons/arms/pov_pilot_heavy_revenant_relic.rmdl",
+					"featureFlag": ""
+				}
+			]
+	}
+}

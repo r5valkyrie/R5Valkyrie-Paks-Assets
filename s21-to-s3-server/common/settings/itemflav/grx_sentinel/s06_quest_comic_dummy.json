@@ -1,0 +1,27 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_grx_sentinel_layout.rpak",
+	"uniqueId": 2038998521,
+	"settings": {
+		"assetName": "settings/itemflav/grx_sentinel/s06_quest_comic_dummy.rpak",
+		"itemType": "grx_sentinel",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID02038998521",
+		"__featureFlag": "",
+		"devDescription": "Dummy rewards so that we can move the reward track forward.",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "sentinel_s06_quest",
+		"ownershipTarget": "",
+		"multipleOwnershipTargets": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

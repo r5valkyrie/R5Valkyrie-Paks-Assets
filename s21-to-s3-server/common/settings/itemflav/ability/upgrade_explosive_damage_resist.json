@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 1145501313,
+	"settings": {
+		"assetName": "settings/itemflav/ability/upgrade_explosive_damage_resist.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01145501313",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#UPGRADE_REDUCED_EXPLOSIVE_DAMAGE_NAME",
+		"localizationKey_NAME_SHORT": "#UPGRADE_TYPE_PASSIVE",
+		"localizationKey_DESCRIPTION_LONG": "#UPGRADE_REDUCED_EXPLOSIVE_DAMAGE_LONG_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#UPGRADE_REDUCED_EXPLOSIVE_DAMAGE_SHORT_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/legend_upgrades/common_wreckless_icon",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_EXPLOSIVE_DAMAGE_RESIST",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

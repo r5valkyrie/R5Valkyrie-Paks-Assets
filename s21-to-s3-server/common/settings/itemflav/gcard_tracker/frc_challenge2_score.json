@@ -1,0 +1,33 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_stat_tracker_layout.rpak",
+	"uniqueId": 1515831684,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_tracker/frc_challenge2_score.rpak",
+		"itemType": "gladiator_card_stat_tracker",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01515831684",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#gcard_tracker_frchallenge_2_NAME",
+		"localizationKey_NAME_SHORT": "#FRCHALLENGE_2_DAMAGE_DONE",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "COMMON",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "gcard_tracker_frc_challenge2_score",
+		"ownershipTarget": "",
+		"statRef": "stats.s12e04_challenge_2",
+		"valueNumberFormat": "INTEGER",
+		"valueSuffix": "",
+		"backgroundImage": "",
+		"multipleOwnershipTargets": [
+			],
+		"color0": "<0.550000,0.540000,0.540000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false
+	}
+}

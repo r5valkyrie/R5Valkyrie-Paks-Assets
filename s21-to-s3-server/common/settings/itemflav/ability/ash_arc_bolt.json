@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 1124858893,
+	"settings": {
+		"assetName": "settings/itemflav/ability/ash_arc_bolt.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01124858893",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#WPN_ARC_BOLT",
+		"localizationKey_NAME_SHORT": "#WPN_ARC_BOLT",
+		"localizationKey_DESCRIPTION_LONG": "#WPN_ARC_BOLT_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#WPN_ARC_BOLT_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/tactical_icons/tactical_ash",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "mp_weapon_arc_bolt",
+		"passiveScriptRef": "",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

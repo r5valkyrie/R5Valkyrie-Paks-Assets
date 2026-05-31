@@ -1,0 +1,31 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_skydive_emote_layout.rpak",
+	"uniqueId": 236510785,
+	"settings": {
+		"assetName": "settings/itemflav/skydive_emote/rampart/turretride.rpak",
+		"itemType": "skydive_emote",
+		"parentItemFlavor": "settings/itemflav/character/rampart.rpak",
+		"settingsAssetID": "SAID00236510785",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#EMOTE_015",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/battlepass/skydive_emote_turretride",
+		"tagIcon": "rui/events/s06e01/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "skydive_emote_rampart_turretride",
+		"ownershipTarget": "",
+		"animSequence": "animseq/humans/class/medium/pilot_medium_rampart/rampart_freefall_emote_turretride.rseq",
+		"video": "media/skydive_emotes/rampart_turretride",
+		"bcEvent": "bc_skydive",
+		"multipleOwnershipTargets": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false
+	}
+}

@@ -1,0 +1,54 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_badge_layout.rpak",
+	"uniqueId": 1121362491,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_badge/account/group_theatrics.rpak",
+		"itemType": "gladiator_card_badge",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01121362491",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#gcard_badge_group_theatrics_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "#gcard_badge_group_theatrics_DESCRIPTION_SHORT",
+		"quality": "RARE",
+		"icon": "rui/menu/buttons/gladiator_card_badges/undefined",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"grxMode": "NONE",
+		"grxRef": "",
+		"ownershipTarget": "",
+		"exclusiveFunc": "",
+		"unlockStatRef": "stats.placements_win_with_min_executions_per_person",
+		"dynamicTextStatRef": "",
+		"badgeCategory": "MENU_BADGE_ACCOUNT",
+		"multipleOwnershipTargets": [
+			],
+		"tiers": [
+				{
+					"imageAsset": "rui/gladiator_cards/badges/group_theatrics",
+					"ruiAsset": "ui/badge_long_shot.rpak",
+					"unlocksAt": 1.000000
+				},
+				{
+					"imageAsset": "rui/gladiator_cards/badges/group_theatrics_2",
+					"ruiAsset": "",
+					"unlocksAt": 2.000000
+				},
+				{
+					"imageAsset": "rui/gladiator_cards/badges/group_theatrics_3",
+					"ruiAsset": "",
+					"unlocksAt": 3.000000
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false,
+		"exclusive": false,
+		"shouldHideIfLocked": false,
+		"isCharacterBadge": false,
+		"hasOwnRui": false,
+		"isOversizedImage": false
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"extraDataSizeIndex": 1,
+	"subLayouts": [
+		"settings_layout/settings_itemtype_calevent_apex_cup_container_layout/statPoints.csv",
+		"settings_layout/settings_itemtype_calevent_apex_cup_container_layout/cups.csv"
+	]
+}

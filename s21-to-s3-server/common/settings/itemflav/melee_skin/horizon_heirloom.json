@@ -1,0 +1,51 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_melee_skin_layout.rpak",
+	"uniqueId": 1015480786,
+	"settings": {
+		"assetName": "settings/itemflav/melee_skin/horizon_heirloom.rpak",
+		"itemType": "melee_skin",
+		"parentItemFlavor": "settings/itemflav/loot/melee_weapon/horizon_heirloom.rpak",
+		"settingsAssetID": "SAID01015480786",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#MELEE_SKIN_HORIZON_HEIRLOOM_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "#MELEE_SKIN_HORIZON_HEIRLOOM_NAME",
+		"quality": "MYTHIC",
+		"icon": "rui/menu/buttons/battlepass/melee_skin_horizon",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "melee_skin_horizon_heirloom",
+		"ownershipTarget": "",
+		"worldModel": "mdl/Weapons/horizon_heirloom/w_horizon_heirloom.rmdl",
+		"viewModel": "mdl/Weapons/horizon_heirloom/ptpov_horizon_heirloom.rmdl",
+		"skinName": "heirloom",
+		"menuAnimSeq": "animseq/weapons/horizon_heirloom/ptpov_horizon_heirloom/menu.rseq",
+		"koSound": "",
+		"storeImage": "rui/menu/heirloom_crafting/heirloom_page_item_horizon",
+		"equipImage": "rui/menu/buttons/melee_skins/horizon_mace",
+		"multipleOwnershipTargets": [
+			],
+		"artifactConfigIndex": 0,
+		"camoIndex": 0,
+		"menuMdlRot": "<0.000000,0.000000,0.000000>",
+		"battlePassScale": 2.300000,
+		"lootCeremonyScale": 2.000000,
+		"itemInspectScale": 0.770000,
+		"itemInspectOffset": "<-7.000000,0.000000,0.000000>",
+		"skinAlias_vfxAliases": [
+			],
+		"skinAlias_sfxAliases": [
+			],
+		"skinAlias_bodyGroupAliases": [
+			],
+		"skinAlias_impactTableAliases": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isArtifactConfigPointer": false,
+		"shouldHideIfLocked": false
+	}
+}

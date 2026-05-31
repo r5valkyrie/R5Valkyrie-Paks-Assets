@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 1169609573,
+	"settings": {
+		"assetName": "settings/itemflav/ability/ash_tac_phase_breach.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01169609573",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#WPN_PHASE_BREACH",
+		"localizationKey_NAME_SHORT": "#WPN_PHASE_BREACH",
+		"localizationKey_DESCRIPTION_LONG": "#WPN_PHASE_BREACH_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#WPN_PHASE_BREACH_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/ultimate_icons/ultimate_ash",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "mp_weapon_phase_breach",
+		"passiveScriptRef": "",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

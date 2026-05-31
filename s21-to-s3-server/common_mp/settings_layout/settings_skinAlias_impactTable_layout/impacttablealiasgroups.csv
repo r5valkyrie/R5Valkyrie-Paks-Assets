@@ -1,0 +1,3 @@
+"fieldName","dataType","layoutIndex","helpText"
+"name","string","0","Name for this Impact Table alias group. Convenience only; not used while baking."
+"impactTableAliases","array_dynamic","0","Impact Table Aliases to remap via weapon skin"

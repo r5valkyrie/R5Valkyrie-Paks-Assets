@@ -1,0 +1,12 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_PlayFX_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/fx_fuse_oni_menu_ready_up_breath.rpak",
+		"devDescription": "",
+		"type": "PlayFX",
+		"particleSystemName": "P_fuse_op_lobby_breath",
+		"attachPoint": "HEADFOCUS",
+		"followAttach": true,
+		"playEndCap": false
+	}
+}

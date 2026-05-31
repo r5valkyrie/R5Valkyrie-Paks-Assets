@@ -1,0 +1,56 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_badge_layout.rpak",
+	"uniqueId": 641103558,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_badge/account/s21ce01_b5.rpak",
+		"itemType": "gladiator_card_badge",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00641103558",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#S21CE01_BADGE_5_NAME",
+		"localizationKey_NAME_SHORT": "#S21CE01_BADGE_5_NAME",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "#S21CE01_BADGE_5_DESC",
+		"quality": "EPIC",
+		"icon": "rui/gladiator_cards/badges/s21ce01_b5",
+		"tagIcon": "rui/events/s21ce01/item_source_icon",
+		"grxMode": "MULTIPLE_OWNERSHIP_TARGET",
+		"grxMode": "MULTIPLE_OWNERSHIP_TARGET",
+		"grxRef": "gcard_badge_account_s21ce01_b5",
+		"ownershipTarget": "",
+		"exclusiveFunc": "",
+		"unlockStatRef": "",
+		"dynamicTextStatRef": "",
+		"badgeCategory": "MENU_BADGE_EVENT",
+		"multipleOwnershipTargets": [
+				{
+					"multipleOwnershipTarget": "settings/itemflav/gcard_badge/account/s21ce01_b1.rpak"
+				},
+				{
+					"multipleOwnershipTarget": "settings/itemflav/gcard_badge/account/s21ce01_b2.rpak"
+				},
+				{
+					"multipleOwnershipTarget": "settings/itemflav/gcard_badge/account/s21ce01_b3.rpak"
+				},
+				{
+					"multipleOwnershipTarget": "settings/itemflav/gcard_badge/account/s21ce01_b4.rpak"
+				}
+			],
+		"tiers": [
+				{
+					"imageAsset": "rui/gladiator_cards/badges/s21ce01_b5",
+					"ruiAsset": "",
+					"unlocksAt": 1.000000
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false,
+		"exclusive": false,
+		"shouldHideIfLocked": true,
+		"isCharacterBadge": false,
+		"hasOwnRui": false,
+		"isOversizedImage": true
+	}
+}

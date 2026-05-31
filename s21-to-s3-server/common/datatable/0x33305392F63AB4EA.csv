@@ -1,0 +1,13 @@
+"index","action","modifierType","weight","nonBRWeight","specialModifier","statBehavior","statValidation","statParams","hideDebugInfo"
+0,"Kill","None",50,20,"kill_base","KillCountXP","1","XpWeight:1",false
+1,"Kill","Sliding",15,6.8,"kill_add","KillCountXP","1","AttackerIsSliding:true;XpWeight:1.5",false
+2,"Kill","Airborn",20,9,"kill_add","KillCountXP","1","AttackerInAir:true;XpWeight:2",false
+3,"Kill","Zipping",15,6.8,"kill_add","KillCountXP","1","AttackerInZipline:1;XpWeight:1.75",false
+4,"Kill","FullKill",20,9,"kill_add","KillCountXP","1","DamageContribution:0.8;ClearOnCompleteRecovery;XpWeight:2.25",false
+5,"Kill","Finisher",5,2.3,"kill_add","KillCountXP","1","LimitDamage:30;ClearOnCompleteRecovery;XpWeight:1.25",false
+6,"Kill","Multikill",20,9,"kill_add","KillCountXP","1","AttackerEvent:down|4;XpWeight:2.5",false
+7,"Kill","Clutch",20,9,"kill_add","KillCountXP","1","LastOneInTeam:true;XpWeight:3",false
+8,"Damage","None",0.15,0.05,"","RawDamage","","",true
+9,"Headshot","None",5,2,"","DamageStatistic","1","IsHeadshot:true",false
+10,"Held","None",1.5,0.5,"placement_held","WeaponHoldTimeStatistic","","",false
+"int","string","string","float","float","string","string","string","string","bool"

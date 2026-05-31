@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 1059980597,
+	"settings": {
+		"assetName": "settings/itemflav/ability/seer_pas_heartbeat_sensor.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01059980597",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#GEAR_HEARTBEAT_SENSOR",
+		"localizationKey_NAME_SHORT": "#GEAR_HEARTBEAT_SENSOR",
+		"localizationKey_DESCRIPTION_LONG": "#GEAR_HEARTBEAT_SENSOR_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#GEAR_HEARTBEAT_SENSOR_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/passive_icons/passive_seer",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_PARIAH",
+		"passiveWeaponMod": "pariah_ads_melee",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

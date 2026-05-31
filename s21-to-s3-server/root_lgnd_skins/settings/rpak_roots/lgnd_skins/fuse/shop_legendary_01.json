@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/fuse/shop_legendary_01.rpak",
+		"roots": [
+				{
+					"asset": "mdl/Humans/class/medium/fuse_v20_warlord_w.rmdl",
+					"featureFlag": ""
+				},
+				{
+					"asset": "mdl/weapons/arms/fuse_v20_warlord_v.rmdl",
+					"featureFlag": ""
+				}
+			]
+	}
+}

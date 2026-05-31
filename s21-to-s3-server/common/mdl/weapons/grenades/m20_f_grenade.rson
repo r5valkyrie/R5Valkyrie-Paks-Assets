@@ -1,0 +1,8 @@
+rigs:
+[
+]
+seqs:
+[
+	animseq\props\madmaggie_lobby_grenade\madmaggie_lobby_grenade\prop_madmaggie_lobby_grenade.rseq
+	animseq\weapons\grenades\ptpov_frag_grenade\m20_f_octane_execution_grenade.rseq
+]

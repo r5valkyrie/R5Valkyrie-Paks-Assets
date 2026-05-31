@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 65766134,
+	"settings": {
+		"assetName": "settings/itemflav/ability/horizon_black_hole_ult.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00065766134",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#WPN_BLACK_HOLE",
+		"localizationKey_NAME_SHORT": "#WPN_BLACK_HOLE_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "#WPN_BLACK_HOLE_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#WPN_BLACK_HOLE_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/ultimate_icons/ultimate_nova_black_hole",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "mp_ability_horizon_black_hole",
+		"passiveScriptRef": "",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

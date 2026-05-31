@@ -1,0 +1,452 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_calevent_milestone_layout.rpak",
+	"uniqueId": 1822616132,
+	"settings": {
+		"assetName": "settings/itemflav/calevent/s21me01/milestone.rpak",
+		"itemType": "calevent_milestone",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01822616132",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#S21ME01_TITLE_LONG",
+		"localizationKey_NAME_SHORT": "#S21ME01_TITLE_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"revealUnixTime": "",
+		"hideUnixTime": "",
+		"defaultStartTime": "2024-05-07 10:00:00 -07:00",
+		"defaultFinishTime": "2024-05-28 10:00:00 -07:00",
+		"eventIcon": "",
+		"milestoneEventDescription": "#MILESTONE_DESCRIPTION_S21ME01",
+		"milestoneEventDescriptionRestricted": "#MILESTONE_DESCRIPTION_S21ME01_RESTRICTED",
+		"milestoneEventKeyArt": "rui/events/s21me01/milestone_keyart",
+		"mainPackFlav": "settings/itemflav/pack/cosmetic_event_s21me01.rpak",
+		"guaranteedPackFlav": "settings/itemflav/pack/cosmetic_event_s21me01_l.rpak",
+		"mainPackShortPluralName": "#S21ME01_PACKS_SHORT_PLURAL",
+		"mainPackImage": "rui/events/s21me01/event_pack_icon",
+		"chaseItemButtonImage": "rui/events/s21me01/chase_item_image",
+		"chaseItemUnlockDesc": "#S21ME01_CHASE_ITEM_UNLOCK_DESC",
+		"chaseItemUnlockDescRestrict": "#S21ME01_CHASE_ITEM_UNLOCK_DESC_RESTRICTED",
+		"frontGRXOfferLocation": "s21me01_front",
+		"restrictedGRXOfferLocation": "s21me01_front_restrict",
+		"storeEventSectionMainImage": "rui/menu/store/grid_item_art/store_grid_image_s21me01",
+		"storeEventSectionMainText": "#S21ME01_STORE_EVENT_SECTION_MAIN",
+		"storeEventSectionSubText": "#S21ME01_STORE_EVENT_SECTION_SUB",
+		"eventMilestonePackRatesHeader": "#MILESTONE_BUNDLE_LIMITED_ITEMS_LABEL",
+		"milestonePackOriginalPrice": "#MILESTONE_BUNDLE_EVENT_SINGLE_PRIMARY_ORIGIONAL_1",
+		"milestonePackCraftingPrice": "",
+		"milestoneGuaranteedPackText": "",
+		"packInfoModalHeaderText": "#MILESTONE_BUNDLE_ABOUT_TITLE_S21ME01",
+		"packInfoDetailsText1": "#S21ME01_MILESTONE_BUNDLE_ITEM_DETAILS_1",
+		"packInfoDetailsText2": "#S21ME01_MILESTONE_BUNDLE_ITEM_DETAILS_2",
+		"packInfoDetailsText3": "#S21ME01_MILESTONE_BUNDLE_ITEM_DETAILS_3",
+		"packInfoDetailsText4": "#S21ME01_MILESTONE_BUNDLE_ITEM_DETAILS_4",
+		"eventItemRatesHeader": "#MILESTONE_EVENT_RATES_S21ME01_PACK_1_ITEM",
+		"eventItemRatesLine1": "",
+		"eventItemRatesLine2": "#MILESTONE_EVENT_RATES_S21ME01_PACK_1_ITEM_RATES_2",
+		"eventItemRatesLine3": "#MILESTONE_EVENT_RATES_S21ME01_PACK_1_ITEM_RATES_3",
+		"standardItemRatesHeader": "#MILESTONE_EVENT_RATES_S21ME01_PACK_2_ITEM",
+		"standardItemRatesLine1": "#MILESTONE_EVENT_RATES_S21ME01_PACK_2_ITEM_RATES",
+		"milestoneCollectionBoxBgImage": "rui/events/s21me01/collection_grid_bg",
+		"milestoneCollectionBoxBlurImage": "rui/events/s21me01/collection_grid_blur",
+		"milestoneTrackerBoxBgImage": "rui/events/s21me01/milestone_tracking_panel_bg",
+		"milestoneTrackerBlurImage": "rui/events/s21me01/milestone_tracking_panel_blur",
+		"milestoneInfoBoxBgImage": "rui/events/s21me01/milestone_info_panel_bg",
+		"milestoneInfoBoxBlurImage": "rui/events/s21me01/milestone_info_panel_blur",
+		"titleHeaderText": "#S21ME01_TITLE_LONG",
+		"titleSubheaderText": "#MILESTONE_TITLE_SUBHEADER",
+		"titleMainIcon": "rui/events/s21me01/event_main_icon",
+		"titleBlurImage": "rui/events/s21me01/milestone_header_blur",
+		"titleBgImage": "rui/events/s21me01/milestone_header_bg",
+		"featuredItems": [
+				{
+					"featuredItem": "settings/itemflav/character_skin/vantage/lgnd_v23_voidescape.rpak"
+				},
+				{
+					"featuredItem": "settings/itemflav/character_skin/caustic/lgnd_v23_opbundle.rpak"
+				},
+				{
+					"featuredItem": "settings/itemflav/weapon_skin/car/lgnd_v23_opbundle.rpak"
+				},
+				{
+					"featuredItem": "settings/itemflav/character_skin/loba/lgnd_v23_voidescape.rpak"
+				}
+			],
+		"milestoneGroups": [
+				{
+					"reward": "settings/itemflav/emote_icon/voidescape/epic_v23_voidescape_01.rpak",
+					"milestoneRewardCustomImage": "",
+					"milestoneRewardCustomName": "",
+					"milestoneLevel": 5
+				},
+				{
+					"reward": "settings/itemflav/character_emote/caustic/epic_v23_smokebomb.rpak",
+					"milestoneRewardCustomImage": "",
+					"milestoneRewardCustomName": "",
+					"milestoneLevel": 10
+				}
+			],
+		"restrictedMilestoneGroups": [
+				{
+					"reward": "settings/itemflav/emote_icon/voidescape/epic_v23_voidescape_01.rpak",
+					"milestoneRewardCustomImage": "",
+					"milestoneRewardCustomName": "",
+					"milestoneLevel": 5
+				},
+				{
+					"reward": "settings/itemflav/character_skin/caustic/lgnd_v23_opbundle.rpak",
+					"milestoneRewardCustomImage": "",
+					"milestoneRewardCustomName": "",
+					"milestoneLevel": 10
+				},
+				{
+					"reward": "settings/itemflav/character_emote/caustic/epic_v23_smokebomb.rpak",
+					"milestoneRewardCustomImage": "",
+					"milestoneRewardCustomName": "",
+					"milestoneLevel": 10
+				}
+			],
+		"rewardGroups": [
+				{
+					"ref": "epic",
+					"quality": "EPIC",
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/skydive_emote/caustic/deathbox_ride.rpak",
+								"milestoneItemCustomImage": "rui/events/s21me01/skydive_emote_caustic_deathbox_ride",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/gcard_frame/loba/epic_v23_voidescape01.rpak",
+								"milestoneItemCustomImage": "rui/events/s21me01/frame_loba_voidescape_01",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/gcard_frame/caustic/epic_v23_voidescape01.rpak",
+								"milestoneItemCustomImage": "rui/events/s21me01/frame_caustic_voidescape_01",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/gcard_frame/vantage/epic_v23_voidescape01.rpak",
+								"milestoneItemCustomImage": "rui/events/s21me01/frame_vantage_voidescape_01",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/emote_icon/caustic_voidescape/epic_v23_caustic_voidescape_01.rpak",
+								"milestoneItemCustomImage": "rui/events/s21me01/holospray_caustic_voidescape_01",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/reward_set_tracker/s21me01_epic_sticker_1.rpak",
+								"milestoneItemCustomImage": "rui/events/s21me01/s21me01_epic_sticker_1",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							}
+						]
+				},
+				{
+					"ref": "legendary",
+					"quality": "LEGENDARY",
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/character_skin/caustic/lgnd_v23_opbundle.rpak",
+								"milestoneItemCustomImage": "rui/events/s21me01/caustic_lgnd_v23_opbundle",
+								"milestoneItemGridSizeOverrideRows": 2,
+								"milestoneItemGridSizeOverrideCols": 2,
+								"milestoneItemIsChaseItem": true,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/character_skin/loba/lgnd_v23_voidescape.rpak",
+								"milestoneItemCustomImage": "rui/events/s21me01/loba_lgnd_v23_voidescape",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/weapon_skin/car/lgnd_v23_opbundle.rpak",
+								"milestoneItemCustomImage": "rui/events/s21me01/car_lgnd_v23_opbundle",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/character_skin/vantage/lgnd_v23_voidescape.rpak",
+								"milestoneItemCustomImage": "rui/events/s21me01/vantage_lgnd_v23_voidescape",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							}
+						]
+				}
+			],
+		"restrictedRewardGroups": [
+				{
+					"ref": "epic",
+					"quality": "EPIC",
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/skydive_emote/caustic/deathbox_ride.rpak",
+								"milestoneItemCustomImage": "rui/events/s21me01/skydive_emote_caustic_deathbox_ride",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/gcard_frame/caustic/epic_v23_voidescape01.rpak",
+								"milestoneItemCustomImage": "rui/events/s21me01/frame_caustic_voidescape_01",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/gcard_frame/loba/epic_v23_voidescape01.rpak",
+								"milestoneItemCustomImage": "rui/events/s21me01/frame_loba_voidescape_01",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/gcard_frame/vantage/epic_v23_voidescape01.rpak",
+								"milestoneItemCustomImage": "rui/events/s21me01/frame_vantage_voidescape_01",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/emote_icon/caustic_voidescape/epic_v23_caustic_voidescape_01.rpak",
+								"milestoneItemCustomImage": "rui/events/s21me01/holospray_caustic_voidescape_01",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/reward_set_tracker/s21me01_epic_sticker_1.rpak",
+								"milestoneItemCustomImage": "rui/events/s21me01/s21me01_epic_sticker_1",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							}
+						]
+				},
+				{
+					"ref": "legendary",
+					"quality": "LEGENDARY",
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/character_skin/loba/lgnd_v23_voidescape.rpak",
+								"milestoneItemCustomImage": "rui/events/s21me01/loba_lgnd_v23_voidescape",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/character_skin/vantage/lgnd_v23_voidescape.rpak",
+								"milestoneItemCustomImage": "rui/events/s21me01/vantage_lgnd_v23_voidescape",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/weapon_skin/car/lgnd_v23_opbundle.rpak",
+								"milestoneItemCustomImage": "rui/events/s21me01/car_lgnd_v23_opbundle",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/reward_set_tracker/s21me01_lgnd_bpstars.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/menu_s19me01_lgnd_bpstars",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/character_skin/caustic/lgnd_v23_opbundle.rpak",
+								"milestoneItemCustomImage": "rui/events/s21me01/caustic_lgnd_v23_opbundle",
+								"milestoneItemGridSizeOverrideRows": 2,
+								"milestoneItemGridSizeOverrideCols": 2,
+								"milestoneItemIsChaseItem": true,
+								"milestoneItemIsInItemPool": false
+							}
+						]
+				}
+			],
+		"eventMilestonePackRatesRows": [
+				{
+					"eventMilestoneQualityRates": [
+							{
+								"quality": "EPIC",
+								"eventMilestoneItemRate": "#MILESTONE_EVENT_RATES_S21ME01_PACK_1",
+								"titleOverride": ""
+							},
+							{
+								"quality": "LEGENDARY",
+								"eventMilestoneItemRate": "#MILESTONE_EVENT_RATES_S21ME01_PACK_2",
+								"titleOverride": "#MILESTONE_EVENT_RATES_S21ME01_TITLE_2_OVERRIDE"
+							},
+							{
+								"quality": "LEGENDARY",
+								"eventMilestoneItemRate": "#MILESTONE_EVENT_RATES_S21ME01_PACK_3",
+								"titleOverride": "#MILESTONE_EVENT_RATES_S21ME01_TITLE_3_OVERRIDE"
+							}
+						]
+				}
+			],
+		"standardMilestonePackRatesRows": [
+				{
+					"standardMilestoneQualityRates": [
+							{
+								"quality": "RARE",
+								"standardMilestoneItemRate": "#MILESTONE_BUNDLE_EVENT_STANDARD_PERCENT_1"
+							},
+							{
+								"quality": "EPIC",
+								"standardMilestoneItemRate": "#MILESTONE_BUNDLE_EVENT_STANDARD_PERCENT_2"
+							},
+							{
+								"quality": "LEGENDARY",
+								"standardMilestoneItemRate": "#MILESTONE_BUNDLE_EVENT_STANDARD_PERCENT_3"
+							}
+						]
+				}
+			],
+		"multiMilestonePackRatesRows": [
+				{
+					"multiMilestoneQualityRates": [
+							{
+								"multiMilestoneItemInfo": "#MILESTONE_BUNDLE_EVENT_MULTIDRAW_PERCENT_1",
+								"quality": "NONE",
+								"multiMilestoneItemRate": ""
+							}
+						]
+				},
+				{
+					"multiMilestoneQualityRates": [
+							{
+								"multiMilestoneItemInfo": "",
+								"quality": "LEGENDARY",
+								"multiMilestoneItemRate": "#MILESTONE_BUNDLE_EVENT_MULTIDRAW_PERCENT_2"
+							}
+						]
+				}
+			],
+		"milestonePackPrices": [
+				{
+					"milestonePackTitleRange": "#MILESTONE_BUNDLE_S21ME01_EVENT_SINGLE_TOP_1",
+					"milestonePackPrice": "#MILESTONE_BUNDLE_EVENT_SINGLE_PRIMARY_1",
+					"milestonePackDiscount": "#MILESTONE_BUNDLE_EVENT_SINGLE_DISCOUNT_1"
+				},
+				{
+					"milestonePackTitleRange": "#MILESTONE_BUNDLE_S21ME01_EVENT_SINGLE_TOP_2",
+					"milestonePackPrice": "#MILESTONE_BUNDLE_EVENT_SINGLE_PRIMARY_2",
+					"milestonePackDiscount": "#MILESTONE_BUNDLE_EVENT_SINGLE_DISCOUNT_2"
+				},
+				{
+					"milestonePackTitleRange": "#MILESTONE_BUNDLE_S21ME01_EVENT_SINGLE_TOP_3",
+					"milestonePackPrice": "#MILESTONE_BUNDLE_EVENT_SINGLE_PRIMARY_3",
+					"milestonePackDiscount": "#MILESTONE_BUNDLE_EVENT_SINGLE_DISCOUNT_3"
+				},
+				{
+					"milestonePackTitleRange": "#MILESTONE_BUNDLE_S21ME01_EVENT_SINGLE_TOP_4",
+					"milestonePackPrice": "#MILESTONE_BUNDLE_EVENT_SINGLE_PRIMARY_4",
+					"milestonePackDiscount": ""
+				}
+			],
+		"milestonePackLeftInfoText": [
+				{
+					"milestonePackLegalText": "#S21ME01_MILESTONE_BUNDLE_ITEM_DETAILS_1"
+				},
+				{
+					"milestonePackLegalText": "#S21ME01_MILESTONE_BUNDLE_ITEM_DETAILS_2"
+				}
+			],
+		"milestonePackRightInfoText": [
+				{
+					"milestonePackLegalText": "#S21ME01_MILESTONE_BUNDLE_ITEM_DETAILS_3"
+				},
+				{
+					"milestonePackLegalText": "#S21ME01_MILESTONE_BUNDLE_ITEM_DETAILS_4"
+				}
+			],
+		"titleCol": "<1.000000,1.000000,1.000000>",
+		"titleBackCol": "<0.259000,0.012000,0.216000>",
+		"fullscreenBgDarkeningOpacity": 0.000000,
+		"titleMilestoneCol": "<0.737000,0.737000,0.737000>",
+		"milestoneDisclaimerBoxCol": "<0.267000,0.082000,0.608000>",
+		"milestoneTrackerProgressBarCol": "<0.827000,0.478000,0.122000>",
+		"milestoneTrackerProgressBarBGCol": "<0.106000,0.106000,0.106000>",
+		"aboutTextStandard": [
+				{
+					"text": "#S21ME01_ABOUT_LINE_1"
+				},
+				{
+					"text": "#S21ME01_ABOUT_LINE_2"
+				},
+				{
+					"text": "#S21ME01_ABOUT_LINE_3"
+				},
+				{
+					"text": "#S21ME01_ABOUT_LINE_4"
+				}
+			],
+		"aboutTextRestricted": [
+				{
+					"text": "#S21ME01_ABOUT_RESTRICT_LINE_1"
+				},
+				{
+					"text": "#S21ME01_ABOUT_RESTRICT_LINE_2"
+				},
+				{
+					"text": "#S21ME01_ABOUT_RESTRICT_LINE_3"
+				},
+				{
+					"text": "#S21ME01_ABOUT_RESTRICT_LINE_4"
+				}
+			],
+		"titleBgDarkening": 0.000000,
+		"titleHeaderColor": "<0.902000,0.059000,0.310000>",
+		"titleSubheaderColor": "<1.000000,1.000000,1.000000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isStoreOnlyMilestoneEvent": true,
+		"milestoneCollectionBoxUseBgBlur": true,
+		"milestoneTrackerUseBgBlur": true,
+		"milestoneInfoBoxUseBgBlur": true,
+		"titleUseBgBlur": false
+	}
+}

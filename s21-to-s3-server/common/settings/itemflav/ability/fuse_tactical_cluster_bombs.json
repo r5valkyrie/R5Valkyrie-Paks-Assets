@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 1346659682,
+	"settings": {
+		"assetName": "settings/itemflav/ability/fuse_tactical_cluster_bombs.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01346659682",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#WPN_CLUSTER_BOMB",
+		"localizationKey_NAME_SHORT": "#WPN_CLUSTER_BOMB_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "#WPN_CLUSTER_BOMB_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#WPN_CLUSTER_BOMB_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/tactical_icons/tactical_fuse",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "mp_weapon_cluster_bomb_launcher",
+		"passiveScriptRef": "",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

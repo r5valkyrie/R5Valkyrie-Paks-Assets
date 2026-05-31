@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 762593780,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/newcastle/legendary_smash.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/newcastle.rpak",
+		"settingsAssetID": "SAID00762593780",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#ground_emote_newcastle_smash",
+		"localizationKey_NAME_SHORT": "#ground_emote_newcastle_smash",
+		"localizationKey_DESCRIPTION_LONG": "#ground_emote_newcastle_smash",
+		"localizationKey_DESCRIPTION_SHORT": "#ground_emote_newcastle_smash",
+		"quality": "LEGENDARY",
+		"icon": "rui/menu/buttons/character_emotes/newcastle/smash",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_newcastle_legendary_smash",
+		"ownershipTarget": "",
+		"anim3p": "newcastle_ground_emote_smash",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

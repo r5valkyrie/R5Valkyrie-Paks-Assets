@@ -1,0 +1,171 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_account_pack_layout.rpak",
+	"uniqueId": 316401595,
+	"settings": {
+		"assetName": "settings/itemflav/pack/cosmetic_event_s12e02.rpak",
+		"itemType": "account_pack",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00316401595",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#S12E02_PACK_NAME_LONG",
+		"localizationKey_NAME_SHORT": "#S12E02_PACK_NAME_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "RARE",
+		"icon": "rui/events/s12e02/event_pack_icon",
+		"tagIcon": "rui/events/s12e02/item_source_icon",
+		"grxMode": "PACK",
+		"grxMode": "PACK",
+		"grxRef": "pack_cosmetic_event_s12e02",
+		"ownershipTarget": "",
+		"packType": "EVENT_THEMATIC_PACK",
+		"themeFlavor": "",
+		"stickerRewardPack": "",
+		"stickerRewardSequence": "",
+		"tickMdl": "mdl/robots/drone_frag/drone_frag_loot.rmdl",
+		"tickMdlSkin": "rare_rebelfreed",
+		"openButtonIcon": "rui/events/s12e02/open_pack_btn_icon",
+		"triadBounceSound": "LootCeremony_Triad_Bounce",
+		"puckLandSound": "LootCeremony_IronCrown_Tick_PuckLand",
+		"unpackSound": "LootCeremony_IronCrown_Tick_Unpack",
+		"deployTriadExplo1Sound": "LootCeremony_IronCrown_Tick_Deploy_TriadExplo1",
+		"deployTriadExplo2Sound": "LootCeremony_IronCrown_Tick_Deploy_TriadExplo2",
+		"deployTriadExplo3Sound": "LootCeremony_IronCrown_Tick_Deploy_TriadExplo3",
+		"multipleOwnershipTargets": [
+			],
+		"packContents": [
+				{
+					"flavor": "settings/itemflav/character_skin/wraith/lgnd_v21_rebelfreed.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/character_skin/crypto/lgnd_v21_rebelfreed.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/character_skin/pathfinder/lgnd_v21_rebelfreed.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/character_skin/valkyrie/lgnd_v21_rebelfreed.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/peacekeeper/lgnd_v21_rebelfreed.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/car/lgnd_v21_rebelfreed.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/hemlok/lgnd_v21_rebelfreed.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/dragon/lgnd_v21_rebelfreed.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_frame/wraith/epic_v21_rebelfreed01.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_frame/crypto/epic_v21_rebelfreed01.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_frame/pathfinder/epic_v21_rebelfreed01.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_frame/valkyrie/epic_v21_rebelfreed01.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_stance/wraith/s12e01_epic_01.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_stance/crypto/s12e01_epic_01.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_stance/pathfinder/s12e01_epic_01.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_stance/valkyrie/s12e01_epic_01.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_tracker/wraith/v21_rebelfreed_damage_done.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_tracker/wraith/v21_rebelfreed_kills.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_tracker/wraith/v21_rebelfreed_tactical_time_in_phase.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_tracker/crypto/v21_rebelfreed_damage_done.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_tracker/crypto/v21_rebelfreed_kills.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_tracker/crypto/v21_rebelfreed_ultimate_shield_damage.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_tracker/pathfinder/v21_rebelfreed_damage_done.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_tracker/pathfinder/v21_rebelfreed_kills.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_tracker/pathfinder/v21_rebelfreed_tactical_meters_moved_by_grapple.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_tracker/valkyrie/v21_rebelfreed_damage_done.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_tracker/valkyrie/v21_rebelfreed_kills.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_tracker/valkyrie/v21_rebelfreed_tactical_cluster_missile_hits.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/character_skin/revenant/epicp_v21_rebelfreed.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/character_skin/lifeline/epicp_v21_rebelfreed.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/character_skin/wattson/epicp_v21_rebelfreed.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/character_skin/fuse/epicp_v21_rebelfreed.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/emote_icon/revenant/epic_v21_revenant_05.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/emote_icon/lifeline/epic_v21_lifeline_05.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/emote_icon/wattson/epic_v21_wattson_04.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/emote_icon/fuse/epic_v21_fuse_12.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_frame/revenant/rare_v21_rebelfreed01.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_frame/lifeline/rare_v21_rebelfreed01.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_frame/wattson/rare_v21_rebelfreed01.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_frame/fuse/rare_v21_rebelfreed01.rpak"
+				}
+			],
+		"customCol0": "<2.000000,2.000000,2.000000>",
+		"countTextCol": "<1.000000,1.000000,1.000000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"hasStickers": false,
+		"hasSkydives": false,
+		"hasHolosprays": false,
+		"usesMOTDButtonForCount": false,
+		"isEphemeral": false,
+		"isExpectedToContainSingleItemWithCurrency": false,
+		"useCustomColors": true
+	}
+}

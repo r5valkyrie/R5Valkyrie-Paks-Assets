@@ -1,0 +1,12 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_PlayFX_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/fx_nova_lobby_newt_eye_glow.rpak",
+		"devDescription": "",
+		"type": "PlayFX",
+		"particleSystemName": "P_newt_eye_glow_lobby",
+		"attachPoint": "EYE_FX",
+		"followAttach": true,
+		"playEndCap": false
+	}
+}

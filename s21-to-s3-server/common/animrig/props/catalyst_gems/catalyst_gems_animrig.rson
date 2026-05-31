@@ -1,0 +1,6 @@
+seqs:
+[
+	animseq\props\catalyst_gems\catalyst_gems_animrig\gems_catalyst_gladcard_static_armstretch.rseq
+	animseq\props\catalyst_gems\catalyst_gems_animrig\gems_catalyst_gladcard_static_device.rseq
+	animseq\props\catalyst_gems\catalyst_gems_animrig\gems_catalyst_gladcard_static_tarotplaying.rseq
+]

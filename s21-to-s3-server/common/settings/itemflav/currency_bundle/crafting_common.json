@@ -1,0 +1,28 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_account_currency_bundle_layout.rpak",
+	"uniqueId": 579925232,
+	"settings": {
+		"assetName": "settings/itemflav/currency_bundle/crafting_common.rpak",
+		"itemType": "account_currency_bundle",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00579925232",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "COMMON",
+		"icon": "rui/menu/common/currency_crafting",
+		"tagIcon": "",
+		"grxMode": "PACK",
+		"grxMode": "PACK",
+		"grxRef": "currency_bundle_crafting_common",
+		"ownershipTarget": "",
+		"currencyFlav": "settings/itemflav/grx_currency/crafting.rpak",
+		"multipleOwnershipTargets": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

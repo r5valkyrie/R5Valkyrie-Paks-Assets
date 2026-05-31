@@ -1,0 +1,12 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_PlayFX_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/fx_drone_holospray_exhaust_02.rpak",
+		"devDescription": "",
+		"type": "PlayFX",
+		"particleSystemName": "P_drone_holospray_exhaust_01",
+		"attachPoint": "EXHAUST_02",
+		"followAttach": true,
+		"playEndCap": false
+	}
+}

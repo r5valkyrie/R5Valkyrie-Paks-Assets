@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/horizon/s10bp_lgnd_v21_mutate.rpak",
+		"roots": [
+				{
+					"asset": "mdl/content/r2/models/Humans/class/medium/nova/dmx/horizon_lgnd_v21_mutate_w.rmdl",
+					"featureFlag": ""
+				},
+				{
+					"asset": "mdl/content/r2/models/Humans/class/medium/nova/dmx/horizon_lgnd_v21_mutate_v.rmdl",
+					"featureFlag": ""
+				}
+			]
+	}
+}

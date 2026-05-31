@@ -1,0 +1,7 @@
+seqs:
+[
+	animseq\props\newcastle_tactical_prop\newcastle_tactical_v21\newcastle_drone_deploy.rseq
+	animseq\props\newcastle_tactical_prop\newcastle_tactical_v21\newcastle_drone_end.rseq
+	animseq\props\newcastle_tactical_prop\newcastle_tactical_v21\newcastle_drone_idle.rseq
+	animseq\props\newcastle_tactical_prop\newcastle_tactical_v21\newcastle_drone_toss.rseq
+]

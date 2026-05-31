@@ -1,0 +1,12 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_PlayFX_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/fx_catalyst_epic_skydive_moon_prop.rpak",
+		"devDescription": "catalyst_moon_prop",
+		"type": "PlayFX",
+		"particleSystemName": "P_ferro_prop_moon_skydive",
+		"attachPoint": "PROPGUN",
+		"followAttach": true,
+		"playEndCap": false
+	}
+}

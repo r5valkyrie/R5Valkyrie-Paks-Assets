@@ -1,0 +1,64 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_entitlement_layout.rpak",
+	"uniqueId": 1958313381,
+	"settings": {
+		"assetName": "settings/itemflav/entitlement/XBOX_GOLD_PACK_02.rpak",
+		"itemType": "entitlement",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01958313381",
+		"__featureFlag": "",
+		"devDescription": "Xbox Gold Pack 2",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"entitlementType": "firstparty",
+		"twitchRef": "",
+		"twitchRef": "",
+		"enum": "XBOX_GOLD_PACK_02",
+		"pc": "XBOX_GOLD_PACK_02",
+		"ps4": "XBG2",
+		"xb1": "XBOX_GOLD_PACK_02",
+		"switch": "XBOX_GOLD_PACK_02",
+		"pc_offer": "",
+		"steam_offer": "",
+		"xb1_offer": "5a584e39-344a-3054-c04a-39304c434d00",
+		"menuTitleText": "#PROMO_REWARDS_UNLOCKED",
+		"menuDescText": "#PROMO_XBOX_GOLD02_OWNED",
+		"menuImageName": "xbox_gold_pack02",
+		"menuPersistenceVarName": "",
+		"list": [
+				{
+					"flavor": "settings/itemflav/character_skin/bangalore/psplus12_rare_v21_psplus.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/character_skin/octane/psplus12_rare_v21_psplus.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/gcard_frame/bangalore/psplus12_rare_01.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/gcard_frame/octane/psplus12_rare_01.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/eva/psplus12_rare_v21_psplus.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/sentinel/psplus12_rare_v21_psplus.rpak",
+					"quantity": 1
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isMenuEnabled": false
+	}
+}

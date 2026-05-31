@@ -1,0 +1,135 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_artifact_component_power_source_layout.rpak",
+	"uniqueId": 1083495238,
+	"settings": {
+		"assetName": "settings/itemflav/artifact_components/space_tech/stech_power_source.rpak",
+		"itemType": "artifact_component_power_source",
+		"parentItemFlavor": "settings/itemflav/loot/melee_weapon/artifact_dagger.rpak",
+		"settingsAssetID": "SAID01083495238",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#spacetech_powersource_NAME",
+		"localizationKey_NAME_SHORT": "#spacetech_powersource_NAME",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "MYTHIC",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "artifact_dagger_spacetech_powersource",
+		"ownershipTarget": "",
+		"artifactComponentType": "POWER_SOURCE",
+		"themeName": "STECH",
+		"componentIcon": "rui/menu/melee_customization/power_sources/power_source_space",
+		"multipleOwnershipTargets": [
+			],
+		"artifactMainColor": "<0.965000,0.984000,0.008000>",
+		"artifactSecondaryColor": "<0.090000,0.639000,0.000000>",
+		"smearColor": "<0.250000,0.920000,0.720000>",
+		"skinIdx": 0,
+		"attackFX": [
+				{
+					"fxAsset": "P_art_stech_blade_attack_FP",
+					"attachName": "Fx_base",
+					"perspective": "1P"
+				},
+				{
+					"fxAsset": "P_art_stech_power_attack_FP",
+					"attachName": "Fx_power_source",
+					"perspective": "1P"
+				},
+				{
+					"fxAsset": "P_art_stech_blade_attack_3P",
+					"attachName": "Fx_base",
+					"perspective": "3P"
+				},
+				{
+					"fxAsset": "P_art_stech_power_idle_3P",
+					"attachName": "Fx_power_source",
+					"perspective": "3P"
+				}
+			],
+		"idleFX": [
+				{
+					"fxAsset": "P_art_stech_power_idle_FP",
+					"attachName": "Fx_power_source",
+					"perspective": "1P"
+				},
+				{
+					"fxAsset": "P_art_stech_blade_idle_FP",
+					"attachName": "Fx_base",
+					"perspective": "1P"
+				},
+				{
+					"fxAsset": "P_art_stech_power_idle_3P",
+					"attachName": "Fx_power_source",
+					"perspective": "3P"
+				},
+				{
+					"fxAsset": "P_art_stech_blade_idle_3P",
+					"attachName": "Fx_base",
+					"perspective": "3P"
+				}
+			],
+		"startupFX": [
+				{
+					"fxAsset": "P_art_stech_power_start_FP",
+					"attachName": "Fx_power_source",
+					"perspective": "1P"
+				},
+				{
+					"fxAsset": "P_art_stech_power_start_3P",
+					"attachName": "Fx_power_source",
+					"perspective": "3P"
+				}
+			],
+		"flourishFX": [
+				{
+					"fxAsset": "P_art_stech_blade_flourish_FP",
+					"attachName": "Fx_base",
+					"perspective": "1P"
+				},
+				{
+					"fxAsset": "P_art_stech_blade_flourish_3P",
+					"attachName": "Fx_base",
+					"perspective": "3P"
+				}
+			],
+		"inspectFX": [
+				{
+					"fxAsset": "P_art_stech_power_inspect_FP",
+					"attachName": "Fx_power_source",
+					"perspective": "1P"
+				}
+			],
+		"lobbyFX": [
+				{
+					"fxAsset": "P_art_stech_power_idle_MENU",
+					"attachName": "Fx_power_source",
+					"perspective": "1P"
+				},
+				{
+					"fxAsset": "P_art_stech_blade_idle_MENU",
+					"attachName": "Fx_base",
+					"perspective": "1P"
+				}
+			],
+		"skinAlias_sfxAliases": [
+				{
+					"flavor": "settings/itemflav/sfx_alias/powersource_stech_sfx.rpak",
+					"featureFlag": ""
+				}
+			],
+		"skinAlias_impactTableAliases": [
+				{
+					"flavor": "settings/itemflav/vfx_alias/artifacts/powersource_stech_impact.rpak",
+					"featureFlag": ""
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isEmpty": false,
+		"shouldHideIfLocked": false
+	}
+}

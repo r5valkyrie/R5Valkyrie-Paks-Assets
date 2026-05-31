@@ -1,0 +1,33 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_stat_tracker_layout.rpak",
+	"uniqueId": 2086249686,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_tracker/madmaggie/s19bp_raga_kills.rpak",
+		"itemType": "gladiator_card_stat_tracker",
+		"parentItemFlavor": "settings/itemflav/character/madmaggie.rpak",
+		"settingsAssetID": "SAID02086249686",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#gcard_tracker_madmaggie_s19bp_raga_kills_NAME",
+		"localizationKey_NAME_SHORT": "#TRACKER_S19BP_RAGA_KILLS",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "RARE",
+		"icon": "",
+		"tagIcon": "rui/events/s19bp/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "gcard_tracker_madmaggie_s19bp_raga_kills",
+		"ownershipTarget": "",
+		"statRef": "stats.seasons[SAID01615095880].characters[%char%].kills",
+		"valueNumberFormat": "INTEGER",
+		"valueSuffix": "",
+		"backgroundImage": "rui/gladiator_cards/trackers/event/s19bp/s19bp_raga_madmaggie",
+		"multipleOwnershipTargets": [
+			],
+		"color0": "<0.702000,0.180000,0.635000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false
+	}
+}

@@ -1,0 +1,8 @@
+rigs:
+[
+]
+seqs:
+[
+	animseq\weapons\rampart_heirloom\ptpov_wrench_rampart\Rampartwrench_gladcard_animated_heirloom.rseq
+	animseq\weapons\rampart_heirloom\ptpov_wrench_rampart\Rampartwrench_gladcard_animated_heirloom_idle.rseq
+]

@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 170440911,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/crypto/legendary_kpop.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/crypto.rpak",
+		"settingsAssetID": "SAID00170440911",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#character_emote_crypto_legendary_kpop_NAME",
+		"localizationKey_NAME_SHORT": "#character_emote_crypto_legendary_kpop_NAME",
+		"localizationKey_DESCRIPTION_LONG": "#character_emote_crypto_legendary_kpop_NAME",
+		"localizationKey_DESCRIPTION_SHORT": "#character_emote_crypto_legendary_kpop_NAME",
+		"quality": "LEGENDARY",
+		"icon": "rui/menu/buttons/character_emotes/crypto/kpop",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_crypto_legendary_kpop",
+		"ownershipTarget": "",
+		"anim3p": "crypto_ground_emote_kpop",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

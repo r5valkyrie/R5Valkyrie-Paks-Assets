@@ -1,0 +1,35 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_artifact_component_activation_emote_layout.rpak",
+	"uniqueId": 195507662,
+	"settings": {
+		"assetName": "settings/itemflav/artifact_components/space_tech/stech_activation_emote.rpak",
+		"itemType": "artifact_component_activation_emote",
+		"parentItemFlavor": "settings/itemflav/loot/melee_weapon/artifact_dagger.rpak",
+		"settingsAssetID": "SAID00195507662",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#spacetech_activationemote_NAME",
+		"localizationKey_NAME_SHORT": "#spacetech_activationemote_NAME",
+		"localizationKey_DESCRIPTION_LONG": "#activationemote_DESC_LONG",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "MYTHIC",
+		"icon": "rui/menu/buttons/character_emotes/shared/icon_character_emote_shared_katar_activation",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "artifact_dagger_spacetech_activationemote",
+		"ownershipTarget": "",
+		"artifactComponentType": "ACTIVATION_EMOTE",
+		"themeName": "STECH",
+		"componentIcon": "rui/menu/melee_customization/power_sources/vfx_space",
+		"video": "media/activation/activation_spacetech",
+		"multipleOwnershipTargets": [
+			],
+		"artifactMainColor": "<0.965000,0.984000,0.008000>",
+		"artifactSecondaryColor": "<0.090000,0.639000,0.000000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isEmpty": false,
+		"shouldHideIfLocked": false
+	}
+}

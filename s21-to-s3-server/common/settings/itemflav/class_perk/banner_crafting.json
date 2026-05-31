@@ -1,0 +1,25 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_class_perk_layout.rpak",
+	"uniqueId": 694796643,
+	"settings": {
+		"assetName": "settings/itemflav/class_perk/banner_crafting.rpak",
+		"itemType": "character_perk",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00694796643",
+		"__featureFlag": "",
+		"devDescription": "Class perk to allow the player to craft respawn banners",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "#BANNER_CRAFTING_PERK_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#BANNER_CRAFTING_PERK_SHORT_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/gametype_icons/survival/dna_station",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"perkScriptRef": "BANNER_CRAFTING",
+		"fullmapSmallIcon": "",
+		"localizationKey_PropName": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

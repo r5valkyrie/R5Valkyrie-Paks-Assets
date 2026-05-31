@@ -1,0 +1,51 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_melee_skin_layout.rpak",
+	"uniqueId": 1741148596,
+	"settings": {
+		"assetName": "settings/itemflav/melee_skin/ash_nunchuck.rpak",
+		"itemType": "melee_skin",
+		"parentItemFlavor": "settings/itemflav/loot/melee_weapon/ash_nunchuck.rpak",
+		"settingsAssetID": "SAID01741148596",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#MELEE_SKIN_ASH_NUNCHUCK_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "MYTHIC",
+		"icon": "rui/menu/buttons/battlepass/melee_skin_ash",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "melee_skin_nunchuck",
+		"ownershipTarget": "",
+		"worldModel": "mdl/Weapons/ash_heirloom/w_ash_heirloom.rmdl",
+		"viewModel": "mdl/Weapons/ash_heirloom/ptpov_ash_heirloom.rmdl",
+		"skinName": "nunchuck",
+		"menuAnimSeq": "animseq/weapons/ash_heirloom/ptpov_ash_heirloom/menu.rseq",
+		"koSound": "",
+		"storeImage": "rui/menu/heirloom_crafting/heirloom_page_item_ash",
+		"equipImage": "rui/menu/buttons/melee_skins/ash_nunchuck",
+		"multipleOwnershipTargets": [
+			],
+		"artifactConfigIndex": 0,
+		"camoIndex": 0,
+		"menuMdlRot": "<0.000000,0.000000,0.000000>",
+		"battlePassScale": 2.000000,
+		"lootCeremonyScale": 1.100000,
+		"itemInspectScale": 0.800000,
+		"itemInspectOffset": "<0.000000,0.000000,-225.000000>",
+		"skinAlias_vfxAliases": [
+			],
+		"skinAlias_sfxAliases": [
+			],
+		"skinAlias_bodyGroupAliases": [
+			],
+		"skinAlias_impactTableAliases": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isArtifactConfigPointer": false,
+		"shouldHideIfLocked": false
+	}
+}

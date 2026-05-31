@@ -1,0 +1,51 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_melee_skin_layout.rpak",
+	"uniqueId": 1195204293,
+	"settings": {
+		"assetName": "settings/itemflav/melee_skin/bloodhound_axe.rpak",
+		"itemType": "melee_skin",
+		"parentItemFlavor": "settings/itemflav/loot/melee_weapon/bloodhound_axe.rpak",
+		"settingsAssetID": "SAID01195204293",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#MELEE_SKIN_BLOODHOUND_AXE_NAME",
+		"localizationKey_NAME_SHORT": "#MELEE_SKIN_BLOODHOUND_AXE_NAME",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "#MELEE_SKIN_BLOODHOUND_AXE_NAME",
+		"quality": "MYTHIC",
+		"icon": "rui/menu/buttons/battlepass/melee_skin_bloodhound",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "melee_skin_bloodhound_axe",
+		"ownershipTarget": "",
+		"worldModel": "mdl/techart/mshop/weapons/class/heirloom/legends/v19_axe/heirloom_bloodhound_v19_axe_w.rmdl",
+		"viewModel": "mdl/techart/mshop/weapons/class/heirloom/legends/v19_axe/heirloom_bloodhound_v19_axe_v.rmdl",
+		"skinName": "axe",
+		"menuAnimSeq": "",
+		"koSound": "",
+		"storeImage": "rui/menu/heirloom_crafting/heirloom_page_item_bloodhound",
+		"equipImage": "rui/menu/buttons/melee_skins/bloodhound_axe",
+		"multipleOwnershipTargets": [
+			],
+		"artifactConfigIndex": 0,
+		"camoIndex": 0,
+		"menuMdlRot": "<-150.000000,0.000000,-110.000000>",
+		"battlePassScale": 2.600000,
+		"lootCeremonyScale": 1.800000,
+		"itemInspectScale": 1.000000,
+		"itemInspectOffset": "<0.000000,0.000000,0.000000>",
+		"skinAlias_vfxAliases": [
+			],
+		"skinAlias_sfxAliases": [
+			],
+		"skinAlias_bodyGroupAliases": [
+			],
+		"skinAlias_impactTableAliases": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isArtifactConfigPointer": false,
+		"shouldHideIfLocked": false
+	}
+}

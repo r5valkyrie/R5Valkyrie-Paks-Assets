@@ -1,0 +1,12 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_PlayFX_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/fx_rev_emt_laugh_eye_R.rpak",
+		"devDescription": "rev_laugh_R_eye",
+		"type": "PlayFX",
+		"particleSystemName": "P_rev_emt_laugh_eye",
+		"attachPoint": "EYE_R",
+		"followAttach": true,
+		"playEndCap": false
+	}
+}

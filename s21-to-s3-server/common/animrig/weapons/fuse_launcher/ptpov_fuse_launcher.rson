@@ -1,0 +1,25 @@
+seqs:
+[
+	animseq\fuse_launcher\dmx\animation\wind_effect_layer.rseq
+	animseq\weapons\fuse_launcher\ptpov_fuse_launcher\crouch.rseq
+	animseq\weapons\fuse_launcher\ptpov_fuse_launcher\crouch_air.rseq
+	animseq\weapons\fuse_launcher\ptpov_fuse_launcher\crouch_to_idle.rseq
+	animseq\weapons\fuse_launcher\ptpov_fuse_launcher\fire_blend.rseq
+	animseq\weapons\fuse_launcher\ptpov_fuse_launcher\holster.rseq
+	animseq\weapons\fuse_launcher\ptpov_fuse_launcher\idle_aim.rseq
+	animseq\weapons\fuse_launcher\ptpov_fuse_launcher\idle_air.rseq
+	animseq\weapons\fuse_launcher\ptpov_fuse_launcher\idle_to_crouch.rseq
+	animseq\weapons\fuse_launcher\ptpov_fuse_launcher\jump.rseq
+	animseq\weapons\fuse_launcher\ptpov_fuse_launcher\land.rseq
+	animseq\weapons\fuse_launcher\ptpov_fuse_launcher\land_high.rseq
+	animseq\weapons\fuse_launcher\ptpov_fuse_launcher\land_low.rseq
+	animseq\weapons\fuse_launcher\ptpov_fuse_launcher\land_med.rseq
+	animseq\weapons\fuse_launcher\ptpov_fuse_launcher\raise.rseq
+	animseq\weapons\fuse_launcher\ptpov_fuse_launcher\raise_to_crouch.rseq
+	animseq\weapons\fuse_launcher\ptpov_fuse_launcher\raise_to_idle.rseq
+	animseq\weapons\fuse_launcher\ptpov_fuse_launcher\raise_to_sprint.rseq
+	animseq\weapons\fuse_launcher\ptpov_fuse_launcher\sprint.rseq
+	animseq\weapons\fuse_launcher\ptpov_fuse_launcher\sprintjump.rseq
+	animseq\weapons\fuse_launcher\ptpov_fuse_launcher\sprintraise.rseq
+	animseq\weapons\fuse_launcher\ptpov_fuse_launcher\sprintslide.rseq
+]

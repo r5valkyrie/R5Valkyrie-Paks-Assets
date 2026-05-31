@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/bloodhound/lgnd_v23_outnoir.rpak",
+		"roots": [
+				{
+					"asset": "mdl/humans/class/medium/bloodhound_lgnd_v23_outnoir_w.rmdl",
+					"featureFlag": "HAS_20_1_RELEASE"
+				},
+				{
+					"asset": "mdl/Weapons/arms/bloodhound_lgnd_v23_outnoir_v.rmdl",
+					"featureFlag": "HAS_20_1_RELEASE"
+				}
+			]
+	}
+}

@@ -1,0 +1,17 @@
+seqs:
+[
+	animseq\weapons\ash_sword\ptpov_ash_sword\attack.rseq
+	animseq\weapons\ash_sword\ptpov_ash_sword\crouch.rseq
+	animseq\weapons\ash_sword\ptpov_ash_sword\holster.rseq
+	animseq\weapons\ash_sword\ptpov_ash_sword\holster_postSwipe.rseq
+	animseq\weapons\ash_sword\ptpov_ash_sword\idle.rseq
+	animseq\weapons\ash_sword\ptpov_ash_sword\idle_onehanded.rseq
+	animseq\weapons\ash_sword\ptpov_ash_sword\raise.rseq
+	animseq\weapons\ash_sword\ptpov_ash_sword\raise_sprinting.rseq
+	animseq\weapons\ash_sword\ptpov_ash_sword\run_layer.rseq
+	animseq\weapons\ash_sword\ptpov_ash_sword\sprint.rseq
+	animseq\weapons\ash_sword\ptpov_ash_sword\sprint_onehanded.rseq
+	animseq\weapons\ash_sword\ptpov_ash_sword\sprintraise.rseq
+	animseq\weapons\ash_sword\ptpov_ash_sword\sprintraise_onehanded.rseq
+	animseq\weapons\ash_sword\ptpov_ash_sword\sprintslide.rseq
+]

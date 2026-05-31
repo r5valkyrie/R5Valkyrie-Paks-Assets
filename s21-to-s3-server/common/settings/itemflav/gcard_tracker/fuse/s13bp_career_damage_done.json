@@ -1,0 +1,33 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_stat_tracker_layout.rpak",
+	"uniqueId": 1690984743,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_tracker/fuse/s13bp_career_damage_done.rpak",
+		"itemType": "gladiator_card_stat_tracker",
+		"parentItemFlavor": "settings/itemflav/character/fuse.rpak",
+		"settingsAssetID": "SAID01690984743",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#gcard_tracker_fuse_damage_done_NAME",
+		"localizationKey_NAME_SHORT": "#TRACKER_DAMAGE_DONE",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "RARE",
+		"icon": "",
+		"tagIcon": "rui/events/s13bp/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "gcard_tracker_fuse_s13bp_career_damage_done",
+		"ownershipTarget": "",
+		"statRef": "stats.characters[%char%].damage_done",
+		"valueNumberFormat": "INTEGER",
+		"valueSuffix": "",
+		"backgroundImage": "rui/gladiator_cards/trackers/events/s13bp/s13bp_fuse_bg_bot",
+		"multipleOwnershipTargets": [
+			],
+		"color0": "<0.980000,0.352000,0.904000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false
+	}
+}

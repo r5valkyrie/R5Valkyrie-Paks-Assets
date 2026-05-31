@@ -1,0 +1,9 @@
+rigs:
+[
+	animrig\humans\class\medium\mp_pilot_medium_core.rrig
+	animrig\humans\class\medium\pilot_medium_valkyrie.rrig
+	animrig\humans\class\medium\valkyrie_v20_northstar_w.rrig
+]
+seqs:
+[
+]

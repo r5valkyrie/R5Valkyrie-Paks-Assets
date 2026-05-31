@@ -1,0 +1,37 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_intro_quip_layout.rpak",
+	"uniqueId": 450585693,
+	"settings": {
+		"assetName": "settings/itemflav/character_intro_quip/bloodhound/s03e01_common_01.rpak",
+		"itemType": "gladiator_card_intro_quip",
+		"parentItemFlavor": "settings/itemflav/character/bloodhound.rpak",
+		"settingsAssetID": "SAID00450585693",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#character_intro_quip_bloodhound_s03e01_common_01_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "COMMON",
+		"icon": "",
+		"tagIcon": "rui/events/s03e01/item_source_icon",
+		"grxMode": "OWNERSHIP_TARGET",
+		"grxMode": "OWNERSHIP_TARGET",
+		"grxRef": "character_skin_bloodhound_s03e01_legendary_01",
+		"ownershipTarget": "settings/itemflav/character_skin/bloodhound/s03e01_legendary_01.rpak",
+		"anim3p": "",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "glad_introHalloween_01_qw",
+		"voiceSound": "diag_mp_bloodhound_glad_introHalloween_01",
+		"stingSound": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false,
+		"isTheEmpty": false
+	}
+}

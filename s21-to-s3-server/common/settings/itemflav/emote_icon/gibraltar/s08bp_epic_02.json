@@ -1,0 +1,36 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_emote_icon_layout.rpak",
+	"uniqueId": 752065448,
+	"settings": {
+		"assetName": "settings/itemflav/emote_icon/gibraltar/s08bp_epic_02.rpak",
+		"itemType": "emote_icon",
+		"parentItemFlavor": "settings/itemflav/character/gibraltar.rpak",
+		"settingsAssetID": "SAID00752065448",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#spray_epic_v20_gibraltar_07",
+		"localizationKey_NAME_SHORT": "#spray_epic_v20_gibraltar_07",
+		"localizationKey_DESCRIPTION_LONG": "#spray_epic_v20_gibraltar_07",
+		"localizationKey_DESCRIPTION_SHORT": "#spray_epic_v20_gibraltar_07",
+		"quality": "EPIC",
+		"icon": "rui/menu/holosprays/hspray_epic_v20_gibraltar_07",
+		"tagIcon": "rui/events/s08bp/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "emote_icon_gibraltar_s08bp_epic_02",
+		"ownershipTarget": "",
+		"anim3p": "",
+		"holoProjectorSprayModel": "mdl/props/holo_spray/hspray_epic_v20_gibraltar_07.rmdl",
+		"quickchatAliasSubName": "",
+		"customSkinMenuBlurb": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,0.913000,0.088000>",
+		"holoProjectorEffectColor2": "<0.996000,0.357000,0.247000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": true,
+		"holoProjectorUseEffectColor2": true,
+		"isTheEmpty": false
+	}
+}

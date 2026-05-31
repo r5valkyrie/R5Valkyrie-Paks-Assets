@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 391783818,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/valkyrie/legendary_roasting.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/valkyrie.rpak",
+		"settingsAssetID": "SAID00391783818",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#character_emote_valkyrie_legendary_roasting_NAME",
+		"localizationKey_NAME_SHORT": "#character_emote_valkyrie_legendary_roasting_NAME",
+		"localizationKey_DESCRIPTION_LONG": "#character_emote_valkyrie_legendary_roasting_NAME",
+		"localizationKey_DESCRIPTION_SHORT": "#character_emote_valkyrie_legendary_roasting_NAME",
+		"quality": "LEGENDARY",
+		"icon": "rui/menu/buttons/character_emotes/valkyrie/roasting",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_valkyrie_legendary_roasting",
+		"ownershipTarget": "",
+		"anim3p": "valkyrie_ground_emote_roasting",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 25.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

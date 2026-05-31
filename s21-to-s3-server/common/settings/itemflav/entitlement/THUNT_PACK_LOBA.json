@@ -1,0 +1,44 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_entitlement_layout.rpak",
+	"uniqueId": 61741651,
+	"settings": {
+		"assetName": "settings/itemflav/entitlement/THUNT_PACK_LOBA.rpak",
+		"itemType": "entitlement",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00061741651",
+		"__featureFlag": "",
+		"devDescription": "Loba starter pack",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"entitlementType": "firstparty",
+		"twitchRef": "",
+		"twitchRef": "",
+		"enum": "THUNT_PACK_LOBA",
+		"pc": "APEX_THUNT_CONTENT",
+		"ps4": "THTPCK0000000000",
+		"xb1": "THUNT_PACK_LOBA",
+		"switch": "THUNT_PACK_LOBA",
+		"pc_offer": "Origin.OFR.50.0004106",
+		"steam_offer": "",
+		"xb1_offer": "36475039-374c-304e-c058-463354575300",
+		"menuTitleText": "#PROMO_LOBA_STARTER_PACK_HEADER",
+		"menuDescText": "#PROMO_LOBA_STARTER_PACK_TEXT",
+		"menuImageName": "loba_starter_pack",
+		"menuPersistenceVarName": "lobaStarterPackAcknowledged",
+		"list": [
+				{
+					"flavor": "settings/itemflav/character_skin/loba/starterpack_rare_01.rpak",
+					"quantity": 1
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isMenuEnabled": true
+	}
+}

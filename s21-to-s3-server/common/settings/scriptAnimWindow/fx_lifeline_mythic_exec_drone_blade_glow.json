@@ -1,0 +1,12 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_PlayFX_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/fx_lifeline_mythic_exec_drone_blade_glow.rpak",
+		"devDescription": "",
+		"type": "PlayFX",
+		"particleSystemName": "P_lifeline_mythic_exec_blade_glow",
+		"attachPoint": "strap_02_10",
+		"followAttach": true,
+		"playEndCap": true
+	}
+}

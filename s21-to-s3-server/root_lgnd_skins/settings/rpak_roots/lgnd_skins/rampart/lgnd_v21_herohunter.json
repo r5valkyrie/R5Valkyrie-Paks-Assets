@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/rampart/lgnd_v21_herohunter.rpak",
+		"roots": [
+				{
+					"asset": "mdl/Humans/class/medium/rampart_v21_herohunter_w.rmdl",
+					"featureFlag": ""
+				},
+				{
+					"asset": "mdl/weapons/arms/rampart_v21_herohunter_v.rmdl",
+					"featureFlag": ""
+				}
+			]
+	}
+}

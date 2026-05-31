@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/lifeline/s08bp_legendary_01.rpak",
+		"roots": [
+				{
+					"asset": "mdl/humans/class/light/lifeline_v20_warlord_w.rmdl",
+					"featureFlag": ""
+				},
+				{
+					"asset": "mdl/Weapons/arms/medium/lifeline_v20_warlord_v.rmdl",
+					"featureFlag": ""
+				}
+			]
+	}
+}

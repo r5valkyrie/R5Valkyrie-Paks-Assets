@@ -1,0 +1,167 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_calevent_apex_cup_container_layout.rpak",
+	"uniqueId": 1869475646,
+	"settings": {
+		"assetName": "settings/itemflav/apex_cup/ranked_rumble/ranked_rumble_container_s21.rpak",
+		"itemType": "calevent_apex_cup_container",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01869475646",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#RANKED_RUMBLE",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "rui/menu/apex_rumble/ac_tiles_solo_s20_e01",
+		"tagIcon": "rui/menu/apex_rumble/ac_tiles_solo_s20_e01_bloodhound",
+		"grxMode": "NONE",
+		"revealUnixTime": "2024-08-02 10:00:00 -07:00",
+		"hideUnixTime": "2024-08-08 10:00:00 -07:00",
+		"defaultStartTime": "2024-08-03 10:00:00 -07:00",
+		"defaultFinishTime": "2024-08-06 10:00:00 -07:00",
+		"gameMode": "survival_ranked",
+		"gracePeriodTime": "2024-08-06 11:00:00 -07:00",
+		"rankedRumbleBadge": "settings/itemflav/gcard_badge/account/ranked_rumble_s21.rpak",
+		"rankedPeriod": "settings/itemflav/ranked2pt0/rankedperiod21_split2.rpak",
+		"reRollToken": "settings/itemflav/apex_cup/ranked_rumble/s21ranked_rumble_cup_reroll_token.rpak",
+		"placementPoints": "datatable/apex_cup/cup1_PlacementPointsBreakdown.rpak",
+		"rewardSeqName": "rewardseq_s21ranked_rumble_tier_rewards",
+		"squadSize": 1,
+		"numMatches": 10,
+		"maxReRollCount": 0,
+		"statPoints": [
+				{
+					"statRef": "stats.kills",
+					"pointsRate": 7.500000,
+					"statLimit": 0,
+					"hasStatLimit": false
+				},
+				{
+					"statRef": "stats.assists",
+					"pointsRate": 3.000000,
+					"statLimit": 0,
+					"hasStatLimit": false
+				},
+				{
+					"statRef": "stats.damage_done_first_ring_round_br",
+					"pointsRate": 0.040000,
+					"statLimit": 0,
+					"hasStatLimit": false
+				},
+				{
+					"statRef": "stats.damage_done",
+					"pointsRate": 0.035000,
+					"statLimit": 0,
+					"hasStatLimit": false
+				},
+				{
+					"statRef": "stats.lastGameParticipationScore",
+					"pointsRate": 2.000000,
+					"statLimit": 0,
+					"hasStatLimit": false
+				}
+			],
+		"cups": [
+				{
+					"cupAsset": "settings/itemflav/apex_cup/ranked_rumble/ranked_rumble_s21_rookie_pc.rpak"
+				},
+				{
+					"cupAsset": "settings/itemflav/apex_cup/ranked_rumble/ranked_rumble_s21_bronze_pc.rpak"
+				},
+				{
+					"cupAsset": "settings/itemflav/apex_cup/ranked_rumble/ranked_rumble_s21_silver_pc.rpak"
+				},
+				{
+					"cupAsset": "settings/itemflav/apex_cup/ranked_rumble/ranked_rumble_s21_gold_pc.rpak"
+				},
+				{
+					"cupAsset": "settings/itemflav/apex_cup/ranked_rumble/ranked_rumble_s21_platinum_pc.rpak"
+				},
+				{
+					"cupAsset": "settings/itemflav/apex_cup/ranked_rumble/ranked_rumble_s21_diamond_pc.rpak"
+				},
+				{
+					"cupAsset": "settings/itemflav/apex_cup/ranked_rumble/ranked_rumble_s21_master_pc.rpak"
+				},
+				{
+					"cupAsset": "settings/itemflav/apex_cup/ranked_rumble/ranked_rumble_s21_predator_pc.rpak"
+				},
+				{
+					"cupAsset": "settings/itemflav/apex_cup/ranked_rumble/ranked_rumble_s21_rookie_nx.rpak"
+				},
+				{
+					"cupAsset": "settings/itemflav/apex_cup/ranked_rumble/ranked_rumble_s21_rookie_ps.rpak"
+				},
+				{
+					"cupAsset": "settings/itemflav/apex_cup/ranked_rumble/ranked_rumble_s21_rookie_xb.rpak"
+				},
+				{
+					"cupAsset": "settings/itemflav/apex_cup/ranked_rumble/ranked_rumble_s21_bronze_nx.rpak"
+				},
+				{
+					"cupAsset": "settings/itemflav/apex_cup/ranked_rumble/ranked_rumble_s21_bronze_ps.rpak"
+				},
+				{
+					"cupAsset": "settings/itemflav/apex_cup/ranked_rumble/ranked_rumble_s21_bronze_xb.rpak"
+				},
+				{
+					"cupAsset": "settings/itemflav/apex_cup/ranked_rumble/ranked_rumble_s21_silver_nx.rpak"
+				},
+				{
+					"cupAsset": "settings/itemflav/apex_cup/ranked_rumble/ranked_rumble_s21_silver_ps.rpak"
+				},
+				{
+					"cupAsset": "settings/itemflav/apex_cup/ranked_rumble/ranked_rumble_s21_silver_xb.rpak"
+				},
+				{
+					"cupAsset": "settings/itemflav/apex_cup/ranked_rumble/ranked_rumble_s21_gold_nx.rpak"
+				},
+				{
+					"cupAsset": "settings/itemflav/apex_cup/ranked_rumble/ranked_rumble_s21_gold_ps.rpak"
+				},
+				{
+					"cupAsset": "settings/itemflav/apex_cup/ranked_rumble/ranked_rumble_s21_gold_xb.rpak"
+				},
+				{
+					"cupAsset": "settings/itemflav/apex_cup/ranked_rumble/ranked_rumble_s21_platinum_nx.rpak"
+				},
+				{
+					"cupAsset": "settings/itemflav/apex_cup/ranked_rumble/ranked_rumble_s21_platinum_ps.rpak"
+				},
+				{
+					"cupAsset": "settings/itemflav/apex_cup/ranked_rumble/ranked_rumble_s21_platinum_xb.rpak"
+				},
+				{
+					"cupAsset": "settings/itemflav/apex_cup/ranked_rumble/ranked_rumble_s21_diamond_nx.rpak"
+				},
+				{
+					"cupAsset": "settings/itemflav/apex_cup/ranked_rumble/ranked_rumble_s21_diamond_ps.rpak"
+				},
+				{
+					"cupAsset": "settings/itemflav/apex_cup/ranked_rumble/ranked_rumble_s21_diamond_xb.rpak"
+				},
+				{
+					"cupAsset": "settings/itemflav/apex_cup/ranked_rumble/ranked_rumble_s21_master_nx.rpak"
+				},
+				{
+					"cupAsset": "settings/itemflav/apex_cup/ranked_rumble/ranked_rumble_s21_master_ps.rpak"
+				},
+				{
+					"cupAsset": "settings/itemflav/apex_cup/ranked_rumble/ranked_rumble_s21_master_xb.rpak"
+				},
+				{
+					"cupAsset": "settings/itemflav/apex_cup/ranked_rumble/ranked_rumble_s21_predator_nx.rpak"
+				},
+				{
+					"cupAsset": "settings/itemflav/apex_cup/ranked_rumble/ranked_rumble_s21_predator_ps.rpak"
+				},
+				{
+					"cupAsset": "settings/itemflav/apex_cup/ranked_rumble/ranked_rumble_s21_predator_xb.rpak"
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"is_ranked_rumble": true
+	}
+}

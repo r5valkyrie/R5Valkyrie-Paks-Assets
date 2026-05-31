@@ -1,0 +1,11 @@
+rigs:
+[
+]
+seqs:
+[
+	animseq\props\arc_tool_sp\arc_tool_sp_animated\tool_beacon_controlroom_a_01_end_loop.rseq
+	animseq\props\arc_tool_sp\arc_tool_sp_animated\tool_beacon_controlroom_a_01_signal.rseq
+	animseq\props\arc_tool_sp\arc_tool_sp_animated\tool_beacon_controlroom_a_01_skit.rseq
+	animseq\props\arc_tool_sp\arc_tool_sp_animated\tool_beacon_controlroom_a_01_start_loop.rseq
+	animseq\props\arc_tool_sp\arc_tool_sp_animated\tool_beacon_controlroom_a_01_wait_loop.rseq
+]

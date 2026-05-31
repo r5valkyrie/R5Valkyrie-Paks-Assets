@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 1675822626,
+	"settings": {
+		"assetName": "settings/itemflav/ability/vantage_passive.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01675822626",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#ABL_PAS_SCOPE",
+		"localizationKey_NAME_SHORT": "#ABL_PAS_SCOPE_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "#ABL_PAS_SCOPE_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#ABL_PAS_SCOPE_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/passive_icons/passive_vantage",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_VANTAGE",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

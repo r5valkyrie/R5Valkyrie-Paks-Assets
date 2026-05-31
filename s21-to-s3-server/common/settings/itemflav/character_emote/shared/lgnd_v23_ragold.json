@@ -1,0 +1,56 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 571060241,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/shared/lgnd_v23_ragold.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00571060241",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#character_emote_shared_lgnd_v23_ragold",
+		"localizationKey_NAME_SHORT": "#character_emote_shared_lgnd_v23_ragold",
+		"localizationKey_DESCRIPTION_LONG": "#character_emote_shared_lgnd_v23_ragold",
+		"localizationKey_DESCRIPTION_SHORT": "#character_emote_shared_lgnd_v23_ragold",
+		"quality": "LEGENDARY",
+		"icon": "rui/menu/buttons/character_emotes/shared/icon_character_emote_shared_fanfare",
+		"tagIcon": "rui/events/s19me01/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_shared_lgnd_v23_ragold",
+		"ownershipTarget": "",
+		"anim3p": "goldenhorse_medium_celebration",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+				{
+					"character": "settings/itemflav/character/revenant.rpak",
+					"anim3p": "goldenhorse_revenant_celebration"
+				},
+				{
+					"character": "settings/itemflav/character/loba.rpak",
+					"anim3p": "goldenhorse_loba_celebration"
+				},
+				{
+					"character": "settings/itemflav/character/rampart.rpak",
+					"anim3p": "goldenhorse_rampart_celebration"
+				},
+				{
+					"character": "settings/itemflav/character/valkyrie.rpak",
+					"anim3p": "goldenhorse_valk_celebration"
+				}
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

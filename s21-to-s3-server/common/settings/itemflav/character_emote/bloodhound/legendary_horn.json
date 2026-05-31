@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 230782572,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/bloodhound/legendary_horn.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/bloodhound.rpak",
+		"settingsAssetID": "SAID00230782572",
+		"__featureFlag": "",
+		"devDescription": "/t",
+		"localizationKey_NAME": "#CHAR_EMOTE_006",
+		"localizationKey_NAME_SHORT": "#CHAR_EMOTE_006",
+		"localizationKey_DESCRIPTION_LONG": "#CHAR_EMOTE_006",
+		"localizationKey_DESCRIPTION_SHORT": "#CHAR_EMOTE_006",
+		"quality": "LEGENDARY",
+		"icon": "rui/menu/buttons/character_emotes/bloodhound/horn",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_bloodhound_legendary_horn",
+		"ownershipTarget": "",
+		"anim3p": "bloodhound_ground_emote_horn",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

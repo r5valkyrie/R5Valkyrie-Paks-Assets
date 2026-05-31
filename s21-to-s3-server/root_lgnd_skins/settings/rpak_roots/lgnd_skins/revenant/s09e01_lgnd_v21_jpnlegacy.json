@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/revenant/s09e01_lgnd_v21_jpnlegacy.rpak",
+		"roots": [
+				{
+					"asset": "mdl/humans/class/heavy/revenant_v21_jpnlegacy_w.rmdl",
+					"featureFlag": ""
+				},
+				{
+					"asset": "mdl/Weapons/arms/revenant_v21_jpnlegacy_v.rmdl",
+					"featureFlag": ""
+				}
+			]
+	}
+}

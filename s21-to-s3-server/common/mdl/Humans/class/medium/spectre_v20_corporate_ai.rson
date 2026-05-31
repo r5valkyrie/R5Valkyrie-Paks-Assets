@@ -1,0 +1,8 @@
+rigs:
+[
+	animrig\robots\spectre\ai_spectre_core.rrig
+	animrig\humans\pete\ai_npc_core.rrig
+]
+seqs:
+[
+]

@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 321188591,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/rampart/default.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/rampart.rpak",
+		"settingsAssetID": "SAID00321188591",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#CHAR_EMOTE_037",
+		"localizationKey_NAME_SHORT": "#CHAR_EMOTE_037",
+		"localizationKey_DESCRIPTION_LONG": "#CHAR_EMOTE_037",
+		"localizationKey_DESCRIPTION_SHORT": "#CHAR_EMOTE_037",
+		"quality": "RARE",
+		"icon": "rui/menu/buttons/character_emotes/rampart/taunt",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"grxMode": "NONE",
+		"grxRef": "character_emote_rampart_rare_taunt",
+		"ownershipTarget": "",
+		"anim3p": "rampart_ground_emote_taunt",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

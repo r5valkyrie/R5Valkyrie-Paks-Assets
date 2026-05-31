@@ -1,0 +1,11 @@
+seqs:
+[
+	animseq\props\holo_drone\prop_heavy_holodrone_retrieve.rseq
+	animseq\props\holo_drone\prop_heavy_holodrone_throw.rseq
+	animseq\props\holo_drone\prop_holodrone_cancel.rseq
+	animseq\props\holo_drone\prop_holodrone_idle.rseq
+	animseq\props\holo_drone\prop_light_holodrone_retrieve.rseq
+	animseq\props\holo_drone\prop_light_holodrone_throw.rseq
+	animseq\props\holo_drone\prop_medium_holodrone_retrieve.rseq
+	animseq\props\holo_drone\prop_medium_holodrone_throw.rseq
+]

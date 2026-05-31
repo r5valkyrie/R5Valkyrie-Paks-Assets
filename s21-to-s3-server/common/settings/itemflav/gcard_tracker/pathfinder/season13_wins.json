@@ -1,0 +1,33 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_stat_tracker_layout.rpak",
+	"uniqueId": 1678000735,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_tracker/pathfinder/season13_wins.rpak",
+		"itemType": "gladiator_card_stat_tracker",
+		"parentItemFlavor": "settings/itemflav/character/pathfinder.rpak",
+		"settingsAssetID": "SAID01678000735",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#gcard_tracker_pathfinder_season13_wins_NAME",
+		"localizationKey_NAME_SHORT": "#TRACKER_SEASON_13_WINS",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "RARE",
+		"icon": "",
+		"tagIcon": "rui/events/s13bp/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "gcard_tracker_pathfinder_season13_wins",
+		"ownershipTarget": "",
+		"statRef": "stats.seasons[SAID00798342294].characters[%char%].placements_win",
+		"valueNumberFormat": "INTEGER",
+		"valueSuffix": "",
+		"backgroundImage": "rui/gladiator_cards/trackers/event/s13bp/season13_stat_tracker_pathfinder",
+		"multipleOwnershipTargets": [
+			],
+		"color0": "<0.980000,0.352000,0.904000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false
+	}
+}

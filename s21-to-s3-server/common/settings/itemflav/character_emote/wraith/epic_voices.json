@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 436395350,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/wraith/epic_voices.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/wraith.rpak",
+		"settingsAssetID": "SAID00436395350",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#CHAR_EMOTE_050",
+		"localizationKey_NAME_SHORT": "#CHAR_EMOTE_050",
+		"localizationKey_DESCRIPTION_LONG": "#CHAR_EMOTE_050",
+		"localizationKey_DESCRIPTION_SHORT": "#CHAR_EMOTE_050",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/character_emotes/wraith/voices",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_wraith_epic_voices",
+		"ownershipTarget": "",
+		"anim3p": "wraith_ground_emote_voices",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

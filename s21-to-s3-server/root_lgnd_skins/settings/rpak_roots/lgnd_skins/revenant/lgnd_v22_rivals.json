@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/revenant/lgnd_v22_rivals.rpak",
+		"roots": [
+				{
+					"asset": "mdl/techart/mshop/characters/legends/revenant/revenant_v22_rivals_w.rmdl",
+					"featureFlag": ""
+				},
+				{
+					"asset": "mdl/techart/mshop/characters/legends/revenant/revenant_v22_rivals_v.rmdl",
+					"featureFlag": ""
+				}
+			]
+	}
+}

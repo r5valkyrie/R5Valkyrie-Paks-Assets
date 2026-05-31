@@ -1,0 +1,34 @@
+seqs:
+[
+	animseq\weapons\rampart_turret\ptpov_rampart_turret_mobile\ads_in.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret_mobile\ads_in_onehanded.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret_mobile\ads_out.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret_mobile\ads_out_onehanded.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret_mobile\barrel_spin_layer.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret_mobile\crouch.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret_mobile\fire_left.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret_mobile\fire_left_onehanded.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret_mobile\fire_right.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret_mobile\fire_right_onehanded.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret_mobile\holster.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret_mobile\idle.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret_mobile\idle_onehanded.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret_mobile\jump.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret_mobile\land.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret_mobile\land_high.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret_mobile\land_low.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret_mobile\land_med.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret_mobile\raise.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret_mobile\raise_from_placedHMG.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret_mobile\raise_from_placedHMG_sprinting.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret_mobile\raise_sprinting.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret_mobile\sprint.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret_mobile\sprint_onehanded.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret_mobile\sprintjump.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret_mobile\sprintraise.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret_mobile\sprintslide.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret_mobile\switch_to_onehanded.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret_mobile\switch_to_twohanded.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret_mobile\zipline_mount.rseq
+	animseq\weapons\rampart_turret\ptpov_rampart_turret_mobile\zoom_optic_layer.rseq
+]

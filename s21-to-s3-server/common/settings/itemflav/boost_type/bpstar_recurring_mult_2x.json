@@ -1,0 +1,45 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_boost_type_layout.rpak",
+	"uniqueId": 1053236484,
+	"settings": {
+		"assetName": "settings/itemflav/boost_type/bpstar_recurring_mult_2x.rpak",
+		"itemType": "boost_type",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01053236484",
+		"__featureFlag": "",
+		"devDescription": "BP Star boost with 2x multiplier for recurring challenge",
+		"localizationKey_NAME": "#PROGRESSION_MODIFIER_BP_RECURRING_TITLE",
+		"localizationKey_NAME_SHORT": "#PROGRESSION_MODIFIER_BP_RECURRING_TITLE",
+		"localizationKey_DESCRIPTION_LONG": "#PROGRESSION_MODIFIER_BP_RECURRING_DESC_MULT",
+		"localizationKey_DESCRIPTION_SHORT": "#PROGRESSION_MODIFIER_BP_RECURRING_DESC_MULT",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"typeId": "bpstar_recurring_mult_2x",
+		"condition_party": "FALSE",
+		"boostReqDescription": "",
+		"uiModifierSummary": "#PROGRESSION_MODIFIERS_PERCENTAGE_ADD",
+		"uiBadgeIconSmall": "",
+		"effects": [
+				{
+					"property": "BP_RECURRING",
+					"modifierType": 1,
+					"amount": 2.000000,
+					"calculationType": 0
+				}
+			],
+		"conditions_gamemode": [
+			],
+		"conditions_region": [
+			],
+		"conditions_platform": [
+			],
+		"boostCategory": 1,
+		"uiModifierSummaryAmount": 100.000000,
+		"uiColor": "<0.000000,0.000000,0.000000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isDevType": false
+	}
+}

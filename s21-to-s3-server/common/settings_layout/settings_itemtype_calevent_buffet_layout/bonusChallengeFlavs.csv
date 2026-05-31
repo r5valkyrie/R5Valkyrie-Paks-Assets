@@ -1,0 +1,4 @@
+"fieldName","dataType","layoutIndex","helpText"
+"bonusChallengeFlav","asset_noprecache","0",""
+"bonusChallengeStartTime","string","0","Formatted time string: YYYY-MM-DD HH:MM:SS +/-HH:00\nPlaylist override <ItemFlavor_GetGUIDString()>_bonus<NN>_start_time"
+"bonusChallengeEndTime","string","0","Formatted time string: YYYY-MM-DD HH:MM:SS +/-HH:00\nPlaylist override <ItemFlavor_GetGUIDString()>_bonus<NN>_finish_time"

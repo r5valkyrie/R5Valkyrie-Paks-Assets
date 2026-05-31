@@ -1,0 +1,8 @@
+seqs:
+[
+	animseq\props\bangalore_canister\banglore_canister_emote_L.rseq
+	animseq\props\bangalore_canister\banglore_canister_emote_R.rseq
+	animseq\props\bangalore_canister\prop_bangalore_canister_gibraltar_ground_emote_micdrop.rseq
+	animseq\props\bangalore_canister\prop_bangalore_canister_valkerie_ground_emote_RedSmoke.rseq
+	animseq\props\bangalore_canister\prop_canister_Bangalore_ground_emote_RedSmoke.rseq
+]

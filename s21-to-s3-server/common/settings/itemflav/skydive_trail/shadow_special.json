@@ -1,0 +1,109 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_skydive_trail_layout.rpak",
+	"uniqueId": 1555639208,
+	"settings": {
+		"assetName": "settings/itemflav/skydive_trail/shadow_special.rpak",
+		"itemType": "skydive_trail",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01555639208",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#SKYDIVE_SHADOW_SPECIAL",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "skydive_trail_shadow_special",
+		"ownershipTarget": "",
+		"DropSequenceLaunch1P": "Survival_DropSequence_Launch_1P",
+		"DropSequenceLaunch3P": "Survival_DropSequence_Launch_3P",
+		"DropSequenceTravel1P": "ShadowLegend_DropSequence_Travel_1P",
+		"DropSequenceTravel3P": "ShadowLegend_DropSequence_Travel_3P",
+		"DropSequenceLandStart1P": "ShadowLegend_DropSequence_Land_Start_1P",
+		"DropSequenceLandStart3P": "ShadowLegend_DropSequence_Land_Start_3P",
+		"DropSequenceLandStop1P": "ShadowLegend_DropSequence_Land_Stop_1P",
+		"DropSequenceLandStop3P": "ShadowLegend_DropSequence_Land_Stop_3P",
+		"InGameFlightLaunch1P": "Survival_InGameFlight_Launch_1P",
+		"InGameFlightLaunch3P": "Survival_InGameFlight_Launch_3P",
+		"InGameFlightTravel1P": "ShadowLegend_DropSequence_Travel_1P",
+		"InGameFlightTravel3P": "ShadowLegend_DropSequence_Travel_3P",
+		"InGameFlightLandStart1P": "ShadowLegend_DropSequence_Land_Start_1P",
+		"InGameFlightLandStart3P": "ShadowLegend_DropSequence_Land_Start_3P",
+		"InGameFlightLandStop1P": "ShadowLegend_DropSequence_Land_Stop_1P",
+		"InGameFlightLandStop3P": "ShadowLegend_DropSequence_Land_Stop_3P",
+		"DropSequenceCameraTransition1P": "Survival_DropSequence_CameraTransition_1P",
+		"video": "media/character_executions/bloodhound_execution_the_raven",
+		"multipleOwnershipTargets": [
+			],
+		"smokeColorFXPackage": [
+				{
+					"fxAsset": "P_shdw_special_long",
+					"attachName": "vent_center",
+					"controlPoint": "<0.000000,0.000000,0.000000>",
+					"useCustomControlPoint": false
+				}
+			],
+		"friendlyJumpJetFXPackage": [
+				{
+					"fxAsset": "P_shdw_special_jj_team",
+					"attachName": "vent_left",
+					"controlPoint": "<255.000000,99.000000,57.000000>",
+					"useCustomControlPoint": false
+				},
+				{
+					"fxAsset": "P_shdw_special_jj_team",
+					"attachName": "vent_right",
+					"controlPoint": "<255.000000,99.000000,57.000000>",
+					"useCustomControlPoint": false
+				},
+				{
+					"fxAsset": "P_shdw_special_body",
+					"attachName": "vent_center",
+					"controlPoint": "<0.000000,0.000000,0.000000>",
+					"useCustomControlPoint": false
+				}
+			],
+		"enemyJumpJetFXPackage": [
+				{
+					"fxAsset": "P_shdw_special_jj_team",
+					"attachName": "vent_left",
+					"controlPoint": "<255.000000,99.000000,57.000000>",
+					"useCustomControlPoint": false
+				},
+				{
+					"fxAsset": "P_shdw_special_jj_team",
+					"attachName": "vent_right",
+					"controlPoint": "<255.000000,99.000000,57.000000>",
+					"useCustomControlPoint": false
+				},
+				{
+					"fxAsset": "P_shdw_special_body",
+					"attachName": "vent_center",
+					"controlPoint": "<0.000000,0.000000,0.000000>",
+					"useCustomControlPoint": false
+				}
+			],
+		"jumpJetLandFXPackage": [
+				{
+					"fxAsset": "P_surv_team_land_jet",
+					"attachName": "vent_left",
+					"controlPoint": "<255.000000,99.000000,57.000000>",
+					"useCustomControlPoint": true
+				},
+				{
+					"fxAsset": "P_surv_team_land_jet",
+					"attachName": "vent_right",
+					"controlPoint": "<255.000000,99.000000,57.000000>",
+					"useCustomControlPoint": true
+				}
+			],
+		"props": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/bloodhound/lgnd_v23_resharb.rpak",
+		"roots": [
+				{
+					"asset": "mdl/humans/class/medium/bloodhound_v23_resharb_w.rmdl",
+					"featureFlag": ""
+				},
+				{
+					"asset": "mdl/Weapons/arms/bloodhound_v23_resharb_v.rmdl",
+					"featureFlag": ""
+				}
+			]
+	}
+}

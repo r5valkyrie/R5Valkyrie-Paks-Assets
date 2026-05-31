@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 1421280576,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/gibraltar/epic_kickflip.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/gibraltar.rpak",
+		"settingsAssetID": "SAID01421280576",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#CHAR_EMOTE_017",
+		"localizationKey_NAME_SHORT": "#CHAR_EMOTE_017",
+		"localizationKey_DESCRIPTION_LONG": "#CHAR_EMOTE_017",
+		"localizationKey_DESCRIPTION_SHORT": "#CHAR_EMOTE_017",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/character_emotes/gibraltar/kickflip",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_gibraltar_epic_kickflip",
+		"ownershipTarget": "",
+		"anim3p": "gibraltar_ground_emote_kickflip",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

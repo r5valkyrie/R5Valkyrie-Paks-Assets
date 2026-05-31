@@ -1,0 +1,30 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ping_layout.rpak",
+	"uniqueId": 472434158,
+	"settings": {
+		"assetName": "settings/itemflav/ping/ping_spawn_region.rpak",
+		"itemType": "ping",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00472434158",
+		"__featureFlag": "",
+		"devDescription": "Winter Express Spawn Region/n",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "rui/hud/gametype_icons/survival/spawn_region",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"colorKey": "none",
+		"innerIcon": "rui/hud/crypto_drone/icon_crypto_drone_return",
+		"innerShadowIcon": "rui/glow",
+		"outerIcon": "rui/hud/common/evac_location_friendly",
+		"shadowIcon": "rui/hud/ping/blur_circle",
+		"animIcon": "rui/hud/gamestate/circle_glow",
+		"defaultColor": "<0.000000,1.000000,1.000000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"drawHeightLine": false
+	}
+}

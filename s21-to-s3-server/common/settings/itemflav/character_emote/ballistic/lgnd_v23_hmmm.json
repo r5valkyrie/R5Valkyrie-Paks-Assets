@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 121910740,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/ballistic/lgnd_v23_hmmm.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/ballistic.rpak",
+		"settingsAssetID": "SAID00121910740",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#ground_emote_ballistic_hmmm",
+		"localizationKey_NAME_SHORT": "#ground_emote_ballistic_hmmm",
+		"localizationKey_DESCRIPTION_LONG": "#ground_emote_ballistic_hmmm",
+		"localizationKey_DESCRIPTION_SHORT": "#ground_emote_ballistic_hmmm",
+		"quality": "LEGENDARY",
+		"icon": "rui/menu/buttons/character_emotes/ballistic/hmmm",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_ballistic_lgnd_v23_hmmm",
+		"ownershipTarget": "",
+		"anim3p": "ballistic_ground_emote_hmmm",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

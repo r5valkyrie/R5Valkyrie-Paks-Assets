@@ -1,0 +1,7 @@
+{
+	"extraDataSizeIndex": 1,
+	"subLayouts": [
+		"settings_layout/settings_itemtype_kepler_scenario_layout/variants.csv",
+		"settings_layout/settings_itemtype_kepler_scenario_layout/scenarioChallenges.csv"
+	]
+}

@@ -1,0 +1,9 @@
+rigs:
+[
+	animrig\humans\class\heavy\mp_pilot_heavy_core.rrig
+	animrig\humans\class\heavy\pilot_heavy_revenant.rrig
+	animrig\humans\class\heavy\pilot_heavy_revenant_mythic.rrig
+]
+seqs:
+[
+]

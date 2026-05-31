@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 1292072549,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/gibraltar/legendary_firestick.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/gibraltar.rpak",
+		"settingsAssetID": "SAID01292072549",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#ground_emote_gibraltar_legendary_firestick_NAME",
+		"localizationKey_NAME_SHORT": "#ground_emote_gibraltar_legendary_firestick_NAME",
+		"localizationKey_DESCRIPTION_LONG": "#ground_emote_gibraltar_legendary_firestick_NAME",
+		"localizationKey_DESCRIPTION_SHORT": "#ground_emote_gibraltar_legendary_firestick_NAME",
+		"quality": "LEGENDARY",
+		"icon": "rui/menu/buttons/character_emotes/gibraltar/firestick",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_gibraltar_legendary_firestick",
+		"ownershipTarget": "",
+		"anim3p": "gibraltar_ground_emote_firestick_start",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "gibraltar_ground_emote_firestick_loop",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

@@ -1,0 +1,33 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_charm_layout.rpak",
+	"uniqueId": 299160953,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_charm/charm_apex_theme_v22_opneon_loba01.rpak",
+		"itemType": "weapon_charm",
+		"parentItemFlavor": "settings/itemflav/loot/main_weapon/_base.rpak",
+		"settingsAssetID": "SAID00299160953",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#CHARM_apex_theme_v22_opneon_loba01",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "EPIC",
+		"icon": "rui/events/s17ce02/charm_apex_theme_v22_opneon_loba01",
+		"tagIcon": "rui/events/s17ce02/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "weapon_charm_apex_theme_v22_opneon_loba01",
+		"ownershipTarget": "",
+		"charmModel": "mdl/props/charm/charm_apex_theme_v22_opneon_loba01",
+		"exclusiveFunc": "",
+		"attachmentName": "CHARM",
+		"customSkinMenuBlurb": "",
+		"multipleOwnershipTargets": [
+			],
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false,
+		"exclusive": false
+	}
+}

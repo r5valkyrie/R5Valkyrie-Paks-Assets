@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 596419936,
+	"settings": {
+		"assetName": "settings/itemflav/ability/upgrade_rampart_fast_reloads.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00596419936",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#UPGRADE_RAMPART_PAS_FAST_RELOAD_NAME",
+		"localizationKey_NAME_SHORT": "#UPGRADE_TYPE_PASSIVE",
+		"localizationKey_DESCRIPTION_LONG": "#UPGRADE_RAMPART_PAS_FAST_RELOAD_LONG_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#UPGRADE_RAMPART_PAS_FAST_RELOAD_SHORT_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/legend_upgrades/rampart_ampedreloads_icon",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_PAS_UPGRADE_TWO",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

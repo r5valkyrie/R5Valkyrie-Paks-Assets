@@ -1,0 +1,33 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_stat_tracker_layout.rpak",
+	"uniqueId": 1244681457,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_tracker/fuse/s16bp_partymusic_kills.rpak",
+		"itemType": "gladiator_card_stat_tracker",
+		"parentItemFlavor": "settings/itemflav/character/fuse.rpak",
+		"settingsAssetID": "SAID01244681457",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#gcard_tracker_fuse_s16bp_partymusic_kills_NAME",
+		"localizationKey_NAME_SHORT": "#TRACKER_SEASON_16_KILLS",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "RARE",
+		"icon": "",
+		"tagIcon": "rui/events/s16bp/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "gcard_tracker_fuse_s16bp_partymusic_kills",
+		"ownershipTarget": "",
+		"statRef": "stats.seasons[SAID00801928788].characters[%char%].kills",
+		"valueNumberFormat": "INTEGER",
+		"valueSuffix": "",
+		"backgroundImage": "rui/gladiator_cards/trackers/event/s16bp/s16bp_stat_tracker_fuse",
+		"multipleOwnershipTargets": [
+			],
+		"color0": "<1.000000,0.420000,0.420000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false
+	}
+}

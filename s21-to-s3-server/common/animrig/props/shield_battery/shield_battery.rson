@@ -1,0 +1,7 @@
+seqs:
+[
+	animseq\props\shield_battery\shield_battery\idle.rseq
+	animseq\props\shield_battery\shield_battery\prop_battery_nc_lobby_left_pose.rseq
+	animseq\props\shield_battery\shield_battery\valkyrie_shieldbattery1_gladcard_animated_lootcrate.rseq
+	animseq\props\shield_battery\shield_battery\valkyrie_shieldbattery2_gladcard_animated_lootcrate.rseq
+]

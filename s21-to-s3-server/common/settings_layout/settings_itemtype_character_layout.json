@@ -1,0 +1,22 @@
+{
+	"extraDataSizeIndex": 1,
+	"subLayouts": [
+		"settings_layout/settings_itemtype_character_layout/multipleOwnershipTargets.csv",
+		"settings_layout/settings_itemtype_character_layout/passives.csv",
+		"settings_layout/settings_itemtype_character_layout/extraPassives.csv",
+		"settings_layout/settings_itemtype_character_layout/readyUpVoicelines.csv",
+		"settings_layout/settings_itemtype_character_layout/skins.csv",
+		"settings_layout/settings_itemtype_character_layout/executions.csv",
+		"settings_layout/settings_itemtype_character_layout/emotes.csv",
+		"settings_layout/settings_itemtype_character_layout/skydiveEmotes.csv",
+		"settings_layout/settings_itemtype_character_layout/introQuips.csv",
+		"settings_layout/settings_itemtype_character_layout/killQuips.csv",
+		"settings_layout/settings_itemtype_character_layout/gcardStances.csv",
+		"settings_layout/settings_itemtype_character_layout/gcardFrames.csv",
+		"settings_layout/settings_itemtype_character_layout/gcardBadges.csv",
+		"settings_layout/settings_itemtype_character_layout/gcardStatTrackers.csv",
+		"settings_layout/settings_itemtype_character_layout/emoteIcons.csv",
+		"settings_layout/settings_itemtype_character_layout/nonCombatPets.csv",
+		"settings_layout/settings_itemtype_character_layout/mythicBundles.csv"
+	]
+}

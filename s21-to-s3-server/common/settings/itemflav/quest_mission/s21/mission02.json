@@ -1,0 +1,46 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_quest_mission_layout.rpak",
+	"uniqueId": 736381522,
+	"settings": {
+		"assetName": "settings/itemflav/quest_mission/s21/mission02.rpak",
+		"itemType": "quest_mission",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00736381522",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "LEGENDARY",
+		"icon": "rui/menu/quest/lore_icon",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"playlistName": "",
+		"unlockTime": "2024-05-21 10:00:00 -07:00",
+		"questItemIcon": "rui/menu/quest/quest_thumbnails/quest_thumbnail_s21_02",
+		"loreType": "RadioPlay",
+		"loreSequenceChapterPostSuccessDT": "datatable/lore_sequence/season19/chapter1.rpak",
+		"radioPlay": "settings/itemflav/radio_play/s21/radio_play_s21_c.rpak",
+		"firstPlaylistBool": "",
+		"secondPlaylistBool": "",
+		"secondQuestItemIcon": "",
+		"secondLoreType": "LoreSequence",
+		"secondLoreSequenceChapterPostSuccessDT": "",
+		"secondRadioPlay": "",
+		"loreSequenceChapterPostSuccessName": "",
+		"questItemName": "",
+		"questItemDesc": "",
+		"loreSequenceQuestItemDT": "",
+		"loreSequenceQuestItemName": "",
+		"rewards": [
+				{
+					"flavor": "settings/itemflav/loadscreen/s21quest_02.rpak",
+					"quantity": 1
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"hasCommunityVote": false
+	}
+}

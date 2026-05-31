@@ -1,0 +1,10 @@
+rigs:
+[
+]
+seqs:
+[
+	animseq\weapons\defender\w_defender\mp_weapon_defender_bloodhound_theoldways_menu_ready_up.rseq
+	animseq\weapons\defender\w_defender\mp_weapon_defender_bloodhound_theoldways_menu_ready_up_idle.rseq
+	animseq\weapons\defender\w_defender\mp_weapon_defender_bloodhound_theoldways_menu_select.rseq
+	animseq\weapons\defender\w_defender\mp_weapon_defender_bloodhound_theoldways_menu_select_idle.rseq
+]

@@ -1,0 +1,56 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_mythic_bundle_layout.rpak",
+	"uniqueId": 634728939,
+	"settings": {
+		"assetName": "settings/itemflav/mythic_bundles/bangalore/apex_predator.rpak",
+		"itemType": "mythic_bundle",
+		"parentItemFlavor": "settings/itemflav/character/bangalore.rpak",
+		"settingsAssetID": "SAID00634728939",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#pack_mythic_bangalore_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "MYTHIC",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"parentItemFlavor": "settings/itemflav/character/bangalore.rpak",
+		"challengeAsset": "settings/itemflav/challenge/mythic/bangalore/apex_predator.rpak",
+		"executionAsset": "settings/itemflav/character_execution/bangalore/tactical_blade.rpak",
+		"skydivetrailAsset": "",
+		"baseSkinName": "#S13E02_BANGALORE_PRETIGE_BASE_NAME",
+		"skinsByTier": [
+				{
+					"skinAsset": "settings/itemflav/character_skin/bangalore/mythic_v22_pilot_level01.rpak",
+					"unlocksAt": 1.000000
+				},
+				{
+					"skinAsset": "settings/itemflav/character_skin/bangalore/mythic_v22_pilot_level02.rpak",
+					"unlocksAt": 2.000000
+				},
+				{
+					"skinAsset": "settings/itemflav/character_skin/bangalore/mythic_v22_pilot_level03.rpak",
+					"unlocksAt": 3.000000
+				}
+			],
+		"storeImagesByTier": [
+				{
+					"storeImage": "rui/menu/heirloom_crafting/mythic_heirloomshop_menuicon_bangalore_t1",
+					"unlocksAt": 1.000000
+				},
+				{
+					"storeImage": "rui/menu/heirloom_crafting/mythic_heirloomshop_menuicon_bangalore_t2",
+					"unlocksAt": 2.000000
+				},
+				{
+					"storeImage": "rui/menu/heirloom_crafting/mythic_heirloomshop_menuicon_bangalore_t3",
+					"unlocksAt": 3.000000
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isExecutionUsableOnTier1AndTier2": false
+	}
+}

@@ -1,0 +1,31 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_skydive_emote_layout.rpak",
+	"uniqueId": 1285115212,
+	"settings": {
+		"assetName": "settings/itemflav/skydive_emote/vantage/epic_v22_huntersafari_batflip.rpak",
+		"itemType": "skydive_emote",
+		"parentItemFlavor": "settings/itemflav/character/vantage.rpak",
+		"settingsAssetID": "SAID01285115212",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#skydive_emote_vantage_batflip_NAME",
+		"localizationKey_NAME_SHORT": "#skydive_emote_vantage_batflip_NAME",
+		"localizationKey_DESCRIPTION_LONG": "#skydive_emote_vantage_batflip_NAME",
+		"localizationKey_DESCRIPTION_SHORT": "#skydive_emote_vantage_batflip_NAME",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/battlepass/skydive_emote_backflip",
+		"tagIcon": "rui/events/s14bp/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "skydive_emote_vantage_epic_v22_huntersafari_batflip",
+		"ownershipTarget": "",
+		"animSequence": "animseq/humans/class/medium/pilot_medium_vantage/vantage_freefall_emote_batflip.rseq",
+		"video": "media/skydive_emotes/vantage_batflip",
+		"bcEvent": "bc_skydive",
+		"multipleOwnershipTargets": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false
+	}
+}

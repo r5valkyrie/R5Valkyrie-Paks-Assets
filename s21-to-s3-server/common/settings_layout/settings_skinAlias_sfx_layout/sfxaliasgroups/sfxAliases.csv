@@ -1,0 +1,3 @@
+"fieldName","dataType","layoutIndex","helpText"
+"sfxAlias","string","0","The SFX Alias we're defining"
+"sfxReal","string","0","The Real SFX Name"

@@ -1,0 +1,3 @@
+"fieldName","dataType","layoutIndex","helpText"
+"parameter","string","0",""
+"setSpecificFX","array_dynamic","0","Specifc FX per Set (Theme) to start when a given ScriptAnimWindow parameter is passed."

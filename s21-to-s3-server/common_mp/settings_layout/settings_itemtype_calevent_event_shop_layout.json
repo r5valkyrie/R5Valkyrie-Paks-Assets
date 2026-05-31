@@ -1,0 +1,12 @@
+{
+	"extraDataSizeIndex": 1,
+	"subLayouts": [
+		"settings_layout/settings_itemtype_calevent_event_shop_layout/dailyChallengeFlavs.csv",
+		"settings_layout/settings_itemtype_calevent_event_shop_layout/eventChallengeFlavs.csv",
+		"settings_layout/settings_itemtype_calevent_event_shop_layout/badgeFlavs.csv",
+		"settings_layout/settings_itemtype_calevent_event_shop_layout/rewardFlavs.csv",
+		"settings_layout/settings_itemtype_calevent_event_shop_layout/offerFlavs.csv",
+		"settings_layout/settings_itemtype_calevent_event_shop_layout/tutorialItems.csv",
+		"settings_layout/settings_itemtype_calevent_event_shop_layout/radioPlayFlavs.csv"
+	]
+}

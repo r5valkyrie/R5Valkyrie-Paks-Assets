@@ -1,0 +1,47 @@
+{
+	"layoutAsset": "settings_layout/settings_skinAlias_vfx_layout.rpak",
+	"settings": {
+		"assetName": "settings/itemflav/vfx_alias/crypto_sword_rt01.rpak",
+		"devDescription": "Crypto_heirloom_rt01 -- In use until Alias system for inspects. all other fx are on script.",
+		"type": "",
+		"vfxaliasgroups": [
+				{
+					"name": "inspects",
+					"vfxAliases": [
+							{
+								"vfxAlias": "P_crypto_sword_swipe_Norefrac",
+								"vfxReal": "P_crypto_sword_rt01_swipe_Norefrac"
+							},
+							{
+								"vfxAlias": "P_crypto_sword_swipe",
+								"vfxReal": "P_crypto_sword_rt01_swipe"
+							},
+							{
+								"vfxAlias": "P_crypto_sword_ins_reboot_core",
+								"vfxReal": "P_crypto_sword_rt01_ins_reboot_core"
+							},
+							{
+								"vfxAlias": "P_crypto_sword_ins_reboot_core_bladeL",
+								"vfxReal": "P_crypto_sword_rt01_ins_reboot_core_bladeL"
+							},
+							{
+								"vfxAlias": "P_crypto_sword_ins_reboot_core_bladeR",
+								"vfxReal": "P_crypto_sword_rt01_ins_reboot_core_bladeR"
+							},
+							{
+								"vfxAlias": "P_crypto_sword_ins_reboot_top",
+								"vfxReal": "P_crypto_sword_rt01_ins_reboot_top"
+							},
+							{
+								"vfxAlias": "P_crypto_sword_ins_reboot_enrg",
+								"vfxReal": "P_crypto_sword_rt01_ins_reboot_enrg"
+							},
+							{
+								"vfxAlias": "P_crypto_sword_ins_reboot_hud",
+								"vfxReal": "P_crypto_sword_rt01_ins_reboot_hud"
+							}
+						]
+				}
+			]
+	}
+}

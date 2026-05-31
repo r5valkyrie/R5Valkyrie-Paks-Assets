@@ -1,0 +1,13 @@
+rigs:
+[
+]
+seqs:
+[
+	animseq\props\pathfinder_grapplehook\pathfinder_grapplehook\freefall_grapplehook_pathfinder_spiderman.rseq
+	animseq\props\pathfinder_grapplehook\pathfinder_grapplehook\grpplehook_ground_emote_jumprope_loop.rseq
+	animseq\props\pathfinder_grapplehook\pathfinder_grapplehook\grpplehook_ground_emote_jumprope_start.rseq
+	animseq\props\pathfinder_grapplehook\pathfinder_grapplehook\grpplehook_ground_emote_lasso.rseq
+	animseq\props\pathfinder_grapplehook\pathfinder_grapplehook\prop_pathfinder_grapple_menu_FN_ready_up.rseq
+	animseq\props\pathfinder_grapplehook\pathfinder_grapplehook\wraith_gladcard_animated_leapofwraith_grapple.rseq
+	animseq\props\pathfinder_grapplehook\pathfinder_grapplehook\wraith_gladcard_animated_leapofwraith_grapple_idle.rseq
+]

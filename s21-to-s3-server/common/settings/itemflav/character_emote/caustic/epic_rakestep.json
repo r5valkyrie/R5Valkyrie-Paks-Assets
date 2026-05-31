@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 1318744688,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/caustic/epic_rakestep.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/caustic.rpak",
+		"settingsAssetID": "SAID01318744688",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#CHAR_EMOTE_008",
+		"localizationKey_NAME_SHORT": "#CHAR_EMOTE_008",
+		"localizationKey_DESCRIPTION_LONG": "#CHAR_EMOTE_008",
+		"localizationKey_DESCRIPTION_SHORT": "#CHAR_EMOTE_008",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/character_emotes/caustic/rakestep",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_caustic_epic_rakestep",
+		"ownershipTarget": "",
+		"anim3p": "caustic_ground_emote_rakestep",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

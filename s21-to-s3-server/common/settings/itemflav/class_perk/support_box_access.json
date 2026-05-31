@@ -1,0 +1,25 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_class_perk_layout.rpak",
+	"uniqueId": 16513276,
+	"settings": {
+		"assetName": "settings/itemflav/class_perk/support_box_access.rpak",
+		"itemType": "character_perk",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00016513276",
+		"__featureFlag": "",
+		"devDescription": "Class perk to access healing item secret compartment",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "#EXTRA_BIN_LOOT_PERK_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#EXTRA_BIN_LOOT_PERK_SHORT_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/gametype_icons/survival/perk_inworld_support",
+		"tagIcon": "rui/hud/gametype_icons/survival/perk_inworld_support",
+		"grxMode": "NONE",
+		"perkScriptRef": "EXTRA_BIN_LOOT",
+		"fullmapSmallIcon": "rui/hud/gametype_icons/survival/perk_minimap_support_mini",
+		"localizationKey_PropName": "#PERK_FEATURE_SUPPORT_LOOTBIN",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

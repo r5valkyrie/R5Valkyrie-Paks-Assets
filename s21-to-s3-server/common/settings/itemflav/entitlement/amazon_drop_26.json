@@ -1,0 +1,48 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_entitlement_layout.rpak",
+	"uniqueId": 518592885,
+	"settings": {
+		"assetName": "settings/itemflav/entitlement/amazon_drop_26.rpak",
+		"itemType": "entitlement",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00518592885",
+		"__featureFlag": "",
+		"devDescription": "Prime Gaming Reward - Drop 26",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"entitlementType": "twitch_prime",
+		"twitchRef": "amazon_drop_26",
+		"twitchRef": "amazon_drop_26",
+		"enum": "",
+		"pc": "",
+		"ps4": "",
+		"xb1": "",
+		"switch": "",
+		"pc_offer": "",
+		"steam_offer": "",
+		"xb1_offer": "",
+		"menuTitleText": "#PRIME_GAMING",
+		"menuDescText": "#PRIME_GAMING_DROP26_ENTITLEMENT_OWNED",
+		"menuImageName": "twitch_promo_46",
+		"menuPersistenceVarName": "",
+		"list": [
+				{
+					"flavor": "settings/itemflav/character/valkyrie.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/pack/thematic_valkyrie.rpak",
+					"quantity": 1
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isMenuEnabled": false
+	}
+}

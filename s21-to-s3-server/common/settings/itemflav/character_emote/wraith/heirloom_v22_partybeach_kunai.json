@@ -1,0 +1,65 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 1175206292,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/wraith/heirloom_v22_partybeach_kunai.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/wraith.rpak",
+		"settingsAssetID": "SAID01175206292",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#ground_emote_wraith_kunai",
+		"localizationKey_NAME_SHORT": "#ground_emote_wraith_kunai",
+		"localizationKey_DESCRIPTION_LONG": "#ground_emote_wraith_kunai",
+		"localizationKey_DESCRIPTION_SHORT": "#ground_emote_wraith_kunai",
+		"quality": "MYTHIC",
+		"icon": "rui/menu/buttons/character_emotes/wraith/kunai",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_wraith_heirloom_v22_partybeach_kunai",
+		"ownershipTarget": "",
+		"anim3p": "wraith_ground_emote_kunai",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "wraith_ground_emote_kunai_loop",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+				{
+					"sequence": "wraith_ground_emote_kunai_beam",
+					"weight": 5,
+					"flourishEndsLoop": true
+				},
+				{
+					"sequence": "wraith_ground_emote_kunai_finish",
+					"weight": 5,
+					"flourishEndsLoop": true
+				},
+				{
+					"sequence": "wraith_ground_emote_kunai_spin",
+					"weight": 10,
+					"flourishEndsLoop": false
+				},
+				{
+					"sequence": "wraith_ground_emote_kunai_kick",
+					"weight": 10,
+					"flourishEndsLoop": false
+				},
+				{
+					"sequence": "wraith_ground_emote_kunai_easter",
+					"weight": 1,
+					"flourishEndsLoop": true
+				}
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

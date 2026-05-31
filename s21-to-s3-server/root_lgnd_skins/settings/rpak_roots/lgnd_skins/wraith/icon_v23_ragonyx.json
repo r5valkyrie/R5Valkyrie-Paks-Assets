@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/wraith/icon_v23_ragonyx.rpak",
+		"roots": [
+				{
+					"asset": "mdl/humans/class/light/wraith_v23_ragonyx_w.rmdl",
+					"featureFlag": ""
+				},
+				{
+					"asset": "mdl/weapons/arms/wraith_v23_ragonyx_v.rmdl",
+					"featureFlag": ""
+				}
+			]
+	}
+}

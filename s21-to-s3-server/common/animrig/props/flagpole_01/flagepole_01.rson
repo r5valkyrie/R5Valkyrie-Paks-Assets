@@ -1,0 +1,11 @@
+seqs:
+[
+	animseq\props\flagpole_01\flagepole_01\flagpole_madmaggie_gladcard_animated_flagplant.rseq
+	animseq\props\flagpole_01\flagepole_01\flagpole_madmaggie_gladcard_animated_flagplant_idle.rseq
+	animseq\props\flagpole_01\flagepole_01\prop_flag_Ash_ground_emote_Flag_loop.rseq
+	animseq\props\flagpole_01\flagepole_01\prop_flag_Ash_ground_emote_Flag_start.rseq
+	animseq\props\flagpole_01\flagepole_01\prop_flag_bloodhound_ground_emote_Flag.rseq
+	animseq\props\flagpole_01\flagepole_01\prop_flag_bloodhound_ground_emote_Flag_loop.rseq
+	animseq\props\flagpole_01\flagepole_01\prop_flag_Fuse_ground_emote_Flag_loop.rseq
+	animseq\props\flagpole_01\flagepole_01\prop_flag_Fuse_ground_emote_Flag_start.rseq
+]

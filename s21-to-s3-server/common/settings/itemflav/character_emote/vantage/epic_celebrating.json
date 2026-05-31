@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 694637448,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/vantage/epic_celebrating.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/vantage.rpak",
+		"settingsAssetID": "SAID00694637448",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#ground_emote_vantage_celebrating_NAME",
+		"localizationKey_NAME_SHORT": "#ground_emote_vantage_celebrating_NAME",
+		"localizationKey_DESCRIPTION_LONG": "#ground_emote_vantage_celebrating_NAME",
+		"localizationKey_DESCRIPTION_SHORT": "#ground_emote_vantage_celebrating_NAME",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/character_emotes/vantage/celebrating",
+		"tagIcon": "rui/events/s17ce01/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_vantage_epic_celebrating",
+		"ownershipTarget": "",
+		"anim3p": "vantage_ground_emote_celebrating",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

@@ -1,0 +1,36 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_emote_icon_layout.rpak",
+	"uniqueId": 1060924043,
+	"settings": {
+		"assetName": "settings/itemflav/emote_icon/caustic/legendary_01.rpak",
+		"itemType": "emote_icon",
+		"parentItemFlavor": "settings/itemflav/character/caustic.rpak",
+		"settingsAssetID": "SAID01060924043",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#spray_caustic_lgnd_01",
+		"localizationKey_NAME_SHORT": "#spray_caustic_lgnd_01",
+		"localizationKey_DESCRIPTION_LONG": "#spray_caustic_lgnd_01",
+		"localizationKey_DESCRIPTION_SHORT": "#spray_caustic_lgnd_01",
+		"quality": "LEGENDARY",
+		"icon": "rui/menu/holosprays/hspray_lgnd_v20_caustic_01_col",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "emote_icon_caustic_legendary_01",
+		"ownershipTarget": "",
+		"anim3p": "",
+		"holoProjectorSprayModel": "mdl/props/holo_spray/spray_lgnd_v20_caustic_01.rmdl",
+		"quickchatAliasSubName": "",
+		"customSkinMenuBlurb": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<0.949000,0.569000,0.051000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,0.518000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": true,
+		"holoProjectorUseEffectColor2": true,
+		"isTheEmpty": false
+	}
+}

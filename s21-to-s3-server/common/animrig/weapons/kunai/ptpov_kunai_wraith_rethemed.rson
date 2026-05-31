@@ -1,0 +1,11 @@
+seqs:
+[
+	animseq\weapons\kunai\ptpov_kunai_wraith_rethemed\drawfirst_onehanded_rethemed.rseq
+	animseq\weapons\kunai\ptpov_kunai_wraith_rethemed\drawfirst_rethemed.rseq
+	animseq\weapons\kunai\ptpov_kunai_wraith_rethemed\melee_idle_rethemed.rseq
+	animseq\weapons\kunai\ptpov_kunai_wraith_rethemed\melee_idle_swipe_rethemed.rseq
+	animseq\weapons\kunai\ptpov_kunai_wraith_rethemed\melee_jump_airsprint_rethemed.rseq
+	animseq\weapons\kunai\ptpov_kunai_wraith_rethemed\melee_jump_rethemed.rseq
+	animseq\weapons\kunai\ptpov_kunai_wraith_rethemed\melee_sprinting_rethemed.rseq
+	animseq\weapons\kunai\ptpov_kunai_wraith_rethemed\sprint_cam_layer_rethemed.rseq
+]

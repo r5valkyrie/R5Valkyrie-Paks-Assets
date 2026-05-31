@@ -1,0 +1,19 @@
+seqs:
+[
+	animseq\creatures\rat\ash_rat_v21_animrig\ash_rat_gladcard_animated_armblade.rseq
+	animseq\creatures\rat\ash_rat_v21_animrig\ash_rat_gladcard_animated_ratcrawl.rseq
+	animseq\creatures\rat\ash_rat_v21_animrig\ash_rat_gladcard_animated_ratcrawl_idle.rseq
+	animseq\creatures\rat\ash_rat_v21_animrig\ash_rat_gladcard_static_common.rseq
+	animseq\creatures\rat\ash_rat_v21_animrig\ash_rat_gladcard_static_labrat.rseq
+	animseq\creatures\rat\ash_rat_v21_animrig\ash_rat_heirloom_inspect_kata_easteregg.rseq
+	animseq\creatures\rat\ash_rat_v21_animrig\ash_rat_heirloom_inspect_rat.rseq
+	animseq\creatures\rat\ash_rat_v21_animrig\Ash_rat_menu_lobby_right.rseq
+	animseq\creatures\rat\ash_rat_v21_animrig\prop_ash_base_execution_rat.rseq
+	animseq\creatures\rat\ash_rat_v21_animrig\prop_ash_rat_idleloot.rseq
+	animseq\creatures\rat\ash_rat_v21_animrig\prop_ash_rat_menu_lobby_center_rat.rseq
+	animseq\creatures\rat\ash_rat_v21_animrig\rat_ash_freefall_emote_swimmingmouse.rseq
+	animseq\creatures\rat\ash_rat_v21_animrig\rat_ash_ground_emote_meditating_loop.rseq
+	animseq\creatures\rat\ash_rat_v21_animrig\rat_ash_ground_emote_meditating_start.rseq
+	animseq\creatures\rat\ash_rat_v21_animrig\rat_ash_ground_emote_taunt.rseq
+	animseq\humans\class\medium\pilot_medium_ash\ash_ground_emote_sharpening\rat_ash_ground_emote_sharpening.rseq
+]

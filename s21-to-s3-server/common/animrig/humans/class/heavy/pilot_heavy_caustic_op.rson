@@ -1,0 +1,7 @@
+seqs:
+[
+	animseq\humans\class\heavy\pilot_heavy_caustic_op\caustic_op_menu_select.rseq
+	animseq\humans\class\heavy\pilot_heavy_caustic_op\caustic_op_menu_select_idle.rseq
+	animseq\humans\class\heavy\pilot_heavy_caustic_op\caustic_op_menu_select_readyup.rseq
+	animseq\humans\class\heavy\pilot_heavy_caustic_op\caustic_op_menu_select_readyup_idle.rseq
+]

@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 1765038929,
+	"settings": {
+		"assetName": "settings/itemflav/ability/upgrade_maggie_thermite_explosion.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01765038929",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#UPGRADE_MAGGIE_ULT_FIRE_BALL_NAME",
+		"localizationKey_NAME_SHORT": "#UPGRADE_TYPE_ULTIMATE",
+		"localizationKey_DESCRIPTION_LONG": "#UPGRADE_MAGGIE_ULT_FIRE_BALL_LONG_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#UPGRADE_MAGGIE_ULT_FIRE_BALL_SHORT_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/legend_upgrades/madmaggie_fireball_icon",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_ULT_UPGRADE_TWO",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

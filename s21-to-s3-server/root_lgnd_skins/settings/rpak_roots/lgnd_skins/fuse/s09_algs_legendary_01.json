@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/fuse/s09_algs_legendary_01.rpak",
+		"roots": [
+				{
+					"asset": "mdl/Humans/class/medium/fuse_v21_origins_w.rmdl",
+					"featureFlag": ""
+				},
+				{
+					"asset": "mdl/Weapons/arms/fuse_v21_origins_v.rmdl",
+					"featureFlag": ""
+				}
+			]
+	}
+}

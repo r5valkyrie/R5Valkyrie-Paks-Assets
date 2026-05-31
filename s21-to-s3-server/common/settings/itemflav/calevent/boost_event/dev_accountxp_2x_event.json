@@ -1,0 +1,42 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_calevent_boost_event_layout.rpak",
+	"uniqueId": 1129240352,
+	"settings": {
+		"assetName": "settings/itemflav/calevent/boost_event/dev_accountxp_2x_event.rpak",
+		"itemType": "calevent_boost_event",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01129240352",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#DEV_BOOSTEVENT_2X_XP_TITLE_FROM_EVENT",
+		"localizationKey_NAME_SHORT": "#DEV_BOOSTEVENT_2X_XP_TITLE_FROM_EVENT",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"revealUnixTime": "",
+		"hideUnixTime": "",
+		"defaultStartTime": "2023-05-09 10:00:00 -07:00",
+		"defaultFinishTime": "2023-08-08 10:00:00 -07:00",
+		"eventId": "dev_s17_accountxp_global_2x_event",
+		"typeId": "settings/itemflav/boost_type/dev_accountxp_global_2x.rpak",
+		"condition_party": "INHERIT",
+		"boostReqDescription": "",
+		"uiModifierSummary": "",
+		"uiBadgeIconSmall": "",
+		"conditions_gamemode": [
+			],
+		"conditions_region": [
+			],
+		"conditions_platform": [
+			],
+		"boostCategory": 3,
+		"uiModifierSummaryAmount": 0.000000,
+		"uiColor": "<0.900000,0.668000,0.000000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isDevEvent": true
+	}
+}

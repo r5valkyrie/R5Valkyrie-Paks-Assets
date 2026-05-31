@@ -1,0 +1,29 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_battlepass_presale_voucher_layout.rpak",
+	"uniqueId": 940740598,
+	"settings": {
+		"assetName": "settings/itemflav/battlepass_presale_voucher/default.rpak",
+		"itemType": "battlepass_presale_voucher",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00940740598",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"grxMode": "NONE",
+		"grxRef": "",
+		"ownershipTarget": "",
+		"displayImage": "",
+		"marketplaceOfferAlias": "",
+		"multipleOwnershipTargets": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

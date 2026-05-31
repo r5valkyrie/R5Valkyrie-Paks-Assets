@@ -1,0 +1,4 @@
+"fieldName","dataType","layoutIndex","helpText"
+"flavor","asset_noprecache","0",""
+"characterRef","asset_noprecache","0",""
+"featureFlag","string","0","The reference will be ignored if the specified feature flag is disabled."

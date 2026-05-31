@@ -1,0 +1,9 @@
+{
+	"extraDataSizeIndex": 1,
+	"subLayouts": [
+		"settings_layout/settings_itemtype_boost_type_layout/effects.csv",
+		"settings_layout/settings_itemtype_boost_type_layout/conditions_gamemode.csv",
+		"settings_layout/settings_itemtype_boost_type_layout/conditions_region.csv",
+		"settings_layout/settings_itemtype_boost_type_layout/conditions_platform.csv"
+	]
+}

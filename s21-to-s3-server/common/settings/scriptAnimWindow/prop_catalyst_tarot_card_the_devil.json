@@ -1,0 +1,10 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_SetPropSkin_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/prop_catalyst_tarot_card_the_devil.rpak",
+		"devDescription": "",
+		"type": "SetPropSkin",
+		"skinName": "tarot_the_devil",
+		"camoIndex": 2
+	}
+}

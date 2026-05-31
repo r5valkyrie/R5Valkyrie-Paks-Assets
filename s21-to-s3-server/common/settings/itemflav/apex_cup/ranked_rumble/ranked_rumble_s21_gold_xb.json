@@ -1,0 +1,88 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_apex_cup_layout.rpak",
+	"uniqueId": 1081545983,
+	"settings": {
+		"assetName": "settings/itemflav/apex_cup/ranked_rumble/ranked_rumble_s21_gold_xb.rpak",
+		"itemType": "apex_cup",
+		"parentItemFlavor": "settings/itemflav/apex_cup/ranked_rumble/ranked_rumble_s21_gold_pc.rpak",
+		"settingsAssetID": "SAID01081545983",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#RANKED_RUMBLE_TEST_CUP_3",
+		"localizationKey_NAME_SHORT": "#RANKED_RUMBLE_TEST_CUP_3",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"platform": "xb",
+		"minRankScore": "#RANKED_TIER_GOLD",
+		"maxRankScore": "#RANKED_TIER_GOLD",
+		"requiredMMRBucket": 1,
+		"minEntryLevel": 20,
+		"tiers": [
+				{
+					"tierType": "ABSOLUTE",
+					"tierIcon": "",
+					"bound": 100,
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/grx_currency/credits.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"tierType": "PERCENTILE",
+					"tierIcon": "",
+					"bound": 75,
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/grx_currency/credits.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"tierType": "PERCENTILE",
+					"tierIcon": "",
+					"bound": 50,
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/grx_currency/credits.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"tierType": "PERCENTILE",
+					"tierIcon": "",
+					"bound": 20,
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/grx_currency/credits.rpak",
+								"quantity": 1
+							}
+						]
+				},
+				{
+					"tierType": "PERCENTILE",
+					"tierIcon": "",
+					"bound": 100,
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/grx_currency/credits.rpak",
+								"quantity": 1
+							}
+						]
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"hasMMREntryRequirement": false,
+		"hasMinLevelLimit": false,
+		"hasMinRankLimit": true,
+		"hasMaxRankLimit": false
+	}
+}

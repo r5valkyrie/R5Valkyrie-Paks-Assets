@@ -1,0 +1,13 @@
+rigs:
+[
+	animrig\robots\marvin\marvin_base_v2.rrig
+]
+seqs:
+[
+	animseq\robots\marvin\marvin_anims\mv_idle_weld.rseq
+	animseq\robots\marvin\marvin_anims\mv_repair_ship_above.rseq
+	animseq\robots\marvin\marvin_anims\mv_trafic_controller_A.rseq
+	animseq\robots\marvin\marvin_anims\playback_mv_marvin_CPR_skit.rseq
+	animseq\robots\marvin\marvin_anims\RC_mv_idle.rseq
+	animseq\robots\marvin\marvin_anims\Walk_all_v2.rseq
+]

@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/seer/epicp_v23_christmas.rpak",
+		"roots": [
+				{
+					"asset": "mdl/techart/mshop/characters/legends/seer/seer_base_w.rmdl",
+					"featureFlag": "HAS_19_0_RELEASE"
+				},
+				{
+					"asset": "mdl/techart/mshop/characters/legends/seer/seer_base_v.rmdl",
+					"featureFlag": "HAS_19_0_RELEASE"
+				}
+			]
+	}
+}

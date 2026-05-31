@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 1698632292,
+	"settings": {
+		"assetName": "settings/itemflav/ability/loba_pas_eye_for_quality.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01698632292",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#LOBA_PAS_EYE_FOR_QUALITY_NAME",
+		"localizationKey_NAME_SHORT": "#LOBA_PAS_EYE_FOR_QUALITY_NAME",
+		"localizationKey_DESCRIPTION_LONG": "#LOBA_PAS_EYE_FOR_QUALITY_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#LOBA_PAS_EYE_FOR_QUALITY_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/passive_icons/passive_loba",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_LOBA_EYE_FOR_QUALITY",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

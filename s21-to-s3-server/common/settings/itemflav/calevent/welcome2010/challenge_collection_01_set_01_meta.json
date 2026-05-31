@@ -1,0 +1,68 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_challenge_layout.rpak",
+	"uniqueId": 1172427911,
+	"settings": {
+		"assetName": "settings/itemflav/calevent/welcome2010/challenge_collection_01_set_01_meta.rpak",
+		"itemType": "challenge",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01172427911",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "#META_CHALLENGE_COLLECTION_DESC",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"typeOfMetaChallenge": "CHALLENGE_SET",
+		"challengeSet": "settings/itemflav/calevent/welcome2010/challenge_collection_01_set_01.rpak",
+		"challengeCollection": "settings/itemflav/calevent/welcome2010/challenge_collection_01.rpak",
+		"rewardCampaign": "",
+		"timeSpan": "BEGINNER",
+		"autogenSlot": "SLOT_00",
+		"autogenScriptHook": "ON_PLAYER_WIN",
+		"difficulty": "MEDIUM",
+		"mode": "NON_MODE",
+		"modeAlt": "BATTLE_ROYALE",
+		"grxRewardSequenceRef": "rewardseq_welcome_s20_1_meta",
+		"weekNumber": 0,
+		"tiers": [
+				{
+					"description": "#CHALLENGE_COLLECTION",
+					"statRef": "",
+					"descriptionAlt": "",
+					"statRefAlt": "",
+					"progressAccrual": "startAtZero",
+					"matchRequirement": "none",
+					"goalVal": 0,
+					"goalValAlt": 0,
+					"characters": [
+						],
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/pack/thematic_bangalore.rpak",
+								"quantity": 1
+							}
+						],
+					"convertSecondsToMinutesDisplay": false
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isMetaChallenge": true,
+		"autoGenerateStatBacker": false,
+		"isBoostEnabled": false,
+		"isEitherOr": false,
+		"isRerollEnabled": true,
+		"isPremium": false,
+		"isGoldenScheme": false,
+		"maxOneTierPerMatch": false,
+		"lastTierIsInfinite": false,
+		"pinnedLocal": true,
+		"excludeFromPostMatchSummary": false,
+		"hasGRXRewardSequenceForPDEF": true,
+		"grxRewardSequenceAllowsSkipAhead": false
+	}
+}

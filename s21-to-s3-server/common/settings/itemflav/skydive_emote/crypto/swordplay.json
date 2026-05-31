@@ -1,0 +1,31 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_skydive_emote_layout.rpak",
+	"uniqueId": 1586516610,
+	"settings": {
+		"assetName": "settings/itemflav/skydive_emote/crypto/swordplay.rpak",
+		"itemType": "skydive_emote",
+		"parentItemFlavor": "settings/itemflav/character/crypto.rpak",
+		"settingsAssetID": "SAID01586516610",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#EMOTE_009",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/battlepass/skydive_emote_swordplay",
+		"tagIcon": "rui/events/s05e01/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "skydive_emote_crypto_swordplay",
+		"ownershipTarget": "",
+		"animSequence": "animseq/humans/class/medium/pilot_medium_crypto/crypto_freefall_emote_swordplay.rseq",
+		"video": "media/skydive_emotes/crypto_swordplay",
+		"bcEvent": "bc_skydive",
+		"multipleOwnershipTargets": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false
+	}
+}

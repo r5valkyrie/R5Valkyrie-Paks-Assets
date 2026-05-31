@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 920185265,
+	"settings": {
+		"assetName": "settings/itemflav/ability/rampart_pas_gunner.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00920185265",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#GEAR_GUNNER",
+		"localizationKey_NAME_SHORT": "#GEAR_GUNNER",
+		"localizationKey_DESCRIPTION_LONG": "#GEAR_GUNNER_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#GEAR_GUNNER_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/passive_icons/passive_rampart",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_GUNNER",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

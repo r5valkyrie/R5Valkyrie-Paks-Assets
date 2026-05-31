@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 1234584322,
+	"settings": {
+		"assetName": "settings/itemflav/ability/maggie_pas_warlords_ire.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01234584322",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#PAS_WARLORDS_IRE",
+		"localizationKey_NAME_SHORT": "#PAS_WARLORDS_IRE",
+		"localizationKey_DESCRIPTION_LONG": "#PAS_WARLORDS_IRE_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#PAS_WARLORDS_IRE_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/passive_icons/passive_maggie",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_WARLORDS_IRE",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

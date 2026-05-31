@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 1029947447,
+	"settings": {
+		"assetName": "settings/itemflav/ability/upgrade_fuse_knuckle_cluster_speed_boost.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01029947447",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#UPGRADE_FUSE_TAC_SPEED_BOOST_NAME",
+		"localizationKey_NAME_SHORT": "#UPGRADE_TYPE_TACTICAL",
+		"localizationKey_DESCRIPTION_LONG": "#UPGRADE_FUSE_TAC_SPEED_BOOST_LONG_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#UPGRADE_FUSE_TAC_SPEED_BOOST_SHORT_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/legend_upgrades/fuse_explosive_icon",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_TAC_UPGRADE_ONE",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

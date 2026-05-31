@@ -1,0 +1,10 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_SetPropSkin_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/melee_revenant_scythe_rt01.rpak",
+		"devDescription": "",
+		"type": "SetPropSkin",
+		"skinName": "scythe_rt01",
+		"camoIndex": 0
+	}
+}

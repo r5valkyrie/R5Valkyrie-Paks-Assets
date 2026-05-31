@@ -1,0 +1,31 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_skydive_emote_layout.rpak",
+	"uniqueId": 1004823914,
+	"settings": {
+		"assetName": "settings/itemflav/skydive_emote/valkyrie/epic_v23_resdopa_backflip.rpak",
+		"itemType": "skydive_emote",
+		"parentItemFlavor": "settings/itemflav/character/valkyrie.rpak",
+		"settingsAssetID": "SAID01004823914",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#skydive_emote_valkyrie_epic_backflip_NAME",
+		"localizationKey_NAME_SHORT": "#skydive_emote_valkyrie_epic_backflip_NAME",
+		"localizationKey_DESCRIPTION_LONG": "#skydive_emote_valkyrie_epic_backflip_NAME",
+		"localizationKey_DESCRIPTION_SHORT": "#skydive_emote_valkyrie_epic_backflip_NAME",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/battlepass/skydive_emote_backflip",
+		"tagIcon": "rui/events/s18bp/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "skydive_emote_valkyrie_epic_v23_resdopa_backflip",
+		"ownershipTarget": "",
+		"animSequence": "animseq/humans/class/medium/pilot_medium_valkyrie/valkyrie_freefall_emote_epic_v23_resdopa_backflip.rseq",
+		"video": "media/skydive_emotes/valkyrie_backflip",
+		"bcEvent": "",
+		"multipleOwnershipTargets": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false
+	}
+}

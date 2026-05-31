@@ -1,0 +1,34 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_class_layout.rpak",
+	"uniqueId": 34801691,
+	"settings": {
+		"assetName": "settings/itemflav/class/assault_class.rpak",
+		"itemType": "character_class",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00034801691",
+		"__featureFlag": "",
+		"devDescription": "Assault Class",
+		"localizationKey_NAME": "#ROLE_ASSAULT",
+		"localizationKey_NAME_SHORT": "#ASSAULT_SHORT_NAME",
+		"localizationKey_DESCRIPTION_LONG": "#ASSAULT_LONG_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#ROLE_ASSAULT_SUBTITLE",
+		"quality": "NONE",
+		"icon": "rui/menu/character_select/utility/role_offense",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"role": "OFFENSE",
+		"uiColor": "<0.920000,0.200000,0.200000>",
+		"perks": [
+				{
+					"flavor": "settings/itemflav/class_perk/munitions_box_access.rpak",
+					"featureFlag": "HAS_PERK_SYSTEM"
+				},
+				{
+					"flavor": "settings/itemflav/class_perk/extra_ammo.rpak",
+					"featureFlag": "HAS_PERK_SYSTEM"
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

@@ -1,0 +1,9 @@
+seqs:
+[
+	animseq\props\artifact_dagger_smear\prop_smear_artifact_dagger_melee.rseq
+	animseq\props\artifact_dagger_smear\prop_smear_artifact_dagger_melee_crouch.rseq
+	animseq\props\artifact_dagger_smear\prop_smear_artifact_dagger_melee_crouch_spin.rseq
+	animseq\props\artifact_dagger_smear\prop_smear_artifact_dagger_melee_jump.rseq
+	animseq\props\artifact_dagger_smear\prop_smear_artifact_dagger_melee_jump_strike.rseq
+	animseq\props\artifact_dagger_smear\prop_smear_artifact_dagger_melee_spin.rseq
+]

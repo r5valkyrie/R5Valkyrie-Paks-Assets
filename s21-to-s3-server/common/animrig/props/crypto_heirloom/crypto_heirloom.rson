@@ -1,0 +1,12 @@
+seqs:
+[
+	animseq\props\crypto_heirloom\crypto_heirloom\crypto_gladcard_animated_heirloom_sword.rseq
+	animseq\props\crypto_heirloom\crypto_heirloom\crypto_gladcard_animated_heirloom_sword_idle.rseq
+	animseq\props\crypto_heirloom\crypto_heirloom\crypto_gladcard_animated_heirloom_sword_rt01.rseq
+	animseq\props\crypto_heirloom\crypto_heirloom\mp_heirloom_crypto_biwon_execution.rseq
+	animseq\props\crypto_heirloom\crypto_heirloom\mp_heirloom_crypto_biwon_execution_loot.rseq
+	animseq\props\crypto_heirloom\crypto_heirloom\mp_heirloom_crypto_biwon_execution_rt01.rseq
+	animseq\props\crypto_heirloom\crypto_heirloom\sword_crypto_antenna_hack_end.rseq
+	animseq\props\crypto_heirloom\crypto_heirloom\sword_crypto_antenna_hack_mid.rseq
+	animseq\props\crypto_heirloom\crypto_heirloom\sword_crypto_antenna_hack_start.rseq
+]

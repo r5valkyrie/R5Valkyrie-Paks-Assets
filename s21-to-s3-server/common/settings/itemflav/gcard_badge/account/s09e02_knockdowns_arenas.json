@@ -1,0 +1,44 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_badge_layout.rpak",
+	"uniqueId": 2011118288,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_badge/account/s09e02_knockdowns_arenas.rpak",
+		"itemType": "gladiator_card_badge",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID02011118288",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#S09E02_BADGE_2_NAME",
+		"localizationKey_NAME_SHORT": "#S09E02_BADGE_2_NAME",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "#S09E02_BADGE_2_DESC",
+		"quality": "EPIC",
+		"icon": "rui/gladiator_cards/badges/s09e02_knockdowns_arenas",
+		"tagIcon": "rui/events/s09e02/item_source_icon",
+		"grxMode": "NONE",
+		"grxMode": "NONE",
+		"grxRef": "gcard_badge_account_s08e01_ringfury_challenge_1",
+		"ownershipTarget": "",
+		"exclusiveFunc": "",
+		"unlockStatRef": "stats.s09e02_02_arenas_dooms",
+		"dynamicTextStatRef": "",
+		"badgeCategory": "MENU_BADGE_EVENT",
+		"multipleOwnershipTargets": [
+			],
+		"tiers": [
+				{
+					"imageAsset": "rui/gladiator_cards/badges/s09e02_knockdowns_arenas",
+					"ruiAsset": "",
+					"unlocksAt": 100.000000
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false,
+		"exclusive": false,
+		"shouldHideIfLocked": true,
+		"isCharacterBadge": false,
+		"hasOwnRui": false,
+		"isOversizedImage": true
+	}
+}

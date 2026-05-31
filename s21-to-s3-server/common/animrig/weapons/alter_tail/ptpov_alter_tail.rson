@@ -1,0 +1,23 @@
+seqs:
+[
+	animseq\weapons\alter_tail\ptpov_alter_tail\ptpov_alter_mozam_firstdraw.rseq
+	animseq\weapons\alter_tail\ptpov_alter_tail\ptpov_alter_p2020_firstdraw.rseq
+	animseq\weapons\alter_tail\ptpov_alter_tail\ptpov_alter_tac_fire.rseq
+	animseq\weapons\alter_tail\ptpov_alter_tail\ptpov_alter_tac_fire_fail.rseq
+	animseq\weapons\alter_tail\ptpov_alter_tail\ptpov_alter_tac_fire_sprint.rseq
+	animseq\weapons\alter_tail\ptpov_alter_tail\ptpov_alter_tac_holster.rseq
+	animseq\weapons\alter_tail\ptpov_alter_tail\ptpov_alter_tac_idle.rseq
+	animseq\weapons\alter_tail\ptpov_alter_tail\ptpov_alter_tac_idle_sprint.rseq
+	animseq\weapons\alter_tail\ptpov_alter_tail\ptpov_alter_tac_idle_to_sprint.rseq
+	animseq\weapons\alter_tail\ptpov_alter_tail\ptpov_alter_tac_jump.rseq
+	animseq\weapons\alter_tail\ptpov_alter_tail\ptpov_alter_tac_land.rseq
+	animseq\weapons\alter_tail\ptpov_alter_tail\ptpov_alter_tac_land_high.rseq
+	animseq\weapons\alter_tail\ptpov_alter_tail\ptpov_alter_tac_land_low.rseq
+	animseq\weapons\alter_tail\ptpov_alter_tail\ptpov_alter_tac_land_med.rseq
+	animseq\weapons\alter_tail\ptpov_alter_tail\ptpov_alter_tac_pullout.rseq
+	animseq\weapons\alter_tail\ptpov_alter_tail\ptpov_alter_tac_pullout_sprint.rseq
+	animseq\weapons\alter_tail\ptpov_alter_tail\ptpov_alter_tac_pullout_sprint_trans.rseq
+	animseq\weapons\alter_tail\ptpov_alter_tail\ptpov_alter_tac_pullout_trans.rseq
+	animseq\weapons\alter_tail\ptpov_alter_tail\ptpov_alter_tac_raise.rseq
+	animseq\weapons\alter_tail\ptpov_alter_tail\ptpov_alter_tac_sprint_to_idle.rseq
+]

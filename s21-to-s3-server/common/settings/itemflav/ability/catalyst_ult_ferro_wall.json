@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 757589417,
+	"settings": {
+		"assetName": "settings/itemflav/ability/catalyst_ult_ferro_wall.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00757589417",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#WPN_FERRO_WALL",
+		"localizationKey_NAME_SHORT": "#WPN_FERRO_WALL",
+		"localizationKey_DESCRIPTION_LONG": "#WPN_FERRO_WALL_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#WPN_FERRO_WALL_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/ultimate_icons/ultimate_catalyst",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "mp_weapon_ferro_wall",
+		"passiveScriptRef": "",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

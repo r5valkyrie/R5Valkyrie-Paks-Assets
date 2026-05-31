@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 820491914,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/mirage/epic_v23_evilvoidwalker.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/mirage.rpak",
+		"settingsAssetID": "SAID00820491914",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#CHAR_EMOTE_evilvoidwalker",
+		"localizationKey_NAME_SHORT": "#CHAR_EMOTE_evilvoidwalker",
+		"localizationKey_DESCRIPTION_LONG": "#CHAR_EMOTE_evilvoidwalker",
+		"localizationKey_DESCRIPTION_SHORT": "#CHAR_EMOTE_evilvoidwalker",
+		"quality": "EPIC",
+		"icon": "rui/hud/character_emotes/mirage/icon_character_emote_mirage_evilvoidwalker",
+		"tagIcon": "rui/events/s21bp/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_mirage_epic_v23_evilvoidwalker",
+		"ownershipTarget": "",
+		"anim3p": "mirage_ground_emote_evilvoidwalker",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

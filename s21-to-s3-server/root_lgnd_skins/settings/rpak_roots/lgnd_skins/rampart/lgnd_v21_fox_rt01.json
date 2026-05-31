@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/rampart/lgnd_v21_fox_rt01.rpak",
+		"roots": [
+				{
+					"asset": "mdl/content/r2/models/Humans/class/medium/rampart/dmx/rampart_v21_jpnlegacy02_w.rmdl",
+					"featureFlag": "HAS_20_0_RELEASE"
+				},
+				{
+					"asset": "mdl/content/r2/models/Humans/class/medium/rampart/dmx/rampart_v21_jpnlegacy02_v.rmdl",
+					"featureFlag": "HAS_20_0_RELEASE"
+				}
+			]
+	}
+}

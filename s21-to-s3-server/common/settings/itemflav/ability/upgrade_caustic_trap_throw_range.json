@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 1160385998,
+	"settings": {
+		"assetName": "settings/itemflav/ability/upgrade_caustic_trap_throw_range.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01160385998",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#UPGRADE_CAUSTIC_TAC_THROW_RANGE_NAME",
+		"localizationKey_NAME_SHORT": "#UPGRADE_TYPE_TACTICAL",
+		"localizationKey_DESCRIPTION_LONG": "#UPGRADE_CAUSTIC_TAC_THROW_RANGE_LONG_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#UPGRADE_CAUSTIC_TAC_THROW_RANGE_SHORT_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/legend_upgrades/caustic_lightweight_icon",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_MOD_UPGRADE_ONLY",
+		"passiveWeaponMod": "upgrade_trap_throw_range",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

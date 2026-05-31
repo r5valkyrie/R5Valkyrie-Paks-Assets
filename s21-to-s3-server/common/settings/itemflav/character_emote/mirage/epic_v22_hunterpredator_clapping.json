@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 1970032885,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/mirage/epic_v22_hunterpredator_clapping.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/mirage.rpak",
+		"settingsAssetID": "SAID01970032885",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#ground_emote_mirage_clapping",
+		"localizationKey_NAME_SHORT": "#ground_emote_mirage_clapping",
+		"localizationKey_DESCRIPTION_LONG": "#ground_emote_mirage_clapping",
+		"localizationKey_DESCRIPTION_SHORT": "#ground_emote_mirage_clapping",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/character_emotes/mirage/clapping",
+		"tagIcon": "rui/events/s14e01/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_mirage_epic_v22_hunterpredator_clapping",
+		"ownershipTarget": "",
+		"anim3p": "mirage_ground_emote_clapping",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

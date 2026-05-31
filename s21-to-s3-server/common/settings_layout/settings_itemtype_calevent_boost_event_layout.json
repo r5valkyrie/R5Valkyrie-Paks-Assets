@@ -1,0 +1,8 @@
+{
+	"extraDataSizeIndex": 1,
+	"subLayouts": [
+		"settings_layout/settings_itemtype_calevent_boost_event_layout/conditions_gamemode.csv",
+		"settings_layout/settings_itemtype_calevent_boost_event_layout/conditions_region.csv",
+		"settings_layout/settings_itemtype_calevent_boost_event_layout/conditions_platform.csv"
+	]
+}

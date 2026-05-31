@@ -1,0 +1,54 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_badge_layout.rpak",
+	"uniqueId": 912461705,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_badge/account/s03e02_main.rpak",
+		"itemType": "gladiator_card_badge",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00912461705",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#S03E02_BADGE_NAME",
+		"localizationKey_NAME_SHORT": "#S03E02_BADGE_NAME",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "#S03E02_BADGE_DESC",
+		"quality": "EPIC",
+		"icon": "",
+		"tagIcon": "rui/events/s03e02/item_source_icon",
+		"grxMode": "NONE",
+		"grxMode": "NONE",
+		"grxRef": "",
+		"ownershipTarget": "",
+		"exclusiveFunc": "",
+		"unlockStatRef": "stats.s03e02_winter_express_captures",
+		"dynamicTextStatRef": "",
+		"badgeCategory": "MENU_BADGE_EVENT",
+		"multipleOwnershipTargets": [
+			],
+		"tiers": [
+				{
+					"imageAsset": "rui/gladiator_cards/badges/s03e02_main_tier1",
+					"ruiAsset": "",
+					"unlocksAt": 3.000000
+				},
+				{
+					"imageAsset": "rui/gladiator_cards/badges/s03e02_main_tier2",
+					"ruiAsset": "",
+					"unlocksAt": 15.000000
+				},
+				{
+					"imageAsset": "rui/gladiator_cards/badges/s03e02_main_tier3",
+					"ruiAsset": "",
+					"unlocksAt": 75.000000
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false,
+		"exclusive": false,
+		"shouldHideIfLocked": true,
+		"isCharacterBadge": false,
+		"hasOwnRui": false,
+		"isOversizedImage": true
+	}
+}

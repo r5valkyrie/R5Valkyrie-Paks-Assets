@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/conduit/lgnd_v23_streetwear.rpak",
+		"roots": [
+				{
+					"asset": "mdl/techart/mshop/characters/legends/conduit/conduit_lgnd_v23_streetwear_w.rmdl",
+					"featureFlag": "HAS_20_1_RELEASE"
+				},
+				{
+					"asset": "mdl/techart/mshop/characters/legends/conduit/conduit_lgnd_v23_streetwear_v.rmdl",
+					"featureFlag": "HAS_20_1_RELEASE"
+				}
+			]
+	}
+}

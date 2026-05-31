@@ -1,0 +1,6 @@
+seqs:
+[
+	animseq\props\lifeline_drone\lifeline_mythic_drone_tube\drone_tube_mythic_execution_left.rseq
+	animseq\props\lifeline_drone\lifeline_mythic_drone_tube\drone_tube_mythic_execution_middle.rseq
+	animseq\props\lifeline_drone\lifeline_mythic_drone_tube\drone_tube_mythic_execution_right.rseq
+]

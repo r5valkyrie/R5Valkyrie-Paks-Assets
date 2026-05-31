@@ -1,0 +1,145 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_artifact_component_power_source_layout.rpak",
+	"uniqueId": 1353082447,
+	"settings": {
+		"assetName": "settings/itemflav/artifact_components/celestial/celestial_power_source.rpak",
+		"itemType": "artifact_component_power_source",
+		"parentItemFlavor": "settings/itemflav/loot/melee_weapon/artifact_dagger.rpak",
+		"settingsAssetID": "SAID01353082447",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#celestial_powersource_NAME",
+		"localizationKey_NAME_SHORT": "#celestial_powersource_NAME",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "MYTHIC",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "artifact_dagger_celestial_powersource",
+		"ownershipTarget": "",
+		"artifactComponentType": "POWER_SOURCE",
+		"themeName": "CELES",
+		"componentIcon": "rui/menu/melee_customization/power_sources/power_source_celestial",
+		"multipleOwnershipTargets": [
+			],
+		"artifactMainColor": "<0.690000,0.435000,0.859000>",
+		"artifactSecondaryColor": "<0.341000,0.227000,0.969000>",
+		"smearColor": "<0.780000,0.500000,1.000000>",
+		"skinIdx": 0,
+		"attackFX": [
+				{
+					"fxAsset": "P_art_celes_blade_attack_FP",
+					"attachName": "Fx_base",
+					"perspective": "1P"
+				},
+				{
+					"fxAsset": "P_art_celes_power_attack_FP",
+					"attachName": "Fx_power_source",
+					"perspective": "1P"
+				},
+				{
+					"fxAsset": "P_art_celes_blade_attack_3P",
+					"attachName": "Fx_base",
+					"perspective": "3P"
+				},
+				{
+					"fxAsset": "P_art_celes_power_attack_3P",
+					"attachName": "Fx_power_source",
+					"perspective": "3P"
+				}
+			],
+		"idleFX": [
+				{
+					"fxAsset": "P_art_celes_power_idle_FP",
+					"attachName": "Fx_power_source",
+					"perspective": "1P"
+				},
+				{
+					"fxAsset": "P_art_celes_blade_idle_FP",
+					"attachName": "Fx_base",
+					"perspective": "1P"
+				},
+				{
+					"fxAsset": "P_art_celes_power_idle_3P",
+					"attachName": "Fx_power_source",
+					"perspective": "3P"
+				},
+				{
+					"fxAsset": "P_art_celes_blade_idle_3P",
+					"attachName": "Fx_base",
+					"perspective": "3P"
+				}
+			],
+		"startupFX": [
+				{
+					"fxAsset": "P_art_celes_power_start_FP",
+					"attachName": "Fx_power_source",
+					"perspective": "1P"
+				},
+				{
+					"fxAsset": "P_art_celes_power_start_3P",
+					"attachName": "Fx_power_source",
+					"perspective": "3P"
+				}
+			],
+		"flourishFX": [
+				{
+					"fxAsset": "P_art_celes_blade_flourish_FP",
+					"attachName": "Fx_base",
+					"perspective": "1P"
+				},
+				{
+					"fxAsset": "P_art_celes_blade_flourish_3P",
+					"attachName": "Fx_base",
+					"perspective": "3P"
+				},
+				{
+					"fxAsset": "P_art_celes_power_flourish_FP",
+					"attachName": "Fx_power_source",
+					"perspective": "1P"
+				},
+				{
+					"fxAsset": "P_art_celes_power_flourish_3P",
+					"attachName": "Fx_power_source",
+					"perspective": "3P"
+				}
+			],
+		"inspectFX": [
+				{
+					"fxAsset": "P_art_celes_power_inspect_FP",
+					"attachName": "Fx_power_source",
+					"perspective": "1P"
+				}
+			],
+		"lobbyFX": [
+				{
+					"fxAsset": "P_art_celes_power_idle_MENU",
+					"attachName": "Fx_power_source",
+					"perspective": "1P"
+				},
+				{
+					"fxAsset": "P_art_celes_blade_idle_MENU",
+					"attachName": "Fx_base",
+					"perspective": "1P"
+				}
+			],
+		"skinAlias_sfxAliases": [
+				{
+					"flavor": "settings/itemflav/sfx_alias/powersource_Celestial_sfx.rpak",
+					"featureFlag": ""
+				}
+			],
+		"skinAlias_impactTableAliases": [
+				{
+					"flavor": "settings/itemflav/vfx_alias/artifacts/powersource_celestial_impact.rpak",
+					"featureFlag": ""
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isEmpty": false,
+		"shouldHideIfLocked": false
+	}
+}

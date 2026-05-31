@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/madmaggie/pilot_survival_maggie.rpak",
+		"roots": [
+				{
+					"asset": "mdl/techart/mshop/characters/legends/madmaggie/madmaggie_base_w.rmdl",
+					"featureFlag": ""
+				},
+				{
+					"asset": "mdl/Weapons/arms/pov_pilot_medium_generic.rmdl",
+					"featureFlag": ""
+				}
+			]
+	}
+}

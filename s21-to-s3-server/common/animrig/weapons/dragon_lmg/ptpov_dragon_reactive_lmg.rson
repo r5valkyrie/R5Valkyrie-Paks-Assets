@@ -1,0 +1,5 @@
+seqs:
+[
+	animseq\weapons\dragon_lmg\ptpov_dragon_lmg\dragon_reactive_transition_blend.rseq
+	animseq\weapons\dragon_lmg\ptpov_dragon_lmg\idle_reactive_layer.rseq
+]

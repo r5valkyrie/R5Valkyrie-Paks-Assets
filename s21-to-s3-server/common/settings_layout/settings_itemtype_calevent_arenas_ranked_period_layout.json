@@ -1,0 +1,7 @@
+{
+	"extraDataSizeIndex": 1,
+	"subLayouts": [
+		"settings_layout/settings_itemtype_calevent_arenas_ranked_period_layout/tiers.csv",
+		"settings_layout/settings_itemtype_calevent_arenas_ranked_period_layout/ladderOnlyTier.csv"
+	]
+}

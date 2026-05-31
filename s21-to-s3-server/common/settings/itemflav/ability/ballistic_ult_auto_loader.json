@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 2080855551,
+	"settings": {
+		"assetName": "settings/itemflav/ability/ballistic_ult_auto_loader.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID02080855551",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#WPN_AUTO_LOADER",
+		"localizationKey_NAME_SHORT": "#WPN_AUTO_LOADER_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "#WPN_AUTO_LOADER_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#WPN_AUTO_LOADER_LONGDESC",
+		"quality": "NONE",
+		"icon": "rui/hud/ultimate_icons/ultimate_ballistic",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "mp_ability_portable_auto_loader",
+		"passiveScriptRef": "",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

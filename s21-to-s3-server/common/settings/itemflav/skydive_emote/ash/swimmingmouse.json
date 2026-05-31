@@ -1,0 +1,31 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_skydive_emote_layout.rpak",
+	"uniqueId": 261307241,
+	"settings": {
+		"assetName": "settings/itemflav/skydive_emote/ash/swimmingmouse.rpak",
+		"itemType": "skydive_emote",
+		"parentItemFlavor": "settings/itemflav/character/ash.rpak",
+		"settingsAssetID": "SAID00261307241",
+		"__featureFlag": "",
+		"devDescription": "sximingmouse",
+		"localizationKey_NAME": "#skydive_emote_ash_epic_swimmingmouse_NAME",
+		"localizationKey_NAME_SHORT": "#skydive_emote_ash_epic_swimmingmouse_NAME",
+		"localizationKey_DESCRIPTION_LONG": "#skydive_emote_ash_epic_swimmingmouse_NAME",
+		"localizationKey_DESCRIPTION_SHORT": "#skydive_emote_ash_epic_swimmingmouse_NAME",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/battlepass/skydive_emote_ash_swimmingmouse",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "skydive_emote_ash_swimmingmouse",
+		"ownershipTarget": "",
+		"animSequence": "animseq/humans/class/medium/pilot_medium_ash/ash_freefall_emote_swimingmouse.rseq",
+		"video": "media/skydive_emotes/ash_swimmingmouse",
+		"bcEvent": "",
+		"multipleOwnershipTargets": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false
+	}
+}

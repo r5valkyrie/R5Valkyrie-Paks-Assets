@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 188012701,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/bangalore/epic_v22_drinkingbros.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/bangalore.rpak",
+		"settingsAssetID": "SAID00188012701",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#ground_emote_bangalore_drinkingbros",
+		"localizationKey_NAME_SHORT": "#ground_emote_bangalore_drinkingbros",
+		"localizationKey_DESCRIPTION_LONG": "#ground_emote_bangalore_drinkingbros",
+		"localizationKey_DESCRIPTION_SHORT": "#ground_emote_bangalore_drinkingbros",
+		"quality": "EPIC",
+		"icon": "rui/hud/character_emotes/bangalore/icon_character_emote_bangalore_drinkingbros",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_bangalore_epic_v22_drinkingbros",
+		"ownershipTarget": "",
+		"anim3p": "bangalore_ground_emote_drinkingbros",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 1572120067,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/horizon/legendary_momdance.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/horizon.rpak",
+		"settingsAssetID": "SAID01572120067",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#CHAR_EMOTE_021",
+		"localizationKey_NAME_SHORT": "#CHAR_EMOTE_021",
+		"localizationKey_DESCRIPTION_LONG": "#CHAR_EMOTE_021",
+		"localizationKey_DESCRIPTION_SHORT": "#CHAR_EMOTE_021",
+		"quality": "LEGENDARY",
+		"icon": "rui/menu/buttons/character_emotes/horizon/momdance",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_horizon_legendary_momdance",
+		"ownershipTarget": "",
+		"anim3p": "horizon_ground_emote_momdance",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

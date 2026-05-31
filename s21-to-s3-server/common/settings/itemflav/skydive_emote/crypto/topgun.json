@@ -1,0 +1,31 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_skydive_emote_layout.rpak",
+	"uniqueId": 1075126759,
+	"settings": {
+		"assetName": "settings/itemflav/skydive_emote/crypto/topgun.rpak",
+		"itemType": "skydive_emote",
+		"parentItemFlavor": "settings/itemflav/character/crypto.rpak",
+		"settingsAssetID": "SAID01075126759",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#skydive_emote_crypto_topgun_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/battlepass/skydive_emote_topgun",
+		"tagIcon": "rui/events/s04bp/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "skydive_emote_crypto_topgun",
+		"ownershipTarget": "",
+		"animSequence": "animseq/humans/class/medium/pilot_medium_crypto/crypto_freefall_emote_topgun.rseq",
+		"video": "media/skydive_emotes/crypto_topgun",
+		"bcEvent": "bc_skydive",
+		"multipleOwnershipTargets": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false
+	}
+}

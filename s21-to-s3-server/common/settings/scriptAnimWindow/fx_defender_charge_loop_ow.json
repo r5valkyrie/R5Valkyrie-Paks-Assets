@@ -1,0 +1,12 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_PlayFX_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/fx_defender_charge_loop_ow.rpak",
+		"devDescription": "",
+		"type": "PlayFX",
+		"particleSystemName": "P_wpn_defender_charge_arc_ow",
+		"attachPoint": "muzzle_flash",
+		"followAttach": true,
+		"playEndCap": false
+	}
+}

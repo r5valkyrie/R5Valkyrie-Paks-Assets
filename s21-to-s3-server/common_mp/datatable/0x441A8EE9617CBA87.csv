@@ -1,0 +1,6 @@
+"category","rotationStyle","exclusivityStyle","slots","bundlesList"
+"ammo","loadout_based","none",1,"ammo_bundle"
+"health_pickup","permanent","none",1,"health_bundle"
+"shield_pickup","permanent","none",1,"shield_bundle"
+"banner","perk","none",1,"banner_bundle"
+"string","string","string","int","string"

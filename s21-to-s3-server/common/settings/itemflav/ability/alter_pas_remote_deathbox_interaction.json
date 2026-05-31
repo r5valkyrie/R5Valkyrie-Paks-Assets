@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 112352560,
+	"settings": {
+		"assetName": "settings/itemflav/ability/alter_pas_remote_deathbox_interaction.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00112352560",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#ABL_PAS_VOID_REACH",
+		"localizationKey_NAME_SHORT": "#ABL_PAS_VOID_REACH_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "#ABL_PAS_VOID_REACH_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#ABL_PAS_VOID_REACH_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/passive_icons/passive_alter",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_ALTER",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

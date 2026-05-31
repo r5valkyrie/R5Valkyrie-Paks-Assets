@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 1103590303,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/octane/legendary_grenade.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/octane.rpak",
+		"settingsAssetID": "SAID01103590303",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#character_emote_octane_legendary_grenade_NAME",
+		"localizationKey_NAME_SHORT": "#character_emote_octane_legendary_grenade_NAME",
+		"localizationKey_DESCRIPTION_LONG": "#character_emote_octane_legendary_grenade_NAME",
+		"localizationKey_DESCRIPTION_SHORT": "#character_emote_octane_legendary_grenade_NAME",
+		"quality": "LEGENDARY",
+		"icon": "rui/menu/buttons/character_emotes/octane/grenade",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_octane_legendary_grenade",
+		"ownershipTarget": "",
+		"anim3p": "octane_ground_emote_grenade",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

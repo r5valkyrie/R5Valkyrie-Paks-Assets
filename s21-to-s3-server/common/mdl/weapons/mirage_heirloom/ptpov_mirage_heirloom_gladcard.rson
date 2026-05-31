@@ -1,0 +1,8 @@
+rigs:
+[
+]
+seqs:
+[
+	animseq\weapons\mirage_heirloom\gladcard\mirageheirloom_gladcard_animated_heirloom.rseq
+	animseq\weapons\mirage_heirloom\gladcard\mirageheirloom_gladcard_animated_heirloom_idle.rseq
+]

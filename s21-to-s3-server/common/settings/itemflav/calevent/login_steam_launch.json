@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_calevent_login_layout.rpak",
+	"uniqueId": 115023847,
+	"settings": {
+		"assetName": "settings/itemflav/calevent/login_steam_launch.rpak",
+		"itemType": "calevent_login",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00115023847",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#STEAM_LAUNCH_GIFT",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "#LOGIN_REWARD",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"revealUnixTime": "",
+		"hideUnixTime": "",
+		"defaultStartTime": "2020-11-04 20:00:00 -08:00",
+		"defaultFinishTime": "2021-02-01 20:00:00 -08:00",
+		"ceremonyImage": "",
+		"ceremonyTitle": "#STEAM_LAUNCH_GIFT",
+		"ceremonyDesc": "#LOGIN_REWARD",
+		"loginRewards": [
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_portal_asset_v20_char_wattson_companioncube01.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_portal_asset_v20_char_glados_potato01.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_halflife_asset_v20_char_octane_headcrab01.rpak"
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_artifact_component_set_layout.rpak",
+	"settings": {
+		"assetName": "settings/itemflav/artifact_components/celestial_set.rpak",
+		"themeName": "CELES",
+		"worldModel": "mdl/Weapons/char_artifact/w_set_v23_celes.rmdl",
+		"viewModel": "mdl/Weapons/char_artifact/ptpov_set_v23_celes.rmdl",
+		"blade": "settings/itemflav/artifact_components/celestial/celestial_blade.rpak",
+		"theme": "settings/itemflav/artifact_components/celestial/celestial_theme.rpak",
+		"powerSource": "settings/itemflav/artifact_components/celestial/celestial_power_source.rpak",
+		"deathbox": "settings/itemflav/artifact_components/celestial/celestial_deathbox.rpak",
+		"activationEmote": "settings/itemflav/artifact_components/celestial/celestial_activation_emote.rpak",
+		"setName": "#Nitride_Set_NAME",
+		"setImageRef": ""
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/wraith/lgnd_v23_resdopb.rpak",
+		"roots": [
+				{
+					"asset": "mdl/humans/class/light/wraith_v23_resdopb_w.rmdl",
+					"featureFlag": ""
+				},
+				{
+					"asset": "mdl/weapons/arms/wraith_v23_resdopb_v.rmdl",
+					"featureFlag": ""
+				}
+			]
+	}
+}

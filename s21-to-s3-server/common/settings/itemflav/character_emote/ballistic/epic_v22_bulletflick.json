@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 1433189963,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/ballistic/epic_v22_bulletflick.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/ballistic.rpak",
+		"settingsAssetID": "SAID01433189963",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#ground_emote_ballistic_bulletflick",
+		"localizationKey_NAME_SHORT": "#ground_emote_ballistic_bulletflick",
+		"localizationKey_DESCRIPTION_LONG": "#ground_emote_ballistic_bulletflick",
+		"localizationKey_DESCRIPTION_SHORT": "#ground_emote_ballistic_bulletflick",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/character_emotes/ballistic/bored",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_ballistic_epic_v22_bulletflick",
+		"ownershipTarget": "",
+		"anim3p": "ballistic_ground_emote_bulletflick",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "ballistic_ground_emote_bulletflick_loop",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

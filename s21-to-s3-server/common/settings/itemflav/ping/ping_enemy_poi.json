@@ -1,0 +1,30 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ping_layout.rpak",
+	"uniqueId": 1060777326,
+	"settings": {
+		"assetName": "settings/itemflav/ping/ping_enemy_poi.rpak",
+		"itemType": "ping",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01060777326",
+		"__featureFlag": "",
+		"devDescription": "Ping icon for enemy POI in battle rush",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "rui/hud/gametype_icons/survival/enemy_squad_spawn_icon",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"colorKey": "none",
+		"innerIcon": "rui/hud/gametype_icons/survival/enemy_squad_spawn_icon",
+		"innerShadowIcon": "rui/hud/ping/icon_ping_any_shadow",
+		"outerIcon": "rui/hud/gametype_icons/survival/enemy_squad_spawn_icon",
+		"shadowIcon": "rui/hud/ping/icon_ping_any_shadow",
+		"animIcon": "",
+		"defaultColor": "<0.840000,0.230000,0.230000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"drawHeightLine": true
+	}
+}

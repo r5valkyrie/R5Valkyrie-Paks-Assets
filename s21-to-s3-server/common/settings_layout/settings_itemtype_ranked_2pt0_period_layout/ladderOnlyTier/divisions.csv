@@ -1,0 +1,6 @@
+"fieldName","dataType","layoutIndex","helpText"
+"name","string","0",""
+"emblemText","string","0",""
+"scoreMin","int","0","Amount needed to enter this division"
+"divisionEntryCost","int","0","Amount to be deducted at the start of the match"
+"numPlayersOnLadder","int","0","How many players we allow to be on Apex Predator Ladder"

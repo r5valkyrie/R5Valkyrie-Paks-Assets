@@ -1,0 +1,51 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_skin_layout.rpak",
+	"uniqueId": 1746479769,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_skin/eva/s09_flash_03_rare_01.rpak",
+		"itemType": "weapon_skin",
+		"parentItemFlavor": "settings/itemflav/loot/main_weapon/eva.rpak",
+		"settingsAssetID": "SAID01746479769",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#SKIN_952",
+		"localizationKey_NAME_SHORT": "#SKIN_952",
+		"localizationKey_DESCRIPTION_LONG": "#SKIN_952",
+		"localizationKey_DESCRIPTION_SHORT": "#SKIN_952",
+		"quality": "RARE",
+		"icon": "",
+		"tagIcon": "rui/events/arenas/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "weapon_skin_eva_s09_flash_03_rare_01",
+		"ownershipTarget": "",
+		"worldModel": "mdl/weapons/w1128/w_w1128.rmdl",
+		"viewModel": "mdl/weapons/w1128/ptpov_w1128.rmdl",
+		"skinName": "rarep_v21_jpnlegacy",
+		"exclusiveFunc": "",
+		"unlockFuncKey": "",
+		"video": "",
+		"customSkinMenuBlurb": "",
+		"multipleOwnershipTargets": [
+			],
+		"camoIndex": 0,
+		"hackyRUISchemeIdentifier": 0,
+		"featureReactsToKillsLevels": [
+			],
+		"skinAlias_vfxAliases": [
+			],
+		"skinAlias_sfxAliases": [
+			],
+		"skinAlias_bodyGroupAliases": [
+			],
+		"skinAlias_impactTableAliases": [
+			],
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"exclusive": false,
+		"shouldHideIfLocked": false,
+		"forceFullWeaponIcon": false,
+		"featureReactsToKills": false,
+		"forceVideoInspect": false
+	}
+}

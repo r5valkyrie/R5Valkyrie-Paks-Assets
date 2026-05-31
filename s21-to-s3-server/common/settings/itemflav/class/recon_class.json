@@ -1,0 +1,30 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_class_layout.rpak",
+	"uniqueId": 565551190,
+	"settings": {
+		"assetName": "settings/itemflav/class/recon_class.rpak",
+		"itemType": "character_class",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00565551190",
+		"__featureFlag": "",
+		"devDescription": "Recon Class",
+		"localizationKey_NAME": "#ROLE_RECON",
+		"localizationKey_NAME_SHORT": "#RECON_SHORT_NAME",
+		"localizationKey_DESCRIPTION_LONG": "#RECON_LONG_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#ROLE_RECON_SUBTITLE",
+		"quality": "NONE",
+		"icon": "rui/menu/character_select/utility/role_recon",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"role": "RECON",
+		"uiColor": "<0.610000,0.130000,0.910000>",
+		"perks": [
+				{
+					"flavor": "settings/itemflav/class_perk/enemy_scan.rpak",
+					"featureFlag": "HAS_PERK_SYSTEM"
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

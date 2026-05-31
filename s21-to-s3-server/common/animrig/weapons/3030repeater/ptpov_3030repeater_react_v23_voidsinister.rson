@@ -1,0 +1,6 @@
+seqs:
+[
+	animseq\weapons\3030repeater\ptpov_3030repeater_react_v23_voidsinister\idle_reactive.rseq
+	animseq\weapons\3030repeater\ptpov_3030repeater_react_v23_voidsinister\reactive_kill.rseq
+	animseq\weapons\3030repeater\ptpov_3030repeater_react_v23_voidsinister\reactive_transition_blend.rseq
+]

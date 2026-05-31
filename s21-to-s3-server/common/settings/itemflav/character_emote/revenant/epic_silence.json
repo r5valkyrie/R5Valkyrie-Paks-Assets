@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 626064345,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/revenant/epic_silence.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/revenant.rpak",
+		"settingsAssetID": "SAID00626064345",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#CHAR_EMOTE_041",
+		"localizationKey_NAME_SHORT": "#CHAR_EMOTE_041",
+		"localizationKey_DESCRIPTION_LONG": "#CHAR_EMOTE_041",
+		"localizationKey_DESCRIPTION_SHORT": "#CHAR_EMOTE_041",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/character_emotes/revenant/silence",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_revenant_epic_silence",
+		"ownershipTarget": "",
+		"anim3p": "revenant_ground_emote_silence",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 15.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

@@ -1,0 +1,220 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_challenge_layout.rpak",
+	"uniqueId": 560180722,
+	"settings": {
+		"assetName": "settings/itemflav/challenge/flash_events/s13_01/main.rpak",
+		"itemType": "challenge",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00560180722",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"typeOfMetaChallenge": "CHALLENGE_SET",
+		"challengeSet": "",
+		"challengeCollection": "",
+		"rewardCampaign": "",
+		"timeSpan": "EVENT",
+		"autogenSlot": "SLOT_00",
+		"autogenScriptHook": "ON_PLAYER_WIN",
+		"difficulty": "MEDIUM",
+		"mode": "NON_MODE",
+		"modeAlt": "BATTLE_ROYALE",
+		"grxRewardSequenceRef": "rewardseq_s13_flash_01_challenge_main",
+		"weekNumber": 0,
+		"tiers": [
+				{
+					"description": "#CHALLENGE_REACH_N_POINTS",
+					"statRef": "stats.s13_flash_01_buffet_points",
+					"descriptionAlt": "",
+					"statRefAlt": "",
+					"progressAccrual": "absoluteVal",
+					"matchRequirement": "none",
+					"goalVal": 250,
+					"goalValAlt": 0,
+					"characters": [
+						],
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/grx_currency/crafting.rpak",
+								"quantity": 25
+							}
+						],
+					"convertSecondsToMinutesDisplay": false
+				},
+				{
+					"description": "#CHALLENGE_REACH_N_POINTS",
+					"statRef": "stats.s13_flash_01_buffet_points",
+					"descriptionAlt": "",
+					"statRefAlt": "",
+					"progressAccrual": "absoluteVal",
+					"matchRequirement": "none",
+					"goalVal": 500,
+					"goalValAlt": 0,
+					"characters": [
+						],
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/voucher/challenge_reward_stars_3.rpak",
+								"quantity": 1
+							}
+						],
+					"convertSecondsToMinutesDisplay": false
+				},
+				{
+					"description": "#CHALLENGE_REACH_N_POINTS",
+					"statRef": "stats.s13_flash_01_buffet_points",
+					"descriptionAlt": "",
+					"statRefAlt": "",
+					"progressAccrual": "absoluteVal",
+					"matchRequirement": "none",
+					"goalVal": 750,
+					"goalValAlt": 0,
+					"characters": [
+						],
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/voucher/challenge_reward_stars_10.rpak",
+								"quantity": 1
+							}
+						],
+					"convertSecondsToMinutesDisplay": false
+				},
+				{
+					"description": "#CHALLENGE_REACH_N_POINTS",
+					"statRef": "stats.s13_flash_01_buffet_points",
+					"descriptionAlt": "",
+					"statRefAlt": "",
+					"progressAccrual": "absoluteVal",
+					"matchRequirement": "none",
+					"goalVal": 1000,
+					"goalValAlt": 0,
+					"characters": [
+						],
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/pack/cosmetic_rare.rpak",
+								"quantity": 1
+							}
+						],
+					"convertSecondsToMinutesDisplay": false
+				},
+				{
+					"description": "#CHALLENGE_REACH_N_POINTS",
+					"statRef": "stats.s13_flash_01_buffet_points",
+					"descriptionAlt": "",
+					"statRefAlt": "",
+					"progressAccrual": "absoluteVal",
+					"matchRequirement": "none",
+					"goalVal": 1250,
+					"goalValAlt": 0,
+					"characters": [
+						],
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/voucher/challenge_reward_stars_3.rpak",
+								"quantity": 1
+							}
+						],
+					"convertSecondsToMinutesDisplay": false
+				},
+				{
+					"description": "#CHALLENGE_REACH_N_POINTS",
+					"statRef": "stats.s13_flash_01_buffet_points",
+					"descriptionAlt": "",
+					"statRefAlt": "",
+					"progressAccrual": "absoluteVal",
+					"matchRequirement": "none",
+					"goalVal": 1500,
+					"goalValAlt": 0,
+					"characters": [
+						],
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/grx_currency/crafting.rpak",
+								"quantity": 25
+							}
+						],
+					"convertSecondsToMinutesDisplay": false
+				},
+				{
+					"description": "#CHALLENGE_REACH_N_POINTS",
+					"statRef": "stats.s13_flash_01_buffet_points",
+					"descriptionAlt": "",
+					"statRefAlt": "",
+					"progressAccrual": "absoluteVal",
+					"matchRequirement": "none",
+					"goalVal": 2000,
+					"goalValAlt": 0,
+					"characters": [
+						],
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/voucher/challenge_reward_stars_3.rpak",
+								"quantity": 1
+							}
+						],
+					"convertSecondsToMinutesDisplay": false
+				},
+				{
+					"description": "#CHALLENGE_REACH_N_POINTS",
+					"statRef": "stats.s13_flash_01_buffet_points",
+					"descriptionAlt": "",
+					"statRefAlt": "",
+					"progressAccrual": "absoluteVal",
+					"matchRequirement": "none",
+					"goalVal": 2500,
+					"goalValAlt": 0,
+					"characters": [
+						],
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/voucher/challenge_reward_stars_10.rpak",
+								"quantity": 1
+							}
+						],
+					"convertSecondsToMinutesDisplay": false
+				},
+				{
+					"description": "#CHALLENGE_REACH_N_POINTS",
+					"statRef": "stats.s13_flash_01_buffet_points",
+					"descriptionAlt": "",
+					"statRefAlt": "",
+					"progressAccrual": "absoluteVal",
+					"matchRequirement": "none",
+					"goalVal": 3000,
+					"goalValAlt": 0,
+					"characters": [
+						],
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/emote_icon/heroanime/epic_v21_heroanime_03.rpak",
+								"quantity": 1
+							}
+						],
+					"convertSecondsToMinutesDisplay": false
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isMetaChallenge": false,
+		"autoGenerateStatBacker": false,
+		"isBoostEnabled": false,
+		"isEitherOr": false,
+		"isRerollEnabled": true,
+		"isPremium": false,
+		"isGoldenScheme": false,
+		"maxOneTierPerMatch": false,
+		"lastTierIsInfinite": false,
+		"pinnedLocal": false,
+		"excludeFromPostMatchSummary": false,
+		"hasGRXRewardSequenceForPDEF": true,
+		"grxRewardSequenceAllowsSkipAhead": false
+	}
+}

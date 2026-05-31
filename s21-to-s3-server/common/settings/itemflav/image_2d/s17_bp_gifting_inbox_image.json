@@ -1,0 +1,28 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_image_2d_layout.rpak",
+	"uniqueId": 1464254164,
+	"settings": {
+		"assetName": "settings/itemflav/image_2d/s17_bp_gifting_inbox_image.rpak",
+		"itemType": "image_2d",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01464254164",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "COMMON",
+		"icon": "rui/menu/battlepass/icon_battlepass_card",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "s17_bp_gifting_inbox_image",
+		"ownershipTarget": "",
+		"image2D": "image_2d/s17_bp_display_image",
+		"multipleOwnershipTargets": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

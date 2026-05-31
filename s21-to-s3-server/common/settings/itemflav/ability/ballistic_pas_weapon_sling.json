@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 1258981470,
+	"settings": {
+		"assetName": "settings/itemflav/ability/ballistic_pas_weapon_sling.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01258981470",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#PAS_WEAPON_SLING",
+		"localizationKey_NAME_SHORT": "#PAS_WEAPON_SLING_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "#PAS_WEAPON_SLING_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#PAS_WEAPON_SLING_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/passive_icons/passive_ballistic",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_WEAPON_SLING",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_PlayFX_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/fx_wraith_paddleball_fx.rpak",
+		"devDescription": "",
+		"type": "PlayFX",
+		"particleSystemName": "P_emt_wrth_paddleball_glow",
+		"attachPoint": "ball_fx",
+		"followAttach": true,
+		"playEndCap": false
+	}
+}

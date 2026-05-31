@@ -1,0 +1,31 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_skydive_emote_layout.rpak",
+	"uniqueId": 1714350773,
+	"settings": {
+		"assetName": "settings/itemflav/skydive_emote/catalyst/epic_v22_magicgoth_spider.rpak",
+		"itemType": "skydive_emote",
+		"parentItemFlavor": "settings/itemflav/character/catalyst.rpak",
+		"settingsAssetID": "SAID01714350773",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#skydive_emote_catalyst_spider",
+		"localizationKey_NAME_SHORT": "#skydive_emote_catalyst_spider",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/battlepass/skydive_emote_catalyst_epic_v22_magicgoth_spider",
+		"tagIcon": "rui/events/s15bp/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "skydive_emote_catalyst_epic_v22_magicgoth_spider",
+		"ownershipTarget": "",
+		"animSequence": "animseq/humans/class/medium/pilot_medium_catalyst/catalyst_freefall_emote_spider.rseq",
+		"video": "media/skydive_emotes/catalyst_magicgoth_spider",
+		"bcEvent": "bc_skydive",
+		"multipleOwnershipTargets": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false
+	}
+}

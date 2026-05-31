@@ -1,0 +1,202 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_radio_play_layout.rpak",
+	"uniqueId": 772372302,
+	"settings": {
+		"assetName": "settings/itemflav/radio_play/s21/radio_play_s21_b.rpak",
+		"itemType": "radio_play",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00772372302",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "rui/events/s17ce02/loadscreen_icon_01",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "radio_play_s21_b",
+		"ownershipTarget": "",
+		"multipleOwnershipTargets": [
+			],
+		"layers": [
+				{
+					"ruiAnimations": [
+							{
+								"ruiAsset": "ui/radioplay_s21_2.rpak",
+								"sound": "diag_mp_catalyst_s21vigSCR",
+								"length": 107.000000
+							}
+						]
+				},
+				{
+					"ruiAnimations": [
+							{
+								"ruiAsset": "",
+								"sound": "",
+								"length": 0.500000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_catalyst_s21vigSCR_1a_01_01_sub",
+								"length": 8.430000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_rose_s21vigSCR_02a_01_01_sub",
+								"length": 1.470000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_catalyst_s21vigSCR_3a_01_01_sub",
+								"length": 7.800000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_rose_s21vigSCR_04a_01_01_sub",
+								"length": 3.500000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_catalyst_s21vigSCR_3b_01_01_sub",
+								"length": 0.900000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_rose_s21vigSCR_04b_01_01_sub",
+								"length": 2.800000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_rose_s21vigSCR_04c_01_01_sub",
+								"length": 7.900000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_rose_s21vigSCR_04d_01_01_sub",
+								"length": 0.600000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_catalyst_s21vigSCR_5a_01_01_sub",
+								"length": 1.100000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_rose_s21vigSCR_04d_01_01_sub",
+								"length": 1.700000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_rose_s21vigSCR_04e_01_01_sub",
+								"length": 5.500000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_rose_s21vigSCR_06a_01_01_sub",
+								"length": 1.400000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_catalyst_s21vigSCR_7a_01_01_sub",
+								"length": 5.900000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_rose_s21vigSCR_08a_01_01_sub",
+								"length": 1.900000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_catalyst_s21vigSCR_9a_01_01_sub",
+								"length": 4.600000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_rose_s21vigSCR_11a_01_01_sub",
+								"length": 3.400000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_catalyst_s21vigSCR_12a_01_01_sub",
+								"length": 5.170000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_seer_s21vigSCR_13a_01_01_sub",
+								"length": 2.530000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_catalyst_s21vigSCR_14a_01_01_sub",
+								"length": 2.600000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_seer_s21vigSCR_15a_01_01_sub",
+								"length": 1.300000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_rose_s21vigSCR_16a_01_01_sub",
+								"length": 3.700000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_rose_s21vigSCR_16b_01_01_sub",
+								"length": 1.900000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_seer_s21vigSCR_17a_01_01_sub",
+								"length": 2.000000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_catalyst_s21vigSCR_18a_01_01_sub",
+								"length": 1.800000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_rose_s21vigSCR_19a_01_01_sub",
+								"length": 3.500000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_seer_s21vigSCR_20a_01_01_sub",
+								"length": 3.200000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_rose_s21vigSCR_21a_01_01_sub",
+								"length": 1.700000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_catalyst_s21vigSCR_22a_01_01_sub",
+								"length": 3.200000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_rose_s21vigSCR_23a_01_01_sub",
+								"length": 2.100000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_catalyst_s21vigSCR_24a_01_01_sub",
+								"length": 3.500000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_seer_s21vigSCR_25a_01_01_sub",
+								"length": 1.000000
+							}
+						]
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

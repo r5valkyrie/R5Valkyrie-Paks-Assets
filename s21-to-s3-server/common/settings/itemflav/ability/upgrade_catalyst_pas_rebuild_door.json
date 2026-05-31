@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 680791114,
+	"settings": {
+		"assetName": "settings/itemflav/ability/upgrade_catalyst_pas_rebuild_door.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00680791114",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#UPGRADE_CATALYST_PAS_REBUILD_DOOR_NAME",
+		"localizationKey_NAME_SHORT": "#UPGRADE_TYPE_PASSIVE",
+		"localizationKey_DESCRIPTION_LONG": "#UPGRADE_CATALYST_PAS_REBUILD_DOOR_LONG_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#UPGRADE_CATALYST_PAS_REBUILD_DOOR_SHORT_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/legend_upgrades/catalyst_str_eqp_icon",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_PAS_UPGRADE_ONE",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

@@ -1,0 +1,76 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_calevent_base_event_layout.rpak",
+	"uniqueId": 1099659365,
+	"settings": {
+		"assetName": "settings/itemflav/calevent/s21me02/base_event.rpak",
+		"itemType": "calevent_base_event",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01099659365",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#S21ME02_EVENT",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"revealUnixTime": "",
+		"hideUnixTime": "",
+		"defaultStartTime": "2024-07-23 10:00:00 -07:00",
+		"defaultFinishTime": "2024-08-06 10:00:00 -07:00",
+		"mainLandingImage": "rui/gladiator_cards/badges/s21me02_b1",
+		"buttonBackgroundImage": "rui/events/s21me02/intro_page_panel_bg",
+		"landingPageTitleSize": 62,
+		"landingPageTitleColor": "<1.000000,1.000000,1.000000>",
+		"landingPageTitleOutlineInnerColor": "<0.000000,0.000000,0.000000>",
+		"landingPageTitleOutlineInnerAlpha": 0.900000,
+		"landingPageTitleOutlineOuterColor": "<0.000000,0.000000,0.000000>",
+		"landingPageTitleOutlineOuterAlpha": 0.600000,
+		"landingPageTitleOutlineWidth": 3.500000,
+		"backgroundDarkeningOpacity": 0.500000,
+		"landingPageSubtitleSize": 50,
+		"landingPageSubtitleColor": "<1.000000,1.000000,1.000000>",
+		"buttonData": [
+				{
+					"buttonImage": "rui/events/s21me02/landing_page_button_milestone",
+					"buttonName": "#LANDING_PAGE_BUTTON_PACKS_NAME",
+					"buttonImageRestricted": "rui/events/s21me02/landing_page_button_restrict_milestone",
+					"buttonNameRestricted": "#LANDING_PAGE_BUTTON_PACKS_NAME_RESTRICTED",
+					"customDeeplinkType": "",
+					"customDeeplink": "",
+					"pageRedirect": 1
+				},
+				{
+					"buttonImage": "rui/events/s21me02/landing_page_button_event_shop",
+					"buttonName": "#LANDING_PAGE_BUTTON_SHOP_NAME",
+					"buttonImageRestricted": "",
+					"buttonNameRestricted": "",
+					"customDeeplinkType": "",
+					"customDeeplink": "",
+					"pageRedirect": 3
+				},
+				{
+					"buttonImage": "rui/events/s21me02/landing_page_button_play_event",
+					"buttonName": "#LANDING_PAGE_BUTTON_GAMEMODE_NAME",
+					"buttonImageRestricted": "",
+					"buttonNameRestricted": "",
+					"customDeeplinkType": "",
+					"customDeeplink": "",
+					"pageRedirect": 6
+				},
+				{
+					"buttonImage": "rui/events/s21me02/landing_page_button_event_store",
+					"buttonName": "#LANDING_PAGE_BUTTON_EVENT_STORE_NAME",
+					"buttonImageRestricted": "",
+					"buttonNameRestricted": "",
+					"customDeeplinkType": "",
+					"customDeeplink": "",
+					"pageRedirect": 5
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

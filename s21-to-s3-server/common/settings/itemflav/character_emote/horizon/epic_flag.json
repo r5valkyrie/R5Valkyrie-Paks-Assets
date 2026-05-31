@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 1967370307,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/horizon/epic_flag.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/horizon.rpak",
+		"settingsAssetID": "SAID01967370307",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#CHAR_EMOTE_020",
+		"localizationKey_NAME_SHORT": "#CHAR_EMOTE_020",
+		"localizationKey_DESCRIPTION_LONG": "#CHAR_EMOTE_020",
+		"localizationKey_DESCRIPTION_SHORT": "#CHAR_EMOTE_020",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/character_emotes/horizon/flag",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_horizon_epic_flag",
+		"ownershipTarget": "",
+		"anim3p": "horizon_ground_emote_flag",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

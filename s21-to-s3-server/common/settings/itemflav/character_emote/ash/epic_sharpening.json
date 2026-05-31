@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 276525824,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/ash/epic_sharpening.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/ash.rpak",
+		"settingsAssetID": "SAID00276525824",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#ground_emote_ash_sharpening_NAME",
+		"localizationKey_NAME_SHORT": "#ground_emote_ash_sharpening_NAME",
+		"localizationKey_DESCRIPTION_LONG": "#ground_emote_ash_sharpening_NAME",
+		"localizationKey_DESCRIPTION_SHORT": "#ground_emote_ash_sharpening_NAME",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/character_emotes/ash/sharpening",
+		"tagIcon": "rui/events/s12e01/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_ash_epic_sharpening",
+		"ownershipTarget": "",
+		"anim3p": "ash_ground_emote_sharpening",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

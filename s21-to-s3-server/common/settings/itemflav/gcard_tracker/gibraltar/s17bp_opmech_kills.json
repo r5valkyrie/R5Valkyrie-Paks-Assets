@@ -1,0 +1,33 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_stat_tracker_layout.rpak",
+	"uniqueId": 397396873,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_tracker/gibraltar/s17bp_opmech_kills.rpak",
+		"itemType": "gladiator_card_stat_tracker",
+		"parentItemFlavor": "settings/itemflav/character/gibraltar.rpak",
+		"settingsAssetID": "SAID00397396873",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#gcard_tracker_gibraltar_s17bp_opmech_kills_NAME",
+		"localizationKey_NAME_SHORT": "#TRACKER_S17BP_OPMECH_KILLS",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "RARE",
+		"icon": "",
+		"tagIcon": "rui/events/s17bp/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "gcard_tracker_gibraltar_s17bp_opmech_kills",
+		"ownershipTarget": "",
+		"statRef": "stats.seasons[SAID00134970849].characters[%char%].kills",
+		"valueNumberFormat": "INTEGER",
+		"valueSuffix": "",
+		"backgroundImage": "rui/gladiator_cards/trackers/event/s17bp/s17bp_opmech_gibraltar",
+		"multipleOwnershipTargets": [
+			],
+		"color0": "<0.859000,0.741000,0.427000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false
+	}
+}

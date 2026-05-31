@@ -1,0 +1,18 @@
+{
+	"extraDataSizeIndex": 1,
+	"subLayouts": [
+		"settings_layout/settings_itemtype_calevent_milestone_layout/featuredItems.csv",
+		"settings_layout/settings_itemtype_calevent_milestone_layout/milestoneGroups.csv",
+		"settings_layout/settings_itemtype_calevent_milestone_layout/restrictedMilestoneGroups.csv",
+		"settings_layout/settings_itemtype_calevent_milestone_layout/rewardGroups.csv",
+		"settings_layout/settings_itemtype_calevent_milestone_layout/restrictedRewardGroups.csv",
+		"settings_layout/settings_itemtype_calevent_milestone_layout/eventMilestonePackRatesRows.csv",
+		"settings_layout/settings_itemtype_calevent_milestone_layout/standardMilestonePackRatesRows.csv",
+		"settings_layout/settings_itemtype_calevent_milestone_layout/multiMilestonePackRatesRows.csv",
+		"settings_layout/settings_itemtype_calevent_milestone_layout/milestonePackPrices.csv",
+		"settings_layout/settings_itemtype_calevent_milestone_layout/milestonePackLeftInfoText.csv",
+		"settings_layout/settings_itemtype_calevent_milestone_layout/milestonePackRightInfoText.csv",
+		"settings_layout/settings_itemtype_calevent_milestone_layout/aboutTextStandard.csv",
+		"settings_layout/settings_itemtype_calevent_milestone_layout/aboutTextRestricted.csv"
+	]
+}

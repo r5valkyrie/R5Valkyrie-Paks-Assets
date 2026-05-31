@@ -1,0 +1,19 @@
+seqs:
+[
+	animseq\props\octane_jump_pad\octane_jump_pad\freefall_octane_jumppad_xtreme_kayaking.rseq
+	animseq\props\octane_jump_pad\octane_jump_pad\jumppad_freefall_medium_syringepad.rseq
+	animseq\props\octane_jump_pad\octane_jump_pad\nova_jumppad_gladcard_animated_takingatrip.rseq
+	animseq\props\octane_jump_pad\octane_jump_pad\nova_jumppad_gladcard_animated_takingatrip_idle.rseq
+	animseq\props\octane_jump_pad\octane_jump_pad\octane_jumppad_freefall_bodyboard.rseq
+	animseq\props\octane_jump_pad\octane_jump_pad\octane_jumppad_gladcard_animated_wipeout.rseq
+	animseq\props\octane_jump_pad\octane_jump_pad\octane_jumppad_gladcard_animated_wipeout_idle.rseq
+	animseq\props\octane_jump_pad\octane_jump_pad\octane_jumppad_ground_emote_trampoline.rseq
+	animseq\props\octane_jump_pad\octane_jump_pad\octane_jumppad_ground_emote_trampoline_loop.rseq
+	animseq\props\octane_jump_pad\octane_jump_pad\prop_jumppad_Octane_ground_emote_FootFan_loop.rseq
+	animseq\props\octane_jump_pad\octane_jump_pad\prop_jumppad_Octane_ground_emote_FootFan_start.rseq
+	animseq\props\octane_jump_pad\prop_octane_jump_pad_deploy.rseq
+	animseq\props\octane_jump_pad\prop_octane_jump_pad_deploy_idle.rseq
+	animseq\props\octane_jump_pad\prop_octane_jump_pad_deploy_trans.rseq
+	animseq\props\octane_jump_pad\prop_octane_jump_pad_shutdown.rseq
+	animseq\props\octane_jump_pad\prop_octane_jump_pad_shutdown_idle.rseq
+]

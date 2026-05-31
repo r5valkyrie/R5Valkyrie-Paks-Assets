@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/crypto/icon_v23_ragold.rpak",
+		"roots": [
+				{
+					"asset": "mdl/Humans/class/medium/crypto_v23_ragold_w.rmdl",
+					"featureFlag": "HAS_GOLDEN_HORSE_HIDDEN"
+				},
+				{
+					"asset": "mdl/Weapons/arms/crypto_v23_ragold_v.rmdl",
+					"featureFlag": "HAS_GOLDEN_HORSE_HIDDEN"
+				}
+			]
+	}
+}

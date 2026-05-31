@@ -1,0 +1,42 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_execution_layout.rpak",
+	"uniqueId": 2054563960,
+	"settings": {
+		"assetName": "settings/itemflav/character_execution/mirage/trickster.rpak",
+		"itemType": "character_execution",
+		"parentItemFlavor": "settings/itemflav/character/mirage.rpak",
+		"settingsAssetID": "SAID02054563960",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#FINISHER_022",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "LEGENDARY",
+		"icon": "rui/menu/buttons/finisher_emotes/finisher_emote_mirage_pound_it_bro",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_execution_mirage_trickster",
+		"ownershipTarget": "",
+		"video": "media/character_executions/mirage_execution_trickster",
+		"attackerAnimSeq": "animseq/humans/class/medium/pilot_medium_holo/mirage_execution_trickster.rseq",
+		"victimLightAnimSeq": "animseq/humans/class/light/mp_pilot_light_core/light_victim_mirage_execution_trickster.rseq",
+		"victimMediumAnimSeq": "animseq/humans/class/medium/mp_pilot_medium_core/medium_victim_mirage_execution_trickster.rseq",
+		"victimHeavyAnimSeq": "animseq/humans/class/heavy/mp_pilot_heavy_core/heavy_victim_mirage_execution_trickster.rseq",
+		"victimNPCMediumAnimSeq": "animseq/humans/pete/ai_npc_core/npc_victim_mirage_execution_trickster.rseq",
+		"attackerPreviewAnimSeq": "animseq/humans/class/medium/pilot_medium_holo/mirage_execution_trickster_loot.rseq",
+		"victimPreviewAnimSeq": "animseq/humans/class/medium/mp_pilot_medium_core/victim_mirage_execution_trickster_loot.rseq",
+		"multipleOwnershipTargets": [
+			],
+		"executionDependency": 0,
+		"additionalAttackerAnimSeq": [
+			],
+		"victimPerCharacterAnimSeq": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isNotEquippable": false,
+		"shouldHideIfNotEquippable": false
+	}
+}

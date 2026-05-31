@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/wraith/lgnd_v23_christmas.rpak",
+		"roots": [
+				{
+					"asset": "mdl/humans/class/light/wraith_v23_christmas_w.rmdl",
+					"featureFlag": "HAS_19_0_RELEASE"
+				},
+				{
+					"asset": "mdl/weapons/arms/wraith_v23_christmas_v.rmdl",
+					"featureFlag": "HAS_19_0_RELEASE"
+				}
+			]
+	}
+}

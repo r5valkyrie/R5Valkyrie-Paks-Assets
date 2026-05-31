@@ -1,0 +1,48 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_entitlement_layout.rpak",
+	"uniqueId": 1952872582,
+	"settings": {
+		"assetName": "settings/itemflav/entitlement/twitch_mirage_skin1.rpak",
+		"itemType": "entitlement",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01952872582",
+		"__featureFlag": "",
+		"devDescription": "Twitch Prime Mirage Skin Reward",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"entitlementType": "twitch_prime",
+		"twitchRef": "twitch_mirage_skin1",
+		"twitchRef": "twitch_mirage_skin1",
+		"enum": "",
+		"pc": "",
+		"ps4": "",
+		"xb1": "",
+		"switch": "",
+		"pc_offer": "",
+		"steam_offer": "",
+		"xb1_offer": "",
+		"menuTitleText": "#TWITCH_PRIME",
+		"menuDescText": "#TWITCH_MIRAGE1_ENTITLEMENT_OWNED",
+		"menuImageName": "twitch_promo_05",
+		"menuPersistenceVarName": "twitchMirage01Acknowledged",
+		"list": [
+				{
+					"flavor": "settings/itemflav/character_skin/mirage/twitch02_rare_01.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/kraber/twitch02_rare_01.rpak",
+					"quantity": 1
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isMenuEnabled": false
+	}
+}

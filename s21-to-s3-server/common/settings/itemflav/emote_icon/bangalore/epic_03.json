@@ -1,0 +1,36 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_emote_icon_layout.rpak",
+	"uniqueId": 402794237,
+	"settings": {
+		"assetName": "settings/itemflav/emote_icon/bangalore/epic_03.rpak",
+		"itemType": "emote_icon",
+		"parentItemFlavor": "settings/itemflav/character/bangalore.rpak",
+		"settingsAssetID": "SAID00402794237",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#spray_epic_v20_bangalore_03",
+		"localizationKey_NAME_SHORT": "#spray_epic_v20_bangalore_03",
+		"localizationKey_DESCRIPTION_LONG": "#spray_epic_v20_bangalore_03",
+		"localizationKey_DESCRIPTION_SHORT": "#spray_epic_v20_bangalore_03",
+		"quality": "EPIC",
+		"icon": "rui/menu/holosprays/hspray_epic_v20_bangalore_03",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "emote_icon_bangalore_epic_03",
+		"ownershipTarget": "",
+		"anim3p": "",
+		"holoProjectorSprayModel": "mdl/props/holo_spray/spray_epic_v20_bangalore_03.rmdl",
+		"quickchatAliasSubName": "",
+		"customSkinMenuBlurb": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<0.984000,0.659000,0.333000>",
+		"holoProjectorEffectColor2": "<0.984000,0.659000,0.333000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": true,
+		"holoProjectorUseEffectColor2": true,
+		"isTheEmpty": false
+	}
+}

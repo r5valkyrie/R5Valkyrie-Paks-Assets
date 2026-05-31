@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 344159945,
+	"settings": {
+		"assetName": "settings/itemflav/ability/upgrade_extra_swarm_missile.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00344159945",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#UPGRADE_VALKYRIE_TAC_MISSILE_LAYOUT_NAME",
+		"localizationKey_NAME_SHORT": "#UPGRADE_TYPE_TACTICAL",
+		"localizationKey_DESCRIPTION_LONG": "#UPGRADE_VALKYRIE_TAC_MISSILE_LAYOUT_LONG_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#UPGRADE_VALKYRIE_TAC_MISSILE_LAYOUT_SHORT_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/legend_upgrades/valkyrie_fullcoverage_icon",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_EXTRA_SWARM_MISSILE",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

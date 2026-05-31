@@ -1,0 +1,12 @@
+seqs:
+[
+	animseq\props\caustic_gas_tank\caustic_gas_tank\caustic_gastank_freefall_emote_tanksurf.rseq
+	animseq\props\caustic_gas_tank\caustic_gas_tank\caustic_gastank_ground_emote_rakestep.rseq
+	animseq\props\caustic_gas_tank\caustic_gas_tank\prop_caustic_gastank_deploy.rseq
+	animseq\props\caustic_gas_tank\caustic_gas_tank\prop_caustic_gastank_deploy_idle.rseq
+	animseq\props\caustic_gas_tank\caustic_gas_tank\prop_caustic_gastank_destroy.rseq
+	animseq\props\caustic_gas_tank\caustic_gas_tank\prop_caustic_gastank_ground_emote_notes.rseq
+	animseq\props\caustic_gas_tank\caustic_gas_tank\prop_caustic_gastank_ground_emote_punchingbag.rseq
+	animseq\props\caustic_gas_tank\caustic_gas_tank\prop_caustic_gastank_predeploy.rseq
+	animseq\props\caustic_gas_tank\caustic_gas_tank\prop_caustic_gastank_predeploy_idle.rseq
+]

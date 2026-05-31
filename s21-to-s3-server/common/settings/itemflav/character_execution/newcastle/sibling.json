@@ -1,0 +1,42 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_execution_layout.rpak",
+	"uniqueId": 976161983,
+	"settings": {
+		"assetName": "settings/itemflav/character_execution/newcastle/sibling.rpak",
+		"itemType": "character_execution",
+		"parentItemFlavor": "settings/itemflav/character/newcastle.rpak",
+		"settingsAssetID": "SAID00976161983",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#character_execution_newcastle_sibling_NAME",
+		"localizationKey_NAME_SHORT": "#character_execution_newcastle_sibling_NAME",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "COMMON",
+		"icon": "rui/menu/buttons/finisher_emotes/finisher_emote",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"grxMode": "NONE",
+		"grxRef": "character_execution_temp_heavy",
+		"ownershipTarget": "",
+		"video": "game//r2//media//character_executions//execution_downed_default.bik",
+		"attackerAnimSeq": "animseq/humans/class/heavy/pilot_heavy_newcastle/newcastle_execution_sibling.rseq",
+		"victimLightAnimSeq": "",
+		"victimMediumAnimSeq": "animseq/humans/class/medium/pilot_medium_bangalore/bangalore_victim_newcastle_execution_sibling.rseq",
+		"victimHeavyAnimSeq": "",
+		"victimNPCMediumAnimSeq": "",
+		"attackerPreviewAnimSeq": "",
+		"victimPreviewAnimSeq": "",
+		"multipleOwnershipTargets": [
+			],
+		"executionDependency": 0,
+		"additionalAttackerAnimSeq": [
+			],
+		"victimPerCharacterAnimSeq": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isNotEquippable": true,
+		"shouldHideIfNotEquippable": true
+	}
+}

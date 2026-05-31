@@ -1,0 +1,11 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_SetColorModScaleOverDuration_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/fx_conduit_exec_lgnd_emissiveGlow.rpak",
+		"devDescription": "",
+		"type": "SetColorModScaleOverDuration",
+		"rampUpDuration": 0.200000,
+		"plateauDuration": 1.300000,
+		"rampDownDuration": 1.000000
+	}
+}

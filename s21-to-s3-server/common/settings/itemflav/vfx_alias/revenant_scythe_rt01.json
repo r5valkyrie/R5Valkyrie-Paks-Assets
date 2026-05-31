@@ -1,0 +1,19 @@
+{
+	"layoutAsset": "settings_layout/settings_skinAlias_vfx_layout.rpak",
+	"settings": {
+		"assetName": "settings/itemflav/vfx_alias/revenant_scythe_rt01.rpak",
+		"devDescription": "",
+		"type": "",
+		"vfxaliasgroups": [
+				{
+					"name": "",
+					"vfxAliases": [
+							{
+								"vfxAlias": "P_scy_blade_swipe_emt_3P",
+								"vfxReal": "P_scy_blade_swipe_emt_3P_rt01"
+							}
+						]
+				}
+			]
+	}
+}

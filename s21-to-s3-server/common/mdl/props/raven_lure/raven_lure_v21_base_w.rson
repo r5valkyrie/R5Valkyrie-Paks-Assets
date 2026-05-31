@@ -1,0 +1,8 @@
+rigs:
+[
+	animrig\props\raven_lure\raven_lure_v21_animrig.rrig
+]
+seqs:
+[
+	animseq\props\raven_lure\lure_bloodhound_ground_emote_birdmaster.rseq
+]

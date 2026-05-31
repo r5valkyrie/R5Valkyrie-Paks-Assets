@@ -1,0 +1,10 @@
+{
+	"extraDataSizeIndex": 1,
+	"subLayouts": [
+		"settings_layout/settings_itemtype_melee_weapon_layout/legends.csv",
+		"settings_layout/settings_itemtype_melee_weapon_layout/skins.csv",
+		"settings_layout/settings_itemtype_melee_weapon_layout/componentSets.csv",
+		"settings_layout/settings_itemtype_melee_weapon_layout/skinAlias_sfxAliases.csv",
+		"settings_layout/settings_itemtype_melee_weapon_layout/scriptAnimWindowFXControls.csv"
+	]
+}

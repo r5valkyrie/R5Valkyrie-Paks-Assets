@@ -1,0 +1,112 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_radio_play_layout.rpak",
+	"uniqueId": 1432535894,
+	"settings": {
+		"assetName": "settings/itemflav/radio_play/s21/radio_play_s21_e.rpak",
+		"itemType": "radio_play",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01432535894",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "rui/events/s17ce02/loadscreen_icon_01",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "radio_play_s21_e",
+		"ownershipTarget": "",
+		"multipleOwnershipTargets": [
+			],
+		"layers": [
+				{
+					"ruiAnimations": [
+							{
+								"ruiAsset": "ui/radioplay_s21_5.rpak",
+								"sound": "diag_mp_alter_s21_1_vigAA",
+								"length": 90.000000
+							}
+						]
+				},
+				{
+					"ruiAnimations": [
+							{
+								"ruiAsset": "",
+								"sound": "",
+								"length": 2.400000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_alter_s21vigAA_01a_01_01_sub",
+								"length": 4.200000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_ash_s21vigAA_02a_01_01_sub",
+								"length": 7.700000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_alter_s21vigAA_03a_01_01_sub",
+								"length": 12.500000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_ash_s21vigAA_04a_01_01_sub",
+								"length": 6.200000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_alter_s21vigAA_05a_01_01_sub",
+								"length": 9.900000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_ash_s21vigAA_06a_01_01_sub",
+								"length": 3.300000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_alter_s21vigAA_07a_01_01_sub",
+								"length": 3.100000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_ash_s21vigAA_08a_01_01_sub",
+								"length": 2.500000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_alter_s21vigAA_09a_01_01_sub",
+								"length": 3.600000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_ash_s21vigAA_10a_01_01_sub",
+								"length": 4.800000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_alter_s21vigAA_11a_01_01_sub",
+								"length": 4.100000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_alter_s21vigAA_12a_01_01_sub",
+								"length": 20.100000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_ash_s21vigAA_13a_01_01_sub",
+								"length": 1.300000
+							}
+						]
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

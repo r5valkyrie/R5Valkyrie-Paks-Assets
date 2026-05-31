@@ -1,0 +1,25 @@
+seqs:
+[
+	animseq\humans\class\char_select_light_default.rseq
+	animseq\humans\class\medium\pilot_medium_alter\alter_gladcard_animated_byebye_idle_light.rseq
+	animseq\humans\class\medium\pilot_medium_alter\alter_gladcard_animated_byebye_light.rseq
+	animseq\humans\class\medium\pilot_medium_alter\alter_gladcard_animated_jokercar_idle_light.rseq
+	animseq\humans\class\medium\pilot_medium_alter\alter_gladcard_animated_jokercar_light.rseq
+	animseq\humans\class\medium\pilot_medium_alter\alter_gladcard_animated_knockknock_idle_light.rseq
+	animseq\humans\class\medium\pilot_medium_alter\alter_gladcard_animated_knockknock_light.rseq
+	animseq\humans\class\medium\pilot_medium_alter\alter_gladcard_animated_notyou_idle_light.rseq
+	animseq\humans\class\medium\pilot_medium_alter\alter_gladcard_animated_notyou_light.rseq
+	animseq\humans\class\medium\pilot_medium_alter\alter_gladcard_animated_stare_idle_light.rseq
+	animseq\humans\class\medium\pilot_medium_alter\alter_gladcard_animated_stare_light.rseq
+	animseq\humans\class\medium\pilot_medium_alter\alter_gladcard_static_back_light.rseq
+	animseq\humans\class\medium\pilot_medium_alter\alter_gladcard_static_combatmaster_light.rseq
+	animseq\humans\class\medium\pilot_medium_alter\alter_gladcard_static_common_standing_light.rseq
+	animseq\humans\class\medium\pilot_medium_alter\alter_gladcard_static_crouch_light.rseq
+	animseq\humans\class\medium\pilot_medium_alter\alter_gladcard_static_greed_light.rseq
+	animseq\humans\class\medium\pilot_medium_alter\alter_gladcard_static_invasion_light.rseq
+	animseq\humans\class\medium\pilot_medium_alter\alter_gladcard_static_naptime_light.rseq
+	animseq\humans\class\medium\pilot_medium_alter\alter_gladcard_static_skull_light.rseq
+	animseq\humans\class\medium\pilot_medium_alter\alter_gladcard_static_spin_light.rseq
+	animseq\humans\class\medium\pilot_medium_alter\alter_gladcard_static_wolf_light.rseq
+	animseq\humans\class\medium\pilot_medium_alter\char_select_light_custom_alter.rseq
+]

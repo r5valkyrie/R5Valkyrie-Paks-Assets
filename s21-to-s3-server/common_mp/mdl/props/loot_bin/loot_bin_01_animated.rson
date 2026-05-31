@@ -1,0 +1,13 @@
+rigs:
+[
+]
+seqs:
+[
+	animseq\props\loot_bin\loot_bin_01_loba_close_all.rseq
+	animseq\props\loot_bin\loot_bin_01_loba_close_top.rseq
+	animseq\props\loot_bin\loot_bin_01_loba_open_all.rseq
+	animseq\props\loot_bin\loot_bin_01_loba_open_bottom.rseq
+	animseq\props\loot_bin\loot_bin_01_loba_open_top.rseq
+	animseq\props\loot_bin\loot_bin_01_loba_openidle_all.rseq
+	animseq\props\loot_bin\loot_bin_01_loba_openidle_top.rseq
+]

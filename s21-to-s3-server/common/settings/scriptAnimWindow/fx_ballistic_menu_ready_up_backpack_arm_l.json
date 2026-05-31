@@ -1,0 +1,12 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_PlayFX_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/fx_ballistic_menu_ready_up_backpack_arm_l.rpak",
+		"devDescription": "",
+		"type": "PlayFX",
+		"particleSystemName": "P_clbr_charsel_backpack_arm_l",
+		"attachPoint": "l_backpiston_fx",
+		"followAttach": true,
+		"playEndCap": false
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/lifeline/s10e01_lgnd_v21_evolve.rpak",
+		"roots": [
+				{
+					"asset": "mdl/Humans/class/light/lifeline_v21_evolve_w.rmdl",
+					"featureFlag": ""
+				},
+				{
+					"asset": "mdl/Weapons/arms/medium/lifeline_v21_evolve_v.rmdl",
+					"featureFlag": ""
+				}
+			]
+	}
+}

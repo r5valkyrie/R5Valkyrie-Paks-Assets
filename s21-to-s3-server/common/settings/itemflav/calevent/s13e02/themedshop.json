@@ -1,0 +1,97 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_calevent_themedshop_layout.rpak",
+	"uniqueId": 1599136135,
+	"settings": {
+		"assetName": "settings/itemflav/calevent/s13e02/themedshop.rpak",
+		"itemType": "calevent_themedshop",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01599136135",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "rui/events/s13e02/item_source_icon",
+		"grxMode": "NONE",
+		"revealUnixTime": "",
+		"hideUnixTime": "",
+		"defaultStartTime": "2022-07-19 10:00:00 -07:00",
+		"defaultFinishTime": "2022-08-02 10:00:00 -07:00",
+		"tabText": "#S13E02_TITLE_LONG",
+		"grxOfferLocation": "s13e02_themedshop",
+		"itemGroup1HeaderText": "#GAIDEN_EVENT_STORE",
+		"itemGroup1HeaderImage": "rui/events/s13e02/limited_items_header",
+		"itemGroup1BGImage": "rui/events/themed_shop_events/limited_items_bg",
+		"itemGroup2HeaderText": "#FEATURED",
+		"itemGroup2HeaderImage": "rui/events/themed_shop_events/standard_items_header",
+		"itemGroup2BGImage": "rui/events/themed_shop_events/standard_items_bg",
+		"itemBtnRegularBGImage": "rui/events/themed_shop_events/item_bg",
+		"itemBtnHighlightedBGImage": "rui/events/themed_shop_events/item_bg",
+		"headerIcon": "rui/events/s13e02/challenges_logo",
+		"lobbyButtonImage": "",
+		"associatedPackFlav": "settings/itemflav/pack/cosmetic_event_s13e02.rpak",
+		"heirloomButtonImage": "rui/events/s13e02/heirloom_t1",
+		"prestigeButtonImage2": "rui/events/s13e02/heirloom_t2",
+		"prestigeButtonImage3": "rui/events/s13e02/heirloom_t3",
+		"completionSequenceName": "rewardseq_s13e02_event_completion",
+		"completionRewardPack": "settings/itemflav/pack/mythic_bangalore.rpak",
+		"primaryCompletionRewardItem": "settings/itemflav/character_skin/bangalore/mythic_v22_pilot_level01.rpak",
+		"heirloomUnlockDesc": "#S13E02_MYTHIC_UNLOCK_DESC",
+		"leftSideImage": "",
+		"centerImage": "",
+		"rightSideImage": "",
+		"centerRuiAsset": "",
+		"itemGroup1HeaderTextColor": "<1.000000,0.871000,0.000000>",
+		"itemGroup2HeaderTextColor": "<0.941000,0.757000,0.125000>",
+		"challenges": [
+			],
+		"seasonTitleColor": "<1.000000,1.000000,1.000000>",
+		"seasonSubtitleColor": "<0.976000,0.855000,0.424000>",
+		"aboutPageSpecialTextColor": "<0.000000,0.000000,0.000000>",
+		"aboutTextStandard": [
+				{
+					"text": "#S13E02_ABOUT_LINE_1"
+				},
+				{
+					"text": "#S13E02_ABOUT_LINE_2"
+				},
+				{
+					"text": "#S13E02_ABOUT_LINE_3"
+				},
+				{
+					"text": "#S13E02_ABOUT_LINE_4"
+				}
+			],
+		"aboutTextRestricted": [
+				{
+					"text": "#S13E02_ABOUT_RESTRICTED_LINE_1"
+				},
+				{
+					"text": "#S13E02_ABOUT_RESTRICTED_LINE_2"
+				},
+				{
+					"text": "#S13E02_ABOUT_RESTRICTED_LINE_3"
+				}
+			],
+		"imageUnselectedAlpha": 0.500000,
+		"imageSelectedAlpha": 1.000000,
+		"tabTextDefaultCol": "<1.000000,1.000000,1.000000>",
+		"tabBGFocusedCol": "<0.949000,0.502000,0.051000>",
+		"tabBarFocusedCol": "<0.882000,0.776000,0.000000>",
+		"tabTextFocusedCol": "<1.000000,1.000000,1.000000>",
+		"tabGlowFocusedCol": "<1.000000,1.000000,1.000000>",
+		"tabBGSelectedCol": "<1.000000,0.576000,0.110000>",
+		"tabBarSelectedCol": "<1.000000,0.882000,0.067000>",
+		"tabTextSelectedCol": "<1.000000,1.000000,1.000000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"themeLobby": true,
+		"whatsNewTab": true,
+		"themedShopTab": true,
+		"isPrestigeSkin": true,
+		"awardHeirloomShards": false
+	}
+}

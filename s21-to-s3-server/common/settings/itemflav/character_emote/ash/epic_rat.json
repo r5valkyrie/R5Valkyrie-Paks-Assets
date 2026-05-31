@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 1736250527,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/ash/epic_rat.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/ash.rpak",
+		"settingsAssetID": "SAID01736250527",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#emote_ash_epic_rat_NAME",
+		"localizationKey_NAME_SHORT": "#emote_ash_epic_rat_NAME",
+		"localizationKey_DESCRIPTION_LONG": "#emote_ash_epic_rat_NAME",
+		"localizationKey_DESCRIPTION_SHORT": "#emote_ash_epic_rat_NAME",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/character_emotes/ash/rat",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_ash_epic_rat",
+		"ownershipTarget": "",
+		"anim3p": "ash_ground_emote_rat",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

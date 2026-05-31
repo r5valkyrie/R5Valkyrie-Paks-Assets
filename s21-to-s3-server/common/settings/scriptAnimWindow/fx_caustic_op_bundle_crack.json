@@ -1,0 +1,12 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_PlayFX_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/fx_caustic_op_bundle_crack.rpak",
+		"devDescription": "",
+		"type": "PlayFX",
+		"particleSystemName": "P_menu_OP_crack",
+		"attachPoint": "FX_door",
+		"followAttach": true,
+		"playEndCap": true
+	}
+}

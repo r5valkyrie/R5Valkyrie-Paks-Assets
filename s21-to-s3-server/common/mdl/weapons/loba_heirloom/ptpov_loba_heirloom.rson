@@ -1,0 +1,8 @@
+rigs:
+[
+	animrig\weapons\arms\pov_pilot_medium_loba.rrig
+	animrig\weapons\loba_heirloom\ptpov_loba_heirloom.rrig
+]
+seqs:
+[
+]

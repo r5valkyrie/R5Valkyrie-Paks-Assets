@@ -1,0 +1,862 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_skin_layout.rpak",
+	"uniqueId": 253053967,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_skin/spitfire/react_v21_heroknight.rpak",
+		"itemType": "weapon_skin",
+		"parentItemFlavor": "settings/itemflav/loot/main_weapon/spitfire.rpak",
+		"settingsAssetID": "SAID00253053967",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#weapon_skin_spitfire_react_v21_heroknight_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "LEGENDARY",
+		"icon": "rui/events/s13bp/spitfire_legendary_wintersoul",
+		"tagIcon": "rui/events/s13bp/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "weapon_skin_spitfire_react_v21_heroknight",
+		"ownershipTarget": "",
+		"worldModel": "mdl/techart/mshop/weapons/class/lmg/spitfire/spitfire_react_v21_heroknight_w.rmdl",
+		"viewModel": "mdl/techart/mshop/weapons/class/lmg/spitfire/spitfire_react_v21_heroknight_v.rmdl",
+		"skinName": "spitfire_react_v21_heroknight",
+		"exclusiveFunc": "",
+		"unlockFuncKey": "",
+		"video": "media/battle_pass/s13bp/reactive_100",
+		"customSkinMenuBlurb": "",
+		"multipleOwnershipTargets": [
+			],
+		"camoIndex": 0,
+		"hackyRUISchemeIdentifier": 0,
+		"featureReactsToKillsLevels": [
+				{
+					"killSoundEvent1p": "",
+					"killSoundEvent3p": "",
+					"transitionSoundEvent1p": "",
+					"transitionSoundEvent3p": "",
+					"persistentSoundEvent1p": "",
+					"persistentSoundEvent3p": "",
+					"killCount": 0,
+					"killSoundDuration": 0.000000,
+					"transitionSoundDuration": 0.000000,
+					"emissiveIntensity": 1.000000,
+					"killFXList": [
+							{
+								"fx1p": "P_sptf_kill_muzzle",
+								"fx3p": "",
+								"attachment": "fx_muzzle_btm",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_kill_main_sides",
+								"fx3p": "P_sptf_kill_main_sides_3P",
+								"attachment": "fx_panel_base",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_kill_panel",
+								"fx3p": "",
+								"attachment": "fx_panel_01_l",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_kill_panel",
+								"fx3p": "",
+								"attachment": "fx_panel_02_l",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_kill_panel",
+								"fx3p": "",
+								"attachment": "fx_panel_03_l",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_kill_panel",
+								"fx3p": "",
+								"attachment": "fx_panel_01_r",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_kill_panel",
+								"fx3p": "",
+								"attachment": "fx_panel_02_r",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_kill_panel",
+								"fx3p": "",
+								"attachment": "fx_panel_03_r",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_kill_heart",
+								"fx3p": "",
+								"attachment": "fx_core_heart_l",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_kill_heart",
+								"fx3p": "",
+								"attachment": "fx_core_heart_r",
+								"controlPoints": [
+									]
+							}
+						],
+					"transitionFXList": [
+						],
+					"persistentFXList": [
+						],
+					"bodygroupChangeList": [
+						],
+					"weaponModListAdd": [
+						],
+					"weaponModListRemove": [
+						],
+					"killSoundSyncToAnim": false,
+					"transitionSoundSyncToAnim": false
+				},
+				{
+					"killSoundEvent1p": "weapon_lmg_reactiveFX_Phase01",
+					"killSoundEvent3p": "",
+					"transitionSoundEvent1p": "weapon_lmg_reactiveFX_Phase01",
+					"transitionSoundEvent3p": "",
+					"persistentSoundEvent1p": "",
+					"persistentSoundEvent3p": "",
+					"killCount": 1,
+					"killSoundDuration": 0.000000,
+					"transitionSoundDuration": 0.000000,
+					"emissiveIntensity": 1.500000,
+					"killFXList": [
+							{
+								"fx1p": "P_sptf_kill_muzzle",
+								"fx3p": "",
+								"attachment": "fx_muzzle_btm",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_kill_main_sides",
+								"fx3p": "P_sptf_kill_main_sides_3P",
+								"attachment": "fx_panel_base",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_kill_panel",
+								"fx3p": "",
+								"attachment": "fx_panel_01_l",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_kill_panel",
+								"fx3p": "",
+								"attachment": "fx_panel_02_l",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_kill_panel",
+								"fx3p": "",
+								"attachment": "fx_panel_03_l",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_kill_panel",
+								"fx3p": "",
+								"attachment": "fx_panel_01_r",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_kill_panel",
+								"fx3p": "",
+								"attachment": "fx_panel_02_r",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_kill_panel",
+								"fx3p": "",
+								"attachment": "fx_panel_03_r",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_kill_heart",
+								"fx3p": "",
+								"attachment": "fx_core_heart_l",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_kill_heart",
+								"fx3p": "",
+								"attachment": "fx_core_heart_r",
+								"controlPoints": [
+									]
+							}
+						],
+					"transitionFXList": [
+							{
+								"fx1p": "P_sptf_kill_muzzle",
+								"fx3p": "",
+								"attachment": "fx_muzzle_btm",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_kill_main_sides",
+								"fx3p": "P_sptf_kill_main_sides_3P",
+								"attachment": "fx_panel_base",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_kill_panel",
+								"fx3p": "",
+								"attachment": "fx_panel_01_l",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_kill_panel",
+								"fx3p": "",
+								"attachment": "fx_panel_02_l",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_kill_panel",
+								"fx3p": "",
+								"attachment": "fx_panel_03_l",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_kill_panel",
+								"fx3p": "",
+								"attachment": "fx_panel_01_r",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_kill_panel",
+								"fx3p": "",
+								"attachment": "fx_panel_02_r",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_kill_panel",
+								"fx3p": "",
+								"attachment": "fx_panel_03_r",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_kill_heart",
+								"fx3p": "",
+								"attachment": "fx_core_heart_l",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_kill_heart",
+								"fx3p": "",
+								"attachment": "fx_core_heart_r",
+								"controlPoints": [
+									]
+							}
+						],
+					"persistentFXList": [
+							{
+								"fx1p": "P_sptf_pers_main_sides_lvl1",
+								"fx3p": "P_sptf_pers_main_sides_lvl1_3P",
+								"attachment": "fx_panel_base",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_pers_heart_lvl1",
+								"fx3p": "",
+								"attachment": "fx_core_heart_l",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_pers_heart_lvl1",
+								"fx3p": "",
+								"attachment": "fx_core_heart_r",
+								"controlPoints": [
+									]
+							}
+						],
+					"bodygroupChangeList": [
+						],
+					"weaponModListAdd": [
+						],
+					"weaponModListRemove": [
+						],
+					"killSoundSyncToAnim": false,
+					"transitionSoundSyncToAnim": false
+				},
+				{
+					"killSoundEvent1p": "weapon_lmg_reactiveFX_Phase02",
+					"killSoundEvent3p": "",
+					"transitionSoundEvent1p": "weapon_lmg_reactiveFX_Phase02",
+					"transitionSoundEvent3p": "",
+					"persistentSoundEvent1p": "",
+					"persistentSoundEvent3p": "",
+					"killCount": 3,
+					"killSoundDuration": 0.000000,
+					"transitionSoundDuration": 0.000000,
+					"emissiveIntensity": 1.600000,
+					"killFXList": [
+							{
+								"fx1p": "P_sptf_kill_muzzle",
+								"fx3p": "",
+								"attachment": "fx_muzzle_btm",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_kill_main_sides",
+								"fx3p": "P_sptf_kill_main_sides_3P",
+								"attachment": "fx_panel_base",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_kill_panel",
+								"fx3p": "",
+								"attachment": "fx_panel_01_l",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_kill_panel",
+								"fx3p": "",
+								"attachment": "fx_panel_02_l",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_kill_panel",
+								"fx3p": "",
+								"attachment": "fx_panel_03_l",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_kill_panel",
+								"fx3p": "",
+								"attachment": "fx_panel_01_r",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_kill_panel",
+								"fx3p": "",
+								"attachment": "fx_panel_02_r",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_kill_panel",
+								"fx3p": "",
+								"attachment": "fx_panel_03_r",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_kill_heart",
+								"fx3p": "",
+								"attachment": "fx_core_heart_l",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_kill_heart",
+								"fx3p": "",
+								"attachment": "fx_core_heart_r",
+								"controlPoints": [
+									]
+							}
+						],
+					"transitionFXList": [
+							{
+								"fx1p": "P_sptf_kill_muzzle",
+								"fx3p": "",
+								"attachment": "fx_muzzle_btm",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_kill_main_sides",
+								"fx3p": "P_sptf_kill_main_sides_3P",
+								"attachment": "fx_panel_base",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_kill_panel",
+								"fx3p": "",
+								"attachment": "fx_panel_01_l",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_kill_panel",
+								"fx3p": "",
+								"attachment": "fx_panel_02_l",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_kill_panel",
+								"fx3p": "",
+								"attachment": "fx_panel_03_l",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_kill_panel",
+								"fx3p": "",
+								"attachment": "fx_panel_01_r",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_kill_panel",
+								"fx3p": "",
+								"attachment": "fx_panel_02_r",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_kill_panel",
+								"fx3p": "",
+								"attachment": "fx_panel_03_r",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_kill_heart",
+								"fx3p": "",
+								"attachment": "fx_core_heart_l",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_kill_heart",
+								"fx3p": "",
+								"attachment": "fx_core_heart_r",
+								"controlPoints": [
+									]
+							}
+						],
+					"persistentFXList": [
+							{
+								"fx1p": "P_sptf_pers_muzzle_lvl3",
+								"fx3p": "",
+								"attachment": "fx_muzzle_btm",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_pers_heart_lvl2",
+								"fx3p": "",
+								"attachment": "fx_core_heart_l",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_pers_heart_lvl2",
+								"fx3p": "",
+								"attachment": "fx_core_heart_r",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_pers_main_sides_lvl2",
+								"fx3p": "P_sptf_pers_main_sides_lvl2_3P",
+								"attachment": "fx_panel_base",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_pers_panel_lvl2_l",
+								"fx3p": "",
+								"attachment": "fx_panel_01_l",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_pers_panel_lvl2_l",
+								"fx3p": "",
+								"attachment": "fx_panel_02_l",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_pers_panel_lvl2_l",
+								"fx3p": "",
+								"attachment": "fx_panel_03_l",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_pers_panel_lvl2_r",
+								"fx3p": "",
+								"attachment": "fx_panel_01_r",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_pers_panel_lvl2_r",
+								"fx3p": "",
+								"attachment": "fx_panel_02_r",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_pers_panel_lvl2_r",
+								"fx3p": "",
+								"attachment": "fx_panel_03_r",
+								"controlPoints": [
+									]
+							}
+						],
+					"bodygroupChangeList": [
+						],
+					"weaponModListAdd": [
+						],
+					"weaponModListRemove": [
+						],
+					"killSoundSyncToAnim": false,
+					"transitionSoundSyncToAnim": false
+				},
+				{
+					"killSoundEvent1p": "weapon_lmg_reactiveFX_Phase03",
+					"killSoundEvent3p": "",
+					"transitionSoundEvent1p": "weapon_lmg_reactiveFX_Phase03",
+					"transitionSoundEvent3p": "",
+					"persistentSoundEvent1p": "",
+					"persistentSoundEvent3p": "",
+					"killCount": 5,
+					"killSoundDuration": 0.000000,
+					"transitionSoundDuration": 0.000000,
+					"emissiveIntensity": 2.000000,
+					"killFXList": [
+							{
+								"fx1p": "P_sptf_kill_muzzle",
+								"fx3p": "",
+								"attachment": "fx_muzzle_btm",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_kill_main_sides",
+								"fx3p": "P_sptf_kill_main_sides_3P",
+								"attachment": "fx_panel_base",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_kill_panel",
+								"fx3p": "",
+								"attachment": "fx_panel_01_l",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_kill_panel",
+								"fx3p": "",
+								"attachment": "fx_panel_02_l",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_kill_panel",
+								"fx3p": "",
+								"attachment": "fx_panel_03_l",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_kill_panel",
+								"fx3p": "",
+								"attachment": "fx_panel_01_r",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_kill_panel",
+								"fx3p": "",
+								"attachment": "fx_panel_02_r",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_kill_panel",
+								"fx3p": "",
+								"attachment": "fx_panel_03_r",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_kill_heart",
+								"fx3p": "",
+								"attachment": "fx_core_heart_l",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_kill_heart",
+								"fx3p": "",
+								"attachment": "fx_core_heart_r",
+								"controlPoints": [
+									]
+							}
+						],
+					"transitionFXList": [
+							{
+								"fx1p": "P_sptf_kill_muzzle",
+								"fx3p": "",
+								"attachment": "fx_muzzle_btm",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_kill_main_sides",
+								"fx3p": "P_sptf_kill_main_sides_3P",
+								"attachment": "fx_panel_base",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_kill_panel",
+								"fx3p": "",
+								"attachment": "fx_panel_01_l",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_kill_panel",
+								"fx3p": "",
+								"attachment": "fx_panel_02_l",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_kill_panel",
+								"fx3p": "",
+								"attachment": "fx_panel_03_l",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_kill_panel",
+								"fx3p": "",
+								"attachment": "fx_panel_01_r",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_kill_panel",
+								"fx3p": "",
+								"attachment": "fx_panel_02_r",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_kill_panel",
+								"fx3p": "",
+								"attachment": "fx_panel_03_r",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_kill_heart",
+								"fx3p": "",
+								"attachment": "fx_core_heart_l",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_kill_heart",
+								"fx3p": "",
+								"attachment": "fx_core_heart_r",
+								"controlPoints": [
+									]
+							}
+						],
+					"persistentFXList": [
+							{
+								"fx1p": "P_sptf_pers_muzzle_lvl3",
+								"fx3p": "",
+								"attachment": "fx_muzzle_btm",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_pers_heart_lvl3",
+								"fx3p": "",
+								"attachment": "fx_core_heart_l",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_pers_heart_lvl3",
+								"fx3p": "",
+								"attachment": "fx_core_heart_r",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_pers_main_sides_lvl3",
+								"fx3p": "P_sptf_pers_main_sides_lvl3_3p",
+								"attachment": "fx_panel_base",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_pers_panel_lvl3_l",
+								"fx3p": "",
+								"attachment": "fx_panel_01_l",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_pers_panel_lvl3_l",
+								"fx3p": "",
+								"attachment": "fx_panel_02_l",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_pers_panel_lvl3_l",
+								"fx3p": "",
+								"attachment": "fx_panel_03_l",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_pers_panel_lvl3_r",
+								"fx3p": "",
+								"attachment": "fx_panel_01_r",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_pers_panel_lvl3_r",
+								"fx3p": "",
+								"attachment": "fx_panel_02_r",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_pers_panel_lvl3_r",
+								"fx3p": "",
+								"attachment": "fx_panel_03_r",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_pers_heart_glow_a_l_lvl3",
+								"fx3p": "",
+								"attachment": "fx_heart_l_inner_panel_l",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_pers_heart_glow_b_l_lvl3",
+								"fx3p": "",
+								"attachment": "fx_heart_l_inner_panel_r",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_pers_heart_glow_c_l_lvl3",
+								"fx3p": "",
+								"attachment": "fx_heart_l_inner_panel_btm",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_pers_heart_glow_d_l_lvl3",
+								"fx3p": "",
+								"attachment": "fx_heart_l_inner_panel_top",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_pers_heart_glow_a_r_lvl3",
+								"fx3p": "",
+								"attachment": "fx_heart_r_inner_panel_right",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_pers_heart_glow_b_r_lvl3",
+								"fx3p": "",
+								"attachment": "fx_heart_r_inner_panel_left",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_pers_heart_glow_c_r_lvl3",
+								"fx3p": "",
+								"attachment": "fx_heart_r_inner_panel_btm",
+								"controlPoints": [
+									]
+							},
+							{
+								"fx1p": "P_sptf_pers_heart_glow_d_r_lvl3",
+								"fx3p": "",
+								"attachment": "fx_heart_r_inner_panel_top",
+								"controlPoints": [
+									]
+							}
+						],
+					"bodygroupChangeList": [
+						],
+					"weaponModListAdd": [
+						],
+					"weaponModListRemove": [
+						],
+					"killSoundSyncToAnim": false,
+					"transitionSoundSyncToAnim": false
+				}
+			],
+		"skinAlias_vfxAliases": [
+			],
+		"skinAlias_sfxAliases": [
+			],
+		"skinAlias_bodyGroupAliases": [
+			],
+		"skinAlias_impactTableAliases": [
+			],
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"exclusive": false,
+		"shouldHideIfLocked": false,
+		"forceFullWeaponIcon": false,
+		"featureReactsToKills": true,
+		"forceVideoInspect": false
+	}
+}

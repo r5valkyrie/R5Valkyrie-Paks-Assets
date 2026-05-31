@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 1949878087,
+	"settings": {
+		"assetName": "settings/itemflav/ability/conduit_tactical.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01949878087",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#ABL_CONDUIT_TACTICAL",
+		"localizationKey_NAME_SHORT": "#ABL_CONDUIT_TACTICAL",
+		"localizationKey_DESCRIPTION_LONG": "#ABL_CONDUIT_TACTICAL_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#ABL_CONDUIT_TACTICAL_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/tactical_icons/tactical_conduit",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "mp_ability_conduit_arc_flash",
+		"passiveScriptRef": "",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

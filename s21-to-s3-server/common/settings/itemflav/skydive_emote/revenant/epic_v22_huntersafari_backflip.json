@@ -1,0 +1,31 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_skydive_emote_layout.rpak",
+	"uniqueId": 1822342264,
+	"settings": {
+		"assetName": "settings/itemflav/skydive_emote/revenant/epic_v22_huntersafari_backflip.rpak",
+		"itemType": "skydive_emote",
+		"parentItemFlavor": "settings/itemflav/character/revenant.rpak",
+		"settingsAssetID": "SAID01822342264",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#skydive_emote_revenant_backflip_NAME",
+		"localizationKey_NAME_SHORT": "#skydive_emote_revenant_backflip_NAME",
+		"localizationKey_DESCRIPTION_LONG": "#skydive_emote_revenant_backflip_NAME",
+		"localizationKey_DESCRIPTION_SHORT": "#skydive_emote_revenant_backflip_NAME",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/battlepass/skydive_emote_revenant_epic_v22_huntersafari_backflip",
+		"tagIcon": "rui/events/s14bp/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "skydive_emote_revenant_epic_v22_huntersafari_backflip",
+		"ownershipTarget": "",
+		"animSequence": "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_freefall_emote_backflip.rseq",
+		"video": "media/skydive_emotes/revenant_freefall",
+		"bcEvent": "",
+		"multipleOwnershipTargets": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false
+	}
+}

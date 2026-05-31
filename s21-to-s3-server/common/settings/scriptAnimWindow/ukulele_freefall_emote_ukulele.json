@@ -1,0 +1,20 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_CreateProp_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/ukulele_freefall_emote_ukulele.rpak",
+		"devDescription": "",
+		"type": "CreateProp",
+		"selectModelFrom": "HARD_CODED",
+		"modelName": "mdl/props/gibraltar_ukulele/gibraltar_ukulele.rmdl",
+		"modelScriptKey": "lifeline_drone",
+		"attachPoint": "REF",
+		"animSequence": "animseq/braltar_ukulele/dmx/ukulele_freefall_emote_ukulele.rseq",
+		"scriptCallbackKey": "",
+		"scale": 1.000000,
+		"additionalAnims": [
+			],
+		"propBodygroups": [
+			],
+		"syncCycle": true
+	}
+}

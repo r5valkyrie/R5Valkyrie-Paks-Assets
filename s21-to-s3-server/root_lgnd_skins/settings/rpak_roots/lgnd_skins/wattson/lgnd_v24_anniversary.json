@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/wattson/lgnd_v24_anniversary.rpak",
+		"roots": [
+				{
+					"asset": "mdl/humans/class/light/wattson_v24_anniversary_w.rmdl",
+					"featureFlag": "HAS_20_0_RELEASE"
+				},
+				{
+					"asset": "mdl/Weapons/arms/wattson_v24_anniversary_v.rmdl",
+					"featureFlag": "HAS_20_0_RELEASE"
+				}
+			]
+	}
+}

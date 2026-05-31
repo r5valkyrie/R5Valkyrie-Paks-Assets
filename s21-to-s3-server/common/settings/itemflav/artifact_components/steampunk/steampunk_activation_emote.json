@@ -1,0 +1,35 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_artifact_component_activation_emote_layout.rpak",
+	"uniqueId": 377572419,
+	"settings": {
+		"assetName": "settings/itemflav/artifact_components/steampunk/steampunk_activation_emote.rpak",
+		"itemType": "artifact_component_activation_emote",
+		"parentItemFlavor": "settings/itemflav/loot/melee_weapon/artifact_dagger.rpak",
+		"settingsAssetID": "SAID00377572419",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#steampunk_activationemote_NAME",
+		"localizationKey_NAME_SHORT": "#steampunk_activationemote_NAME",
+		"localizationKey_DESCRIPTION_LONG": "#activationemote_DESC_LONG",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "MYTHIC",
+		"icon": "rui/menu/buttons/character_emotes/shared/icon_character_emote_shared_katar_activation",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "artifact_dagger_steampunk_activationemote",
+		"ownershipTarget": "",
+		"artifactComponentType": "ACTIVATION_EMOTE",
+		"themeName": "STEAM",
+		"componentIcon": "rui/menu/melee_customization/power_sources/vfx_steam",
+		"video": "media/activation/activation_steampunk",
+		"multipleOwnershipTargets": [
+			],
+		"artifactMainColor": "<0.839000,0.824000,0.455000>",
+		"artifactSecondaryColor": "<0.467000,0.318000,0.239000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isEmpty": false,
+		"shouldHideIfLocked": false
+	}
+}

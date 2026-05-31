@@ -1,0 +1,24 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_category_layout.rpak",
+	"uniqueId": 1658891962,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_category/pistol.rpak",
+		"itemType": "weapon_category",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01658891962",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#weapon_category_pistol_NAME",
+		"localizationKey_NAME_SHORT": "#TAG_PISTOL",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "rui/weapon_icons/r5/weapon_r45",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"statsKey": "pistol",
+		"menuZoomOffset": "<6.000000,0.000000,2.000000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

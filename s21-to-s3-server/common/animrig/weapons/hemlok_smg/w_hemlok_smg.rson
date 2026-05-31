@@ -1,0 +1,12 @@
+seqs:
+[
+	animseq\weapons\hemlok_smg\w_hemlok_smg\attack_seq.rseq
+	animseq\weapons\hemlok_smg\w_hemlok_smg\attack_seq_alt1.rseq
+	animseq\weapons\hemlok_smg\w_hemlok_smg\attack_seq_alt2.rseq
+	animseq\weapons\hemlok_smg\w_hemlok_smg\attack_seq_alt3.rseq
+	animseq\weapons\hemlok_smg\w_hemlok_smg\idle_seq.rseq
+	animseq\weapons\hemlok_smg\w_hemlok_smg\weapon_volt_nova_op_menu_readyup.rseq
+	animseq\weapons\hemlok_smg\w_hemlok_smg\weapon_volt_nova_op_menu_readyup_idle.rseq
+	animseq\weapons\hemlok_smg\w_hemlok_smg\weapon_volt_nova_op_menu_select.rseq
+	animseq\weapons\hemlok_smg\w_hemlok_smg\weapon_volt_nova_op_menu_select_idle.rseq
+]

@@ -1,0 +1,150 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_melee_weapon_layout.rpak",
+	"uniqueId": 2113589622,
+	"settings": {
+		"assetName": "settings/itemflav/loot/melee_weapon/artifact_dagger.rpak",
+		"itemType": "melee_weapon",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID02113589622",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#DEATH_MELEE_ARTIFACT_DAGGER",
+		"localizationKey_NAME_SHORT": "#DEATH_MELEE_ARTIFACT_DAGGER",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "MYTHIC",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"meleeWeaponType": "ARTIFACT",
+		"configurationFramework": "COMPONENT",
+		"mainWeaponClassname": "mp_weapon_artifact_dagger_primary",
+		"offhandWeaponClassname": "melee_artifact_dagger",
+		"deathbox": "",
+		"menuAnimSeq": "animseq/weapons/char_artifact/ptpov_artifact_sword/artifact_dagger_menu.rseq",
+		"koSound": "",
+		"storeImage": "",
+		"equipImage": "",
+		"legends": [
+			],
+		"skins": [
+				{
+					"flavor": "settings/itemflav/melee_skin/_artifact_configuration_pointer_0.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/melee_skin/_artifact_configuration_pointer_1.rpak",
+					"featureFlag": "HAS_21_0_RELEASE"
+				},
+				{
+					"flavor": "settings/itemflav/melee_skin/_artifact_configuration_pointer_2.rpak",
+					"featureFlag": "HAS_21_0_RELEASE"
+				}
+			],
+		"componentSets": [
+				{
+					"set": "settings/itemflav/artifact_components/_empty_set.rpak",
+					"featureFlag": ""
+				},
+				{
+					"set": "settings/itemflav/artifact_components/mobster_set.rpak",
+					"featureFlag": ""
+				},
+				{
+					"set": "settings/itemflav/artifact_components/high_society_set.rpak",
+					"featureFlag": "HAS_21_0_RELEASE"
+				},
+				{
+					"set": "settings/itemflav/artifact_components/celestial_set.rpak",
+					"featureFlag": "HAS_21_0_RELEASE"
+				},
+				{
+					"set": "settings/itemflav/artifact_components/space_tech_set.rpak",
+					"featureFlag": "HAS_21_0_RELEASE"
+				},
+				{
+					"set": "settings/itemflav/artifact_components/steampunk_set.rpak",
+					"featureFlag": "HAS_21_0_RELEASE"
+				},
+				{
+					"set": "settings/itemflav/artifact_components/death_set.rpak",
+					"featureFlag": "HAS_21_0_RELEASE"
+				},
+				{
+					"set": "settings/itemflav/artifact_components/ragold_set.rpak",
+					"featureFlag": ""
+				}
+			],
+		"menuMdlRot": "<-55.000000,90.000000,0.000000>",
+		"skinAlias_sfxAliases": [
+			],
+		"battlePassScale": 1.200000,
+		"lootCeremonyScale": 0.610000,
+		"itemInspectScale": 0.800000,
+		"itemInspectOffset": "<-10.000000,15.000000,0.000000>",
+		"scriptAnimWindowFXControls": [
+				{
+					"parameter": "Artifact_Stop_Idle_FX",
+					"setSpecificFX": [
+							{
+								"themeName": "UNIVERSAL",
+								"fxPackageType": "IDLE",
+								"action": "STOP"
+							}
+						]
+				},
+				{
+					"parameter": "Artifact_Play_Attack_FX",
+					"setSpecificFX": [
+							{
+								"themeName": "UNIVERSAL",
+								"fxPackageType": "ATTACK",
+								"action": "START"
+							}
+						]
+				},
+				{
+					"parameter": "Artifact_Play_Flourish_FX",
+					"setSpecificFX": [
+							{
+								"themeName": "UNIVERSAL",
+								"fxPackageType": "FLOURISH",
+								"action": "START"
+							}
+						]
+				},
+				{
+					"parameter": "Artifact_Play_Startup_FX",
+					"setSpecificFX": [
+							{
+								"themeName": "UNIVERSAL",
+								"fxPackageType": "STARTUP",
+								"action": "START"
+							}
+						]
+				},
+				{
+					"parameter": "Artifact_Play_Inspect_FX",
+					"setSpecificFX": [
+							{
+								"themeName": "UNIVERSAL",
+								"fxPackageType": "INSPECT",
+								"action": "START"
+							}
+						]
+				},
+				{
+					"parameter": "Artifact_Stop_Blade_Emissive",
+					"setSpecificFX": [
+							{
+								"themeName": "UNIVERSAL",
+								"fxPackageType": "BLADE_EMISSIVE",
+								"action": "STOP"
+							}
+						]
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

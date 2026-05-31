@@ -1,0 +1,33 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_stat_tracker_layout.rpak",
+	"uniqueId": 2131814204,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_tracker/crypto/s18bp_resdopa_wins.rpak",
+		"itemType": "gladiator_card_stat_tracker",
+		"parentItemFlavor": "settings/itemflav/character/crypto.rpak",
+		"settingsAssetID": "SAID02131814204",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#gcard_tracker_crypto_s18bp_resdopa_wins_NAME",
+		"localizationKey_NAME_SHORT": "#TRACKER_S18BP_RESDOPA_WINS",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "RARE",
+		"icon": "",
+		"tagIcon": "rui/events/s18bp/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "gcard_tracker_crypto_s18bp_resdopa_wins",
+		"ownershipTarget": "",
+		"statRef": "stats.seasons[SAID00134750981].characters[%char%].placements_win",
+		"valueNumberFormat": "INTEGER",
+		"valueSuffix": "",
+		"backgroundImage": "rui/gladiator_cards/trackers/event/s18bp/s18bp_resdopa_crypto",
+		"multipleOwnershipTargets": [
+			],
+		"color0": "<1.000000,0.310000,0.169000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false
+	}
+}

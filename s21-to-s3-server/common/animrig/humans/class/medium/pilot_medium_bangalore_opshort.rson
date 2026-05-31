@@ -1,0 +1,7 @@
+seqs:
+[
+	animseq\humans\class\medium\pilot_medium_bangalore\bangaloreOP_menu_readyUp.rseq
+	animseq\humans\class\medium\pilot_medium_bangalore\bangaloreOP_menu_readyUp_idle.rseq
+	animseq\humans\class\medium\pilot_medium_bangalore\bangaloreOP_menu_select.rseq
+	animseq\humans\class\medium\pilot_medium_bangalore\bangaloreOP_menu_select_idle.rseq
+]

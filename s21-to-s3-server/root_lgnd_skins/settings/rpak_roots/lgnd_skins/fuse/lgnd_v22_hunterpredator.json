@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/fuse/lgnd_v22_hunterpredator.rpak",
+		"roots": [
+				{
+					"asset": "mdl/Humans/class/medium/fuse_v22_hunterpredator_w.rmdl",
+					"featureFlag": ""
+				},
+				{
+					"asset": "mdl/Weapons/arms/fuse_v22_hunterpredator_v.rmdl",
+					"featureFlag": ""
+				}
+			]
+	}
+}

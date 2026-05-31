@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 301070904,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/ash/epic_v22_huntersafari_meditating.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/ash.rpak",
+		"settingsAssetID": "SAID00301070904",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#ground_emote_ash_meditating_NAME",
+		"localizationKey_NAME_SHORT": "#ground_emote_ash_meditating_NAME",
+		"localizationKey_DESCRIPTION_LONG": "#ground_emote_ash_meditating_NAME",
+		"localizationKey_DESCRIPTION_SHORT": "#ground_emote_ash_meditating_NAME",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/character_emotes/ash/meditating",
+		"tagIcon": "rui/events/s14bp/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_ash_epic_v22_huntersafari_meditating",
+		"ownershipTarget": "",
+		"anim3p": "ash_ground_emote_meditating_start",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "ash_ground_emote_meditating_loop",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

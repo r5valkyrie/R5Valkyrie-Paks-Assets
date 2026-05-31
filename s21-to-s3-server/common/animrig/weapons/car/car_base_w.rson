@@ -1,0 +1,7 @@
+seqs:
+[
+	animseq\weapons\car101\w_car101\attack_seq.rseq
+	animseq\weapons\car101\w_car101\attack_seq_alt1.rseq
+	animseq\weapons\car101\w_car101\attack_seq_alt2.rseq
+	animseq\weapons\car101\w_car101\idle_seq.rseq
+]

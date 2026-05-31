@@ -1,0 +1,8 @@
+rigs:
+[
+	animrig\weapons\arms\pov_pilot_medium_crypto.rrig
+	animrig\weapons\crypto_heirloom\ptpov_crypto_heirloom.rrig
+]
+seqs:
+[
+]

@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 162274470,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/valkyrie/epic_v23_resdopa_smashyou.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/valkyrie.rpak",
+		"settingsAssetID": "SAID00162274470",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#emote_smashyou",
+		"localizationKey_NAME_SHORT": "#emote_smashyou",
+		"localizationKey_DESCRIPTION_LONG": "#emote_smashyou",
+		"localizationKey_DESCRIPTION_SHORT": "#emote_smashyou",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/character_emotes/valkyrie/smash",
+		"tagIcon": "rui/events/s18bp/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_valkyrie_epic_v23_resdopa_smashyou",
+		"ownershipTarget": "",
+		"anim3p": "valkyrie_ground_emote_smashyou",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

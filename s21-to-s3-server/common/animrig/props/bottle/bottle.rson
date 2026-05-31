@@ -1,0 +1,22 @@
+seqs:
+[
+	animseq\props\bottle\bottle\bottle01_fuse_ground_emote_rootbeer.rseq
+	animseq\props\bottle\bottle\bottle02_fuse_ground_emote_rootbeer.rseq
+	animseq\props\bottle\bottle\bottle_bangalore_ground_emote_drinkingbros.rseq
+	animseq\props\bottle\bottle\bottle_drawfirst_se12.rseq
+	animseq\props\bottle\bottle\bottle_fuse_ground_emote_bbq.rseq
+	animseq\props\bottle\bottle\bottle_fuse_ground_emote_bbqOLD.rseq
+	animseq\props\bottle\bottle\bottle_fuse_ground_emote_rootbeer.rseq
+	animseq\props\bottle\bottle\bottle_fuse_heirloom_inspect_koalacola.rseq
+	animseq\props\bottle\bottle\bottle_inspect_se12.rseq
+	animseq\props\bottle\bottle\bottle_newcastle_ground_emote_chillaxingdrink.rseq
+	animseq\props\bottle\bottle\bottle_toss_hold_se12.rseq
+	animseq\props\bottle\bottle\bottle_toss_se12.rseq
+	animseq\props\bottle\bottle\bottle_valkyrie_freefall_emote_northstar.rseq
+	animseq\props\bottle\bottle\bottle_valkyrie_ground_emote_rootbeerSlam.rseq
+	animseq\props\bottle\bottle\fuse_bottle_gladcard_animated_conan.rseq
+	animseq\props\bottle\bottle\fuse_bottle_gladcard_animated_conan_idle.rseq
+	animseq\props\bottle\bottle\fuse_bottle_lobby_center_cheers.rseq
+	animseq\props\bottle\bottle\valkyrie_bottle_gladcard_static_toast.rseq
+	animseq\props\bottle\bottle\valkyrie_bottle_menu_lobby_center_drink.rseq
+]

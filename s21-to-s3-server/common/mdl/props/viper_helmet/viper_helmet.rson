@@ -1,0 +1,8 @@
+rigs:
+[
+]
+seqs:
+[
+	animseq\props\viper_helmet\viper_helmet\prop_valkyrie_gladcard_animated_helmet.rseq
+	animseq\props\viper_helmet\viper_helmet\prop_valkyrie_gladcard_animated_helmet_idle.rseq
+]

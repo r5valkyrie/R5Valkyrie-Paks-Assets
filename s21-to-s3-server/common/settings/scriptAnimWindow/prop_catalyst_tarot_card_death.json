@@ -1,0 +1,10 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_SetPropSkin_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/prop_catalyst_tarot_card_death.rpak",
+		"devDescription": "",
+		"type": "SetPropSkin",
+		"skinName": "tarot_death",
+		"camoIndex": 1
+	}
+}

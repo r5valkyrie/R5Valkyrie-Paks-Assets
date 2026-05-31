@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/valkyrie/lgnd_v23_halloween.rpak",
+		"roots": [
+				{
+					"asset": "mdl/Humans/class/medium/valkyrie_v23_halloween_w.rmdl",
+					"featureFlag": ""
+				},
+				{
+					"asset": "mdl/Weapons/arms/valkyrie_v23_halloween_v.rmdl",
+					"featureFlag": ""
+				}
+			]
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 553546308,
+	"settings": {
+		"assetName": "settings/itemflav/ability/upgrade_vantage_tac_jump.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00553546308",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#UPGRADE_VANTAGE_TAC_ECHO_JUMP_NAME",
+		"localizationKey_NAME_SHORT": "#UPGRADE_TYPE_TACTICAL",
+		"localizationKey_DESCRIPTION_LONG": "#UPGRADE_VANTAGE_TAC_ECHO_JUMP_LONG_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#UPGRADE_VANTAGE_TAC_ECHO_JUMP_SHORT_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/legend_upgrades/vantage_echoassist_icon",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_TAC_UPGRADE_ONE",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

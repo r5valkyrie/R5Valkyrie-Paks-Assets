@@ -1,0 +1,7 @@
+{
+	"extraDataSizeIndex": 1,
+	"subLayouts": [
+		"settings_layout/settings_itemtype_account_pack_layout/multipleOwnershipTargets.csv",
+		"settings_layout/settings_itemtype_account_pack_layout/packContents.csv"
+	]
+}

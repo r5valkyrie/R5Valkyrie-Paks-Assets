@@ -1,0 +1,12 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_PlayFX_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/fx_rev_shell_grenade_vignette.rpak",
+		"devDescription": "",
+		"type": "PlayFX",
+		"particleSystemName": "P_wpn_grenade_rev_ins_vignette",
+		"attachPoint": "CAMERA",
+		"followAttach": true,
+		"playEndCap": false
+	}
+}

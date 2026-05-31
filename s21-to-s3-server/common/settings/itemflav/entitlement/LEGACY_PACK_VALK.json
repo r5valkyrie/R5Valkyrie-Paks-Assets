@@ -1,0 +1,44 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_entitlement_layout.rpak",
+	"uniqueId": 1509322607,
+	"settings": {
+		"assetName": "settings/itemflav/entitlement/LEGACY_PACK_VALK.rpak",
+		"itemType": "entitlement",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01509322607",
+		"__featureFlag": "",
+		"devDescription": "Valk starter pack",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"entitlementType": "firstparty",
+		"twitchRef": "",
+		"twitchRef": "",
+		"enum": "LEGACY_PACK_VALK",
+		"pc": "APEX_LEGACY_CONTENT",
+		"ps4": "VALPAC0000000000",
+		"xb1": "LEGACY_PACK_VALK",
+		"switch": "apexlegs9pack",
+		"pc_offer": "Origin.OFR.50.0004545",
+		"steam_offer": "Steam.OFR.50.0000061",
+		"xb1_offer": "34305039-3758-3037-c04e-344c46420900",
+		"menuTitleText": "#PROMO_VALK_STARTER_PACK_HEADER",
+		"menuDescText": "#PROMO_VALK_STARTER_PACK_TEXT",
+		"menuImageName": "sku_s09_valk_01",
+		"menuPersistenceVarName": "",
+		"list": [
+				{
+					"flavor": "settings/itemflav/character_skin/valkyrie/starterpack_rare_01.rpak",
+					"quantity": 1
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isMenuEnabled": false
+	}
+}

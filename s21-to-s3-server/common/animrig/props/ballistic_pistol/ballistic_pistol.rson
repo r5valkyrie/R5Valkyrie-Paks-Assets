@@ -1,0 +1,10 @@
+seqs:
+[
+	animseq\props\ballistic_pistol\ballistic_pistol\ballistic_menu_lobby_right_prop_gun.rseq
+	animseq\props\ballistic_pistol\ballistic_pistol\Pistol_ballistic_execution_homingknockout.rseq
+	animseq\props\ballistic_pistol\ballistic_pistol\prop_pistol_ballistic_gladcard_static_fall.rseq
+	animseq\props\ballistic_pistol\ballistic_pistol_animrig\pistol_ballistic_menu_ready_up.rseq
+	animseq\props\ballistic_pistol\ballistic_pistol_animrig\pistol_ballistic_menu_ready_up_idle.rseq
+	animseq\props\ballistic_pistol\ballistic_pistol_animrig\pistol_ballistic_menu_select.rseq
+	animseq\props\ballistic_pistol\ballistic_pistol_animrig\pistol_ballistic_menu_select_idle.rseq
+]

@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 1351883842,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/mirage/epic_jump.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/mirage.rpak",
+		"settingsAssetID": "SAID01351883842",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#CHAR_EMOTE_029",
+		"localizationKey_NAME_SHORT": "#CHAR_EMOTE_029",
+		"localizationKey_DESCRIPTION_LONG": "#CHAR_EMOTE_029",
+		"localizationKey_DESCRIPTION_SHORT": "#CHAR_EMOTE_029",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/character_emotes/mirage/jump",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_mirage_epic_jump",
+		"ownershipTarget": "",
+		"anim3p": "mirage_ground_emote_jump",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

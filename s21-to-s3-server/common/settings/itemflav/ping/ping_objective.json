@@ -1,0 +1,30 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ping_layout.rpak",
+	"uniqueId": 120227323,
+	"settings": {
+		"assetName": "settings/itemflav/ping/ping_objective.rpak",
+		"itemType": "ping",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00120227323",
+		"__featureFlag": "",
+		"devDescription": "Radio Tower Objective/n",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"colorKey": "none",
+		"innerIcon": "",
+		"innerShadowIcon": "",
+		"outerIcon": "",
+		"shadowIcon": "",
+		"animIcon": "",
+		"defaultColor": "<0.988000,0.910000,0.345000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"drawHeightLine": false
+	}
+}

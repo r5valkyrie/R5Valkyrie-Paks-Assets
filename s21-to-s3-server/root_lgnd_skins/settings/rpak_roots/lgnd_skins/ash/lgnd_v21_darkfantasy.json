@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/ash/lgnd_v21_darkfantasy.rpak",
+		"roots": [
+				{
+					"asset": "mdl/techart/mshop/characters/legends/ash/ash_v21_darkfantasy_w.rmdl",
+					"featureFlag": ""
+				},
+				{
+					"asset": "mdl/techart/mshop/characters/legends/ash/ash_v21_darkfantasy_v.rmdl",
+					"featureFlag": ""
+				}
+			]
+	}
+}

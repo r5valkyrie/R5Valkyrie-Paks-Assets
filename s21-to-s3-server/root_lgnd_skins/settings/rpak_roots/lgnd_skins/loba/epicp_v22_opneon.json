@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/loba/epicp_v22_opneon.rpak",
+		"roots": [
+				{
+					"asset": "mdl/Humans/class/medium/pilot_medium_loba.rmdl",
+					"featureFlag": ""
+				},
+				{
+					"asset": "mdl/Weapons/arms/pov_pilot_medium_loba.rmdl",
+					"featureFlag": ""
+				}
+			]
+	}
+}

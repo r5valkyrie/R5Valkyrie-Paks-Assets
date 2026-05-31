@@ -1,0 +1,15 @@
+seqs:
+[
+	animseq\weapons\shield_battery\ptpov_shield_battery_held\battery_layer.rseq
+	animseq\weapons\shield_battery\ptpov_shield_battery_held\charge.rseq
+	animseq\weapons\shield_battery\ptpov_shield_battery_held\fire.rseq
+	animseq\weapons\shield_battery\ptpov_shield_battery_held\GH_CellCut.rseq
+	animseq\weapons\shield_battery\ptpov_shield_battery_held\holster.rseq
+	animseq\weapons\shield_battery\ptpov_shield_battery_held\holster_used.rseq
+	animseq\weapons\shield_battery\ptpov_shield_battery_held\jump.rseq
+	animseq\weapons\shield_battery\ptpov_shield_battery_held\land.rseq
+	animseq\weapons\shield_battery\ptpov_shield_battery_held\land_high.rseq
+	animseq\weapons\shield_battery\ptpov_shield_battery_held\land_low.rseq
+	animseq\weapons\shield_battery\ptpov_shield_battery_held\land_med.rseq
+	animseq\weapons\shield_battery\ptpov_shield_battery_held\raise.rseq
+]

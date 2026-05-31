@@ -1,0 +1,38 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_artifact_component_deathbox_layout.rpak",
+	"uniqueId": 989815244,
+	"settings": {
+		"assetName": "settings/itemflav/artifact_components/deathbox_default.rpak",
+		"itemType": "artifact_component_deathbox",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00989815244",
+		"__featureFlag": "",
+		"devDescription": "default Deathbox ItemFlavor. Doesn't need to be in base ItemFlavors because the ItemFlavor is really only there for the purpose of being to allow a valid default in the Loadout system.",
+		"localizationKey_NAME": "#empty_deathbox_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "COMMON",
+		"icon": "rui/menu/melee_customization/deathboxes/deathbox_default",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"grxMode": "NONE",
+		"grxRef": "",
+		"ownershipTarget": "",
+		"artifactComponentType": "DEATHBOX",
+		"themeName": "_EMPTY",
+		"componentIcon": "rui/menu/melee_customization/deathboxes/deathbox_default",
+		"artifactDeathboxFXName": "",
+		"artifactDeathboxModel": "",
+		"video": "media/deathboxes/deathbox_default",
+		"spawnSFX": "",
+		"multipleOwnershipTargets": [
+			],
+		"artifactMainColor": "<0.471000,0.471000,0.471000>",
+		"artifactSecondaryColor": "<0.471000,0.471000,0.471000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isEmpty": true,
+		"shouldHideIfLocked": false
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 86332882,
+	"settings": {
+		"assetName": "settings/itemflav/ability/upgrade_lifeline_fast_res.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00086332882",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#UPGRADE_LIFELINE_PASSIVE_FAST_RES_NAME",
+		"localizationKey_NAME_SHORT": "#UPGRADE_TYPE_PASSIVE",
+		"localizationKey_DESCRIPTION_LONG": "#UPGRADE_LIFELINE_PASSIVE_FAST_RES_LONG_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#UPGRADE_LIFELINE_PASSIVE_FAST_RES_SHORT_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/legend_upgrades/lifeline_quickresponse_icon",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_FASTER_REVIVES",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

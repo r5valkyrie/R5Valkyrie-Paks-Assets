@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/revenant/lgnd_v21_heroanime.rpak",
+		"roots": [
+				{
+					"asset": "mdl/humans/class/heavy/revenant_v21_heroanime_w.rmdl",
+					"featureFlag": ""
+				},
+				{
+					"asset": "mdl/Weapons/arms/revenant_v21_heroanime_v.rmdl",
+					"featureFlag": ""
+				}
+			]
+	}
+}

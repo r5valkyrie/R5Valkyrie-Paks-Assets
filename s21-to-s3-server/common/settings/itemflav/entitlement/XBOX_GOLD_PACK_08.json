@@ -1,0 +1,64 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_entitlement_layout.rpak",
+	"uniqueId": 1888660864,
+	"settings": {
+		"assetName": "settings/itemflav/entitlement/XBOX_GOLD_PACK_08.rpak",
+		"itemType": "entitlement",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01888660864",
+		"__featureFlag": "",
+		"devDescription": "Xbox Gold Pack 8",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"entitlementType": "firstparty",
+		"twitchRef": "",
+		"twitchRef": "",
+		"enum": "XBOX_GOLD_PACK_08",
+		"pc": "XBOX_GOLD_PACK_08",
+		"ps4": "XBG8",
+		"xb1": "XBOX_GOLD_PACK_08",
+		"switch": "XBOX_GOLD_PACK_08",
+		"pc_offer": "",
+		"steam_offer": "",
+		"xb1_offer": "54574d39-5642-3033-c053-433647334200",
+		"menuTitleText": "#PROMO_REWARDS_UNLOCKED",
+		"menuDescText": "#PROMO_XBOX_GOLD08_OWNED",
+		"menuImageName": "xbox_gold_pack08",
+		"menuPersistenceVarName": "",
+		"list": [
+				{
+					"flavor": "settings/itemflav/character_skin/ash/rare_v22_partymusic.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/gcard_frame/ash/rare_v22_partymusic01.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/character_skin/lifeline/rare_v22_partymusic.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/gcard_frame/lifeline/rare_v22_partymusic01.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/wingman/rare_v22_partymusic02.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/semipistol/rare_v22_partymusic.rpak",
+					"quantity": 1
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isMenuEnabled": false
+	}
+}

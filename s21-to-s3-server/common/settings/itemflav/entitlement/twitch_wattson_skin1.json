@@ -1,0 +1,48 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_entitlement_layout.rpak",
+	"uniqueId": 2137660433,
+	"settings": {
+		"assetName": "settings/itemflav/entitlement/twitch_wattson_skin1.rpak",
+		"itemType": "entitlement",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID02137660433",
+		"__featureFlag": "",
+		"devDescription": "Twitch Prime Wattson Skin Reward",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"entitlementType": "twitch_prime",
+		"twitchRef": "twitch_wattson_skin1",
+		"twitchRef": "twitch_wattson_skin1",
+		"enum": "",
+		"pc": "",
+		"ps4": "",
+		"xb1": "",
+		"switch": "",
+		"pc_offer": "",
+		"steam_offer": "",
+		"xb1_offer": "",
+		"menuTitleText": "#TWITCH_PRIME",
+		"menuDescText": "#TWITCH_WATTSON1_ENTITLEMENT_OWNED",
+		"menuImageName": "twitch_promo_02",
+		"menuPersistenceVarName": "twitchWattson01Acknowledged",
+		"list": [
+				{
+					"flavor": "settings/itemflav/character_skin/wattson/twitch02_rare_01.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/lstar/twitch02_rare_01.rpak",
+					"quantity": 1
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isMenuEnabled": false
+	}
+}

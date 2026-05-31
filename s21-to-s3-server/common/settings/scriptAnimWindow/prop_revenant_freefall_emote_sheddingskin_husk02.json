@@ -1,0 +1,20 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_CreateProp_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/prop_revenant_freefall_emote_sheddingskin_husk02.rpak",
+		"devDescription": "Base script anim window for creating a shadow revenent for an animation. Created for the Dead Weight (shedding skin) freefall emote.",
+		"type": "CreateProp",
+		"selectModelFrom": "HARD_CODED",
+		"modelName": "mdl/humans/class/heavy/pilot_heavy_revenant.rmdl",
+		"modelScriptKey": "",
+		"attachPoint": "REF",
+		"animSequence": "animseq/humans/class/heavy/pilot_heavy_revenant/revenant_freefall_emote_sheddingskin_husk02.rseq",
+		"scriptCallbackKey": "set_revenant_shadow_skin",
+		"scale": 1.000000,
+		"additionalAnims": [
+			],
+		"propBodygroups": [
+			],
+		"syncCycle": false
+	}
+}

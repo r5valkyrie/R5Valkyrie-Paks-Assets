@@ -1,0 +1,38 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_artifact_component_deathbox_layout.rpak",
+	"uniqueId": 1164372108,
+	"settings": {
+		"assetName": "settings/itemflav/artifact_components/steampunk/steampunk_deathbox.rpak",
+		"itemType": "artifact_component_deathbox",
+		"parentItemFlavor": "settings/itemflav/loot/melee_weapon/artifact_dagger.rpak",
+		"settingsAssetID": "SAID01164372108",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#steampunk_deathbox_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "MYTHIC",
+		"icon": "rui/menu/melee_customization/deathboxes/deathbox_steam",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "artifact_dagger_steampunk_deathbox",
+		"ownershipTarget": "",
+		"artifactComponentType": "DEATHBOX",
+		"themeName": "STEAM",
+		"componentIcon": "rui/menu/melee_customization/deathboxes/deathbox_steam",
+		"artifactDeathboxFXName": "P_death_box_artifact_steampunk",
+		"artifactDeathboxModel": "mdl/techart/mshop/props/loot/deathbox/deathbox_lgnd_v23_steam.rmdl",
+		"video": "media/deathboxes/deathbox_steampunk",
+		"spawnSFX": "Artifact_PS_Steampunk_DeathBox_Appear",
+		"multipleOwnershipTargets": [
+			],
+		"artifactMainColor": "<0.839000,0.824000,0.455000>",
+		"artifactSecondaryColor": "<0.467000,0.318000,0.239000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isEmpty": false,
+		"shouldHideIfLocked": false
+	}
+}

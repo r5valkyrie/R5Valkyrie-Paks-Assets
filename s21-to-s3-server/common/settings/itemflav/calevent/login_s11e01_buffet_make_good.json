@@ -1,0 +1,67 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_calevent_login_layout.rpak",
+	"uniqueId": 2073602972,
+	"settings": {
+		"assetName": "settings/itemflav/calevent/login_s11e01_buffet_make_good.rpak",
+		"itemType": "calevent_login",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID02073602972",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#S11E01_TITLE_SHORT",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"revealUnixTime": "",
+		"hideUnixTime": "",
+		"defaultStartTime": "2021-12-21 10:00:00 -08:00",
+		"defaultFinishTime": "2022-01-04 10:00:00 -08:00",
+		"ceremonyImage": "",
+		"ceremonyTitle": "#S11E01_TITLE_SHORT",
+		"ceremonyDesc": "",
+		"loginRewards": [
+				{
+					"flavor": "settings/itemflav/loadscreen/s11e01_01.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_tracker/wattson/s11e01_career_damage_done.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_tracker/wattson/s11e01_career_kills.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_tracker/wattson/s11e01_career_wins.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_tracker/pathfinder/s11e01_career_damage_done.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_tracker/pathfinder/s11e01_career_kills.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/gcard_tracker/pathfinder/s11e01_career_wins.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_spacepirate_jolly_roger01.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v21_char_ash_rat01.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/character_skin/crypto/epicp_v21_spacepirate.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/alternator/lgnd_v21_spacepirate.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/hemlok/lgnd_v21_spacepirate.rpak"
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

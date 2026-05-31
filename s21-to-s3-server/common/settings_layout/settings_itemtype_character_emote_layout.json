@@ -1,0 +1,8 @@
+{
+	"extraDataSizeIndex": 1,
+	"subLayouts": [
+		"settings_layout/settings_itemtype_character_emote_layout/multipleOwnershipTargets.csv",
+		"settings_layout/settings_itemtype_character_emote_layout/overrideAnims.csv",
+		"settings_layout/settings_itemtype_character_emote_layout/flourishSequences.csv"
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ping_layout.rpak",
+	"uniqueId": 757750024,
+	"settings": {
+		"assetName": "settings/itemflav/ping/ping_hostile_poi.rpak",
+		"itemType": "ping",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00757750024",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "rui/hud/ping/icon_ping_go_outer",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"colorKey": "none",
+		"innerIcon": "rui/hud/ping/icon_ping_go_inner",
+		"innerShadowIcon": "rui/hud/ping/icon_ping_go_inner_shadow",
+		"outerIcon": "rui/hud/ping/icon_ping_go_outer",
+		"shadowIcon": "rui/hud/ping/icon_ping_go_inner_shadow",
+		"animIcon": "rui/hud/ping/icon_ping_go_outline",
+		"defaultColor": "<1.000000,0.000000,0.000000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"drawHeightLine": true
+	}
+}

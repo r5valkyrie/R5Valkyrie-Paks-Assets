@@ -1,0 +1,30 @@
+seqs:
+[
+	animseq\props\ash_heirloom\ash_crouchwalk_heirloom_nunchuck_b.rseq
+	animseq\props\ash_heirloom\ash_crouchwalk_heirloom_nunchuck_f.rseq
+	animseq\props\ash_heirloom\ash_float_heirloom_nunchuck_F.rseq
+	animseq\props\ash_heirloom\ash_idle_crouch_heirloom_nunchuck.rseq
+	animseq\props\ash_heirloom\ash_idle_heirloom_nunchuck.rseq
+	animseq\props\ash_heirloom\ash_jump_heirloom_nunchuck_F.rseq
+	animseq\props\ash_heirloom\ash_land_heirloom_nunchuck_F.rseq
+	animseq\props\ash_heirloom\ash_land_heirloom_sprinting_nunchuck_F.rseq
+	animseq\props\ash_heirloom\ash_meleedoor_heirloom_nunchuck.rseq
+	animseq\props\ash_heirloom\ash_meleeJump_heirloom_nunchuck.rseq
+	animseq\props\ash_heirloom\ash_meleeslide_heirloom_nunchuck.rseq
+	animseq\props\ash_heirloom\ash_meleesprint_heirloom_nunchuck.rseq
+	animseq\props\ash_heirloom\ash_meleeStand_heirloom_nunchuck.rseq
+	animseq\props\ash_heirloom\ash_meleeStand_heirloom_nunchuck_02.rseq
+	animseq\props\ash_heirloom\ash_run_heirloom_nunchuck_b.rseq
+	animseq\props\ash_heirloom\ash_run_heirloom_nunchuck_f.rseq
+	animseq\props\ash_heirloom\ash_slide_heirloom_nunchuck_f.rseq
+	animseq\props\ash_heirloom\ash_slideEnd_heirloom_nunchuck_F.rseq
+	animseq\props\ash_heirloom\ash_slideFloat_heirloom_nunchuck.rseq
+	animseq\props\ash_heirloom\ash_sprint_heirloom_nunchuck_f.rseq
+	animseq\props\ash_heirloom\ash_walk_heirloom_nunchuck_f.rseq
+	animseq\props\ash_heirloom\ash_wall_idle_heirloom_nunchuck.rseq
+	animseq\props\ash_heirloom\ash_ziplineIdle_heirloom_nunchuck.rseq
+	animseq\props\ash_heirloom\ash_ziplinestart_heirloom_nunchuck.rseq
+	animseq\weapons\ash_heirloom\w_ash_heirloom\ash_meleecrouch_heirloom_nunchuck.rseq
+	animseq\weapons\ash_heirloom\w_ash_heirloom\w_ash_gladcard_animated_heirloom_prop.rseq
+	animseq\weapons\ash_heirloom\w_ash_heirloom\w_ash_gladcard_animated_heirloom_prop_idle.rseq
+]

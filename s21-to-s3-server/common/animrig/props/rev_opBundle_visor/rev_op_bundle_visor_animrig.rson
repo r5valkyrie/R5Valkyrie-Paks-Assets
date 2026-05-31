@@ -1,0 +1,7 @@
+seqs:
+[
+	animseq\props\revenant_visor\visor_revenantopbundle_menu_ready_up.rseq
+	animseq\props\revenant_visor\visor_revenantopbundle_menu_ready_up_idle.rseq
+	animseq\props\revenant_visor\visor_revenantopbundle_menu_select.rseq
+	animseq\props\revenant_visor\visor_revenantopbundle_menu_select_idle.rseq
+]

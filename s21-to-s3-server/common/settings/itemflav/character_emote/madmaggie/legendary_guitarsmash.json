@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 1498276393,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/madmaggie/legendary_guitarsmash.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/madmaggie.rpak",
+		"settingsAssetID": "SAID01498276393",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#CHAR_EMOTE_060",
+		"localizationKey_NAME_SHORT": "#CHAR_EMOTE_060",
+		"localizationKey_DESCRIPTION_LONG": "#CHAR_EMOTE_060",
+		"localizationKey_DESCRIPTION_SHORT": "#CHAR_EMOTE_060",
+		"quality": "LEGENDARY",
+		"icon": "rui/menu/buttons/character_emotes/madmaggie/guitarsmash",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_madmaggie_legendary_guitarsmash",
+		"ownershipTarget": "",
+		"anim3p": "madmaggie_ground_emote_guitarSmash",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

@@ -1,0 +1,51 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_skin_layout.rpak",
+	"uniqueId": 15299860,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_skin/kraber/s09bp_rare_01.rpak",
+		"itemType": "weapon_skin",
+		"parentItemFlavor": "settings/itemflav/loot/main_weapon/kraber.rpak",
+		"settingsAssetID": "SAID00015299860",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#SKIN_932",
+		"localizationKey_NAME_SHORT": "#SKIN_932",
+		"localizationKey_DESCRIPTION_LONG": "#SKIN_932",
+		"localizationKey_DESCRIPTION_SHORT": "#SKIN_932",
+		"quality": "RARE",
+		"icon": "",
+		"tagIcon": "rui/events/s09bp/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "weapon_skin_kraber_s09bp_rare_01",
+		"ownershipTarget": "",
+		"worldModel": "mdl/weapons/at_rifle/w_at_rifle.rmdl",
+		"viewModel": "mdl/weapons/at_rifle/ptpov_at_rifle.rmdl",
+		"skinName": "common/rare mask",
+		"exclusiveFunc": "",
+		"unlockFuncKey": "",
+		"video": "",
+		"customSkinMenuBlurb": "",
+		"multipleOwnershipTargets": [
+			],
+		"camoIndex": 369,
+		"hackyRUISchemeIdentifier": 0,
+		"featureReactsToKillsLevels": [
+			],
+		"skinAlias_vfxAliases": [
+			],
+		"skinAlias_sfxAliases": [
+			],
+		"skinAlias_bodyGroupAliases": [
+			],
+		"skinAlias_impactTableAliases": [
+			],
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"exclusive": false,
+		"shouldHideIfLocked": false,
+		"forceFullWeaponIcon": false,
+		"featureReactsToKills": false,
+		"forceVideoInspect": false
+	}
+}

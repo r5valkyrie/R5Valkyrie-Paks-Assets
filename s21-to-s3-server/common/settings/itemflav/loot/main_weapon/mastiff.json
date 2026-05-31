@@ -1,0 +1,3284 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_loot_main_weapon_layout.rpak",
+	"uniqueId": 418361060,
+	"settings": {
+		"assetName": "settings/itemflav/loot/main_weapon/mastiff.rpak",
+		"itemType": "loot_main_weapon",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00418361060",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#WPN_MASTIFF",
+		"localizationKey_NAME_SHORT": "#WPN_MASTIFF_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "#WPN_MASTIFF_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#WPN_MASTIFF_DESC",
+		"quality": "NONE",
+		"icon": "rui/menu/battlepass/weapon_icons/icon_bps1_weapon_mastiff",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"entityClassname": "mp_weapon_mastiff",
+		"loreFlav": "settings/itemflav/lore/weapon/lore_mastiff.rpak",
+		"category": "settings/itemflav/weapon_category/shotgun.rpak",
+		"statsCategory": "shotgun",
+		"childClassnames": [
+			],
+		"armoryScale": 0.835000,
+		"lootCeremonyScale": 1.000000,
+		"battlePassScale": 1.400000,
+		"itemInspectScale": 1.000000,
+		"loadoutOverviewOffset": "<12.000000,40.000000,0.000000>",
+		"loadoutOverviewRotation": "<0.000000,0.000000,0.000000>",
+		"loadoutSkinsOffset": "<0.000000,0.000000,0.000000>",
+		"skins": [
+				{
+					"flavor": "settings/itemflav/weapon_skin/_shared_favorites.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/factory_issue.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/common_01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/common_02.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/common_03.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/common_04.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/common_05.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/common_06.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/common_07.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/common_08.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/common_09.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/common_10.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/common_11.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/common_12.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/common_13.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/common_14.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/common_15.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/rare_01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/rare_02.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/rare_03.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/rare_04.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/rare_05.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/rare_06.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/rare_07.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/rare_08.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/rare_09.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/rare_10.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/rare_11.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/rare_12.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/rare_13.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/rare_14.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/rare_15.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/epic_01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/epic_02.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/epic_03.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/epic_04.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/epic_05.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/legendary_01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/legendary_02.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/season01_rare_a.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/season02_rare_01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/shop_legendary_01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/s03bp_rare_01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/s03e01_legendary_01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/shop_legendary_02.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/s04bp_rare_01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/psplus06_rare_01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/s05bp_rare_01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/s05e01_legendary_01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/s06bp_rare_01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/s06e01_rare_01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/s07bp_rare_01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/s07e02_rare_01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/shop_legendary_03.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/s08bp_rare_01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/shop_legendary_04.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/s08e01_legendary_01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/s09bp_rare_01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/s10bp_rare_v21_mutate.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/s10e01_lgnd_v21_evolve.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/rare_v21_scavenger.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/rare_v21_rebelbiker.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/lgnd_v21_rebelgladiator.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/epicp_v21_herohunter.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/rare_v21_herohunter.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/rare_v22_huntersafari.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/rare_v22_magicgoth.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/react_v22_partymusic.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/react_v22_partymusic_rt01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/epicp_v23_anniversary.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/lgnd_v21_warlord_rt01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/lgnd_v22_ophitman.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/rare_v22_opmech.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/lgnd_v23_resdopb.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/rare_v23_resdopa.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/epicp_v22_opmech.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/rare_v23_raga.rpak",
+					"featureFlag": "HAS_19_0_RELEASE"
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/epicp_v23_ragold.rpak",
+					"featureFlag": "HAS_GOLDEN_HORSE_HIDDEN"
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/rare_v23_outurbana.rpak",
+					"featureFlag": "HAS_20_0_RELEASE"
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/epicp_v23_outnoir.rpak",
+					"featureFlag": "HAS_20_1_RELEASE"
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/mastiff/epicp_v23_outurbanb.rpak",
+					"featureFlag": "HAS_20_1_RELEASE"
+				}
+			],
+		"charms": [
+				{
+					"flavor": "settings/itemflav/weapon_charm/none.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v19_br_rankplayer_s02_gold01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v19_br_rankplayer_s02_platinum01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v19_br_rankplayer_s02_diamond01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v19_br_rankplayer_s02_predator01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v19_br_rankplayer_s03_gold01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v19_br_rankplayer_s03_platinum01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v19_br_rankplayer_s03_diamond01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v19_br_rankplayer_s03_predator01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v20_br_rankplayer_s04_gold01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v20_br_rankplayer_s04_platinum01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v20_br_rankplayer_s04_diamond01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v20_br_rankplayer_s04_master01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v20_br_rankplayer_s04_predator01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v20_br_ranklevel_100v01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v20_br_ranklevel_200v01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v20_br_ranklevel_300v01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v20_br_ranklevel_400v01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v20_br_ranklevel_500v01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_meltdown_nessie_plush01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_meltdown_pyro_meteor01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_meltdown_caustic_gastank01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_meltdown_yeti_snow01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v20_char_lifeline_doc01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_event_v19_halloween_prop_clown01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_meltdown_arthur_crow01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_event_v19_halloween_prop_pumpkin01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_event_v19_halloween_nessie_ghost01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_event_v19_christmas_prop_candycane01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_event_v19_christmas_prop_stocking01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_event_v19_christmas_prop_tree01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v20_misc_apex_logo01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v20_wep_ordnance_arcstar01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v20_loot_env_deathbox01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v20_robo_tick_explosive01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v20_wep_ordnance_frag01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v20_char_gibraltar_shield01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v20_char_pathfinder_grapplehook01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v20_char_crypto_laptop01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v20_char_lifeline_healthinjector01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v20_char_bloodhound_knife01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v20_char_bloodhound_prowlerskull01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v20_char_wattson_trophysystem01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v20_char_crypto_koreanlion01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v20_robo_tick_loot01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v20_loot_pickup_healthpack01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v20_char_octane_stimsyringe01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v20_char_pathfinder_emotescreen01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v20_loot_pickup_phoenixkit01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v20_char_caustic_mug01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v20_loot_env_bin01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v20_loot_env_droppod01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v20_char_gibraltar_tribalmask01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v20_char_wraith_helmet01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v20_char_mirage_jackinthebox01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_event_v19_lunarnewyear_prop_luckypurse01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_event_v19_lunarnewyear_prop_ratcharm01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v20_char_wraith_bobblehead01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v20_char_mirage_punchingbag01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v20_char_lifeline_defibrillator01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v20_char_bangalore_missile01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v20_char_bangalore_bobblehead01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v20_char_lifeline_bobblehead01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v20_char_wattson_lightbulb01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v20_wep_cqc_dataknife01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v20_char_gibraltar_motorcycle01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v20_robo_marvin_default01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_voidwalker_wep_injector01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_assim_robo_generic01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_assim_arthur_robo01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_assim_nessie_robo01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_assim_prop_motherboard01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_assim_pathfinder_koscreen01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v20_char_forge_medallion01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_event_v20_valentines_pathfinder_cherub01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_event_v20_valentines_nessie_love01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_assim_spider_metal01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_event_v20_anniversary_origami_flyer01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_assim_octane_gears01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_assim_prop_floppydisk01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_assim_robo_thumbsup01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_assim_revenant_skull01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_oldways_prop_owl01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_assim_ordnance_molotov01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_trshunter_skull_crystal01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_trshunter_loottick_gem01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_trshunter_prop_fedora01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_trshunter_prop_satchel01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_trshunter_wep_whip01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_trshunter_loottick_gem01_rt09.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_trshunter_loottick_gem01_rt08.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_trshunter_loottick_gem01_rt10.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_trshunter_loottick_gem01_rt02.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_trshunter_loottick_gem01_rt04.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_trshunter_loottick_gem01_rt05.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_trshunter_loottick_gem01_rt06.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_trshunter_loottick_gem01_rt01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_trshunter_loottick_gem01_rt07.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v20_char_ash_bobblehead01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_trshunter_prop_metaldetector01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_trshunter_prop_treasurechest01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_trshunter_lion_gold01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_trshunter_manekineko_robo01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_trshunter_caustic_grail01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_trshunter_gibraltar_mask01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_trshunter_revenant_skull01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_trshunter_wraith_queentut01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_assim_prop_cassettetape01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_boosted_prop_toolbox01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_boosted_ordnance_plasticexplosive01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_boosted_hotrod_customrim01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_boosted_hotrod_hoodornament01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_boosted_prop_heistbag01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_boosted_bloodhound_mask01_rt06.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_boosted_bloodhound_mask01_rt13.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_boosted_bloodhound_mask01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_boosted_bloodhound_mask01_rt03.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_boosted_bloodhound_mask01_rt09.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_boosted_bloodhound_mask01_rt11.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_boosted_bloodhound_mask01_rt08.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_boosted_bloodhound_mask01_rt05.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_boosted_bloodhound_mask01_rt10.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_boosted_bloodhound_mask01_rt02.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_boosted_bloodhound_mask01_rt07.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_boosted_bloodhound_mask01_rt04.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_boosted_bloodhound_mask01_rt12.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_boosted_bloodhound_mask01_rt01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_boosted_olympus_hovercraft01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_boosted_robo_newt01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_boosted_rampart_wrench01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v20_br_rankplayer_s05_gold01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v20_br_rankplayer_s05_platinum01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v20_br_rankplayer_s05_diamond01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v20_br_rankplayer_s05_master01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v20_br_rankplayer_s05_predator01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_trshunter_nessie_gold01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_boosted_caustic_airfreshener01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_boosted_prop_crowbar01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_boosted_rampart_kicks01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_boosted_hotrod_engine01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_boosted_prop_nostank01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_boosted_lifeline_mask01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_boosted_wraith_mask01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_boosted_caustic_mask01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_event_v20_halloween_nessie_pirate01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v20_br_rankplayer_s06_gold01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v20_br_rankplayer_s06_platinum01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v20_br_rankplayer_s06_diamond01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v20_br_rankplayer_s06_master01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v20_br_rankplayer_s06_predator01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_ascension_origami_leviathan01_rt04.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_ascension_origami_leviathan01_rt03.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_ascension_origami_leviathan01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_ascension_origami_leviathan01_rt01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_ascension_origami_leviathan01_rt02.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_ascension_origami_flyer01_rt04.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_ascension_origami_flyer01_rt03.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_ascension_origami_flyer01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_ascension_origami_flyer01_rt01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_ascension_origami_flyer01_rt02.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_ascension_origami_prowler01_rt04.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_ascension_origami_prowler01_rt03.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_ascension_origami_prowler01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_ascension_origami_prowler01_rt01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_ascension_origami_prowler01_rt02.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_ascension_prop_familyportrait01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_ascension_olympus_balloon01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_ascension_prop_purse01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_ascension_origami_bird01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_ascension_prop_bonsaitree01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_ascension_olympus_pendant01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v20_char_horizon_spacegun01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_portal_asset_v20_char_glados_potato01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_portal_asset_v20_char_wattson_companioncube01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_halflife_asset_v20_char_octane_headcrab01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_medalofhonor_asset_v20_char_manon_bighead01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_ascension_wolf_ice01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_ascension_spirit_wendigo01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_event_v20_christmas_weather_snowflake01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_trshunter_loottick_gem01_rt03.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_ascension_doc_diamond01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_ascension_wolf_glamour01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_ascension_horizon_helmet01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_ascension_mirage_heart01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_ascension_skull_obsidian01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_ascension_bangalore_diamondmissle01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_ascension_marvin_retro01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_ascension_prop_smileyfedora01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_ascension_marvin_head01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v20_br_rankplayer_s07_gold01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v20_br_rankplayer_s07_platinum01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v20_br_rankplayer_s07_diamond01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v20_br_rankplayer_s07_master01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v20_br_rankplayer_s07_predator01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_ascension_horizon_audiolog01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v20_wep_ordnance_thermite01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v20_veh_worldsedge_train01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v20_char_bloodhound_bobblehead01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v20_char_loba_bobblehead01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v20_char_octane_bobblehead01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v20_char_pathfinder_bobblehead01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v20_char_revenant_bobblehead01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v20_char_wattson_bobblehead01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_oldways_char_goliath01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_skate_asset_v20_char_rampart_skateboard01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_masseffect_asset_v20_misc_n7_logo01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_mirrorsedge_asset_v20_char_faith_bighead01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v20_char_gibraltar_carving01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v20_char_pathfinder_discoball01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v20_wep_pistol_mozamhere01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_warlord_ordnance_detonator01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_warlord_ordnance_landmine01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_warlord_fuse_wally01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_event_v21_anniversary_nessie_bday01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_warlord_ordnance_goldgrenade01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_warlord_ordnance_satchelcharge01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_warlord_fuse_bomb01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_warlord_fuse_bomb01_rt01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_warlord_prop_seamine01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_warlord_prop_chesangels01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_warlord_pathfinder_relic01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_warlord_revenant_wings01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_warlord_prop_gunslinger01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_warlord_gibraltar_samurai01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_warlord_bangalore_medal01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_warlord_loba_helmet01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_warlord_rampart_skull01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_warlord_maggie_emblem01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v20_br_rankplayer_s08_gold01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v20_br_rankplayer_s08_platinum01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v20_br_rankplayer_s08_diamond01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v20_br_rankplayer_s08_master01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v20_br_rankplayer_s08_predator01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_warlord_mirage_boot01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_titanfall_asset_v20_misc_helmet_titanpilot01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_warlord_prop_carpkite01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_masseffect_asset_v20_char_shepardmale_bighead01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_masseffect_asset_v20_char_shepardfemale_bighead01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_warlord_fuse_bomb01_rt02.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_warlord_fuse_bomb01_rt03.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_warlord_fuse_bomb01_rt04.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_warlord_fuse_bomb01_rt05.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_warlord_fuse_bomb01_rt06.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_warlord_fuse_bomb01_rt07.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_warlord_fuse_bomb01_rt08.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_warlord_fuse_bomb01_rt09.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_warlord_fuse_bomb01_rt10.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_warlord_fuse_bomb01_rt11.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_warlord_fuse_bomb01_rt12.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_warlord_fuse_bomb01_rt13.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_warlord_fuse_bomb01_rt14.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_warlord_fuse_bomb01_rt15.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_swsquadrons_asset_v20_misc_helmet_tiefighter01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_swsquadrons_asset_v20_misc_helmet_xwing01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_knockoutcity_asset_v20_prop_ball_dodge01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_warlord_prop_captainbreadstick01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_jpnlegacy_prop_chochinlantern01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_jpnlegacy_kawaii_prowler01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_jpnlegacy_blisk_daruma01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_jpnlegacy_manekineko_statue01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_jpnlegacy_animal_tanuki01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_jpnlegacy_valkerie_woodendoll01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_jpnlegacy_prop_omamori01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_jpnlegacy_prop_omamori01_rc01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_jpnlegacy_prop_omamori01_rc02.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_jpnlegacy_prop_omamori01_rc03.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_jpnlegacy_prop_omamori01_rc04.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_jpnlegacy_prop_omamori01_rt01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_jpnlegacy_prop_omamori01_rt01rc01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_jpnlegacy_prop_omamori01_rt01rc02.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_jpnlegacy_prop_omamori01_rt01rc03.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_jpnlegacy_prop_omamori01_rt01rc04.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_jpnlegacy_prop_omamori01_rt02.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_jpnlegacy_prop_omamori01_rt02rc01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_jpnlegacy_prop_omamori01_rt02rc02.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_jpnlegacy_prop_omamori01_rt02rc03.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_jpnlegacy_prop_omamori01_rt02rc04.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v20_br_role_trio_champion01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_event_v21_algs_animal_chameleon01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_event_v21_algs_animal_warthog01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_event_v21_algs_animal_gorilla01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_event_v21_algs_animal_cheetah01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_oldways_prop_horn01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_jpnlegacy_food_sushiroll01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_jpnlegacy_kawaii_flyer01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_jpnlegacy_mask_kitsune01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_jpnlegacy_horizon_mecha01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_jpnlegacy_mask_oni01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_jpnlegacy_valkerie_summerflag01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_jpnlegacy_nessie_samurai01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_thrillseeker_rampart_goggles01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_thrillseeker_pathfinder_mtglvs01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_thrillseeker_mirage_rodeoclown01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_lostinrandom_asset_v21_char_dicey_hanging01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_battlefield_asset_v21_misc_robot_bigdog01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_eaplay_moh_sarge.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_medalofhonor_asset_v21_misc_b17plane_bomber01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_jpnlegacy_robo_moth01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v20_br_role_trio_jumpmaster01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v20_char_wattson_highvoltage01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v21_char_bangalore_superhero01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v21_br_rankplayer_s09_gold01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v21_br_rankplayer_s09_platinum01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v21_br_rankplayer_s09_diamond01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v21_br_rankplayer_s09_master01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v21_br_rankplayer_s09_predator01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_mutate_prop_cocoon01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_mutate_bloodhound_owl01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_mutate_gibraltar_wasp01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_mutate_horizon_beetle01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_mutate_lifeline_lizard01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_mutate_pathfinder_peacock01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_mutate_seer_crocodile01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_mutate_valkyrie_dragonfly01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_mutate_wattson_mantis01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_mutate_seer_hat01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_mutate_seer_hat01_rt10.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_mutate_seer_hat01_rt01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_mutate_seer_hat01_rt02.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_mutate_seer_hat01_rt03.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_mutate_seer_hat01_rt04.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_mutate_seer_hat01_rt05.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_mutate_seer_hat01_rt06.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_mutate_seer_hat01_rt07.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_mutate_seer_hat01_rt08.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_mutate_seer_hat01_rt09.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_mutate_seer_hat01_rt11.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_mutate_seer_hat01_rt12.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_mutate_seer_hat01_rt13.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_mutate_seer_hat01_rt14.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_mutate_seer_moth01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_monsters_gibraltar_shield01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_monsters_horizon_helmet01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_event_v21_halloween_valkyrie_alien01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_monsters_wraith_helmet01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_monsters_loba_dollhead01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_evolve_bangalore_magazine01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_evolve_fuse_wally01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_evolve_lifeline_syringe01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_evolve_octane_helmet01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_evolve_pathfinder_heart01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_evolve_rampart_helmet01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_evolve_wraith_portal01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_mutate_loba_wolf01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_dragonage_asset_v21_char_dragon_ravager01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_deadspace_asset_v21_char_isaac_helmet01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_ittakestwo_asset_v21_char_hakim_hanging01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v21_br_rankplayer_s10_gold01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v21_br_rankplayer_s10_platinum01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v21_br_rankplayer_s10_diamond01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v21_br_rankplayer_s10_master01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v21_br_rankplayer_s10_predator01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v21_arenas_rankplayer_s10_gold01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v21_arenas_rankplayer_s10_platinum01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v21_arenas_rankplayer_s10_diamond01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v21_arenas_rankplayer_s10_master01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v21_arenas_rankplayer_s10_predator01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_scavenger_caustic_helmet01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_scavenger_creature_spider01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_scavenger_loba_helmet01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_scavenger_revenant_helmet01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_scavenger_mirage_helmet01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_scavenger_bangalore_helmet01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_scavenger_gibraltar_helmet01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_scavenger_wraith_helmet01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_scavenger_rampart_helmet01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_scavenger_island_nessie01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v21_char_valkyrie_chicken01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_scavenger_island_nessie02.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_scavenger_island_nessie03.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_scavenger_island_nessie04.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_scavenger_island_nessie05.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v20_char_wraith_portal01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_event_v19_christmas_prop_present01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v20_robo_drone_flyingloot01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_folklore_fuse_posiedon01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v21_char_bangalore_bottlecaps01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_event_v21_algs_champion_cup01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_folklore_lifeline_mermaid01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v21_char_ash_rat01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v21_robo_tick_gold01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v21_prop_supplycrate_gold01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v21_prop_deathbox_gold01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v21_arenas_rankplayer_s11_gold01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v21_arenas_rankplayer_s11_platinum01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v21_arenas_rankplayer_s11_diamond01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v21_arenas_rankplayer_s11_master01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v21_arenas_rankplayer_s11_predator01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v21_br_rankplayer_s11_gold01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v21_br_rankplayer_s11_platinum01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v21_br_rankplayer_s11_diamond01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v21_br_rankplayer_s11_master01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v21_br_rankplayer_s11_predator01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_spacepirate_jolly_roger01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_folklore_horizon_kraken01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_folklore_ash_crab01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_swtor_event_v22_anniversary_golden_badge01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_event_v22_anniversary_cider_celebration01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_event_v22_anniversary_mirage_cake01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_event_v22_anniversary_niru_wolf01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_event_v22_anniversary_beau_snowglobe01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_rebelbiker_nessie01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_rebelbiker_flaming_bikerhelmet01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_rebelbiker_punk_grenade01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_rebelbiker_motorcycle_engine01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_rebelbiker_mrvn_biker01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v21_misc_leather_keychain01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v21_char_ash_rebelbiker01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v21_char_crypto_rebelbiker01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v21_char_lifeline_rebelbiker01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v21_char_seer_rebelbiker01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v21_char_loba_rebelbiker01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v21_misc_rebelbiker01_rc01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v21_br_rankplayer_s12_gold01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v21_br_rankplayer_s12_diamond01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v21_br_rankplayer_s12_platinum01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v21_br_rankplayer_s12_master01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v21_br_rankplayer_s12_predator01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v21_arenas_rankplayer_s12_gold01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v21_arenas_rankplayer_s12_diamond01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v21_arenas_rankplayer_s12_platinum01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v21_arenas_rankplayer_s12_master01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v21_arenas_rankplayer_s12_predator01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_event_v22_algs_algs01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v21_char_madmaggie_maori01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_rebelgladiator_tbd01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_rebelfreed_tbd01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_rebelfreed_tbd02.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v21_char_wraith_crossbow01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_heroknight_heroknight07.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v21_misc_heroknight01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_heroknight_heroknight08.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_heroknight_heroknight09.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_loot_beachball01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_loot_cargo01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_heroknight_heroknight06.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_heroknight_heroknight10.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_loot_shield01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_loot_surfboard01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_loot_valk01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_event_v22_algs_algs02.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_loot_nessiefloat01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_misc_goldphoenix01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_misc_goldmed01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_heroknight_heroknight01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_heroknight_heroknight02.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_heroknight_heroknight03.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_heroknight_heroknight05.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v21_heroknight_heroknight04.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v21_misc_heroknight01_rc01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_misc_goldsupply01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v21_char_newcastle_imc01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v21_misc_playerlevel01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v21_misc_playerlevel02.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v21_misc_playerlevel03.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_misc_goldgibshield01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_misc_golddoc01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_misc_goldmissile01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_misc_seamonster01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_misc_arrow01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_misc_spectres01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v22_arenas_rankplayer_s13_gold01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v22_arenas_rankplayer_s13_platinum01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v22_arenas_rankplayer_s13_diamond01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v22_arenas_rankplayer_s13_master01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v22_arenas_rankplayer_s13_predator01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v22_br_rankplayer_s13_gold01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v22_br_rankplayer_s13_platinum01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v22_br_rankplayer_s13_diamond01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v22_br_rankplayer_s13_master01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v22_br_rankplayer_s13_predator01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_misc_protbracelet01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_misc_firework01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_char_heroanime01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_char_fuse01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_char_herohunter01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_char_herohunter02.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_char_herohunter03.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_char_herohunter04.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_char_herohunter05.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_misc_goldgrapplehook01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_char_vantage_snowbear01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v22_huntersafari_huntersafari01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v22_huntersafari_huntersafari06.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v22_huntersafari_huntersafari04.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v22_huntersafari_huntersafari05.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v22_huntersafari_huntersafari07.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_misc_goldhackerlaptop01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_misc_goldarcstar01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_misc_brokenashsword01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_misc_heatshieldsunscreen01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_misc_flyerliarsmixtape01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_event_v22_algs_algs05.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v22_huntersafari_huntersafari02.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v22_huntersafari_huntersafari03.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_misc_frontiercorpspatch01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_misc_whiteraven01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_misc_pathfinderemoji01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_misc_rookpiece01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_misc_octanesbunny01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_misc_maggiesinsignia01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_misc_cryptosfamilyphoto01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v22_huntersafari_huntersafari08.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_misc_dev01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v22_br_rankplayer_s14_diamond01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v22_br_rankplayer_s14_gold01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v22_hunterpredator_hunterpredator01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v22_hunterpredator_hunterpredator02.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v22_hunterpredator_hunterpredator05.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v22_arenas_rankplayer_s14_gold01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v22_arenas_rankplayer_s14_platinum01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v22_arenas_rankplayer_s14_diamond01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v22_arenas_rankplayer_s14_master01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v22_hunterpredator_hunterpredator03.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v22_hunterpredator_hunterpredator04.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v22_br_rankplayer_s14_platinum01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v22_arenas_rankplayer_s14_predator01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_misc_pixelnessie01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_misc_goldflaggrenade01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_misc_goldhuntertrophy01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v22_br_rankplayer_s14_master01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v22_br_rankplayer_s14_predator01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v22_magicsnowbeast_magicsnowbeast02.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_char_legendlaunchbundle01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_misc_backlog10.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v22_magicsnowbeast_magicsnowbeast01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_char_seasonlaunchbundle01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_misc_backlog01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_misc_backlog09.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_misc_backlog03.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v22_magicgoth_catalyst01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_misc_backlog08.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_misc_backlog04.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_misc_backlog05.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v22_magicgoth_magicgoth01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v22_magicgoth_magicgoth03.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v22_magicgoth_magicgoth02.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v22_magicgoth_magicgoth04.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_event_v23_algs_algs01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_misc_backlog06.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v22_magicgoth_revenant01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v22_magicgoth_seer01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v22_magicwitch_magicwitch05.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_event_v23_lunarnewyear_lunarnewyear01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_misc_backlog07.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v22_magicwitch_magicwitch04.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_event_v23_lunarnewyear_lunarnewyear05.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_event_v23_lunarnewyear_lunarnewyear06.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_event_v23_lunarnewyear_lunarnewyear07.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_event_v23_valentines_valentines01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_event_v23_valentines_valentines02.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v22_magicwitch_magicwitch01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v22_magicwitch_magicwitch02.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v22_magicwitch_magicwitch03.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_event_v23_lunarnewyear_lunarnewyear02.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_event_v23_lunarnewyear_lunarnewyear04.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_event_v23_lunarnewyear_lunarnewyear03.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_misc_queensguard02.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_misc_queensguard03.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_misc_queensguard04.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_misc_queensguard01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_event_v22_algs_algs06.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v22_partymusic_partymusic01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v22_partymusic_partymusic02.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v22_arenas_rankplayer_s15_gold01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v22_arenas_rankplayer_s15_platinum01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v22_arenas_rankplayer_s15_diamond01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v22_arenas_rankplayer_s15_master01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v22_arenas_rankplayer_s15_predator01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v22_br_rankplayer_s15_gold01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v22_br_rankplayer_s15_platinum01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v22_br_rankplayer_s15_diamond01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v22_br_rankplayer_s15_master01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v22_br_rankplayer_s15_predator01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_misc_springsale01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_misc_springsale02.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v22_partymusic_partymusic05.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v22_partymusic_partymusic06.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v22_partymusic_partymusic07.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v22_partymusic_partymusic03.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v22_partymusic_partymusic04.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_misc_rivals01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_misc_rivals02.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_event_v23_anniversary_nessieminipet01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_event_v23_anniversary_nessieminipet02.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_event_v23_anniversary_nessieminipet03.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_event_v23_anniversary_nessieminipet04.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_misc_goldenweek01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_misc_goldenweek02.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_char_goldgibbybike01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_char_goldvoidwalkerhelmet01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_char_goldfraggrenade01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v22_partybeach_partybeach01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v22_partybeach_partybeach02.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v22_partybeach_partybeach03.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v22_partybeach_partybeach04.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v22_partybeach_partybeach05.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v22_partymask_partymask01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v22_opalien_rgb01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v22_br_rankplayer_s16_gold01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v22_br_rankplayer_s16_platinum01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v22_br_rankplayer_s16_master01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v22_br_rankplayer_s16_diamond01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v22_br_rankplayer_s16_predator01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_prop_sciencemug01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_event_v23_algs_algs02.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_char_ballistic01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v22_opalien_opalien01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v22_opalien_opalien02.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v22_opmech_opmech01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v22_opmech_opmech02.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v22_opmech_opmech03.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v22_opmech_opmech04.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v22_opmech_opmech05.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v22_opmech_opmech06.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v22_opmech_opmech07.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v22_ophitman_ophitman01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v22_ophitman_ophitman02.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v22_opneon_loba01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_misc_goldpathfinderscreen01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_misc_goldoctanestim01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_misc_goldmiragebag01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_event_v23_algs_algs03.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v23_misc_resdopa05.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v23_misc_resdopa06.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v23_misc_resdopa01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v23_misc_resdopa02.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v23_misc_resdopa03.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v23_misc_resdopa04.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v23_misc_resdopa07.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v23_misc_resanime01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v23_misc_resanime02.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v23_misc_resharb01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v23_misc_resharb02.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v23_misc_resdopb01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v23_misc_resdopb02.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v23_br_rankplayer_s17_gold01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v23_br_rankplayer_s17_platinum01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v23_br_rankplayer_s17_diamond01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v23_br_rankplayer_s17_master01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v23_br_rankplayer_s17_predator01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v23_misc_healthsyringe01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v23_misc_explosivetick01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_event_v23_halloween_halloween01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v23_misc_bracademy01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v23_misc_fallsale01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v23_misc_fallsale02.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v23_misc_huntersknife01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v23_raga_algs01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v23_raga_algs02.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_event_v23_christmas_holoday01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_event_v23_christmas_holoday02.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v23_raga_raga01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v23_raga_raga02.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v23_raga_raga03.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v23_raga_raga04.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v23_raga_raga05.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v23_misc_misc02.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v23_misc_misc01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v23_ragonyx_ragonyx01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v23_misc_retroarcade01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v23_misc_retroarcade02.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v23_misc_retroarcade03.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v23_raga_raga06.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v23_raga_raga07.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v23_ragb_ragb01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v23_ragb_ragb02.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v23_misc_misc03.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v23_misc_misc04.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v23_br_rankplayer_s18_gold01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v23_br_rankplayer_s18_platinum01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v23_br_rankplayer_s18_diamond01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v23_br_rankplayer_s18_master01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v23_br_rankplayer_s18_predator01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v23_misc_tsukumo01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v23_outurbana_outurbana01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v23_outurbana_outurbana02.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v23_outurbana_outurbana03.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v23_outurbana_outurbana04.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v23_outurbana_outurbana05.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v23_outurbana_outurbana06.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v23_outurbana_outurbana07.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v23_outbeast_outbeast01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v23_outbeast_outbeast02.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v23_br_rankplayer_s19_diamond01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v23_br_rankplayer_s19_gold01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v23_br_rankplayer_s19_master01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v23_br_rankplayer_s19_platinum01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v23_br_rankplayer_s19_predator01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v23_ragknight_ragknight01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v23_ragknight_ragknight02.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v23_ragold_ragold01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v23_ragold_ragold02.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v23_ragold_ragold03.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v23_ragold_ragold04.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v23_misc_apexlogo01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v23_misc_box01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v23_misc_lifelinekit01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v23_outnoir_outnoir03.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_event_v23_algs_algs04.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_event_v19_halloween_wraith_witchhat01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v23_outurbanb_outurbanb01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v23_outurbanb_outurbanb02.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v23_br_rankplayer_s20_master01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v23_br_rankplayer_s20_predator01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v23_br_rankplayer_s20_diamond01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v23_br_rankplayer_s20_gold01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v23_br_rankplayer_s20_platinum01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v23_outnoir_outnoir04.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v23_outnoir_outnoir05.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v23_outbeast_outbeast04.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v23_voidsinister_voidsinister01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v23_voidsinister_voidsinister02.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v23_voidsinister_voidsinister03.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_event_v23_algs_algs05.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_event_v23_algs_algs06.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_event_v23_algs_algs07.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v23_voidswap_voidswap01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v23_voidsinister_voidsinister04.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v23_voidsinister_voidsinister05.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v23_voidsinister_voidsinister06.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v23_voidsinister_voidsinister07.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v23_voidswap_voidswap02.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v23_misc_symbiotic01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v23_misc_symbiotic02.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v24_misc_golddamascusdemon01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v24_misc_goldicegiants01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v24_misc_goldnochance01.rpak",
+					"featureFlag": ""
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v23_voidknights_voidknights04.rpak",
+					"featureFlag": "HAS_19_1_RELEASE"
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v23_voidknights_voidknights03.rpak",
+					"featureFlag": ""
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"shippingWeapon": true
+	}
+}

@@ -1,0 +1,35 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_artifact_component_activation_emote_layout.rpak",
+	"uniqueId": 610889084,
+	"settings": {
+		"assetName": "settings/itemflav/artifact_components/_empty_activation_emote.rpak",
+		"itemType": "artifact_component_activation_emote",
+		"parentItemFlavor": "settings/itemflav/loot/melee_weapon/artifact_dagger.rpak",
+		"settingsAssetID": "SAID00610889084",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#empty_activationemote_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"grxMode": "NONE",
+		"grxRef": "",
+		"ownershipTarget": "",
+		"artifactComponentType": "ACTIVATION_EMOTE",
+		"themeName": "_EMPTY",
+		"componentIcon": "rui/menu/melee_customization/power_sources/vfx_default",
+		"video": "media/deathboxes/deathbox_mobster",
+		"multipleOwnershipTargets": [
+			],
+		"artifactMainColor": "<0.471000,0.471000,0.471000>",
+		"artifactSecondaryColor": "<0.471000,0.471000,0.471000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isEmpty": true,
+		"shouldHideIfLocked": false
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/lifeline/lgnd_v22_goldenweek.rpak",
+		"roots": [
+				{
+					"asset": "mdl/humans/class/light/lifeline_v22_goldenweek_w.rmdl",
+					"featureFlag": ""
+				},
+				{
+					"asset": "mdl/Weapons/arms/lifeline_v22_goldenweek_v.rmdl",
+					"featureFlag": ""
+				}
+			]
+	}
+}

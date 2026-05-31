@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 65291909,
+	"settings": {
+		"assetName": "settings/itemflav/ability/bloodhound_pas_tracking_vision.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00065291909",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#GEAR_TRACKING_VISION",
+		"localizationKey_NAME_SHORT": "#GEAR_TRACKING_VISION",
+		"localizationKey_DESCRIPTION_LONG": "#GEAR_TRACKING_VISION_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#GEAR_TRACKING_VISION_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/passive_icons/passive_bloodhound",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_TRACKING_VISION",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

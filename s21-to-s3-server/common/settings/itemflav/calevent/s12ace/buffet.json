@@ -1,0 +1,107 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_calevent_buffet_layout.rpak",
+	"uniqueId": 1048392266,
+	"settings": {
+		"assetName": "settings/itemflav/calevent/s12ace/buffet.rpak",
+		"itemType": "calevent_buffet",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01048392266",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#S12ACE_TITLE_SHORT",
+		"localizationKey_NAME_SHORT": "#S12ACE_TITLE_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "#S12ACE_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#S12ACE_TITLE_SHORT",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"revealUnixTime": "",
+		"hideUnixTime": "",
+		"defaultStartTime": "2022-02-15 10:00:00 -08:00",
+		"defaultFinishTime": "2022-03-01 10:00:00 -08:00",
+		"headerIcon": "rui/events/s12ace/challenges_logo",
+		"mainChallengeFlav": "settings/itemflav/challenge/s12ace/main.rpak",
+		"eventChallengeHeaderImage": "rui/events/s12ace/challenge_panel_event_header",
+		"eventChallengeButtonImage": "rui/events/s12ace/event_tracker_button",
+		"eventChallengeButtonText": "",
+		"aboutPageBGImage": "rui/events/s12ace/about_bg",
+		"aboutPageBigIcon": "",
+		"aboutPageBarImage": "rui/events/s12ace/about_progress_bar",
+		"aboutPageUnownedRewardBorderImage": "rui/events/s12ace/reward_border_unowned",
+		"aboutPageOwnedRewardBorderImage": "rui/events/s12ace/reward_border_owned",
+		"aboutPageLineImage": "rui/events/s12ace/line",
+		"aboutPageTitleText": "#S12ACE_TITLE_SHORT",
+		"aboutPageDescText": "#S12ACE_DESC",
+		"aboutPageScoreTitleText": "#EARNED_POINTS_COLON",
+		"highlightGamemodeSelectorSlot": "",
+		"bonusChallengeFlavs": [
+			],
+		"dailyChallengeFlavs": [
+				{
+					"challengeFlav": "settings/itemflav/challenge/s12ace/games_played_easy.rpak"
+				},
+				{
+					"challengeFlav": "settings/itemflav/challenge/s12ace/damage_done_arenas_medium.rpak"
+				},
+				{
+					"challengeFlav": "settings/itemflav/challenge/s12ace/games_won_arenas_hard.rpak"
+				},
+				{
+					"challengeFlav": "settings/itemflav/challenge/s12ace/damage_done_br_medium.rpak"
+				},
+				{
+					"challengeFlav": "settings/itemflav/challenge/s12ace/top_10_finish.rpak"
+				}
+			],
+		"hiddenChallengeFlavs": [
+			],
+		"modes": [
+			],
+		"badgeFlavs": [
+				{
+					"badgeFlav": "settings/itemflav/gcard_badge/account/s12ace_b2_captures_control.rpak",
+					"badgeX": 219,
+					"badgeY": -28,
+					"badgeSize": 130
+				},
+				{
+					"badgeFlav": "settings/itemflav/gcard_badge/account/s12ace_b3_damage.rpak",
+					"badgeX": 412,
+					"badgeY": -28,
+					"badgeSize": 130
+				},
+				{
+					"badgeFlav": "settings/itemflav/gcard_badge/account/s12ace_b4_knockdowns_br.rpak",
+					"badgeX": 605,
+					"badgeY": -28,
+					"badgeSize": 130
+				},
+				{
+					"badgeFlav": "settings/itemflav/gcard_badge/account/s12ace_b5_master.rpak",
+					"badgeX": 797,
+					"badgeY": -28,
+					"badgeSize": 130
+				}
+			],
+		"eventChallengeHeaderColor1": "<1.000000,0.000000,0.000000>",
+		"eventChallengeHeaderColor2": "<0.976000,0.835000,0.420000>",
+		"eventChallengeButtonTextColor": "<1.000000,1.000000,1.000000>",
+		"eventChallengeCategoryButtonTint": "<0.400000,0.090000,0.608000>",
+		"progressBarColor": "<1.200000,1.200000,1.200000>",
+		"progressBarTextColor": "<1.200000,1.200000,1.200000>",
+		"rewardIconColor": "<0.400000,0.400000,0.400000>",
+		"aboutPageBGCol": "<0.035000,0.055000,0.075000>",
+		"aboutPageHeaderTextCol": "<0.976000,0.835000,0.420000>",
+		"aboutPageBodyTextCol": "<0.894000,0.757000,0.369000>",
+		"aboutPageScoreLabelCol": "<0.894000,0.757000,0.369000>",
+		"aboutPageScoreCol": "<0.894000,0.757000,0.369000>",
+		"aboutPageThemeCol": "<0.769000,0.631000,0.294000>",
+		"aboutPageBarTextCol": "<0.894000,0.757000,0.369000>",
+		"aboutPageBarTextOwnedCol": "<0.804000,0.255000,0.020000>",
+		"aboutPageCheckMarkCol": "<0.000000,1.000000,0.251000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"aboutPageShowsModes": false
+	}
+}

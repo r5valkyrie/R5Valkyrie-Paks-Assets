@@ -1,0 +1,832 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_battlepass_layout.rpak",
+	"uniqueId": 1851062701,
+	"settings": {
+		"assetName": "settings/itemflav/battlepass/season16.rpak",
+		"itemType": "battlepass",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01851062701",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#BP_S16_NAME",
+		"localizationKey_NAME_SHORT": "#BP_S16_STRING",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "battlepass_season16",
+		"ownershipTarget": "",
+		"basicPurchasePack": "settings/itemflav/pack/battle_pass_season16_basic.rpak",
+		"bundlePurchasePack": "settings/itemflav/pack/battle_pass_season16_bundle.rpak",
+		"xpPurchaseFlav": "settings/itemflav/battlepass_purchased_xp/season16_single_level.rpak",
+		"bubblePurchaseFlav": "",
+		"xpBoostFlav": "settings/itemflav/xp_boost/battlepass_season16.rpak",
+		"challengeRerollFlav": "settings/itemflav/challenge_reroll/challenge_reroll_generic.rpak",
+		"rewardScheduleDatatableV2": "",
+		"rewardScheduleDatatable": "datatable/progression/battlepass_season16_schedule.rpak",
+		"milestoneScheduleDatatable": "datatable/milestones/battlepass_season16_milestone.rpak",
+		"milestoneTierRepImage": "rui/events/s16bp/season_milestone_tier_image",
+		"milestoneBundleRepImage": "rui/events/s16bp/season_milestone_bundle_image",
+		"storeBundleContentsImage": "",
+		"aboutPurchaseTitle": "#BP_S16_ABOUT_TITLE",
+		"featureTitle": "#BP_S16_FEATURE_TITLE",
+		"largeLogo": "rui/events/s16bp/season_icon_large",
+		"smallLogo": "rui/events/s16bp/season_icon_small",
+		"xSmallLogo": "rui/events/s16bp/season_icon_xsmall",
+		"bannerImage": "rui/events/s16bp/season_banner",
+		"progressBadge": "settings/itemflav/gcard_badge/account/season16_bplevel.rpak",
+		"rewardsVideo": "media/battle_pass/s16bp/rewards",
+		"levelUpSound": "UI_Menu_BattlePass_LevelUp_Season16",
+		"multipleOwnershipTargets": [
+			],
+		"milestoneTierRepLevels": [
+				{
+					"tierRepLevels": 10
+				},
+				{
+					"tierRepLevels": 25
+				},
+				{
+					"tierRepLevels": 59
+				},
+				{
+					"tierRepLevels": 18
+				},
+				{
+					"tierRepLevels": 39
+				},
+				{
+					"tierRepLevels": 31
+				},
+				{
+					"tierRepLevels": 2
+				}
+			],
+		"milestoneBundleRepLevels": [
+				{
+					"bundleRepLevels": 41
+				},
+				{
+					"bundleRepLevels": 50
+				},
+				{
+					"bundleRepLevels": 110
+				},
+				{
+					"bundleRepLevels": 55
+				},
+				{
+					"bundleRepLevels": 71
+				},
+				{
+					"bundleRepLevels": 91
+				},
+				{
+					"bundleRepLevels": 80
+				}
+			],
+		"bulletTextStandard": [
+				{
+					"text": "#BP_S16_FEATURE_1"
+				},
+				{
+					"text": "#BP_S16_FEATURE_2"
+				},
+				{
+					"text": "#BP_S16_FEATURE_3"
+				},
+				{
+					"text": "#BP_S16_FEATURE_4"
+				},
+				{
+					"text": "#BP_S16_FEATURE_5"
+				},
+				{
+					"text": "#BP_S16_FEATURE_6"
+				},
+				{
+					"text": "#BP_S16_FEATURE_7"
+				},
+				{
+					"text": "#BP_S16_FEATURE_8"
+				},
+				{
+					"text": "#BP_S16_FEATURE_9"
+				},
+				{
+					"text": "#BP_S16_FEATURE_10"
+				},
+				{
+					"text": "#BP_S16_FEATURE_11"
+				},
+				{
+					"text": "#BP_S16_FEATURE_12"
+				},
+				{
+					"text": "#BP_S16_FEATURE_13"
+				},
+				{
+					"text": "#BP_S16_FEATURE_16"
+				},
+				{
+					"text": "#BP_S16_FEATURE_16"
+				},
+				{
+					"text": "#BP_S16_FEATURE_16"
+				}
+			],
+		"bulletTextRestricted": [
+				{
+					"text": "#BP_S16_FEATURE_RESTRICTED"
+				},
+				{
+					"text": "#BP_S16_FEATURE_5"
+				},
+				{
+					"text": "#BP_S16_FEATURE_6"
+				},
+				{
+					"text": "#BP_S16_FEATURE_7"
+				},
+				{
+					"text": "#BP_S16_FEATURE_8"
+				},
+				{
+					"text": "#BP_S16_FEATURE_9"
+				},
+				{
+					"text": "#BP_S16_FEATURE_10"
+				},
+				{
+					"text": "#BP_S16_FEATURE_11"
+				},
+				{
+					"text": "#BP_S16_FEATURE_12"
+				},
+				{
+					"text": "#BP_S16_FEATURE_13"
+				},
+				{
+					"text": "#BP_S16_FEATURE_16"
+				},
+				{
+					"text": "#BP_S16_FEATURE_16"
+				},
+				{
+					"text": "#BP_S16_FEATURE_16"
+				}
+			],
+		"dailyChallenges": [
+				{
+					"flavor": "settings/itemflav/challenge/stars_daily_2_games_played_any.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/challenge/stars_daily_2_games_played_any_backup.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/challenge/stars_daily_games_played_ash_anymode.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/challenge/stars_daily_games_played_bangalore_anymode.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/challenge/stars_daily_games_played_bloodhound_anymode.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/challenge/stars_daily_games_played_caustic_anymode.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/challenge/stars_daily_games_played_crypto_anymode.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/challenge/stars_daily_games_played_fuse_anymode.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/challenge/stars_daily_games_played_gibraltar_anymode.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/challenge/stars_daily_games_played_horizon_anymode.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/challenge/stars_daily_games_played_lifeline_anymode.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/challenge/stars_daily_games_played_loba_anymode.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/challenge/stars_daily_games_played_madmaggie_anymode.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/challenge/stars_daily_games_played_mirage_anymode.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/challenge/stars_daily_games_played_newcastle_anymode.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/challenge/stars_daily_games_played_octane_anymode.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/challenge/stars_daily_games_played_pathfinder_anymode.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/challenge/stars_daily_games_played_rampart_anymode.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/challenge/stars_daily_games_played_revenant_anymode.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/challenge/stars_daily_games_played_seer_anymode.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/challenge/stars_daily_games_played_valkyrie_anymode.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/challenge/s15/stars_daily_games_played_vantage_anymode.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/challenge/stars_daily_games_played_wattson_anymode.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/challenge/stars_daily_games_played_wraith_anymode.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/challenge/stars_daily_games_played_catalyst_anymode.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/challenge/stars_daily_weaponcat_ar_damage_any_mode.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/challenge/stars_daily_weaponcat_smg_damage_any_mode.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/challenge/stars_daily_weaponcat_lmg_damage_any_mode.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/challenge/stars_daily_weaponcat_shotgun_damage_any_mode.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/challenge/stars_daily_weaponcat_sniper_damage_any_mode.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/challenge/stars_daily_weaponcat_marksman_damage_any_mode.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/challenge/stars_daily_weaponcat_ordnance_damage_any_mode.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/challenge/stars_daily_weaponcat_pistol_damage_any_mode.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/challenge/stars_daily_damage_done_any_mode.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/challenge/stars_daily_health_restored_any.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/challenge/stars_daily_opponents_outlived.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/challenge/stars_daily_ring_closings_any.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/challenge/stars_daily_single_game_damage_done.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/challenge/stars_daily_shields_restored_br.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/challenge/daily_loot_bins_opened.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/challenge/stars_daily_headshots_any_mode.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/challenge/stars_daily_red_tier_weapon_kills.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/challenge/stars_daily_damage_done_very_hard.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/challenge/stars_daily_knockdowns_very_hard.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/challenge/daily_executions.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/challenge/stars_daily_kills_or_assists.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/challenge/stars_daily_care_packages_anymode.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/challenge/stars_daily_damage_done_very_hard_any_mode.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/challenge/stars_daily_knockdowns_very_hard_anymode.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/challenge/stars_daily_crafting_harvester_used_any_mode.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/challenge/stars_daily_crafting_materials.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/challenge/stars_daily_br_top_10.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/challenge/stars_daily_kills_or_assists_any_mode.rpak"
+				}
+			],
+		"weeklyRecurringChallenges": [
+				{
+					"flavor": "settings/itemflav/challenge/season_16_recurring_star.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/challenge/season_16_recurring_grindlord.rpak"
+				}
+			],
+		"weeklyChallenges": [
+				{
+					"weekNumber": 1,
+					"challenges": [
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w01_01.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w01_02.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w01_03.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w01_04.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w01_05.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w01_06.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w01_07.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w01_08.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w01_09.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w01_10.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w01_11.rpak"
+							}
+						]
+				},
+				{
+					"weekNumber": 2,
+					"challenges": [
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w02_01.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w02_02.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w02_03.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w02_04.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w02_05.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w02_06.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w02_07.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w02_08.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w02_09.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w02_10.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w02_11.rpak"
+							}
+						]
+				},
+				{
+					"weekNumber": 3,
+					"challenges": [
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w03_01.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w03_02.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w03_03.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w03_04.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w03_05.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w03_06.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w03_07.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w03_08.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w03_09.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w03_10.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w03_11.rpak"
+							}
+						]
+				},
+				{
+					"weekNumber": 4,
+					"challenges": [
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w04_01.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w04_02.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w04_03.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w04_04.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w04_05.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w04_06.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w04_07.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w04_08.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w04_09.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w04_10.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w04_11.rpak"
+							}
+						]
+				},
+				{
+					"weekNumber": 5,
+					"challenges": [
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w05_01.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w05_02.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w05_03.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w05_04.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w05_05.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w05_06.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w05_07.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w05_08.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w05_09.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w05_10.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w05_11.rpak"
+							}
+						]
+				},
+				{
+					"weekNumber": 6,
+					"challenges": [
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w06_01.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w06_02.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w06_03.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w06_04.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w06_05.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w06_06.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w06_07.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w06_08.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w06_09.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w06_10.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w06_11.rpak"
+							}
+						]
+				},
+				{
+					"weekNumber": 7,
+					"challenges": [
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w07_01.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w07_02.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w07_03.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w07_04.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w07_05.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w07_06.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w07_07.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w07_08.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w07_09.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w07_10.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w07_11.rpak"
+							}
+						]
+				},
+				{
+					"weekNumber": 8,
+					"challenges": [
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w08_01.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w08_02.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w08_03.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w08_04.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w08_05.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w08_06.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w08_07.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w08_08.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w08_09.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w08_10.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w08_11.rpak"
+							}
+						]
+				},
+				{
+					"weekNumber": 9,
+					"challenges": [
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w09_01.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w09_02.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w09_03.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w09_04.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w09_05.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w09_06.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w09_07.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w09_08.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w09_09.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w09_10.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w09_11.rpak"
+							}
+						]
+				},
+				{
+					"weekNumber": 10,
+					"challenges": [
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w10_01.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w10_02.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w10_03.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w10_04.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w10_05.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w10_06.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w10_07.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w10_08.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w10_09.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w10_10.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w10_11.rpak"
+							}
+						]
+				},
+				{
+					"weekNumber": 11,
+					"challenges": [
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w11_01.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w11_02.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w11_03.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w11_04.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w11_05.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w11_06.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w11_07.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w11_08.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w11_09.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w11_10.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w11_11.rpak"
+							}
+						]
+				},
+				{
+					"weekNumber": 12,
+					"challenges": [
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w12_01.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w12_02.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w12_03.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w12_04.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w12_05.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w12_06.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w12_07.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w12_08.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w12_09.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w12_10.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/challenge/s16/weekly_s16challenge_w12_11.rpak"
+							}
+						]
+				}
+			],
+		"rewardPopupLevels": [
+				{
+					"popupLevel": 25
+				},
+				{
+					"popupLevel": 50
+				},
+				{
+					"popupLevel": 80
+				},
+				{
+					"popupLevel": 100
+				},
+				{
+					"popupLevel": 110
+				}
+			],
+		"headerColor": "<254.000000,196.000000,196.000000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"useStarsToProgress": true,
+		"weeklyRecurringResetsEveryWeek": false
+	}
+}

@@ -1,0 +1,8 @@
+{
+	"extraDataSizeIndex": 1,
+	"subLayouts": [
+		"settings_layout/settings_itemtype_artifact_component_blade_layout/multipleOwnershipTargets.csv",
+		"settings_layout/settings_itemtype_artifact_component_blade_layout/fxControlPoints.csv",
+		"settings_layout/settings_itemtype_artifact_component_blade_layout/lobbyFxControlPoints.csv"
+	]
+}

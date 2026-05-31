@@ -1,0 +1,68 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_challenge_layout.rpak",
+	"uniqueId": 410432514,
+	"settings": {
+		"assetName": "settings/itemflav/challenge/quads/complete_all_challenges.rpak",
+		"itemType": "challenge",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00410432514",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"typeOfMetaChallenge": "CHALLENGE_SET",
+		"challengeSet": "",
+		"challengeCollection": "",
+		"rewardCampaign": "",
+		"timeSpan": "EVENT_SPECIAL_2",
+		"autogenSlot": "SLOT_00",
+		"autogenScriptHook": "ON_PLAYER_WIN",
+		"difficulty": "MEDIUM",
+		"mode": "NON_MODE",
+		"modeAlt": "BATTLE_ROYALE",
+		"grxRewardSequenceRef": "",
+		"weekNumber": 0,
+		"tiers": [
+				{
+					"description": "#QUAD_COMPLETE_ALL_CHALLENGES",
+					"statRef": "stats.gamemode_quad_complete_all_challenges",
+					"descriptionAlt": "",
+					"statRefAlt": "",
+					"progressAccrual": "startAtZero",
+					"matchRequirement": "none",
+					"goalVal": 7,
+					"goalValAlt": 0,
+					"characters": [
+						],
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/gcard_badge/account/quadchallenge_reward05.rpak",
+								"quantity": 1
+							}
+						],
+					"convertSecondsToMinutesDisplay": false
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isMetaChallenge": false,
+		"autoGenerateStatBacker": false,
+		"isBoostEnabled": false,
+		"isEitherOr": false,
+		"isRerollEnabled": true,
+		"isPremium": false,
+		"isGoldenScheme": false,
+		"maxOneTierPerMatch": false,
+		"lastTierIsInfinite": false,
+		"pinnedLocal": true,
+		"excludeFromPostMatchSummary": false,
+		"hasGRXRewardSequenceForPDEF": false,
+		"grxRewardSequenceAllowsSkipAhead": false
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/ballistic/lgnd_v22_shdwmerc.rpak",
+		"roots": [
+				{
+					"asset": "mdl/techart/mshop/characters/legends/ballistic/ballistic_v22_shdwmerc_w.rmdl",
+					"featureFlag": ""
+				},
+				{
+					"asset": "mdl/techart/mshop/characters/legends/ballistic/ballistic_v22_shdwmerc_v.rmdl",
+					"featureFlag": ""
+				}
+			]
+	}
+}

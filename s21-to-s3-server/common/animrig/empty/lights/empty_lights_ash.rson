@@ -1,0 +1,34 @@
+seqs:
+[
+	animseq\humans\class\char_select_light_default.rseq
+	animseq\humans\class\light\pilot_light_wraith\char_select_light_custom_ash.rseq
+	animseq\humans\class\light\pilot_light_wraith\char_select_light_custom_ash_origin.rseq
+	animseq\humans\class\medium\pilot_medium_ash\ash_gladcard_animated_armblade_idle_light.rseq
+	animseq\humans\class\medium\pilot_medium_ash\ash_gladcard_animated_armblade_light.rseq
+	animseq\humans\class\medium\pilot_medium_ash\ash_gladcard_animated_bullets_idle_light.rseq
+	animseq\humans\class\medium\pilot_medium_ash\ash_gladcard_animated_bullets_light.rseq
+	animseq\humans\class\medium\pilot_medium_ash\ash_gladcard_animated_heirloom_idle_light.rseq
+	animseq\humans\class\medium\pilot_medium_ash\ash_gladcard_animated_heirloom_light.rseq
+	animseq\humans\class\medium\pilot_medium_ash\ash_gladcard_animated_hoodie_idle_light.rseq
+	animseq\humans\class\medium\pilot_medium_ash\ash_gladcard_animated_hoodie_light.rseq
+	animseq\humans\class\medium\pilot_medium_ash\ash_gladcard_animated_kicks_idle_light.rseq
+	animseq\humans\class\medium\pilot_medium_ash\ash_gladcard_animated_kicks_light.rseq
+	animseq\humans\class\medium\pilot_medium_ash\ash_gladcard_animated_ratcrawl_idle_light.rseq
+	animseq\humans\class\medium\pilot_medium_ash\ash_gladcard_animated_ratcrawl_light.rseq
+	animseq\humans\class\medium\pilot_medium_ash\ash_gladcard_animated_tripleslice_idle_light.rseq
+	animseq\humans\class\medium\pilot_medium_ash\ash_gladcard_animated_tripleslice_light.rseq
+	animseq\humans\class\medium\pilot_medium_ash\ash_gladcard_animated_tropics_idle_light.rseq
+	animseq\humans\class\medium\pilot_medium_ash\ash_gladcard_animated_tropics_light.rseq
+	animseq\humans\class\medium\pilot_medium_ash\ash_gladcard_animated_twirling_idle_light.rseq
+	animseq\humans\class\medium\pilot_medium_ash\ash_gladcard_animated_twirling_light.rseq
+	animseq\humans\class\medium\pilot_medium_ash\ash_gladcard_static_common_light.rseq
+	animseq\humans\class\medium\pilot_medium_ash\ash_gladcard_static_faceoff_light.rseq
+	animseq\humans\class\medium\pilot_medium_ash\ash_gladcard_static_handbehindback_light.rseq
+	animseq\humans\class\medium\pilot_medium_ash\ash_gladcard_static_kickdrop_light.rseq
+	animseq\humans\class\medium\pilot_medium_ash\ash_gladcard_static_killinit_light.rseq
+	animseq\humans\class\medium\pilot_medium_ash\ash_gladcard_static_labrat_light.rseq
+	animseq\humans\class\medium\pilot_medium_ash\ash_gladcard_static_meditation_light.rseq
+	animseq\humans\class\medium\pilot_medium_ash\ash_gladcard_static_perfectbalance_light.rseq
+	animseq\humans\class\medium\pilot_medium_ash\ash_gladcard_static_preslice_light.rseq
+	animseq\humans\class\medium\pilot_medium_ash\ash_gladcard_static_swordgaze_light.rseq
+]

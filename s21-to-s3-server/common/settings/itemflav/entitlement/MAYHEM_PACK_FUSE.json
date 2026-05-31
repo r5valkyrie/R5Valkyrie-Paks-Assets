@@ -1,0 +1,44 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_entitlement_layout.rpak",
+	"uniqueId": 1376378146,
+	"settings": {
+		"assetName": "settings/itemflav/entitlement/MAYHEM_PACK_FUSE.rpak",
+		"itemType": "entitlement",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01376378146",
+		"__featureFlag": "",
+		"devDescription": "Fuse starter pack",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"entitlementType": "firstparty",
+		"twitchRef": "",
+		"twitchRef": "",
+		"enum": "MAYHEM_PACK_FUSE",
+		"pc": "APEX_MAYHEM_CONTENT",
+		"ps4": "FSEPAC0000000000",
+		"xb1": "MAYHEM_PACK_FUSE",
+		"switch": "apexlegs8pack",
+		"pc_offer": "Origin.OFR.50.0004427",
+		"steam_offer": "Steam.OFR.50.0000060",
+		"xb1_offer": "34424e39-374c-3033-c048-3757384a0b00",
+		"menuTitleText": "#PROMO_FUSE_STARTER_PACK_HEADER",
+		"menuDescText": "#PROMO_FUSE_STARTER_PACK_TEXT",
+		"menuImageName": "s08_starter_fuse",
+		"menuPersistenceVarName": "",
+		"list": [
+				{
+					"flavor": "settings/itemflav/character_skin/fuse/starterpack_rare_01.rpak",
+					"quantity": 1
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isMenuEnabled": true
+	}
+}

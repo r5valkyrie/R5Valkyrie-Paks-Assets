@@ -1,0 +1,5 @@
+seqs:
+[
+	animseq\props\switch_01\switch_01\switch_gladcard_animated_activate.rseq
+	animseq\props\switch_01\switch_01\switch_gladcard_animated_activate_idle.rseq
+]

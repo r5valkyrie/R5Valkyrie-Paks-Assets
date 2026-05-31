@@ -1,0 +1,9 @@
+rigs:
+[
+]
+seqs:
+[
+	animseq\creatures\props\spider\spider_sledgehammer_draw_skull.rseq
+	animseq\creatures\props\spider\spider_sledgehammer_inspect_skullSpidey.rseq
+	animseq\creatures\props\spider\spider_sledgehammer_inspect_spidey.rseq
+]

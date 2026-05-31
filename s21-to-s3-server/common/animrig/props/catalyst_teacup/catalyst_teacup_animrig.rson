@@ -1,0 +1,9 @@
+seqs:
+[
+	animseq\props\catalyst_teacup\catalyst_teacup_animrig\teacup_catalyst_gladcard_static_teatime.rseq
+	animseq\props\catalyst_teacup\prop_ballistic_gladcard_static_tea.rseq
+	animseq\props\catalyst_teacup\prop_ballistic_gladcards_animated_teatime.rseq
+	animseq\props\catalyst_teacup\prop_ballistic_gladcards_animated_teatime_idle.rseq
+	animseq\props\catalyst_teacup\prop_catalyst_freefall_teatime_cup.rseq
+	animseq\props\catalyst_teacup\prop_catalyst_teacup_loba_ground_emote_tea.rseq
+]

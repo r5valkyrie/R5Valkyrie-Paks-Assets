@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 399224368,
+	"settings": {
+		"assetName": "settings/itemflav/ability/upgrade_catalyst_ult_duration.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00399224368",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#UPGRADE_CATALYST_ULT_DURATION_NAME",
+		"localizationKey_NAME_SHORT": "#UPGRADE_TYPE_ULTIMATE",
+		"localizationKey_DESCRIPTION_LONG": "#UPGRADE_CATALYST_ULT_DURATION_LONG_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#UPGRADE_CATALYST_ULT_DURATION_SHORT_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/legend_upgrades/catalyst_noshow_icon",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_ULT_UPGRADE_TWO",
+		"passiveWeaponMod": "upgrade_catalyst_ult_length",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

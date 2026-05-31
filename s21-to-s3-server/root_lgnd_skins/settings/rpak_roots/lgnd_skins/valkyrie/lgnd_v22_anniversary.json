@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/valkyrie/lgnd_v22_anniversary.rpak",
+		"roots": [
+				{
+					"asset": "mdl/techart/mshop/characters/legends/valkyrie/valkyrie_v22_anniversary_w.rmdl",
+					"featureFlag": ""
+				},
+				{
+					"asset": "mdl/techart/mshop/characters/legends/valkyrie/valkyrie_v22_anniversary_v.rmdl",
+					"featureFlag": ""
+				}
+			]
+	}
+}

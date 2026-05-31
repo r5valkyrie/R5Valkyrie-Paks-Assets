@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 663947688,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/octane/legendary_trampoline.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/octane.rpak",
+		"settingsAssetID": "SAID00663947688",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#CHAR_EMOTE_033",
+		"localizationKey_NAME_SHORT": "#CHAR_EMOTE_033",
+		"localizationKey_DESCRIPTION_LONG": "#CHAR_EMOTE_033",
+		"localizationKey_DESCRIPTION_SHORT": "#CHAR_EMOTE_033",
+		"quality": "LEGENDARY",
+		"icon": "rui/menu/buttons/character_emotes/octane/trampoline",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_octane_legendary_trampoline",
+		"ownershipTarget": "",
+		"anim3p": "octane_ground_emote_trampoline",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "octane_ground_emote_trampoline_loop",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 1373204107,
+	"settings": {
+		"assetName": "settings/itemflav/ability/upgrade_caustic_gas_health_regen.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01373204107",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#UPGRADE_CAUSTIC_PAS_GAS_HEALTH_REGEN_NAME",
+		"localizationKey_NAME_SHORT": "#UPGRADE_TYPE_PASSIVE",
+		"localizationKey_DESCRIPTION_LONG": "#UPGRADE_CAUSTIC_PAS_GAS_HEALTH_REGEN_LONG_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#UPGRADE_CAUSTIC_PAS_GAS_HEALTH_REGEN_SHORT_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/legend_upgrades/caustic_breatheitin_icon",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_GAS_HP_REGEN",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

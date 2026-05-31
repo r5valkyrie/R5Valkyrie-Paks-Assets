@@ -1,0 +1,3 @@
+"fieldName","dataType","layoutIndex","helpText"
+"slot","int","0","The sticker slot number for this override. Index starts at 1."
+"scale","float","0","The scale of the sticker when placed on the shield cell model at this attachment point."

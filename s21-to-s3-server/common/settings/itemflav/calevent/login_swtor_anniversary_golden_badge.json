@@ -1,0 +1,34 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_calevent_login_layout.rpak",
+	"uniqueId": 620456768,
+	"settings": {
+		"assetName": "settings/itemflav/calevent/login_swtor_anniversary_golden_badge.rpak",
+		"itemType": "calevent_login",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00620456768",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#SWTOR_ANNIVERSARY_CHARM_GIFT",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "#GIFT_SWTOR_ANNIVERSARY",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"revealUnixTime": "",
+		"hideUnixTime": "",
+		"defaultStartTime": "2020-12-07 10:00:00 -08:00",
+		"defaultFinishTime": "2022-02-08 24:00:00 -08:00",
+		"ceremonyImage": "",
+		"ceremonyTitle": "#SWTOR_ANNIVERSARY_CHARM_GIFT",
+		"ceremonyDesc": "#GIFT_SWTOR_ANNIVERSARY",
+		"loginRewards": [
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_swtor_event_v22_anniversary_golden_badge01.rpak"
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

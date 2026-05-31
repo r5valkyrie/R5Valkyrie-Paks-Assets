@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 1084042748,
+	"settings": {
+		"assetName": "settings/itemflav/ability/upgrade_alter_ult_cooldown.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01084042748",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#UPGRADE_ALTER_ULT_COODOWN_NAME",
+		"localizationKey_NAME_SHORT": "#UPGRADE_TYPE_ULTIMATE",
+		"localizationKey_DESCRIPTION_LONG": "#UPGRADE_ALTER_ULT_COODOWN_LONG_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#UPGRADE_ALTER_ULT_COODOWN_SHORT_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/legend_upgrades/alter_ult_cooldown_icon",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_MOD_UPGRADE_ONLY",
+		"passiveWeaponMod": "upgrade_core_ult_cooldown_reduction",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

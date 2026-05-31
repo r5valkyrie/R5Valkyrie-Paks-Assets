@@ -1,0 +1,23 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_CreateProp_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/prop_octane_heirloom.rpak",
+		"devDescription": "",
+		"type": "CreateProp",
+		"selectModelFrom": "HARD_CODED",
+		"modelName": "mdl/Weapons/octane_knife/w_octane_knife.rmdl",
+		"modelScriptKey": "",
+		"attachPoint": "REF",
+		"animSequence": "animseq/weapons/octane_knife/w_knife_octane/mp_heirloom_octane_knife_execution.rseq",
+		"scriptCallbackKey": "match_melee_skin",
+		"scale": 1.000000,
+		"additionalAnims": [
+				{
+					"animSequence": "animseq/weapons/octane_knife/w_knife_octane/mp_heirloom_octane_knife_execution_rt01.rseq"
+				}
+			],
+		"propBodygroups": [
+			],
+		"syncCycle": true
+	}
+}

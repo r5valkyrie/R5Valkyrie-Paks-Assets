@@ -1,0 +1,7 @@
+"fieldName","dataType","layoutIndex","helpText"
+"assetName","string","0",""
+"devDescription","string","0",""
+"type","string","0",""
+"conVarName","string","0","Attachment for particle system to play from. Blank means create at entity's origin."
+"startValue","float","0","The value to set the convar initially for the window"
+"endValue","float","0","The value to set the convar at the end of the window"

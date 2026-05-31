@@ -1,0 +1,8 @@
+seqs:
+[
+	animseq\props\lifeline_op_wings\lifeline_op_wings\propWings_lifelineOP_freefall_emote_wingsuitGlide.rseq
+	animseq\props\lifeline_op_wings\lifeline_op_wings\propWings_lifelineOP_menu_readyUp.rseq
+	animseq\props\lifeline_op_wings\lifeline_op_wings\propWings_lifelineOP_menu_readyUp_idle.rseq
+	animseq\props\lifeline_op_wings\lifeline_op_wings\propWings_lifelineOP_menu_select.rseq
+	animseq\props\lifeline_op_wings\lifeline_op_wings\propWings_lifelineOP_menu_select_idle.rseq
+]

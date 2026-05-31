@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/valkyrie/lgnd_v21_northstar_rt01.rpak",
+		"roots": [
+				{
+					"asset": "mdl/Humans/class/medium/valkyrie_v20_northstar_w.rmdl",
+					"featureFlag": ""
+				},
+				{
+					"asset": "mdl/Weapons/arms/valkyrie_v21_northstar_v.rmdl",
+					"featureFlag": ""
+				}
+			]
+	}
+}

@@ -1,0 +1,6 @@
+seqs:
+[
+	animseq\props\alter_teleporter\prop_alter_teleporter_activate.rseq
+	animseq\props\alter_teleporter\prop_alter_teleporter_deploy.rseq
+	animseq\props\alter_teleporter\prop_alter_teleporter_idle.rseq
+]

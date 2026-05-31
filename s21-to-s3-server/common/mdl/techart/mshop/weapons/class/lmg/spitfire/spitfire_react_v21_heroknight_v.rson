@@ -1,0 +1,8 @@
+rigs:
+[
+	animrig\weapons\lmg_hemlok\ptpov_lmg_hemlok.rrig
+	animrig\weapons\lmg_hemlok\ptpov_lmg_hemlok_reactive.rrig
+]
+seqs:
+[
+]

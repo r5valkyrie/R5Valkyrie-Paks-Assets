@@ -1,0 +1,68 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_calevent_apex_cup_container_layout.rpak",
+	"uniqueId": 319894873,
+	"settings": {
+		"assetName": "settings/itemflav/apex_cup/s20ac01/s20ac01b.rpak",
+		"itemType": "calevent_apex_cup_container",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00319894873",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#S20AC01B_URBAN_ASSAULT_TITLE",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "rui/menu/apex_rumble/ac_tiles_solo_s20_e01",
+		"tagIcon": "rui/menu/apex_rumble/ac_tiles_solo_s20_e01_bloodhound",
+		"grxMode": "NONE",
+		"revealUnixTime": "2024-05-02 10:00:00 -07:00",
+		"hideUnixTime": "2024-05-08 10:00:00 -07:00",
+		"defaultStartTime": "2024-05-03 10:00:00 -07:00",
+		"defaultFinishTime": "2024-05-06 10:00:00 -07:00",
+		"gameMode": "strikeout",
+		"gracePeriodTime": "2024-05-06 11:00:00 -07:00",
+		"rankedRumbleBadge": "",
+		"rankedPeriod": "",
+		"reRollToken": "settings/itemflav/apex_cup/s20ac01/s20ac01b_cup_reroll_token.rpak",
+		"placementPoints": "datatable/apex_cup/cup1_PlacementPointsBreakdown.rpak",
+		"rewardSeqName": "rewardseq_s20ac01b_tier_rewards",
+		"squadSize": 1,
+		"numMatches": 5,
+		"maxReRollCount": 10,
+		"statPoints": [
+				{
+					"statRef": "stats.modes[threestrikes].kills",
+					"pointsRate": 7.500000,
+					"statLimit": 0,
+					"hasStatLimit": false
+				},
+				{
+					"statRef": "stats.modes[threestrikes].assists",
+					"pointsRate": 7.000000,
+					"statLimit": 0,
+					"hasStatLimit": false
+				},
+				{
+					"statRef": "stats.modes[threestrikes].damage_done",
+					"pointsRate": 0.035000,
+					"statLimit": 0,
+					"hasStatLimit": false
+				}
+			],
+		"cups": [
+				{
+					"cupAsset": "settings/itemflav/apex_cup/s20ac01/s20ac01b_1.rpak"
+				},
+				{
+					"cupAsset": "settings/itemflav/apex_cup/s20ac01/s20ac01b_2.rpak"
+				},
+				{
+					"cupAsset": "settings/itemflav/apex_cup/s20ac01/s20ac01b_3.rpak"
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"is_ranked_rumble": false
+	}
+}

@@ -1,0 +1,36 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_emote_icon_layout.rpak",
+	"uniqueId": 1890270887,
+	"settings": {
+		"assetName": "settings/itemflav/emote_icon/bloodhound/epic_05.rpak",
+		"itemType": "emote_icon",
+		"parentItemFlavor": "settings/itemflav/character/bloodhound.rpak",
+		"settingsAssetID": "SAID01890270887",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#spray_epic_v20_bloodhound_05",
+		"localizationKey_NAME_SHORT": "#spray_epic_v20_bloodhound_05",
+		"localizationKey_DESCRIPTION_LONG": "#spray_epic_v20_bloodhound_05",
+		"localizationKey_DESCRIPTION_SHORT": "#spray_epic_v20_bloodhound_05",
+		"quality": "EPIC",
+		"icon": "rui/menu/holosprays/hspray_epic_v20_bloodhound_05",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "emote_icon_bloodhound_epic_05",
+		"ownershipTarget": "",
+		"anim3p": "",
+		"holoProjectorSprayModel": "mdl/props/holo_spray/hspray_epic_v20_bloodhound_05.rmdl",
+		"quickchatAliasSubName": "",
+		"customSkinMenuBlurb": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<0.875000,0.000000,0.000000>",
+		"holoProjectorEffectColor2": "<0.584000,0.584000,0.133000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": true,
+		"holoProjectorUseEffectColor2": true,
+		"isTheEmpty": false
+	}
+}

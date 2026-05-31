@@ -1,0 +1,51 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_melee_skin_layout.rpak",
+	"uniqueId": 947193899,
+	"settings": {
+		"assetName": "settings/itemflav/melee_skin/artifact_sword.rpak",
+		"itemType": "melee_skin",
+		"parentItemFlavor": "settings/itemflav/loot/melee_weapon/artifact_sword.rpak",
+		"settingsAssetID": "SAID00947193899",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#MELEE_SKIN_ARTIFACT_SWORD_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "#MELEE_SKIN_ARTIFACT_SWORD_NAME",
+		"quality": "MYTHIC",
+		"icon": "",
+		"tagIcon": "rui/events/s19me01/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "melee_skin_artifact_sword",
+		"ownershipTarget": "",
+		"worldModel": "mdl/Weapons/ragold_artifact/ragold_artifact_base_w.rmdl",
+		"viewModel": "mdl/Weapons/ragold_artifact/ragold_artifact_base_v.rmdl",
+		"skinName": "artifact",
+		"menuAnimSeq": "",
+		"koSound": "",
+		"storeImage": "",
+		"equipImage": "rui/menu/buttons/melee_skins/shared_artifact_sword",
+		"multipleOwnershipTargets": [
+			],
+		"artifactConfigIndex": 0,
+		"camoIndex": 0,
+		"menuMdlRot": "<60.000000,90.000000,0.000000>",
+		"battlePassScale": 0.750000,
+		"lootCeremonyScale": 0.700000,
+		"itemInspectScale": 0.500000,
+		"itemInspectOffset": "<-5.000000,0.000000,-5.000000>",
+		"skinAlias_vfxAliases": [
+			],
+		"skinAlias_sfxAliases": [
+			],
+		"skinAlias_bodyGroupAliases": [
+			],
+		"skinAlias_impactTableAliases": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isArtifactConfigPointer": false,
+		"shouldHideIfLocked": true
+	}
+}

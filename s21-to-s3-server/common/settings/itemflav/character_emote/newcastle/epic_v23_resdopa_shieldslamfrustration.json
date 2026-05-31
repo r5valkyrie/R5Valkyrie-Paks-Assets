@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 296102204,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/newcastle/epic_v23_resdopa_shieldslamfrustration.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/newcastle.rpak",
+		"settingsAssetID": "SAID00296102204",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#ground_emote_newcastle_shieldslamfrustration_NAME",
+		"localizationKey_NAME_SHORT": "#ground_emote_newcastle_shieldslamfrustration_NAME",
+		"localizationKey_DESCRIPTION_LONG": "#ground_emote_newcastle_shieldslamfrustration_NAME",
+		"localizationKey_DESCRIPTION_SHORT": "#ground_emote_newcastle_shieldslamfrustration_NAME",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/character_emotes/newcastle/frustrated",
+		"tagIcon": "rui/events/s18bp/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_newcastle_epic_v23_resdopa_shieldslamfrustration",
+		"ownershipTarget": "",
+		"anim3p": "newcastle_ground_emote_shieldslamfrustration",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

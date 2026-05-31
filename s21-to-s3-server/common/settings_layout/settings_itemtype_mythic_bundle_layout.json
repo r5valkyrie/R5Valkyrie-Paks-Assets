@@ -1,0 +1,7 @@
+{
+	"extraDataSizeIndex": 1,
+	"subLayouts": [
+		"settings_layout/settings_itemtype_mythic_bundle_layout/skinsByTier.csv",
+		"settings_layout/settings_itemtype_mythic_bundle_layout/storeImagesByTier.csv"
+	]
+}

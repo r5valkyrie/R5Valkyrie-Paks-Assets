@@ -1,0 +1,115 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_skydive_trail_layout.rpak",
+	"uniqueId": 1205077933,
+	"settings": {
+		"assetName": "settings/itemflav/skydive_trail/lifeline_mythic.rpak",
+		"itemType": "skydive_trail",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01205077933",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#LIFELINE_MYTHIC_SKYDIVE_TRAIL",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "MYTHIC",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "OWNERSHIP_TARGET",
+		"grxMode": "OWNERSHIP_TARGET",
+		"grxRef": "",
+		"ownershipTarget": "settings/itemflav/character_skin/lifeline/mythic_v23_pilot_level01.rpak",
+		"DropSequenceLaunch1P": "Survival_Flight_Launch_MythicLifeline_1P",
+		"DropSequenceLaunch3P": "Survival_DropSequence_Launch_MythicLifeline_3P",
+		"DropSequenceTravel1P": "Survival_Flight_Travel_MythicLifeline_1P",
+		"DropSequenceTravel3P": "Survival_DropSequence_Travel_MythicLifeline_3P",
+		"DropSequenceLandStart1P": "Survival_DropSequence_Land_Start_1P",
+		"DropSequenceLandStart3P": "Survival_DropSequence_Land_Start_3P",
+		"DropSequenceLandStop1P": "Survival_DropSequence_Land_Stop_1P",
+		"DropSequenceLandStop3P": "Survival_DropSequence_Land_Stop_3P",
+		"InGameFlightLaunch1P": "Survival_Flight_Launch_MythicLifeline_1P",
+		"InGameFlightLaunch3P": "Survival_InGameFlight_Launch_MythicLifeline_3P",
+		"InGameFlightTravel1P": "Survival_Flight_Travel_MythicLifeline_1P",
+		"InGameFlightTravel3P": "Survival_InGameFlight_Travel_MythicLifeline_3P",
+		"InGameFlightLandStart1P": "Survival_InGameFlight_Land_Start_1P",
+		"InGameFlightLandStart3P": "Survival_InGameFlight_Land_Start_3P",
+		"InGameFlightLandStop1P": "Survival_InGameFlight_Land_Stop_1P",
+		"InGameFlightLandStop3P": "Survival_InGameFlight_Land_Stop_3P",
+		"DropSequenceCameraTransition1P": "Survival_DropSequence_CameraTransition_1P",
+		"video": "media/skydive_trails/skydive_trail_lifeline_mythic_violetswirl",
+		"multipleOwnershipTargets": [
+			],
+		"smokeColorFXPackage": [
+				{
+					"fxAsset": "P_skydive_prestige_ll_trail_far",
+					"attachName": "vent_center",
+					"controlPoint": "<0.000000,0.000000,0.000000>",
+					"useCustomControlPoint": false
+				},
+				{
+					"fxAsset": "P_skydive_prestige_ll_vc",
+					"attachName": "vent_center",
+					"controlPoint": "<0.000000,0.000000,0.000000>",
+					"useCustomControlPoint": false
+				}
+			],
+		"friendlyJumpJetFXPackage": [
+				{
+					"fxAsset": "P_skydive_prestige_ll_jumpjet",
+					"attachName": "vent_left",
+					"controlPoint": "<140.000000,0.000000,255.000000>",
+					"useCustomControlPoint": true
+				},
+				{
+					"fxAsset": "P_skydive_prestige_ll_jumpjet",
+					"attachName": "vent_right",
+					"controlPoint": "<140.000000,0.000000,255.000000>",
+					"useCustomControlPoint": true
+				},
+				{
+					"fxAsset": "P_skydive_prestige_ll_body",
+					"attachName": "vent_center",
+					"controlPoint": "<0.000000,0.000000,0.000000>",
+					"useCustomControlPoint": false
+				}
+			],
+		"enemyJumpJetFXPackage": [
+				{
+					"fxAsset": "P_skydive_prestige_ll_jet_enemy",
+					"attachName": "vent_left",
+					"controlPoint": "<140.000000,0.000000,255.000000>",
+					"useCustomControlPoint": true
+				},
+				{
+					"fxAsset": "P_skydive_prestige_ll_jet_enemy",
+					"attachName": "vent_right",
+					"controlPoint": "<140.000000,0.000000,255.000000>",
+					"useCustomControlPoint": true
+				},
+				{
+					"fxAsset": "P_skydive_prestige_ll_body",
+					"attachName": "vent_center",
+					"controlPoint": "<0.000000,0.000000,0.000000>",
+					"useCustomControlPoint": false
+				}
+			],
+		"jumpJetLandFXPackage": [
+				{
+					"fxAsset": "P_skydive_prestige_ll_jumpjet_land",
+					"attachName": "vent_left",
+					"controlPoint": "<140.000000,0.000000,255.000000>",
+					"useCustomControlPoint": true
+				},
+				{
+					"fxAsset": "P_skydive_prestige_ll_jumpjet_land",
+					"attachName": "vent_right",
+					"controlPoint": "<140.000000,0.000000,255.000000>",
+					"useCustomControlPoint": true
+				}
+			],
+		"props": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

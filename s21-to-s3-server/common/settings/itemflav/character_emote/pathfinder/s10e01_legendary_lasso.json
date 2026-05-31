@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 1313474259,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/pathfinder/s10e01_legendary_lasso.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/pathfinder.rpak",
+		"settingsAssetID": "SAID01313474259",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#CHAR_EMOTE_053",
+		"localizationKey_NAME_SHORT": "#CHAR_EMOTE_053",
+		"localizationKey_DESCRIPTION_LONG": "#CHAR_EMOTE_053",
+		"localizationKey_DESCRIPTION_SHORT": "#CHAR_EMOTE_053",
+		"quality": "LEGENDARY",
+		"icon": "rui/menu/buttons/character_emotes/pathfinder/lasso",
+		"tagIcon": "rui/events/s10e01/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_pathfinder_s10e01_legendary_lasso",
+		"ownershipTarget": "",
+		"anim3p": "pathfinder_ground_emote_lasso",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

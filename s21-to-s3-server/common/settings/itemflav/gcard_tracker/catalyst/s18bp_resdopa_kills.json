@@ -1,0 +1,33 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_stat_tracker_layout.rpak",
+	"uniqueId": 1250307769,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_tracker/catalyst/s18bp_resdopa_kills.rpak",
+		"itemType": "gladiator_card_stat_tracker",
+		"parentItemFlavor": "settings/itemflav/character/catalyst.rpak",
+		"settingsAssetID": "SAID01250307769",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#gcard_tracker_catalyst_s18bp_resdopa_kills_NAME",
+		"localizationKey_NAME_SHORT": "#TRACKER_S18BP_RESDOPA_KILLS",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "RARE",
+		"icon": "",
+		"tagIcon": "rui/events/s18bp/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "gcard_tracker_catalyst_s18bp_resdopa_kills",
+		"ownershipTarget": "",
+		"statRef": "stats.seasons[SAID00134750981].characters[%char%].kills",
+		"valueNumberFormat": "INTEGER",
+		"valueSuffix": "",
+		"backgroundImage": "rui/gladiator_cards/trackers/event/s18bp/s18bp_resdopa_catalyst",
+		"multipleOwnershipTargets": [
+			],
+		"color0": "<1.000000,0.310000,0.169000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false
+	}
+}

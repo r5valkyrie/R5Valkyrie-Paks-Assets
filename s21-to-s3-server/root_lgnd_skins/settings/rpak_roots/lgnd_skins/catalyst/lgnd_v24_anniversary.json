@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/catalyst/lgnd_v24_anniversary.rpak",
+		"roots": [
+				{
+					"asset": "mdl/techart/mshop/characters/legends/catalyst/catalyst_v24_anniversary_w.rmdl",
+					"featureFlag": "HAS_20_0_RELEASE"
+				},
+				{
+					"asset": "mdl/techart/mshop/characters/legends/catalyst/catalyst_v24_anniversary_v.rmdl",
+					"featureFlag": "HAS_20_0_RELEASE"
+				}
+			]
+	}
+}

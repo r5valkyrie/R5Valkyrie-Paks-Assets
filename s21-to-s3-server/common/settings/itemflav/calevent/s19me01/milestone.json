@@ -1,0 +1,846 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_calevent_milestone_layout.rpak",
+	"uniqueId": 181178786,
+	"settings": {
+		"assetName": "settings/itemflav/calevent/s19me01/milestone.rpak",
+		"itemType": "calevent_milestone",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00181178786",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#S19ME01_TITLE_LONG",
+		"localizationKey_NAME_SHORT": "#S19ME01_TITLE_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"revealUnixTime": "",
+		"hideUnixTime": "",
+		"defaultStartTime": "2024-01-09 10:00:00 -08:00",
+		"defaultFinishTime": "2024-01-30 10:00:00 -08:00",
+		"eventIcon": "",
+		"milestoneEventDescription": "",
+		"milestoneEventDescriptionRestricted": "",
+		"milestoneEventKeyArt": "",
+		"mainPackFlav": "settings/itemflav/pack/cosmetic_event_s19me01.rpak",
+		"guaranteedPackFlav": "settings/itemflav/pack/cosmetic_event_s19me01_li.rpak",
+		"mainPackShortPluralName": "#S19ME01_PACKS_SHORT_PLURAL",
+		"mainPackImage": "rui/events/s19me01/event_pack_icon",
+		"chaseItemButtonImage": "rui/events/s19me01/chase_item_image",
+		"chaseItemUnlockDesc": "#S19ME01_CHASE_ITEM_UNLOCK_DESC",
+		"chaseItemUnlockDescRestrict": "#S19ME01_CHASE_ITEM_UNLOCK_DESC_RESTRICTED",
+		"frontGRXOfferLocation": "s19me01_front",
+		"restrictedGRXOfferLocation": "s19me01_front_restrict",
+		"storeEventSectionMainImage": "",
+		"storeEventSectionMainText": "",
+		"storeEventSectionSubText": "",
+		"eventMilestonePackRatesHeader": "",
+		"milestonePackOriginalPrice": "",
+		"milestonePackCraftingPrice": "",
+		"milestoneGuaranteedPackText": "",
+		"packInfoModalHeaderText": "",
+		"packInfoDetailsText1": "",
+		"packInfoDetailsText2": "",
+		"packInfoDetailsText3": "",
+		"packInfoDetailsText4": "",
+		"eventItemRatesHeader": "",
+		"eventItemRatesLine1": "",
+		"eventItemRatesLine2": "",
+		"eventItemRatesLine3": "",
+		"standardItemRatesHeader": "",
+		"standardItemRatesLine1": "",
+		"milestoneCollectionBoxBgImage": "rui/events/s19me01/collection_grid_bg",
+		"milestoneCollectionBoxBlurImage": "",
+		"milestoneTrackerBoxBgImage": "rui/events/s19me01/milestone_info_panel_bg",
+		"milestoneTrackerBlurImage": "",
+		"milestoneInfoBoxBgImage": "",
+		"milestoneInfoBoxBlurImage": "",
+		"titleHeaderText": "",
+		"titleSubheaderText": "",
+		"titleMainIcon": "",
+		"titleBlurImage": "",
+		"titleBgImage": "",
+		"featuredItems": [
+				{
+					"featuredItem": "settings/itemflav/melee_skin/artifact_sword.rpak"
+				},
+				{
+					"featuredItem": "settings/itemflav/character_skin/crypto/icon_v23_ragold.rpak"
+				},
+				{
+					"featuredItem": "settings/itemflav/character_skin/wraith/icon_v23_ragold.rpak"
+				},
+				{
+					"featuredItem": "settings/itemflav/character_skin/horizon/icon_v23_ragold.rpak"
+				},
+				{
+					"featuredItem": "settings/itemflav/character_skin/valkyrie/icon_v23_ragold.rpak"
+				},
+				{
+					"featuredItem": "settings/itemflav/character_skin/wattson/icon_v23_ragold.rpak"
+				},
+				{
+					"featuredItem": "settings/itemflav/character_skin/newcastle/icon_v23_ragold.rpak"
+				}
+			],
+		"milestoneGroups": [
+				{
+					"reward": "settings/itemflav/emote_icon/ragold/epic_v23_ragold_10.rpak",
+					"milestoneRewardCustomImage": "",
+					"milestoneRewardCustomName": "",
+					"milestoneLevel": 5
+				},
+				{
+					"reward": "settings/itemflav/gcard_frame/shared/epic_v23_ragold07.rpak",
+					"milestoneRewardCustomImage": "",
+					"milestoneRewardCustomName": "",
+					"milestoneLevel": 10
+				},
+				{
+					"reward": "settings/itemflav/character_emote/shared/lgnd_v23_ragold.rpak",
+					"milestoneRewardCustomImage": "",
+					"milestoneRewardCustomName": "",
+					"milestoneLevel": 30
+				},
+				{
+					"reward": "settings/itemflav/artifact_components/deathbox_ragold.rpak",
+					"milestoneRewardCustomImage": "rui/menu/buttons/battlepass/icon_deathbox",
+					"milestoneRewardCustomName": "",
+					"milestoneLevel": 36
+				}
+			],
+		"restrictedMilestoneGroups": [
+				{
+					"reward": "settings/itemflav/emote_icon/ragold/epic_v23_ragold_10.rpak",
+					"milestoneRewardCustomImage": "",
+					"milestoneRewardCustomName": "",
+					"milestoneLevel": 5
+				},
+				{
+					"reward": "settings/itemflav/gcard_frame/shared/epic_v23_ragold07.rpak",
+					"milestoneRewardCustomImage": "",
+					"milestoneRewardCustomName": "",
+					"milestoneLevel": 10
+				},
+				{
+					"reward": "settings/itemflav/character_emote/shared/lgnd_v23_ragold.rpak",
+					"milestoneRewardCustomImage": "",
+					"milestoneRewardCustomName": "",
+					"milestoneLevel": 30
+				},
+				{
+					"reward": "settings/itemflav/artifact_components/deathbox_ragold.rpak",
+					"milestoneRewardCustomImage": "rui/menu/buttons/battlepass/icon_deathbox_artifact_combined",
+					"milestoneRewardCustomName": "#MILESTONE_DEATHBOX_AND_SWORD_REWARD",
+					"milestoneLevel": 36
+				},
+				{
+					"reward": "settings/itemflav/melee_skin/artifact_sword.rpak",
+					"milestoneRewardCustomImage": "",
+					"milestoneRewardCustomName": "",
+					"milestoneLevel": 36
+				}
+			],
+		"rewardGroups": [
+				{
+					"ref": "epic",
+					"quality": "EPIC",
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/gcard_frame/shared/epic_v23_ragold04.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/gcard_frame_shared_epic_v23_ragold04",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/gcard_frame/shared/epic_v23_ragold06.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/gcard_frame_shared_epic_v23_ragold06",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/gcard_frame/shared/epic_v23_ragold02.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/gcard_frame_shared_epic_v23_ragold02",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/gcard_frame/shared/epic_v23_ragold01.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/gcard_frame_shared_epic_v23_ragold01",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/gcard_frame/shared/epic_v23_ragold03.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/gcard_frame_shared_epic_v23_ragold03",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/gcard_frame/shared/epic_v23_ragold05.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/gcard_frame_shared_epic_v23_ragold05",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/emote_icon/ragold/epic_v23_ragold_04.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/emote_icon_epic_v23_ragold_04",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/emote_icon/ragold/epic_v23_ragold_03.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/emote_icon_epic_v23_ragold_03",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/emote_icon/ragold/epic_v23_ragold_06.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/emote_icon_epic_v23_ragold_06",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/emote_icon/ragold/epic_v23_ragold_01.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/emote_icon_epic_v23_ragold_01",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/emote_icon/ragold/epic_v23_ragold_05.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/emote_icon_epic_v23_ragold_05",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/emote_icon/ragold/epic_v23_ragold_02.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/emote_icon_epic_v23_ragold_02",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/weapon_skin/car/epicp_v23_ragold.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/weapon_skin_car_epicp_v23_ragold",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/reward_set_tracker/s19me01_epic_sticker_1.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/menu_s19me01_epic_sticker_1",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/reward_set_tracker/s19me01_epic_sticker_2.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/menu_s19me01_epic_sticker_2",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/reward_set_tracker/s19me01_epic_sticker_3.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/menu_s19me01_epic_sticker_3",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/reward_set_tracker/s19me01_epic_sticker_4.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/menu_s19me01_epic_sticker_4",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/reward_set_tracker/s19me01_epic_sticker_5.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/menu_s19me01_epic_sticker_5",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							}
+						]
+				},
+				{
+					"ref": "legendary",
+					"quality": "LEGENDARY",
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/weapon_skin/r97/lgnd_v23_ragold.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/weapon_skin_r97_lgnd_v23_ragold",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/weapon_skin/r301/lgnd_v23_ragold.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/weapon_skin_r301_lgnd_v23_ragold",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/weapon_skin/wingman/lgnd_v23_ragold.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/weapon_skin_wingman_lgnd_v23_ragold",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/weapon_skin/sentinel/lgnd_v23_ragold.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/weapon_skin_sentinel_lgnd_v23_ragold",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/weapon_skin/spitfire/lgnd_v23_ragold.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/weapon_skin_spitfire_lgnd_v23_ragold",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/weapon_skin/chargerifle/lgnd_v23_ragold.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/weapon_skin_chargerifle_lgnd_v23_ragold",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/weapon_skin/energy_ar/lgnd_v23_ragold.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/weapon_skin_energy_ar_lgnd_v23_ragold",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/weapon_skin/car/lgnd_v23_ragold.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/weapon_skin_car_lgnd_v23_ragold",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/weapon_skin/nemesis/lgnd_v23_ragold.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/weapon_skin_nemesis_lgnd_v23_ragold",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/weapon_skin/dmr/lgnd_v23_ragold.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/weapon_skin_dmr_lgnd_v23_ragold",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/reward_set_tracker/s19me01_lgnd_sticker_1.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/menu_s19me01_lgnd_sticker_1",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							}
+						]
+				},
+				{
+					"ref": "iconic",
+					"quality": "ICONIC",
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/character_skin/crypto/icon_v23_ragold.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/character_skin_crypto_icon_v23_ragold",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/character_skin/newcastle/icon_v23_ragold.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/character_skin_newcastle_icon_v23_ragold",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/character_skin/valkyrie/icon_v23_ragold.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/character_skin_valkyrie_icon_v23_ragold",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/character_skin/wattson/icon_v23_ragold.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/character_skin_wattson_icon_v23_ragold",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/character_skin/horizon/icon_v23_ragold.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/character_skin_horizon_icon_v23_ragold",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/character_skin/wraith/icon_v23_ragold.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/character_skin_wraith_icon_v23_ragold",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							}
+						]
+				},
+				{
+					"ref": "mythic",
+					"quality": "MYTHIC",
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/melee_skin/artifact_sword.rpak",
+								"milestoneItemCustomImage": "",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							}
+						]
+				}
+			],
+		"restrictedRewardGroups": [
+				{
+					"ref": "epic",
+					"quality": "EPIC",
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/gcard_frame/shared/epic_v23_ragold04.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/gcard_frame_shared_epic_v23_ragold04",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/gcard_frame/shared/epic_v23_ragold06.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/gcard_frame_shared_epic_v23_ragold06",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/gcard_frame/shared/epic_v23_ragold02.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/gcard_frame_shared_epic_v23_ragold02",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/gcard_frame/shared/epic_v23_ragold01.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/gcard_frame_shared_epic_v23_ragold01",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/gcard_frame/shared/epic_v23_ragold03.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/gcard_frame_shared_epic_v23_ragold03",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/gcard_frame/shared/epic_v23_ragold05.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/gcard_frame_shared_epic_v23_ragold05",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/emote_icon/ragold/epic_v23_ragold_04.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/emote_icon_epic_v23_ragold_04",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/emote_icon/ragold/epic_v23_ragold_03.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/emote_icon_epic_v23_ragold_03",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/emote_icon/ragold/epic_v23_ragold_06.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/emote_icon_epic_v23_ragold_06",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/emote_icon/ragold/epic_v23_ragold_01.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/emote_icon_epic_v23_ragold_01",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/emote_icon/ragold/epic_v23_ragold_05.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/emote_icon_epic_v23_ragold_05",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/emote_icon/ragold/epic_v23_ragold_02.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/emote_icon_epic_v23_ragold_02",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/weapon_skin/car/epicp_v23_ragold.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/weapon_skin_car_epicp_v23_ragold",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/reward_set_tracker/s19me01_epic_sticker_1.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/menu_s19me01_epic_sticker_1",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/reward_set_tracker/s19me01_epic_sticker_2.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/menu_s19me01_epic_sticker_2",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/reward_set_tracker/s19me01_epic_sticker_3.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/menu_s19me01_epic_sticker_3",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/reward_set_tracker/s19me01_epic_sticker_4.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/menu_s19me01_epic_sticker_4",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/reward_set_tracker/s19me01_epic_sticker_5.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/menu_s19me01_epic_sticker_5",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							}
+						]
+				},
+				{
+					"ref": "legendary",
+					"quality": "LEGENDARY",
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/weapon_skin/r97/lgnd_v23_ragold.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/weapon_skin_r97_lgnd_v23_ragold",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/weapon_skin/r301/lgnd_v23_ragold.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/weapon_skin_r301_lgnd_v23_ragold",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/weapon_skin/wingman/lgnd_v23_ragold.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/weapon_skin_wingman_lgnd_v23_ragold",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/weapon_skin/sentinel/lgnd_v23_ragold.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/weapon_skin_sentinel_lgnd_v23_ragold",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/weapon_skin/spitfire/lgnd_v23_ragold.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/weapon_skin_spitfire_lgnd_v23_ragold",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/weapon_skin/chargerifle/lgnd_v23_ragold.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/weapon_skin_chargerifle_lgnd_v23_ragold",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/weapon_skin/energy_ar/lgnd_v23_ragold.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/weapon_skin_energy_ar_lgnd_v23_ragold",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/weapon_skin/car/lgnd_v23_ragold.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/weapon_skin_car_lgnd_v23_ragold",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/weapon_skin/nemesis/lgnd_v23_ragold.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/weapon_skin_nemesis_lgnd_v23_ragold",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/weapon_skin/dmr/lgnd_v23_ragold.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/weapon_skin_dmr_lgnd_v23_ragold",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/reward_set_tracker/s19me01_lgnd_bpstars.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/menu_s19me01_lgnd_bpstars",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/reward_set_tracker/s19me01_lgnd_sticker_1.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/menu_s19me01_lgnd_sticker_1",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							}
+						]
+				},
+				{
+					"ref": "iconic",
+					"quality": "ICONIC",
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/character_skin/crypto/icon_v23_ragold.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/character_skin_crypto_icon_v23_ragold",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/character_skin/newcastle/icon_v23_ragold.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/character_skin_newcastle_icon_v23_ragold",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/character_skin/valkyrie/icon_v23_ragold.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/character_skin_valkyrie_icon_v23_ragold",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/character_skin/wattson/icon_v23_ragold.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/character_skin_wattson_icon_v23_ragold",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/character_skin/horizon/icon_v23_ragold.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/character_skin_horizon_icon_v23_ragold",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							},
+							{
+								"flavor": "settings/itemflav/character_skin/wraith/icon_v23_ragold.rpak",
+								"milestoneItemCustomImage": "rui/events/s19me01/character_skin_wraith_icon_v23_ragold",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							}
+						]
+				},
+				{
+					"ref": "mythic",
+					"quality": "MYTHIC",
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/melee_skin/artifact_sword.rpak",
+								"milestoneItemCustomImage": "",
+								"milestoneItemGridSizeOverrideRows": 0,
+								"milestoneItemGridSizeOverrideCols": 0,
+								"milestoneItemIsChaseItem": false,
+								"milestoneItemIsInItemPool": true
+							}
+						]
+				}
+			],
+		"eventMilestonePackRatesRows": [
+			],
+		"standardMilestonePackRatesRows": [
+			],
+		"multiMilestonePackRatesRows": [
+			],
+		"milestonePackPrices": [
+			],
+		"milestonePackLeftInfoText": [
+			],
+		"milestonePackRightInfoText": [
+			],
+		"titleCol": "<1.000000,1.000000,1.000000>",
+		"titleBackCol": "<0.110000,0.047000,0.039000>",
+		"fullscreenBgDarkeningOpacity": 0.500000,
+		"titleMilestoneCol": "<0.737000,0.737000,0.737000>",
+		"milestoneDisclaimerBoxCol": "<0.231000,0.106000,0.122000>",
+		"milestoneTrackerProgressBarCol": "<1.000000,1.000000,1.000000>",
+		"milestoneTrackerProgressBarBGCol": "<0.600000,0.600000,0.600000>",
+		"aboutTextStandard": [
+				{
+					"text": "#S19ME01_ABOUT_LINE_1"
+				},
+				{
+					"text": "#S19ME01_ABOUT_LINE_2"
+				},
+				{
+					"text": "#S19ME01_ABOUT_LINE_3"
+				},
+				{
+					"text": "#S19ME01_ABOUT_LINE_4"
+				},
+				{
+					"text": "#S19ME01_ABOUT_LINE_5"
+				},
+				{
+					"text": "#S19ME01_ABOUT_LINE_6"
+				},
+				{
+					"text": "#S19ME01_ABOUT_LINE_7"
+				}
+			],
+		"aboutTextRestricted": [
+				{
+					"text": "#S19ME01_ABOUT_RESTRICT_LINE_1"
+				},
+				{
+					"text": "#S19ME01_ABOUT_RESTRICT_LINE_2"
+				},
+				{
+					"text": "#S19ME01_ABOUT_RESTRICT_LINE_3"
+				}
+			],
+		"titleBgDarkening": 0.400000,
+		"titleHeaderColor": "<0.000000,0.000000,0.000000>",
+		"titleSubheaderColor": "<0.000000,0.000000,0.000000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isStoreOnlyMilestoneEvent": false,
+		"milestoneCollectionBoxUseBgBlur": false,
+		"milestoneTrackerUseBgBlur": false,
+		"milestoneInfoBoxUseBgBlur": false,
+		"titleUseBgBlur": false
+	}
+}

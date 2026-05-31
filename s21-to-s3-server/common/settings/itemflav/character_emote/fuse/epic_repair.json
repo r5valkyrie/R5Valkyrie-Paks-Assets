@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 857318213,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/fuse/epic_repair.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/fuse.rpak",
+		"settingsAssetID": "SAID00857318213",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#CHAR_EMOTE_014",
+		"localizationKey_NAME_SHORT": "#CHAR_EMOTE_014",
+		"localizationKey_DESCRIPTION_LONG": "#CHAR_EMOTE_014",
+		"localizationKey_DESCRIPTION_SHORT": "#CHAR_EMOTE_014",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/character_emotes/fuse/repair",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_fuse_epic_repair",
+		"ownershipTarget": "",
+		"anim3p": "fuse_ground_emote_repair",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

@@ -1,0 +1,6 @@
+"fieldName","dataType","layoutIndex","helpText"
+"offerFlav","asset","0",""
+"offerGridIcon","asset_noprecache","0","This is the image that will be shown in the Reward Shop Grid. The dimensions should be kept as 112 width x 168 height or larger in that aspect ratio."
+"isSweepstakesOffer","bool","0","If this is selected, by clicking on this offer, we will send it to sweepstakes purchase flow."
+"isLockedOffer","bool","0","If this is selected, to acquire this offer, players will have to acquire all other non-locked offers before enabling this one to be purchasable."
+"isFeaturedOffer","bool","0","If this is selected, when the player navigates to the Event Shop, this offer will be previewed by default. Please ensure only one featured offer is running at a time."

@@ -1,0 +1,7 @@
+seqs:
+[
+	animseq\humans\class\medium\pilot_medium_fuse_op\fuse_oni_menu_select.rseq
+	animseq\humans\class\medium\pilot_medium_fuse_op\fuse_oni_menu_select_idle.rseq
+	animseq\humans\class\medium\pilot_medium_fuse_op\fuse_oni_menu_select_readyUp.rseq
+	animseq\humans\class\medium\pilot_medium_fuse_op\fuse_oni_menu_select_readyUp_idle.rseq
+]

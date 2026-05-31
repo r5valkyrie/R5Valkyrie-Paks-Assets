@@ -1,0 +1,44 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_entitlement_layout.rpak",
+	"uniqueId": 898228165,
+	"settings": {
+		"assetName": "settings/itemflav/entitlement/ESCAPE_PACK_ASH.rpak",
+		"itemType": "entitlement",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00898228165",
+		"__featureFlag": "",
+		"devDescription": "Ash starter pack",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"entitlementType": "firstparty",
+		"twitchRef": "",
+		"twitchRef": "",
+		"enum": "ESCAPE_PACK_ASH",
+		"pc": "APEX_ESCAPE_CONTENT",
+		"ps4": "APS11PACKCONT000",
+		"xb1": "ESCAPE_PACK_ASH",
+		"switch": "ESCAPE_PACK_ASH",
+		"pc_offer": "Origin.OFR.50.0004671",
+		"steam_offer": "Steam.OFR.50.0000071",
+		"xb1_offer": "37355039-4c5a-3031-c036-4c3648430f00",
+		"menuTitleText": "#PROMO_ASH_STARTER_PACK_HEADER",
+		"menuDescText": "#PROMO_ASH_STARTER_PACK_TEXT",
+		"menuImageName": "ash_sku_2021",
+		"menuPersistenceVarName": "",
+		"list": [
+				{
+					"flavor": "settings/itemflav/character_skin/ash/rare_v21_maze.rpak",
+					"quantity": 1
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isMenuEnabled": false
+	}
+}

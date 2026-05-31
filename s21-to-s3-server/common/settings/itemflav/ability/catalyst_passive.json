@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 2049225575,
+	"settings": {
+		"assetName": "settings/itemflav/ability/catalyst_passive.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID02049225575",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#ABL_REINFORCE",
+		"localizationKey_NAME_SHORT": "#ABL_REINFORCE",
+		"localizationKey_DESCRIPTION_LONG": "#ABL_REINFORCE_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#ABL_REINFORCE_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/passive_icons/passive_catalyst",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_LOCKDOWN",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

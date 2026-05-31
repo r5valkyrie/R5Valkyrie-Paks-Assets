@@ -1,0 +1,25 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_class_perk_layout.rpak",
+	"uniqueId": 1070572026,
+	"settings": {
+		"assetName": "settings/itemflav/class_perk/extra_ammo.rpak",
+		"itemType": "character_perk",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01070572026",
+		"__featureFlag": "",
+		"devDescription": "Perk that lets the player hold more ammo.",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "#EXTRA_FIREPOWER_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#EXTRA_FIREPOWER_SHORT_DESC",
+		"quality": "NONE",
+		"icon": "rui/menu/character_select/utility/role_offense",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"perkScriptRef": "EXTRA_FIREPOWER",
+		"fullmapSmallIcon": "",
+		"localizationKey_PropName": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

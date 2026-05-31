@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 564481691,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/loba/epic_treemonkey.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/loba.rpak",
+		"settingsAssetID": "SAID00564481691",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#CHAR_EMOTE_026",
+		"localizationKey_NAME_SHORT": "#CHAR_EMOTE_026",
+		"localizationKey_DESCRIPTION_LONG": "#CHAR_EMOTE_026",
+		"localizationKey_DESCRIPTION_SHORT": "#CHAR_EMOTE_026",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/character_emotes/loba/treemonkey",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_loba_epic_treemonkey",
+		"ownershipTarget": "",
+		"anim3p": "loba_ground_emote_treemonkey",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 15.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

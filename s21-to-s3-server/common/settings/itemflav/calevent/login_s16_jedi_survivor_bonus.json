@@ -1,0 +1,37 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_calevent_login_layout.rpak",
+	"uniqueId": 937105330,
+	"settings": {
+		"assetName": "settings/itemflav/calevent/login_s16_jedi_survivor_bonus.rpak",
+		"itemType": "calevent_login",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00937105330",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#LOGIN_S16_JEDI_SURVIVOR_BONUS_TITLE",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "#LOGIN_S16_JEDI_SURVIVOR_BONUS_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"revealUnixTime": "",
+		"hideUnixTime": "",
+		"defaultStartTime": "2023-04-28 10:00:00 -07:00",
+		"defaultFinishTime": "2023-05-19 10:00:00 -07:00",
+		"ceremonyImage": "",
+		"ceremonyTitle": "#LOGIN_S16_JEDI_SURVIVOR_BONUS_TITLE",
+		"ceremonyDesc": "#LOGIN_S16_JEDI_SURVIVOR_BONUS_DESC",
+		"loginRewards": [
+				{
+					"flavor": "settings/itemflav/character_skin/pathfinder/bd1.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/emote_icon/applejack/epic_v22_applejack_01.rpak"
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/rampart/lgnd_v21_rebelgladiator.rpak",
+		"roots": [
+				{
+					"asset": "mdl/content/r2/models/Humans/class/medium/rampart/dmx/rampart_v21_rebelgladiator_w.rmdl",
+					"featureFlag": ""
+				},
+				{
+					"asset": "mdl/content/r2/models/Humans/class/medium/rampart/dmx/rampart_v21_rebelgladiator_v.rmdl",
+					"featureFlag": ""
+				}
+			]
+	}
+}

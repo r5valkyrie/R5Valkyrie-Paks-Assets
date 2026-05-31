@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 764928622,
+	"settings": {
+		"assetName": "settings/itemflav/ability/pathfinder_pas_pathfinder.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00764928622",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#GEAR_SURVEY",
+		"localizationKey_NAME_SHORT": "#GEAR_SURVEY",
+		"localizationKey_DESCRIPTION_LONG": "#GEAR_SURVEY_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#GEAR_SURVEY_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/legend_upgrades/ballistic_carepackageinsight_icon",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_PATHFINDER",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

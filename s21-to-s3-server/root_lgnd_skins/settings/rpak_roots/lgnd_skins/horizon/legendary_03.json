@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/horizon/legendary_03.rpak",
+		"roots": [
+				{
+					"asset": "mdl/Humans/class/medium/nova_v20_dark_w.rmdl",
+					"featureFlag": ""
+				},
+				{
+					"asset": "mdl/weapons/arms/nova_v20_dark_v.rmdl",
+					"featureFlag": ""
+				}
+			]
+	}
+}

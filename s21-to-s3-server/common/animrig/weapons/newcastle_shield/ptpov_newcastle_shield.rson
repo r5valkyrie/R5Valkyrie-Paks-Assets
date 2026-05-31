@@ -1,0 +1,14 @@
+seqs:
+[
+	animseq\weapons\newcastle_shield\ptpov_newcastle_shield\crouch.rseq
+	animseq\weapons\newcastle_shield\ptpov_newcastle_shield\fire.rseq
+	animseq\weapons\newcastle_shield\ptpov_newcastle_shield\holster.rseq
+	animseq\weapons\newcastle_shield\ptpov_newcastle_shield\idle.rseq
+	animseq\weapons\newcastle_shield\ptpov_newcastle_shield\idle_onehanded.rseq
+	animseq\weapons\newcastle_shield\ptpov_newcastle_shield\raise.rseq
+	animseq\weapons\newcastle_shield\ptpov_newcastle_shield\raise_sprinting.rseq
+	animseq\weapons\newcastle_shield\ptpov_newcastle_shield\run_layer.rseq
+	animseq\weapons\newcastle_shield\ptpov_newcastle_shield\sprint.rseq
+	animseq\weapons\newcastle_shield\ptpov_newcastle_shield\sprintraise.rseq
+	animseq\weapons\newcastle_shield\ptpov_newcastle_shield\sprintslide.rseq
+]

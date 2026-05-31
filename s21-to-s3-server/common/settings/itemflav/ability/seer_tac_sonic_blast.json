@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 39385925,
+	"settings": {
+		"assetName": "settings/itemflav/ability/seer_tac_sonic_blast.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00039385925",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#WPN_SONIC_BLAST",
+		"localizationKey_NAME_SHORT": "#WPN_SONIC_BLAST",
+		"localizationKey_DESCRIPTION_LONG": "#WPN_SONIC_BLAST_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#WPN_SONIC_BLAST_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/tactical_icons/tactical_seer",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "mp_ability_sonic_blast",
+		"passiveScriptRef": "",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

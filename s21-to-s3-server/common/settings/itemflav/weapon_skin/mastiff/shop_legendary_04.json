@@ -1,0 +1,51 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_skin_layout.rpak",
+	"uniqueId": 1863811295,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_skin/mastiff/shop_legendary_04.rpak",
+		"itemType": "weapon_skin",
+		"parentItemFlavor": "settings/itemflav/loot/main_weapon/mastiff.rpak",
+		"settingsAssetID": "SAID01863811295",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#SKIN_855",
+		"localizationKey_NAME_SHORT": "#SKIN_855",
+		"localizationKey_DESCRIPTION_LONG": "#SKIN_855",
+		"localizationKey_DESCRIPTION_SHORT": "#SKIN_855",
+		"quality": "LEGENDARY",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "weapon_skin_mastiff_shop_legendary_04",
+		"ownershipTarget": "",
+		"worldModel": "mdl/weapons/mastiff_stgn/w_mastiff_s08_storebundle_legendary_01.rmdl",
+		"viewModel": "mdl/weapons/mastiff_stgn/ptpov_mastiff_s08_storebundle_legendary_01.rmdl",
+		"skinName": "s08_storebundle_legendary_01",
+		"exclusiveFunc": "",
+		"unlockFuncKey": "",
+		"video": "",
+		"customSkinMenuBlurb": "",
+		"multipleOwnershipTargets": [
+			],
+		"camoIndex": 0,
+		"hackyRUISchemeIdentifier": 0,
+		"featureReactsToKillsLevels": [
+			],
+		"skinAlias_vfxAliases": [
+			],
+		"skinAlias_sfxAliases": [
+			],
+		"skinAlias_bodyGroupAliases": [
+			],
+		"skinAlias_impactTableAliases": [
+			],
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"exclusive": false,
+		"shouldHideIfLocked": false,
+		"forceFullWeaponIcon": false,
+		"featureReactsToKills": false,
+		"forceVideoInspect": false
+	}
+}

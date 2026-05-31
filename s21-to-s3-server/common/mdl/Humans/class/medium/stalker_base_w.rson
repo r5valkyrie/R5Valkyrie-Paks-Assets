@@ -1,0 +1,9 @@
+rigs:
+[
+	animrig\humans\pete\ai_grunt_core.rrig
+	animrig\humans\pete\ai_npc_core.rrig
+	animrig\humans\pete\ai_grunt_core_opshort.rrig
+]
+seqs:
+[
+]

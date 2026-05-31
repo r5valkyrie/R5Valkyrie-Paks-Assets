@@ -1,0 +1,30 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_class_layout.rpak",
+	"uniqueId": 660570178,
+	"settings": {
+		"assetName": "settings/itemflav/class/controller_class.rpak",
+		"itemType": "character_class",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00660570178",
+		"__featureFlag": "",
+		"devDescription": "Controller Class",
+		"localizationKey_NAME": "#ROLE_CONTROLLER",
+		"localizationKey_NAME_SHORT": "#CONTROLLER_SHORT_NAME",
+		"localizationKey_DESCRIPTION_LONG": "#CONTROLLER_LONG_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#ROLE_CONTROLLER_SUBTITLE",
+		"quality": "NONE",
+		"icon": "rui/menu/character_select/utility/role_defense",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"role": "DEFENSE",
+		"uiColor": "<0.250000,0.800000,0.200000>",
+		"perks": [
+				{
+					"flavor": "settings/itemflav/class_perk/next_zone_scan.rpak",
+					"featureFlag": "HAS_PERK_SYSTEM"
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

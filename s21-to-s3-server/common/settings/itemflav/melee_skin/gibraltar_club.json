@@ -1,0 +1,51 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_melee_skin_layout.rpak",
+	"uniqueId": 310155874,
+	"settings": {
+		"assetName": "settings/itemflav/melee_skin/gibraltar_club.rpak",
+		"itemType": "melee_skin",
+		"parentItemFlavor": "settings/itemflav/loot/melee_weapon/gibraltar_club.rpak",
+		"settingsAssetID": "SAID00310155874",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#MELEE_SKIN_GIBRALTAR_CLUB_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "#MELEE_SKIN_GIBRALTAR_CLUB_NAME",
+		"quality": "MYTHIC",
+		"icon": "rui/menu/buttons/battlepass/melee_skin_gibraltar",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "melee_skin_gibraltar_club",
+		"ownershipTarget": "",
+		"worldModel": "mdl/weapons/gibraltar_heirloom/gibraltar_heirloom_w.rmdl",
+		"viewModel": "mdl/weapons/gibraltar_heirloom/gibraltar_heirloom_v.rmdl",
+		"skinName": "club",
+		"menuAnimSeq": "animseq/weapons/gibraltar_heirloom/ptpov_warclub_gibraltar/menu.rseq",
+		"koSound": "",
+		"storeImage": "rui/menu/heirloom_crafting/heirloom_page_item_gibraltar",
+		"equipImage": "rui/menu/buttons/melee_skins/gibraltar_club",
+		"multipleOwnershipTargets": [
+			],
+		"artifactConfigIndex": 0,
+		"camoIndex": 0,
+		"menuMdlRot": "<0.000000,0.000000,0.000000>",
+		"battlePassScale": 2.600000,
+		"lootCeremonyScale": 1.800000,
+		"itemInspectScale": 0.970000,
+		"itemInspectOffset": "<0.000000,0.000000,-4.000000>",
+		"skinAlias_vfxAliases": [
+			],
+		"skinAlias_sfxAliases": [
+			],
+		"skinAlias_bodyGroupAliases": [
+			],
+		"skinAlias_impactTableAliases": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isArtifactConfigPointer": false,
+		"shouldHideIfLocked": false
+	}
+}

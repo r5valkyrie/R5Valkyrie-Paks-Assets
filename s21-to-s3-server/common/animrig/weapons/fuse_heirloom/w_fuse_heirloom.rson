@@ -1,0 +1,11 @@
+seqs:
+[
+	animseq\weapons\fuse_heirloom\w_fuse_heirloom\fuse_melee_crouch_heirloom_prop_01.rseq
+	animseq\weapons\fuse_heirloom\w_fuse_heirloom\fuse_melee_jump_heirloom_prop_01.rseq
+	animseq\weapons\fuse_heirloom\w_fuse_heirloom\fuse_melee_slide_heirloom_prop_01.rseq
+	animseq\weapons\fuse_heirloom\w_fuse_heirloom\fuse_melee_sprint_heirloom_prop_01.rseq
+	animseq\weapons\fuse_heirloom\w_fuse_heirloom\fuse_melee_stand_heirloom_prop_01.rseq
+	animseq\weapons\fuse_heirloom\w_fuse_heirloom\fuse_melee_stand_heirloom_prop_02.rseq
+	animseq\weapons\fuse_heirloom\w_fuse_heirloom\w_fuse_gladcard_animated_heirloom_prop.rseq
+	animseq\weapons\fuse_heirloom\w_fuse_heirloom\w_fuse_gladcard_animated_heirloom_prop_idle.rseq
+]

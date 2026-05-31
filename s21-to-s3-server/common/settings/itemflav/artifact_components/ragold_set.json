@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_artifact_component_set_layout.rpak",
+	"settings": {
+		"assetName": "settings/itemflav/artifact_components/ragold_set.rpak",
+		"themeName": "RAGOLD",
+		"worldModel": "",
+		"viewModel": "",
+		"blade": "",
+		"theme": "",
+		"powerSource": "",
+		"deathbox": "settings/itemflav/artifact_components/deathbox_ragold.rpak",
+		"activationEmote": "",
+		"setName": "#ARTIFACT_THEME_RAGOLD",
+		"setImageRef": ""
+	}
+}

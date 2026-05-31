@@ -1,0 +1,12 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_PlayFX_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/fx_fuse_menu_ready_up_explosion.rpak",
+		"devDescription": "",
+		"type": "PlayFX",
+		"particleSystemName": "P_exp_fuse_background",
+		"attachPoint": "PROPGUN",
+		"followAttach": true,
+		"playEndCap": false
+	}
+}

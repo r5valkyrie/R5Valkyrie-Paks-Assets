@@ -1,0 +1,10 @@
+{
+	"extraDataSizeIndex": 1,
+	"subLayouts": [
+		"settings_layout/settings_itemtype_sticker_layout/multipleOwnershipTargets.csv",
+		"settings_layout/settings_itemtype_sticker_layout/injectorScales.csv",
+		"settings_layout/settings_itemtype_sticker_layout/shieldCellScales.csv",
+		"settings_layout/settings_itemtype_sticker_layout/shieldBatteryScales.csv",
+		"settings_layout/settings_itemtype_sticker_layout/phoenixKitScales.csv"
+	]
+}

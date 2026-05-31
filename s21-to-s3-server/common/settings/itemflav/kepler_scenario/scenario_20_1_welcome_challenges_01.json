@@ -1,0 +1,42 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_kepler_scenario_layout.rpak",
+	"uniqueId": 283915417,
+	"settings": {
+		"assetName": "settings/itemflav/kepler_scenario/scenario_20_1_welcome_challenges_01.rpak",
+		"itemType": "kepler_scenario",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00283915417",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"scenarioKey": "20-1-welcome-challenge-01",
+		"variants": [
+				{
+					"variantName": "control",
+					"controlledCollection": "",
+					"controlledImage": ""
+				},
+				{
+					"variantName": "set-a",
+					"controlledCollection": "settings/itemflav/calevent/welcome2010/challenge_collection_01.rpak",
+					"controlledImage": ""
+				},
+				{
+					"variantName": "set-b",
+					"controlledCollection": "settings/itemflav/calevent/welcome2010/challenge_collection_02.rpak",
+					"controlledImage": ""
+				}
+			],
+		"scenarioChallenges": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

@@ -1,0 +1,14 @@
+rigs:
+[
+]
+seqs:
+[
+	animseq\ngalore_rocket\rocket1_freefall_emote_rockets.rseq
+	animseq\ngalore_rocket\rocket2_freefall_emote_rockets.rseq
+	animseq\ngalore_rocket\rocket3_freefall_emote_rockets.rseq
+	animseq\ngalore_rocket\rocket4_freefall_emote_rockets.rseq
+	animseq\ngalore_rocket\rocket5_freefall_emote_rockets.rseq
+	animseq\ngalore_rocket\rocket_freefall_emote_rockets.rseq
+	animseq\props\bangalore_rocket\L_rocket_freefall_emote_rocket_skiing.rseq
+	animseq\props\bangalore_rocket\R_rocket_freefall_emote_rocket_skiing.rseq
+]

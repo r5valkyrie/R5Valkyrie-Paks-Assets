@@ -1,0 +1,39 @@
+seqs:
+[
+	animseq\weapons\pariah_heart\ptpov_pariah_heart_held\crouch_seq_autoplay.rseq
+	animseq\weapons\pariah_heart\ptpov_pariah_heart_held\crouch_to_hold.rseq
+	animseq\weapons\pariah_heart\ptpov_pariah_heart_held\crouch_to_sprint.rseq
+	animseq\weapons\pariah_heart\ptpov_pariah_heart_held\draw_onehanded_to_hold_onehanded.rseq
+	animseq\weapons\pariah_heart\ptpov_pariah_heart_held\draw_to_crouch.rseq
+	animseq\weapons\pariah_heart\ptpov_pariah_heart_held\draw_to_hold.rseq
+	animseq\weapons\pariah_heart\ptpov_pariah_heart_held\draw_to_slide.rseq
+	animseq\weapons\pariah_heart\ptpov_pariah_heart_held\draw_to_sprint.rseq
+	animseq\weapons\pariah_heart\ptpov_pariah_heart_held\hold_to_crouch.rseq
+	animseq\weapons\pariah_heart\ptpov_pariah_heart_held\holster_seq.rseq
+	animseq\weapons\pariah_heart\ptpov_pariah_heart_held\idle_seq_autoplay.rseq
+	animseq\weapons\pariah_heart\ptpov_pariah_heart_held\jump.rseq
+	animseq\weapons\pariah_heart\ptpov_pariah_heart_held\land.rseq
+	animseq\weapons\pariah_heart\ptpov_pariah_heart_held\land_high.rseq
+	animseq\weapons\pariah_heart\ptpov_pariah_heart_held\land_low.rseq
+	animseq\weapons\pariah_heart\ptpov_pariah_heart_held\land_low_sprinting.rseq
+	animseq\weapons\pariah_heart\ptpov_pariah_heart_held\land_med.rseq
+	animseq\weapons\pariah_heart\ptpov_pariah_heart_held\lower_seq.rseq
+	animseq\weapons\pariah_heart\ptpov_pariah_heart_held\sprint_to_hold.rseq
+	animseq\weapons\pariah_heart\ptpov_pariah_heart_held\sprint_to_sliding_seq.rseq
+	animseq\weapons\pariah_heart\ptpov_pariah_heart_held\toss_hold.rseq
+	animseq\weapons\pariah_heart\ptpov_pariah_heart_held\toss_hold_air.rseq
+	animseq\weapons\pariah_heart\ptpov_pariah_heart_held\toss_hold_crouch.rseq
+	animseq\weapons\pariah_heart\ptpov_pariah_heart_held\toss_hold_onehanded.rseq
+	animseq\weapons\pariah_heart\ptpov_pariah_heart_held\toss_hold_sliding.rseq
+	animseq\weapons\pariah_heart\ptpov_pariah_heart_held\toss_hold_sprinting.rseq
+	animseq\weapons\pariah_heart\ptpov_pariah_heart_held\toss_low.rseq
+	animseq\weapons\pariah_heart\ptpov_pariah_heart_held\toss_low_onehanded.rseq
+	animseq\weapons\pariah_heart\ptpov_pariah_heart_held\toss_overhead.rseq
+	animseq\weapons\pariah_heart\ptpov_pariah_heart_held\toss_overhead_onehanded.rseq
+	animseq\weapons\pariah_heart\ptpov_pariah_heart_held\toss_prep_pullout.rseq
+	animseq\weapons\pariah_heart\ptpov_pariah_heart_held\toss_prep_pullout_onehanded.rseq
+	animseq\weapons\pariah_heart\ptpov_pariah_heart_held\toss_prep_pullout_seq_raise.rseq
+	animseq\weapons\pariah_heart\ptpov_pariah_heart_held\toss_prep_pullout_sprint.rseq
+	animseq\weapons\pariah_heart\ptpov_pariah_heart_held\toss_prep_pullout_sprint_onehanded.rseq
+	animseq\weapons\pariah_heart\ptpov_pariah_heart_held\zipline_mount.rseq
+]

@@ -1,0 +1,8 @@
+rigs:
+[
+]
+seqs:
+[
+	animseq\weapons\wattson_heirloom\wattson_heirloom_gladcard\wattson_heirloom_gladcard_animated_heirloom.rseq
+	animseq\weapons\wattson_heirloom\wattson_heirloom_gladcard\wattson_heirloom_gladcard_animated_heirloom_idle.rseq
+]

@@ -1,0 +1,12 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_PlayFX_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/fx_ballistic_ult_handfx_impact.rpak",
+		"devDescription": "",
+		"type": "PlayFX",
+		"particleSystemName": "P_clbr_ulti_hand_imp_Script",
+		"attachPoint": "propgun_fx",
+		"followAttach": true,
+		"playEndCap": true
+	}
+}

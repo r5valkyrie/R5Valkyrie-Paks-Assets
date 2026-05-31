@@ -1,0 +1,31 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_skydive_emote_layout.rpak",
+	"uniqueId": 1131612140,
+	"settings": {
+		"assetName": "settings/itemflav/skydive_emote/octane/epic_v22_partymusic_grenades.rpak",
+		"itemType": "skydive_emote",
+		"parentItemFlavor": "settings/itemflav/character/octane.rpak",
+		"settingsAssetID": "SAID01131612140",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#skydive_emote_octane_grenades",
+		"localizationKey_NAME_SHORT": "#skydive_emote_octane_grenades",
+		"localizationKey_DESCRIPTION_LONG": "#skydive_emote_octane_grenades",
+		"localizationKey_DESCRIPTION_SHORT": "#skydive_emote_octane_grenades",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/battlepass/skydive_emote_octane_grenades",
+		"tagIcon": "rui/events/s16bp/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "skydive_emote_octane_epic_v22_partymusic_grenades",
+		"ownershipTarget": "",
+		"animSequence": "animseq/humans/class/medium/pilot_medium_stim/octane_freefall_emote_grenades.rseq",
+		"video": "media/skydive_emotes/octane_grenades",
+		"bcEvent": "bc_skydive",
+		"multipleOwnershipTargets": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false
+	}
+}

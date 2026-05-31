@@ -1,0 +1,10 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_SetPropSkin_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/prop_book_01_v20_base.rpak",
+		"devDescription": "",
+		"type": "SetPropSkin",
+		"skinName": "base",
+		"camoIndex": 0
+	}
+}

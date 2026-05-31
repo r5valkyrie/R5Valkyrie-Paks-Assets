@@ -1,0 +1,60 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_account_pack_layout.rpak",
+	"uniqueId": 884461717,
+	"settings": {
+		"assetName": "settings/itemflav/pack/mythic_revenant.rpak",
+		"itemType": "account_pack",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00884461717",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#pack_mythic_revenant_NAME",
+		"localizationKey_NAME_SHORT": "#pack_mythic_revenant_NAME_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "MYTHIC",
+		"icon": "rui/events/s18ce03/heirloom_page_item_revenant",
+		"tagIcon": "rui/events/s18ce03/item_source_icon",
+		"grxMode": "PACK",
+		"grxMode": "PACK",
+		"grxRef": "pack_mythic_revenant",
+		"ownershipTarget": "",
+		"packType": "MYTHIC_PACK",
+		"themeFlavor": "",
+		"stickerRewardPack": "",
+		"stickerRewardSequence": "",
+		"tickMdl": "mdl/robots/drone_frag/drone_frag_loot.rmdl",
+		"tickMdlSkin": "epic_resdopb",
+		"openButtonIcon": "rui/events/s18ce03/open_pack_btn_icon_heirloom",
+		"triadBounceSound": "LootCeremony_Triad_Bounce",
+		"puckLandSound": "LootCeremony_IronCrown_Tick_PuckLand",
+		"unpackSound": "LootCeremony_IronCrown_Tick_Unpack",
+		"deployTriadExplo1Sound": "LootCeremony_IronCrown_Tick_Deploy_TriadExplo1",
+		"deployTriadExplo2Sound": "LootCeremony_IronCrown_Tick_Deploy_TriadExplo2",
+		"deployTriadExplo3Sound": "LootCeremony_IronCrown_Tick_Deploy_TriadExplo3",
+		"multipleOwnershipTargets": [
+			],
+		"packContents": [
+				{
+					"flavor": "settings/itemflav/character_skin/revenant/mythic_v23_pilot_level01.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/character_skin/revenant/mythic_v23_pilot_level02.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/character_skin/revenant/mythic_v23_pilot_level03.rpak"
+				}
+			],
+		"customCol0": "<1.000000,1.000000,1.000000>",
+		"countTextCol": "<1.000000,1.000000,1.000000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"hasStickers": false,
+		"hasSkydives": false,
+		"hasHolosprays": false,
+		"usesMOTDButtonForCount": false,
+		"isEphemeral": false,
+		"isExpectedToContainSingleItemWithCurrency": false,
+		"useCustomColors": true
+	}
+}

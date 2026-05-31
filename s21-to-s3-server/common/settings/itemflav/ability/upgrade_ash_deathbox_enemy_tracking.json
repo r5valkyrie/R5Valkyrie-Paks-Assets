@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 898863218,
+	"settings": {
+		"assetName": "settings/itemflav/ability/upgrade_ash_deathbox_enemy_tracking.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00898863218",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#UPGRADE_ASH_PASSIVE_ENEMY_TRACKING_NAME",
+		"localizationKey_NAME_SHORT": "#UPGRADE_TYPE_PASSIVE",
+		"localizationKey_DESCRIPTION_LONG": "#UPGRADE_ASH_PASSIVE_ENEMY_TRACKING_LONG_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#UPGRADE_ASH_PASSIVE_ENEMY_TRACKING_SHORT_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/legend_upgrades/ash_persistence_icon",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_PAS_UPGRADE_ONE",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

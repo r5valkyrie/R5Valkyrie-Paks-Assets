@@ -1,0 +1,12 @@
+seqs:
+[
+	animseq\props\seer_heirloom\seer_heirloom\blades_seer_antenna_hack_end.rseq
+	animseq\props\seer_heirloom\seer_heirloom\blades_seer_antenna_hack_mid.rseq
+	animseq\props\seer_heirloom\seer_heirloom\blades_seer_antenna_hack_start.rseq
+	animseq\props\seer_heirloom\seer_heirloom\ptpov_seer_sickle_inspect_hypnotize_drones.rseq
+	animseq\props\seer_heirloom\seer_heirloom\ptpov_seer_sickle_inspect_main_drones.rseq
+	animseq\props\seer_heirloom\seer_heirloom\seer_gladcard_animated_heirloom_drones.rseq
+	animseq\props\seer_heirloom\seer_heirloom\seer_gladcard_animated_heirloom_drones_idle.rseq
+	animseq\props\seer_heirloom\seer_heirloom\seer_gladcard_animated_heirloom_prop.rseq
+	animseq\props\seer_heirloom\seer_heirloom\seer_gladcard_animated_heirloom_prop_idle.rseq
+]

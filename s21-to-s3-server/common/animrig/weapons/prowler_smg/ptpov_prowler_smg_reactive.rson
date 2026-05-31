@@ -1,0 +1,7 @@
+seqs:
+[
+	animseq\weapons\prowler_smg\ptpov_prowler_smg_reactive\fire_onehanded.rseq
+	animseq\weapons\prowler_smg\ptpov_prowler_smg_reactive\fire_optic_reactive.rseq
+	animseq\weapons\prowler_smg\ptpov_prowler_smg_reactive\fire_reactive.rseq
+	animseq\weapons\prowler_smg\ptpov_prowler_smg_reactive\idle_reactive_layer.rseq
+]

@@ -1,0 +1,33 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_stat_tracker_layout.rpak",
+	"uniqueId": 80449403,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_tracker/revenant/s16bp_partymusic_wins.rpak",
+		"itemType": "gladiator_card_stat_tracker",
+		"parentItemFlavor": "settings/itemflav/character/revenant.rpak",
+		"settingsAssetID": "SAID00080449403",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#gcard_tracker_revenant_s16bp_partymusic_wins_NAME",
+		"localizationKey_NAME_SHORT": "#TRACKER_SEASON_16_WINS",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "RARE",
+		"icon": "",
+		"tagIcon": "rui/events/s16bp/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "gcard_tracker_revenant_s16bp_partymusic_wins",
+		"ownershipTarget": "",
+		"statRef": "stats.seasons[SAID00801928788].characters[%char%].placements_win",
+		"valueNumberFormat": "INTEGER",
+		"valueSuffix": "",
+		"backgroundImage": "rui/gladiator_cards/trackers/event/s16bp/s16bp_stat_tracker_revenant",
+		"multipleOwnershipTargets": [
+			],
+		"color0": "<1.000000,0.420000,0.420000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false
+	}
+}

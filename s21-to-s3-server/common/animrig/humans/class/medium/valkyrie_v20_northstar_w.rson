@@ -1,0 +1,7 @@
+seqs:
+[
+	animseq\humans\class\medium\pilot_medium_valkyrie\valkyrie_northstar_menu_select.rseq
+	animseq\humans\class\medium\pilot_medium_valkyrie\valkyrie_northstar_menu_select_idle.rseq
+	animseq\humans\class\medium\pilot_medium_valkyrie\valkyrie_northstar_menu_select_ready_up_idle.rseq
+	animseq\humans\class\medium\pilot_medium_valkyrie\valkyrie_northstar_menu_select_readyUp.rseq
+]

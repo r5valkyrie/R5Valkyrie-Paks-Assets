@@ -1,0 +1,9 @@
+seqs:
+[
+	animseq\props\ballistic_car\ballistic_car_animrig\car_ballistic_menu_ready_up.rseq
+	animseq\props\ballistic_car\ballistic_car_animrig\car_ballistic_menu_ready_up_idle.rseq
+	animseq\props\ballistic_car\ballistic_car_animrig\car_ballistic_menu_select.rseq
+	animseq\props\ballistic_car\ballistic_car_animrig\car_ballistic_menu_select_idle.rseq
+	animseq\props\ballistic_car\prop_car_ballistic_ground_emote_bulletflick.rseq
+	animseq\props\ballistic_car\prop_car_ballistic_ground_emote_bulletflick_loop.rseq
+]

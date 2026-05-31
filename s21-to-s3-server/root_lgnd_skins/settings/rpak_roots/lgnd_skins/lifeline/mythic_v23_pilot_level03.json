@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/lifeline/mythic_v23_pilot_level03.rpak",
+		"roots": [
+				{
+					"asset": "mdl/techart/mshop/characters/legends/lifeline/lifeline_v23_pilot_level03_w.rmdl",
+					"featureFlag": "HAS_21_1_RELEASE"
+				},
+				{
+					"asset": "mdl/techart/mshop/characters/legends/lifeline/lifeline_v23_pilot_level03_v.rmdl",
+					"featureFlag": "HAS_21_1_RELEASE"
+				}
+			]
+	}
+}

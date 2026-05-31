@@ -1,0 +1,8 @@
+"fieldName","dataType","layoutIndex","helpText"
+"modelName","asset_noprecache","0","The model to be used for the prop being created."
+"attachName","string","0","The attachment name to be used for the prop being created."
+"animSequence","asset_noprecache","0","The animation sequence to be played for the prop being created. (Optional)"
+"createTime","float","0","This prop creation time"
+"destroyTime","float","0","This prop destruction time. Use -1 to keep the prop until skydive ends."
+"offset","float3","0","An offset to adjust prop positioning"
+"angle","float3","0","Prop Angle"

@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/revenant/lgnd_v21_warlord_rt01.rpak",
+		"roots": [
+				{
+					"asset": "mdl/humans/class/heavy/revenant_v20_chaostheory_w.rmdl",
+					"featureFlag": ""
+				},
+				{
+					"asset": "mdl/Weapons/arms/revenant_v20_chaostheory_v.rmdl",
+					"featureFlag": ""
+				}
+			]
+	}
+}

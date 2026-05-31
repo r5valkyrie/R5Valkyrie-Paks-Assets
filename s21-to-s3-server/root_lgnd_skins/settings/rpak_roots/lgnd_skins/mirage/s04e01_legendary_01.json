@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/mirage/s04e01_legendary_01.rpak",
+		"roots": [
+				{
+					"asset": "mdl/Humans/class/medium/pilot_medium_holo_season_04_assimilation_legendary_01.rmdl",
+					"featureFlag": ""
+				},
+				{
+					"asset": "mdl/Weapons/arms/pov_pilot_medium_holo_season_04_assimilation_legendary_01.rmdl",
+					"featureFlag": ""
+				}
+			]
+	}
+}

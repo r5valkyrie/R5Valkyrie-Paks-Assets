@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/octane/lgnd_v21_streetwear.rpak",
+		"roots": [
+				{
+					"asset": "mdl/content/r2/models/Humans/class/medium/octane/dmx/octane_v21_streetwear_w.rmdl",
+					"featureFlag": ""
+				},
+				{
+					"asset": "mdl/content/r2/models/Humans/class/medium/octane/dmx/octane_v21_streetwear_v.rmdl",
+					"featureFlag": ""
+				}
+			]
+	}
+}

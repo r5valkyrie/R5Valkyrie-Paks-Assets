@@ -1,0 +1,30 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ping_layout.rpak",
+	"uniqueId": 1928995837,
+	"settings": {
+		"assetName": "settings/itemflav/ping/ping_quest_objective.rpak",
+		"itemType": "ping",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01928995837",
+		"__featureFlag": "",
+		"devDescription": "Generic objective marker for quests",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "rui/hud/ping/icon_ping_quest_outer",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"colorKey": "none",
+		"innerIcon": "rui/hud/ping/icon_ping_any_inner",
+		"innerShadowIcon": "rui/hud/ping/icon_ping_any_shadow",
+		"outerIcon": "rui/hud/ping/icon_ping_quest_outer",
+		"shadowIcon": "rui/hud/ping/icon_ping_quest_shadow",
+		"animIcon": "rui/hud/ping/icon_ping_quest_outline",
+		"defaultColor": "<0.950000,0.868000,0.000000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"drawHeightLine": true
+	}
+}

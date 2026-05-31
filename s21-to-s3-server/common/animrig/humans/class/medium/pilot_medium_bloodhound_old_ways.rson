@@ -1,0 +1,7 @@
+seqs:
+[
+	animseq\humans\class\medium\pilot_medium_bloodhound\bloodhound_oldways_menu_ready_up.rseq
+	animseq\humans\class\medium\pilot_medium_bloodhound\bloodhound_oldways_menu_ready_up_idle.rseq
+	animseq\humans\class\medium\pilot_medium_bloodhound\bloodhound_oldways_menu_select.rseq
+	animseq\humans\class\medium\pilot_medium_bloodhound\bloodhound_oldways_menu_select_idle.rseq
+]

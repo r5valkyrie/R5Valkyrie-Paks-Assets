@@ -1,0 +1,11 @@
+rigs:
+[
+	animrig\props\deathbox_skydive\deathbox_skydive.rrig
+]
+seqs:
+[
+	animseq\props\deathbox_skydive\deathbox_skydive\deathbox_newcastle_gladcard_static_sitting.rseq
+	animseq\props\deathbox_skydive\deathbox_skydive\prop_deathbox_caustic_freefall_emote_deathbox_ride.rseq
+	animseq\props\deathbox_skydive\deathbox_skydive\prop_revenant_freefall_emote_box.rseq
+	animseq\props\deathbox_skydive\deathbox_skydive\valkyrie_deathbox_gladcard_static_toast.rseq
+]

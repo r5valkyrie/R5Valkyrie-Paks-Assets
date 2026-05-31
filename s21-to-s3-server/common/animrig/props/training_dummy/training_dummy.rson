@@ -1,0 +1,10 @@
+seqs:
+[
+	animseq\props\training_dummy\training_dummy\trainingdummy_ground_emote_kunai_beam.rseq
+	animseq\props\training_dummy\training_dummy\trainingdummy_ground_emote_kunai_easter.rseq
+	animseq\props\training_dummy\training_dummy\trainingdummy_ground_emote_kunai_final_1.rseq
+	animseq\props\training_dummy\training_dummy\trainingdummy_ground_emote_kunai_intro.rseq
+	animseq\props\training_dummy\training_dummy\trainingdummy_ground_emote_kunai_kick.rseq
+	animseq\props\training_dummy\training_dummy\trainingdummy_ground_emote_kunai_loop.rseq
+	animseq\props\training_dummy\training_dummy\trainingdummy_ground_emote_kunai_spin.rseq
+]

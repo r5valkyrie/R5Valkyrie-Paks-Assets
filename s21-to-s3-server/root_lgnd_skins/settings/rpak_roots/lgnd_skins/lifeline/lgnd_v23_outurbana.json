@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/lifeline/lgnd_v23_outurbana.rpak",
+		"roots": [
+				{
+					"asset": "mdl/humans/class/light/lifeline_lgnd_v23_outurbana_w.rmdl",
+					"featureFlag": "HAS_20_0_RELEASE"
+				},
+				{
+					"asset": "mdl/Weapons/arms/lifeline_lgnd_v23_outurbana_v.rmdl",
+					"featureFlag": "HAS_20_0_RELEASE"
+				}
+			]
+	}
+}

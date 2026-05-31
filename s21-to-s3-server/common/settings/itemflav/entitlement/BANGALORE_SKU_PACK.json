@@ -1,0 +1,56 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_entitlement_layout.rpak",
+	"uniqueId": 1588575100,
+	"settings": {
+		"assetName": "settings/itemflav/entitlement/BANGALORE_SKU_PACK.rpak",
+		"itemType": "entitlement",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01588575100",
+		"__featureFlag": "",
+		"devDescription": "Retail SKU items, Bangalore edition",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"entitlementType": "firstparty",
+		"twitchRef": "",
+		"twitchRef": "",
+		"enum": "BANGALORE_SKU_PACK",
+		"pc": "APEX_BANGALORE_CONTENT",
+		"ps4": "BANGALORECONT000",
+		"xb1": "BANGALORE_SKU_PACK",
+		"switch": "apexlegbanga",
+		"pc_offer": "Origin.OFR.50.0004600",
+		"steam_offer": "Steam.OFR.50.0000063",
+		"xb1_offer": "4e544e39-4435-3057-c046-48385a465f00",
+		"menuTitleText": "#PROMO_BANGALORE_EDITION",
+		"menuDescText": "#PROMO_BANGALORE_SKU_OWNED",
+		"menuImageName": "redemption_sku_bangalore_01",
+		"menuPersistenceVarName": "",
+		"list": [
+				{
+					"flavor": "settings/itemflav/character_skin/bangalore/sku08_lgnd_v21_sku.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/g7/sku08_lgnd_v21_superhero.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v21_char_bangalore_superhero01.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/gcard_badge/bangalore/sku08.rpak",
+					"quantity": 1
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isMenuEnabled": false
+	}
+}

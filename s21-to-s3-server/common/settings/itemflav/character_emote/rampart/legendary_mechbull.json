@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 1981313779,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/rampart/legendary_mechbull.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/rampart.rpak",
+		"settingsAssetID": "SAID01981313779",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#character_emote_rampart_legendary_mechbull_NAME",
+		"localizationKey_NAME_SHORT": "#character_emote_rampart_legendary_mechbull_NAME",
+		"localizationKey_DESCRIPTION_LONG": "#character_emote_rampart_legendary_mechbull_NAME",
+		"localizationKey_DESCRIPTION_SHORT": "#character_emote_rampart_legendary_mechbull_NAME",
+		"quality": "LEGENDARY",
+		"icon": "rui/menu/buttons/character_emotes/rampart/mechbull",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_rampart_legendary_mechbull",
+		"ownershipTarget": "",
+		"anim3p": "rampart_ground_emote_mechbull",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

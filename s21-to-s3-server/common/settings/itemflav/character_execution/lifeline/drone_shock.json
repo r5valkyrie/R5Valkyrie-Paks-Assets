@@ -1,0 +1,42 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_execution_layout.rpak",
+	"uniqueId": 305508043,
+	"settings": {
+		"assetName": "settings/itemflav/character_execution/lifeline/drone_shock.rpak",
+		"itemType": "character_execution",
+		"parentItemFlavor": "settings/itemflav/character/lifeline.rpak",
+		"settingsAssetID": "SAID00305508043",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#FINISHER_020",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "LEGENDARY",
+		"icon": "rui/menu/buttons/finisher_emotes/finisher_emote_lifeline_doc_shock",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_execution_lifeline_drone_shock",
+		"ownershipTarget": "",
+		"video": "media/character_executions/lifeline_execution_drone_shock",
+		"attackerAnimSeq": "animseq/humans/class/light/pilot_light_support/lifeline_execution_shock.rseq",
+		"victimLightAnimSeq": "animseq/humans/class/light/mp_pilot_light_core/light_victim_lifeline_execution_shock.rseq",
+		"victimMediumAnimSeq": "animseq/humans/class/medium/mp_pilot_medium_core/medium_victim_lifeline_execution_shock.rseq",
+		"victimHeavyAnimSeq": "animseq/humans/class/heavy/mp_pilot_heavy_core/heavy_victim_lifeline_execution_shock.rseq",
+		"victimNPCMediumAnimSeq": "animseq/humans/pete/ai_npc_core/npc_victim_lifeline_execution_shock.rseq",
+		"attackerPreviewAnimSeq": "animseq/humans/class/light/pilot_light_support/lifeline_execution_shock_loot.rseq",
+		"victimPreviewAnimSeq": "animseq/humans/class/medium/mp_pilot_medium_core/victim_lifeline_execution_shock_loot.rseq",
+		"multipleOwnershipTargets": [
+			],
+		"executionDependency": 0,
+		"additionalAttackerAnimSeq": [
+			],
+		"victimPerCharacterAnimSeq": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isNotEquippable": false,
+		"shouldHideIfNotEquippable": false
+	}
+}

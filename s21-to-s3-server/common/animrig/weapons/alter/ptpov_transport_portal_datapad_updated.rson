@@ -1,0 +1,11 @@
+seqs:
+[
+	animseq\weapons\alter\ptpov_transport_portal_datapad_updated\ptpov_ultimate_activate.rseq
+	animseq\weapons\alter\ptpov_transport_portal_datapad_updated\ptpov_ultimate_activate_knocked.rseq
+	animseq\weapons\alter\ptpov_transport_portal_datapad_updated\ptpov_ultimate_charge.rseq
+	animseq\weapons\alter\ptpov_transport_portal_datapad_updated\ptpov_ultimate_charge_knocked.rseq
+	animseq\weapons\alter\ptpov_transport_portal_datapad_updated\ptpov_ultimate_lower.rseq
+	animseq\weapons\alter\ptpov_transport_portal_datapad_updated\ptpov_ultimate_lower_knocked.rseq
+	animseq\weapons\alter\ptpov_transport_portal_datapad_updated\ptpov_ultimate_pullout.rseq
+	animseq\weapons\alter\ptpov_transport_portal_datapad_updated\ptpov_ultimate_pullout_knocked.rseq
+]

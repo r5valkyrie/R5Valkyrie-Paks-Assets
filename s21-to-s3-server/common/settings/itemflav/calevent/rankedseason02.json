@@ -1,0 +1,338 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_calevent_rankedperiod_layout.rpak",
+	"uniqueId": 747315762,
+	"settings": {
+		"assetName": "settings/itemflav/calevent/rankedseason02.rpak",
+		"itemType": "calevent_rankedperiod",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00747315762",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#RANKED_SEASON_2_UPPER_CASE",
+		"localizationKey_NAME_SHORT": "#RANKED_SEASON_2_LOWER_CASE",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"revealUnixTime": "",
+		"hideUnixTime": "",
+		"defaultStartTime": "1562079600",
+		"defaultFinishTime": "1569956400",
+		"firstSplitFinishTime": "",
+		"tiers": [
+				{
+					"name": "#RANKED_TIER_BRONZE",
+					"icon": "rui/menu/ranked/rank_emblem_bronze",
+					"iconRuiAsset": "ui/ranked_badge_basic.rpak",
+					"bgImage": "rui/menu/ranked/bg_bronze",
+					"levelUpRuiAsset": "ui/rank_emblem_rank_up_anim_t1t2.rpak",
+					"promotionAnnouncement": "",
+					"entryCost": 0,
+					"maxProtection": 3,
+					"minProtection": 3,
+					"rewards": [
+							{
+								"previewName": "RANKED_REWARD_SHORT_BADGE",
+								"previewIcon": "rui/gladiator_cards/badges/account_t3",
+								"previewImage": "",
+								"flavor": "settings/itemflav/gcard_badge/account/ranked_s02_rpbadge.rpak",
+								"previewIconShowBox": false
+							}
+						],
+					"divisions": [
+							{
+								"name": "#RANKED_DIVISION_BRONZE_IV",
+								"emblemText": "#RANKED_DIVISION_IV",
+								"scoreMin": 0,
+								"divisionEntryCost": -1
+							},
+							{
+								"name": "#RANKED_DIVISION_BRONZE_III",
+								"emblemText": "#RANKED_DIVISION_III",
+								"scoreMin": 30,
+								"divisionEntryCost": -1
+							},
+							{
+								"name": "#RANKED_DIVISION_BRONZE_II",
+								"emblemText": "#RANKED_DIVISION_II",
+								"scoreMin": 60,
+								"divisionEntryCost": -1
+							},
+							{
+								"name": "#RANKED_DIVISION_BRONZE_I",
+								"emblemText": "#RANKED_DIVISION_I",
+								"scoreMin": 90,
+								"divisionEntryCost": -1
+							}
+						],
+					"allowsDemotion": true
+				},
+				{
+					"name": "#RANKED_TIER_SILVER",
+					"icon": "rui/menu/ranked/rank_emblem_silver",
+					"iconRuiAsset": "ui/ranked_badge_basic.rpak",
+					"bgImage": "rui/menu/ranked/bg_silver",
+					"levelUpRuiAsset": "ui/rank_emblem_rank_up_anim_t2t3.rpak",
+					"promotionAnnouncement": "glad_rankTypeSilver",
+					"entryCost": 1,
+					"maxProtection": 3,
+					"minProtection": 3,
+					"rewards": [
+							{
+								"previewName": "RANKED_REWARD_SHORT_BADGE",
+								"previewIcon": "rui/gladiator_cards/badges/account_t3",
+								"previewImage": "",
+								"flavor": "settings/itemflav/gcard_badge/account/ranked_s02_rpbadge.rpak",
+								"previewIconShowBox": false
+							}
+						],
+					"divisions": [
+							{
+								"name": "#RANKED_DIVISION_SILVER_IV",
+								"emblemText": "#RANKED_DIVISION_IV",
+								"scoreMin": 120,
+								"divisionEntryCost": -1
+							},
+							{
+								"name": "#RANKED_DIVISION_SILVER_III",
+								"emblemText": "#RANKED_DIVISION_III",
+								"scoreMin": 160,
+								"divisionEntryCost": -1
+							},
+							{
+								"name": "#RANKED_DIVISION_SILVER_II",
+								"emblemText": "#RANKED_DIVISION_II",
+								"scoreMin": 200,
+								"divisionEntryCost": -1
+							},
+							{
+								"name": "#RANKED_DIVISION_SILVER_I",
+								"emblemText": "#RANKED_DIVISION_I",
+								"scoreMin": 240,
+								"divisionEntryCost": -1
+							}
+						],
+					"allowsDemotion": true
+				},
+				{
+					"name": "#RANKED_TIER_GOLD",
+					"icon": "rui/menu/ranked/rank_emblem_gold",
+					"iconRuiAsset": "ui/ranked_badge_basic.rpak",
+					"bgImage": "rui/menu/ranked/bg_gold",
+					"levelUpRuiAsset": "ui/rank_emblem_rank_up_anim_t3t4.rpak",
+					"promotionAnnouncement": "glad_rankTypeGold",
+					"entryCost": 2,
+					"maxProtection": 3,
+					"minProtection": 3,
+					"rewards": [
+							{
+								"previewName": "RANKED_REWARD_SHORT_BADGE",
+								"previewIcon": "rui/gladiator_cards/badges/account_t3",
+								"previewImage": "",
+								"flavor": "settings/itemflav/gcard_badge/account/ranked_s02_rpbadge.rpak",
+								"previewIconShowBox": false
+							},
+							{
+								"previewName": "RANKED_REWARD_SHORT_COSMETIC",
+								"previewIcon": "rui/weapon_icons/attachments/hcog",
+								"previewImage": "",
+								"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v19_br_rankplayer_s02_gold01.rpak",
+								"previewIconShowBox": true
+							}
+						],
+					"divisions": [
+							{
+								"name": "#RANKED_DIVISION_GOLD_IV",
+								"emblemText": "#RANKED_DIVISION_IV",
+								"scoreMin": 280,
+								"divisionEntryCost": -1
+							},
+							{
+								"name": "#RANKED_DIVISION_GOLD_III",
+								"emblemText": "#RANKED_DIVISION_III",
+								"scoreMin": 330,
+								"divisionEntryCost": -1
+							},
+							{
+								"name": "#RANKED_DIVISION_GOLD_II",
+								"emblemText": "#RANKED_DIVISION_II",
+								"scoreMin": 380,
+								"divisionEntryCost": -1
+							},
+							{
+								"name": "#RANKED_DIVISION_GOLD_I",
+								"emblemText": "#RANKED_DIVISION_I",
+								"scoreMin": 430,
+								"divisionEntryCost": -1
+							}
+						],
+					"allowsDemotion": true
+				},
+				{
+					"name": "#RANKED_TIER_PLATINUM",
+					"icon": "rui/menu/ranked/rank_emblem_platinum",
+					"iconRuiAsset": "ui/ranked_badge_basic.rpak",
+					"bgImage": "rui/menu/ranked/bg_platinum",
+					"levelUpRuiAsset": "ui/rank_emblem_rank_up_anim_t4t5.rpak",
+					"promotionAnnouncement": "glad_rankTypePlatinum",
+					"entryCost": 3,
+					"maxProtection": 3,
+					"minProtection": 3,
+					"rewards": [
+							{
+								"previewName": "RANKED_REWARD_SHORT_BADGE",
+								"previewIcon": "rui/gladiator_cards/badges/account_t3",
+								"previewImage": "",
+								"flavor": "settings/itemflav/gcard_badge/account/ranked_s02_rpbadge.rpak",
+								"previewIconShowBox": false
+							},
+							{
+								"previewName": "RANKED_REWARD_SHORT_COSMETIC",
+								"previewIcon": "rui/weapon_icons/attachments/hcog",
+								"previewImage": "",
+								"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v19_br_rankplayer_s02_platinum01.rpak",
+								"previewIconShowBox": true
+							}
+						],
+					"divisions": [
+							{
+								"name": "#RANKED_DIVISION_PLATINUM_IV",
+								"emblemText": "#RANKED_DIVISION_IV",
+								"scoreMin": 480,
+								"divisionEntryCost": -1
+							},
+							{
+								"name": "#RANKED_DIVISION_PLATINUM_III",
+								"emblemText": "#RANKED_DIVISION_III",
+								"scoreMin": 540,
+								"divisionEntryCost": -1
+							},
+							{
+								"name": "#RANKED_DIVISION_PLATINUM_II",
+								"emblemText": "#RANKED_DIVISION_II",
+								"scoreMin": 600,
+								"divisionEntryCost": -1
+							},
+							{
+								"name": "#RANKED_DIVISION_PLATINUM_I",
+								"emblemText": "#RANKED_DIVISION_I",
+								"scoreMin": 660,
+								"divisionEntryCost": -1
+							}
+						],
+					"allowsDemotion": true
+				},
+				{
+					"name": "#RANKED_TIER_DIAMOND",
+					"icon": "rui/menu/ranked/rank_emblem_diamond_flat",
+					"iconRuiAsset": "ui/rank_emblem_diamond_anim.rpak",
+					"bgImage": "rui/menu/ranked/bg_diamond",
+					"levelUpRuiAsset": "ui/rank_emblem_rank_up_anim_t5t6.rpak",
+					"promotionAnnouncement": "glad_rankTypeDiamond",
+					"entryCost": 4,
+					"maxProtection": 3,
+					"minProtection": 3,
+					"rewards": [
+							{
+								"previewName": "RANKED_REWARD_SHORT_BADGE",
+								"previewIcon": "rui/gladiator_cards/badges/account_t3",
+								"previewImage": "",
+								"flavor": "settings/itemflav/gcard_badge/account/ranked_s02_rpbadge.rpak",
+								"previewIconShowBox": false
+							},
+							{
+								"previewName": "RANKED_REWARD_SHORT_COSMETIC",
+								"previewIcon": "rui/weapon_icons/attachments/hcog",
+								"previewImage": "",
+								"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v19_br_rankplayer_s02_diamond01.rpak",
+								"previewIconShowBox": true
+							},
+							{
+								"previewName": "RANKED_REWARD_SHORT_TRAIL",
+								"previewIcon": "rui/hud/poi_icons/poi_slide_start",
+								"previewImage": "",
+								"flavor": "settings/itemflav/skydive_trail/s02_diamond.rpak",
+								"previewIconShowBox": true
+							}
+						],
+					"divisions": [
+							{
+								"name": "#RANKED_DIVISION_DIAMOND_IV",
+								"emblemText": "#RANKED_DIVISION_IV",
+								"scoreMin": 720,
+								"divisionEntryCost": -1
+							},
+							{
+								"name": "#RANKED_DIVISION_DIAMOND_III",
+								"emblemText": "#RANKED_DIVISION_III",
+								"scoreMin": 790,
+								"divisionEntryCost": -1
+							},
+							{
+								"name": "#RANKED_DIVISION_DIAMOND_II",
+								"emblemText": "#RANKED_DIVISION_II",
+								"scoreMin": 860,
+								"divisionEntryCost": -1
+							},
+							{
+								"name": "#RANKED_DIVISION_DIAMOND_I",
+								"emblemText": "#RANKED_DIVISION_I",
+								"scoreMin": 930,
+								"divisionEntryCost": -1
+							}
+						],
+					"allowsDemotion": true
+				},
+				{
+					"name": "#RANKED_TIER_APEX_PREDATOR",
+					"icon": "rui/menu/ranked/rank_emblem_apex_flat",
+					"iconRuiAsset": "ui/rank_emblem_apex_anim.rpak",
+					"bgImage": "rui/menu/ranked/bg_apex",
+					"levelUpRuiAsset": "ui/rank_emblem_rank_up_anim_t1t2.rpak",
+					"promotionAnnouncement": "glad_rankTypeApexPredator",
+					"entryCost": 5,
+					"maxProtection": 3,
+					"minProtection": 3,
+					"rewards": [
+							{
+								"previewName": "RANKED_REWARD_SHORT_BADGE",
+								"previewIcon": "rui/gladiator_cards/badges/account_t3",
+								"previewImage": "",
+								"flavor": "settings/itemflav/gcard_badge/account/ranked_s02_rpbadge.rpak",
+								"previewIconShowBox": false
+							},
+							{
+								"previewName": "RANKED_REWARD_SHORT_COSMETIC",
+								"previewIcon": "rui/weapon_icons/attachments/hcog",
+								"previewImage": "",
+								"flavor": "settings/itemflav/weapon_charm/charm_apex_mode_v19_br_rankplayer_s02_predator01.rpak",
+								"previewIconShowBox": true
+							},
+							{
+								"previewName": "RANKED_REWARD_SHORT_TRAIL",
+								"previewIcon": "rui/hud/poi_icons/poi_slide_start",
+								"previewImage": "",
+								"flavor": "settings/itemflav/skydive_trail/s02_apex_predator.rpak",
+								"previewIconShowBox": true
+							}
+						],
+					"divisions": [
+							{
+								"name": "#RANKED_DIVISION_APEX_PREDATOR",
+								"emblemText": "SHOW_RP",
+								"scoreMin": 1000,
+								"divisionEntryCost": -1
+							}
+						],
+					"allowsDemotion": true
+				}
+			],
+		"ladderOnlyTier": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"rewardOnHighestWatermark": false
+	}
+}

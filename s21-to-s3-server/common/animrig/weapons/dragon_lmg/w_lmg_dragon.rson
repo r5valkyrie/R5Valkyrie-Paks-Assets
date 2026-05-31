@@ -1,0 +1,7 @@
+seqs:
+[
+	animseq\weapons\dragon_lmg\w_lmg_dragon\attack_seq.rseq
+	animseq\weapons\dragon_lmg\w_lmg_dragon\attack_seq_alt1.rseq
+	animseq\weapons\dragon_lmg\w_lmg_dragon\attack_seq_alt2.rseq
+	animseq\weapons\dragon_lmg\w_lmg_dragon\idle_seq.rseq
+]

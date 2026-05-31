@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 2061305915,
+	"settings": {
+		"assetName": "settings/itemflav/ability/axiom_tac_shield_throw.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID02061305915",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#WPN_SHIELD_THROW",
+		"localizationKey_NAME_SHORT": "#WPN_SHIELD_THROW_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "#WPN_SHIELD_THROW_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#WPN_SHIELD_THROW_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/tactical_icons/tactical_axiom",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "mp_ability_shield_throw",
+		"passiveScriptRef": "",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

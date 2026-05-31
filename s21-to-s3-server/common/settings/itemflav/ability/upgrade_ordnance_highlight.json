@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 1807151030,
+	"settings": {
+		"assetName": "settings/itemflav/ability/upgrade_ordnance_highlight.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01807151030",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#UPGRADE_HORIZON_PAS_ORDNANCE_VIS_NAME",
+		"localizationKey_NAME_SHORT": "#UPGRADE_TYPE_PASSIVE",
+		"localizationKey_DESCRIPTION_LONG": "#UPGRADE_HORIZON_PAS_ORDNANCE_VIS_LONG_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#UPGRADE_HORIZON_PAS_ORDNANCE_VIS_SHORT_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/legend_upgrades/common_bigbang_icon",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_ORDNANCE_HIGHLIGHT",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

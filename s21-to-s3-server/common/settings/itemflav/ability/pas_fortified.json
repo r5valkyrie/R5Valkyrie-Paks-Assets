@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 1468761792,
+	"settings": {
+		"assetName": "settings/itemflav/ability/pas_fortified.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01468761792",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#PAS_FORTIFIED",
+		"localizationKey_NAME_SHORT": "#PAS_FORTIFIED",
+		"localizationKey_DESCRIPTION_LONG": "#PAS_FORTIFIED_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#PAS_FORTIFIED_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/passive_icons/juggernaut",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_FORTIFIED",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

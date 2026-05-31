@@ -1,0 +1,64 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_entitlement_layout.rpak",
+	"uniqueId": 783958742,
+	"settings": {
+		"assetName": "settings/itemflav/entitlement/XBOX_GOLD_PACK_01.rpak",
+		"itemType": "entitlement",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00783958742",
+		"__featureFlag": "",
+		"devDescription": "Xbox Gold Pack 1",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"entitlementType": "firstparty",
+		"twitchRef": "",
+		"twitchRef": "",
+		"enum": "XBOX_GOLD_PACK_01",
+		"pc": "XBOX_GOLD_PACK_01",
+		"ps4": "XBG1",
+		"xb1": "XBOX_GOLD_PACK_01",
+		"switch": "XBOX_GOLD_PACK_01",
+		"pc_offer": "",
+		"steam_offer": "",
+		"xb1_offer": "37425039-5056-3044-c053-315a35565500",
+		"menuTitleText": "#PROMO_REWARDS_UNLOCKED",
+		"menuDescText": "#PROMO_XBOX_GOLD01_OWNED",
+		"menuImageName": "playstation_plus_pack11",
+		"menuPersistenceVarName": "",
+		"list": [
+				{
+					"flavor": "settings/itemflav/character_skin/horizon/psplus11_rare_v21_pspack.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/character_skin/pathfinder/psplus11_rare_v21_pspack.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/gcard_frame/horizon/psplus11_rare_v21_pspack.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/gcard_frame/pathfinder/psplus11_rare_v21_pspack.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/alternator/psplus11_rare_v21_pspack.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/tripletake/psplus11_rare_v21_pspack.rpak",
+					"quantity": 1
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isMenuEnabled": false
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_PlayFX_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/fx_rev_reboot_char_sel_cable_elecArcs_1.rpak",
+		"devDescription": "rev_joint_cable_arc_FX",
+		"type": "PlayFX",
+		"particleSystemName": "P_rev_charSel_cable_Elec",
+		"attachPoint": "fx_cable_tip",
+		"followAttach": true,
+		"playEndCap": false
+	}
+}

@@ -1,0 +1,7 @@
+seqs:
+[
+	animseq\humans\class\medium\pilot_medium_stim_OP\octane_op_v23_menu_readyUp.rseq
+	animseq\humans\class\medium\pilot_medium_stim_OP\octane_op_v23_menu_select.rseq
+	animseq\humans\class\medium\pilot_medium_stim_OP\octane_op_v23_menu_select_idle.rseq
+	animseq\humans\class\medium\pilot_medium_stim_OP\octane_op_v23_menu_select_readyUp_idle.rseq
+]

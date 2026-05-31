@@ -1,0 +1,33 @@
+seqs:
+[
+	animseq\weapons\nova_trophy_system\ptpov_nova_trophy_system_held\crouch.rseq
+	animseq\weapons\nova_trophy_system\ptpov_nova_trophy_system_held\crouch_to_hold.rseq
+	animseq\weapons\nova_trophy_system\ptpov_nova_trophy_system_held\crouch_to_sprint.rseq
+	animseq\weapons\nova_trophy_system\ptpov_nova_trophy_system_held\draw.rseq
+	animseq\weapons\nova_trophy_system\ptpov_nova_trophy_system_held\draw_onehanded.rseq
+	animseq\weapons\nova_trophy_system\ptpov_nova_trophy_system_held\draw_to_crouch.rseq
+	animseq\weapons\nova_trophy_system\ptpov_nova_trophy_system_held\draw_to_hold.rseq
+	animseq\weapons\nova_trophy_system\ptpov_nova_trophy_system_held\draw_to_hold_onehanded.rseq
+	animseq\weapons\nova_trophy_system\ptpov_nova_trophy_system_held\draw_to_slide.rseq
+	animseq\weapons\nova_trophy_system\ptpov_nova_trophy_system_held\draw_to_sprint.rseq
+	animseq\weapons\nova_trophy_system\ptpov_nova_trophy_system_held\fire.rseq
+	animseq\weapons\nova_trophy_system\ptpov_nova_trophy_system_held\fire_onehanded.rseq
+	animseq\weapons\nova_trophy_system\ptpov_nova_trophy_system_held\hold_to_crouch.rseq
+	animseq\weapons\nova_trophy_system\ptpov_nova_trophy_system_held\hold_to_hold_onehanded.rseq
+	animseq\weapons\nova_trophy_system\ptpov_nova_trophy_system_held\hold_to_sprint.rseq
+	animseq\weapons\nova_trophy_system\ptpov_nova_trophy_system_held\holster.rseq
+	animseq\weapons\nova_trophy_system\ptpov_nova_trophy_system_held\holster_onehanded.rseq
+	animseq\weapons\nova_trophy_system\ptpov_nova_trophy_system_held\idle.rseq
+	animseq\weapons\nova_trophy_system\ptpov_nova_trophy_system_held\idle_onehanded.rseq
+	animseq\weapons\nova_trophy_system\ptpov_nova_trophy_system_held\jump.rseq
+	animseq\weapons\nova_trophy_system\ptpov_nova_trophy_system_held\land_high.rseq
+	animseq\weapons\nova_trophy_system\ptpov_nova_trophy_system_held\land_low.rseq
+	animseq\weapons\nova_trophy_system\ptpov_nova_trophy_system_held\land_med.rseq
+	animseq\weapons\nova_trophy_system\ptpov_nova_trophy_system_held\newt_eye_autoplay.rseq
+	animseq\weapons\nova_trophy_system\ptpov_nova_trophy_system_held\petting.rseq
+	animseq\weapons\nova_trophy_system\ptpov_nova_trophy_system_held\petting_onehanded.rseq
+	animseq\weapons\nova_trophy_system\ptpov_nova_trophy_system_held\slide.rseq
+	animseq\weapons\nova_trophy_system\ptpov_nova_trophy_system_held\sprint.rseq
+	animseq\weapons\nova_trophy_system\ptpov_nova_trophy_system_held\sprint_to_slide.rseq
+	animseq\weapons\nova_trophy_system\ptpov_nova_trophy_system_held\zipline_mount.rseq
+]

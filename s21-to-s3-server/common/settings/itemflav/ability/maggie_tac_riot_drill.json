@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 1348345217,
+	"settings": {
+		"assetName": "settings/itemflav/ability/maggie_tac_riot_drill.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01348345217",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#WPN_RIOT_DRILL",
+		"localizationKey_NAME_SHORT": "#WPN_RIOT_DRILL_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "#WPN_RIOT_DRILL_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#WPN_RIOT_DRILL_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/tactical_icons/tactical_maggie",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "mp_weapon_riot_drill",
+		"passiveScriptRef": "",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

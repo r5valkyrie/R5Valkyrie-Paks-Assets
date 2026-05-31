@@ -1,0 +1,36 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_emote_icon_layout.rpak",
+	"uniqueId": 763443242,
+	"settings": {
+		"assetName": "settings/itemflav/emote_icon/valkyrie/epic_02.rpak",
+		"itemType": "emote_icon",
+		"parentItemFlavor": "settings/itemflav/character/valkyrie.rpak",
+		"settingsAssetID": "SAID00763443242",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#spray_epic_v21_valk_03",
+		"localizationKey_NAME_SHORT": "#spray_epic_v21_valk_03",
+		"localizationKey_DESCRIPTION_LONG": "#spray_epic_v21_valk_03",
+		"localizationKey_DESCRIPTION_SHORT": "#spray_epic_v21_valk_03",
+		"quality": "EPIC",
+		"icon": "rui/menu/holosprays/hspray_epic_v21_valk_03",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "emote_icon_valkyrie_epic_02",
+		"ownershipTarget": "",
+		"anim3p": "",
+		"holoProjectorSprayModel": "mdl/props/holo_spray/hspray_epic_v21_valk_03.rmdl",
+		"quickchatAliasSubName": "",
+		"customSkinMenuBlurb": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.450000,0.908000,0.309000>",
+		"holoProjectorEffectColor2": "<1.300000,0.364000,0.091000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": true,
+		"holoProjectorUseEffectColor2": true,
+		"isTheEmpty": false
+	}
+}

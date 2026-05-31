@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/mirage/epicp_v23_outbeast.rpak",
+		"roots": [
+				{
+					"asset": "mdl/humans/class/medium/pilot_medium_holo.rmdl",
+					"featureFlag": "HAS_20_0_RELEASE"
+				},
+				{
+					"asset": "mdl/weapons/arms/pov_pilot_medium_holo.rmdl",
+					"featureFlag": "HAS_20_0_RELEASE"
+				}
+			]
+	}
+}

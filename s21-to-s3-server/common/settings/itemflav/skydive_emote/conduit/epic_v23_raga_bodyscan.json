@@ -1,0 +1,31 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_skydive_emote_layout.rpak",
+	"uniqueId": 1868422416,
+	"settings": {
+		"assetName": "settings/itemflav/skydive_emote/conduit/epic_v23_raga_bodyscan.rpak",
+		"itemType": "skydive_emote",
+		"parentItemFlavor": "settings/itemflav/character/conduit.rpak",
+		"settingsAssetID": "SAID01868422416",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#skydive_emote_conduit_bodyscan",
+		"localizationKey_NAME_SHORT": "#skydive_emote_conduit_bodyscan",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/character_emotes/conduit/skydiving",
+		"tagIcon": "rui/events/s19bp/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "skydive_emote_conduit_epic_v23_raga_bodyscan",
+		"ownershipTarget": "",
+		"animSequence": "animseq/humans/class/light/pilot_light_conduit/conduit_freefall_emote_bodyscan.rseq",
+		"video": "media/skydive_emotes/conduit_bodyscan",
+		"bcEvent": "bc_skydive",
+		"multipleOwnershipTargets": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false
+	}
+}

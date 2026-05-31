@@ -1,0 +1,34 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_calevent_login_layout.rpak",
+	"uniqueId": 1560000266,
+	"settings": {
+		"assetName": "settings/itemflav/calevent/login_april_fools_2024.rpak",
+		"itemType": "calevent_login",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01560000266",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#LOGIN_REWARD_APRIL_FOOLS",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "#LOGIN_REWARD_APRIL_FOOLS_DESCRIPTION",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"revealUnixTime": "",
+		"hideUnixTime": "",
+		"defaultStartTime": "2024-04-01 10:00:00 -07:00",
+		"defaultFinishTime": "2024-04-08 10:00:00 -07:00",
+		"ceremonyImage": "",
+		"ceremonyTitle": "#LOGIN_REWARD_APRIL_FOOLS",
+		"ceremonyDesc": "#LOGIN_REWARD_APRIL_FOOLS_DESCRIPTION",
+		"loginRewards": [
+				{
+					"flavor": "settings/itemflav/gcard_badge/account/april_fools_2024.rpak"
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

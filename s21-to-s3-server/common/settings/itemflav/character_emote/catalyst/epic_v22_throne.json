@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 1292507847,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/catalyst/epic_v22_throne.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/catalyst.rpak",
+		"settingsAssetID": "SAID01292507847",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#ground_emote_catalyst_throne",
+		"localizationKey_NAME_SHORT": "#ground_emote_catalyst_throne",
+		"localizationKey_DESCRIPTION_LONG": "#ground_emote_catalyst_throne",
+		"localizationKey_DESCRIPTION_SHORT": "#ground_emote_catalyst_throne",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/character_emotes/catalyst/throne",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_catalyst_epic_v22_throne",
+		"ownershipTarget": "",
+		"anim3p": "catalyst_ground_emote_throne",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

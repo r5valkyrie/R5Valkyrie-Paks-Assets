@@ -1,0 +1,12 @@
+seqs:
+[
+	animseq\weapons\empty_handed\ptpov_conduit_arc_flash\draw_to_idle.rseq
+	animseq\weapons\empty_handed\ptpov_conduit_arc_flash\holster_01.rseq
+	animseq\weapons\empty_handed\ptpov_conduit_arc_flash\lower.rseq
+	animseq\weapons\empty_handed\ptpov_conduit_arc_flash\raise.rseq
+	animseq\weapons\empty_handed\ptpov_conduit_arc_flash\toss.rseq
+	animseq\weapons\empty_handed\ptpov_conduit_arc_flash\toss_02.rseq
+	animseq\weapons\empty_handed\ptpov_conduit_arc_flash\toss_03.rseq
+	animseq\weapons\empty_handed\ptpov_conduit_arc_flash\toss_hold.rseq
+	animseq\weapons\empty_handed\ptpov_conduit_arc_flash\toss_prep_pullout.rseq
+]

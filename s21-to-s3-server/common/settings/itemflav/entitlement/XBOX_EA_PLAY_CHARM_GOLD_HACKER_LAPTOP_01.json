@@ -1,0 +1,44 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_entitlement_layout.rpak",
+	"uniqueId": 594938046,
+	"settings": {
+		"assetName": "settings/itemflav/entitlement/XBOX_EA_PLAY_CHARM_GOLD_HACKER_LAPTOP_01.rpak",
+		"itemType": "entitlement",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00594938046",
+		"__featureFlag": "",
+		"devDescription": "Weapon charm for Xbox players",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"entitlementType": "firstparty",
+		"twitchRef": "",
+		"twitchRef": "",
+		"enum": "XBOX_EA_PLAY_CHARM_GOLD_HACKER_LAPTOP_01",
+		"pc": "XBOX_EA_PLAY_CHARM_GOLD_HACKER_LAPTOP_01",
+		"ps4": "XBOX_EA_PLAY_CHARM_GOLD_HACKER_LAPTOP_01",
+		"xb1": "XBOX_EA_PLAY_CHARM_GOLD_HACKER_LAPTOP_01",
+		"switch": "XBOX_EA_PLAY_CHARM_GOLD_HACKER_LAPTOP_01",
+		"pc_offer": "",
+		"steam_offer": "",
+		"xb1_offer": "53315039-5742-3056-c033-50565a548300",
+		"menuTitleText": "#ORIGIN_ACCESS",
+		"menuDescText": "#PROMO_EA_PLAY_CHARM_OWNED",
+		"menuImageName": "ea_play_offer23_goldhackerlaptop",
+		"menuPersistenceVarName": "",
+		"list": [
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_asset_v22_misc_goldhackerlaptop01.rpak",
+					"quantity": 1
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isMenuEnabled": false
+	}
+}

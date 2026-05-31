@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/bangalore/rare_v24_algs.rpak",
+		"roots": [
+				{
+					"asset": "mdl/techart/mshop/characters/legends/bangalore/pilot_medium_bangalore.rmdl",
+					"featureFlag": "HAS_21_0_RELEASE"
+				},
+				{
+					"asset": "mdl/techart/mshop/characters/legends/bangalore/pov_pilot_medium_bangalore.rmdl",
+					"featureFlag": "HAS_21_0_RELEASE"
+				}
+			]
+	}
+}

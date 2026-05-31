@@ -1,0 +1,5 @@
+seqs:
+[
+	animseq\weapons\r97\ptpov_r97\idle_reactive_layer.rseq
+	animseq\weapons\r97\ptpov_r97\kill_reactive_layer.rseq
+]

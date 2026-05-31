@@ -1,0 +1,54 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_melee_weapon_layout.rpak",
+	"uniqueId": 1085775039,
+	"settings": {
+		"assetName": "settings/itemflav/loot/melee_weapon/lifeline_baton.rpak",
+		"itemType": "melee_weapon",
+		"parentItemFlavor": "settings/itemflav/character/lifeline.rpak",
+		"settingsAssetID": "SAID01085775039",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"meleeWeaponType": "HEIRLOOM",
+		"configurationFramework": "SKIN_ONLY",
+		"mainWeaponClassname": "mp_weapon_lifeline_baton_primary",
+		"offhandWeaponClassname": "melee_lifeline_baton",
+		"deathbox": "",
+		"menuAnimSeq": "",
+		"koSound": "",
+		"storeImage": "",
+		"equipImage": "",
+		"legends": [
+				{
+					"flavor": "settings/itemflav/character/lifeline.rpak",
+					"featureFlag": ""
+				}
+			],
+		"skins": [
+				{
+					"flavor": "settings/itemflav/melee_skin/lifeline_baton.rpak",
+					"featureFlag": ""
+				}
+			],
+		"componentSets": [
+			],
+		"menuMdlRot": "<0.000000,0.000000,0.000000>",
+		"skinAlias_sfxAliases": [
+			],
+		"battlePassScale": 2.600000,
+		"lootCeremonyScale": 1.800000,
+		"itemInspectScale": 1.000000,
+		"itemInspectOffset": "<0.000000,0.000000,0.000000>",
+		"scriptAnimWindowFXControls": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

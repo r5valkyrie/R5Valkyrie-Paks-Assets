@@ -1,0 +1,30 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_account_currency_layout.rpak",
+	"uniqueId": 620977515,
+	"settings": {
+		"assetName": "settings/itemflav/grx_currency/s21me02_coin.rpak",
+		"itemType": "account_currency",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00620977515",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#grx_currency_S21ME02_coin_NAME_LONG",
+		"localizationKey_NAME_SHORT": "#grx_currency_S21ME02_coin_NAME_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "#grx_currency_S21ME02_coin_DESCRIPTION_LONG",
+		"localizationKey_DESCRIPTION_SHORT": "#grx_currency_S21ME02_coin_DESCRIPTION_SHORT",
+		"quality": "EPIC",
+		"icon": "rui/events/s21me02/currency_icon",
+		"tagIcon": "",
+		"grxMode": "CURRENCY",
+		"grxMode": "CURRENCY",
+		"grxRef": "s21me02_coin",
+		"ownershipTarget": "",
+		"rewardIcon": "rui/events/s21me02/currency_reward_icon",
+		"previewMdl": "mdl/menu/coin_s2_icc.rmdl",
+		"purchaseSound": "UI_Menu_Purchase_IronCrowns",
+		"multipleOwnershipTargets": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

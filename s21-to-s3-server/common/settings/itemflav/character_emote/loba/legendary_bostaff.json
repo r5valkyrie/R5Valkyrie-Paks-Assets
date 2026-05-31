@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 1960614047,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/loba/legendary_bostaff.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/loba.rpak",
+		"settingsAssetID": "SAID01960614047",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#character_emote_loba_legendary_bostaff_NAME",
+		"localizationKey_NAME_SHORT": "#character_emote_loba_legendary_bostaff_NAME",
+		"localizationKey_DESCRIPTION_LONG": "#character_emote_loba_legendary_bostaff_NAME",
+		"localizationKey_DESCRIPTION_SHORT": "#character_emote_loba_legendary_bostaff_NAME",
+		"quality": "LEGENDARY",
+		"icon": "rui/menu/buttons/character_emotes/loba/bostaff",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_loba_legendary_bostaff",
+		"ownershipTarget": "",
+		"anim3p": "loba_ground_emote_bostaff",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

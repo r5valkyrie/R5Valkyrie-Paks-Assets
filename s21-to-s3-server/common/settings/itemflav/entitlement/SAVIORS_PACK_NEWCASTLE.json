@@ -1,0 +1,44 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_entitlement_layout.rpak",
+	"uniqueId": 1124181402,
+	"settings": {
+		"assetName": "settings/itemflav/entitlement/SAVIORS_PACK_NEWCASTLE.rpak",
+		"itemType": "entitlement",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01124181402",
+		"__featureFlag": "",
+		"devDescription": "Newcastle starter pack",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"entitlementType": "firstparty",
+		"twitchRef": "",
+		"twitchRef": "",
+		"enum": "SAVIORS_PACK_NEWCASTLE",
+		"pc": "APEX_SAVIORS_CONTENT",
+		"ps4": "SAVIORSCONTENT00",
+		"xb1": "SAVIORS_PACK_NEWCASTLE",
+		"switch": "SAVIORS_PACK_NEWCASTLE",
+		"pc_offer": "Origin.OFR.50.0004957",
+		"steam_offer": "Steam.OFR.50.0000096",
+		"xb1_offer": "514c4e39-5736-3058-c032-4d3734564900",
+		"menuTitleText": "#PROMO_NEWCASTLE_STARTER_PACK_HEADER",
+		"menuDescText": "#PROMO_NEWCASTLE_STARTER_PACK_TEXT",
+		"menuImageName": "newcastle_sku_2022",
+		"menuPersistenceVarName": "",
+		"list": [
+				{
+					"flavor": "settings/itemflav/character_skin/newcastle/rare_v22_heroknight.rpak",
+					"quantity": 1
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isMenuEnabled": false
+	}
+}

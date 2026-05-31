@@ -1,0 +1,33 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_stat_tracker_layout.rpak",
+	"uniqueId": 628100381,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_tracker/bangalore/s20bp_outurbana_kills.rpak",
+		"itemType": "gladiator_card_stat_tracker",
+		"parentItemFlavor": "settings/itemflav/character/bangalore.rpak",
+		"settingsAssetID": "SAID00628100381",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#gcard_tracker_bangalore_s20bp_outurbana_kills_NAME",
+		"localizationKey_NAME_SHORT": "#TRACKER_S20BP_OUTURBANA_KILLS",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "RARE",
+		"icon": "",
+		"tagIcon": "rui/events/s20bp/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "gcard_tracker_bangalore_s20bp_outurbana_kills",
+		"ownershipTarget": "",
+		"statRef": "stats.seasons[SAID01518645858].characters[%char%].kills",
+		"valueNumberFormat": "INTEGER",
+		"valueSuffix": "",
+		"backgroundImage": "rui/gladiator_cards/trackers/event/s20bp/s20bp_outurbana_bangalore",
+		"multipleOwnershipTargets": [
+			],
+		"color0": "<0.157000,0.980000,0.761000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false
+	}
+}

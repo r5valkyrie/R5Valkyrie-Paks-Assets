@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/seer/s10e02_lgnd_v21_monsters.rpak",
+		"roots": [
+				{
+					"asset": "mdl/content/r2/dmx/techart/mshop/characters/legends/seer/seer_lgnd_v21_monsters_w.rmdl",
+					"featureFlag": ""
+				},
+				{
+					"asset": "mdl/content/r2/dmx/techart/mshop/characters/legends/seer/seer_lgnd_v21_monsters_v.rmdl",
+					"featureFlag": ""
+				}
+			]
+	}
+}

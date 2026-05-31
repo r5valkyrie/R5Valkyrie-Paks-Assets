@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 1377096543,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/newcastle/epic_v22_funnydance.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/newcastle.rpak",
+		"settingsAssetID": "SAID01377096543",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#ground_emote_newcastle_funnydance",
+		"localizationKey_NAME_SHORT": "#ground_emote_newcastle_funnydance",
+		"localizationKey_DESCRIPTION_LONG": "#ground_emote_newcastle_funnydance",
+		"localizationKey_DESCRIPTION_SHORT": "#ground_emote_newcastle_funnydance",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/character_emotes/newcastle/funnydance",
+		"tagIcon": "rui/events/s16ce02/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_newcastle_epic_v22_funnydance",
+		"ownershipTarget": "",
+		"anim3p": "newcastle_ground_emote_funnydance",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

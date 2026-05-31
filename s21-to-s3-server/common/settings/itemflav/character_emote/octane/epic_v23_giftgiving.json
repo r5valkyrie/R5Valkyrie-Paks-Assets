@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 211370826,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/octane/epic_v23_giftgiving.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/octane.rpak",
+		"settingsAssetID": "SAID00211370826",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#ground_emote_octane_giftgiving",
+		"localizationKey_NAME_SHORT": "#ground_emote_octane_giftgiving",
+		"localizationKey_DESCRIPTION_LONG": "#ground_emote_octane_giftgiving",
+		"localizationKey_DESCRIPTION_SHORT": "#ground_emote_octane_giftgiving",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/character_emotes/octane/giftgiving",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_octane_epic_v23_giftgiving",
+		"ownershipTarget": "",
+		"anim3p": "octane_ground_emote_giftgiving",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 872288750,
+	"settings": {
+		"assetName": "settings/itemflav/ability/revenant_death_stalker_enhanced.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00872288750",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#PAS_ASSASSINS_INSTINCT",
+		"localizationKey_NAME_SHORT": "#PAS_ASSASSINS_INSTINCT",
+		"localizationKey_DESCRIPTION_LONG": "#PAS_ASSASSINS_INSTINCT_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#PAS_ASSASSINS_INSTINCT_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/passive_icons/passive_revenant_rework",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_REVENANT_REWORK",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

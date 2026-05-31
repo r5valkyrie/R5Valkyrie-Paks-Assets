@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 1991108515,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/lifeline/lgnd_v23_chillnightin.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/lifeline.rpak",
+		"settingsAssetID": "SAID01991108515",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#ground_emote_lifeline_chillnightin",
+		"localizationKey_NAME_SHORT": "#ground_emote_lifeline_chillnightin",
+		"localizationKey_DESCRIPTION_LONG": "#ground_emote_lifeline_chillnightin",
+		"localizationKey_DESCRIPTION_SHORT": "#ground_emote_lifeline_chillnightin",
+		"quality": "LEGENDARY",
+		"icon": "rui/hud/character_emotes/lifeline/icon_character_emote_lifeline_chillnightin",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_lifeline_lgnd_v23_chillnightin",
+		"ownershipTarget": "",
+		"anim3p": "lifeline_ground_emote_chillnightin_start",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "lifeline_ground_emote_chillnightin_loop",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

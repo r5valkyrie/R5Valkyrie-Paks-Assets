@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 12498636,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/wattson/epic_nessie_drop.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/wattson.rpak",
+		"settingsAssetID": "SAID00012498636",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#CHAR_EMOTE_047",
+		"localizationKey_NAME_SHORT": "#CHAR_EMOTE_047",
+		"localizationKey_DESCRIPTION_LONG": "#CHAR_EMOTE_047",
+		"localizationKey_DESCRIPTION_SHORT": "#CHAR_EMOTE_047",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/character_emotes/wattson/nessie_drop",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_wattson_epic_nessie_drop",
+		"ownershipTarget": "",
+		"anim3p": "wattson_ground_emote_nessie_drop",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

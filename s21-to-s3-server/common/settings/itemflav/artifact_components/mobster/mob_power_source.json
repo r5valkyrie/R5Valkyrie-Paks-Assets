@@ -1,0 +1,130 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_artifact_component_power_source_layout.rpak",
+	"uniqueId": 1658106738,
+	"settings": {
+		"assetName": "settings/itemflav/artifact_components/mobster/mob_power_source.rpak",
+		"itemType": "artifact_component_power_source",
+		"parentItemFlavor": "settings/itemflav/loot/melee_weapon/artifact_dagger.rpak",
+		"settingsAssetID": "SAID01658106738",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#mobsters_powersource_NAME",
+		"localizationKey_NAME_SHORT": "#mobsters_powersource_NAME",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "MYTHIC",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "artifact_dagger_mobsters_powersource",
+		"ownershipTarget": "",
+		"artifactComponentType": "POWER_SOURCE",
+		"themeName": "MOB",
+		"componentIcon": "rui/menu/melee_customization/power_sources/power_source_mob",
+		"multipleOwnershipTargets": [
+			],
+		"artifactMainColor": "<0.502000,1.000000,1.000000>",
+		"artifactSecondaryColor": "<0.000000,0.502000,1.000000>",
+		"smearColor": "<0.200000,0.500000,1.000000>",
+		"skinIdx": 1,
+		"attackFX": [
+				{
+					"fxAsset": "P_art_MOB_blade_attack_FP",
+					"attachName": "Fx_base",
+					"perspective": "1P"
+				},
+				{
+					"fxAsset": "P_art_MOB_power_attack_FP",
+					"attachName": "Fx_power_source",
+					"perspective": "1P"
+				},
+				{
+					"fxAsset": "P_art_MOB_blade_attack_3P",
+					"attachName": "Fx_base",
+					"perspective": "3P"
+				},
+				{
+					"fxAsset": "P_art_MOB_power_idle_3P",
+					"attachName": "Fx_power_source",
+					"perspective": "3P"
+				}
+			],
+		"idleFX": [
+				{
+					"fxAsset": "P_art_MOB_power_idle_FP",
+					"attachName": "Fx_power_source",
+					"perspective": "1P"
+				},
+				{
+					"fxAsset": "P_art_MOB_blade_idle_FP",
+					"attachName": "Fx_base",
+					"perspective": "1P"
+				},
+				{
+					"fxAsset": "P_art_MOB_power_idle_3P",
+					"attachName": "Fx_power_source",
+					"perspective": "3P"
+				},
+				{
+					"fxAsset": "P_art_MOB_blade_idle_3P",
+					"attachName": "Fx_base",
+					"perspective": "3P"
+				}
+			],
+		"startupFX": [
+				{
+					"fxAsset": "P_art_MOB_power_start_FP",
+					"attachName": "Fx_power_source",
+					"perspective": "1P"
+				}
+			],
+		"flourishFX": [
+				{
+					"fxAsset": "P_art_MOB_blade_flourish_FP",
+					"attachName": "Fx_base",
+					"perspective": "1P"
+				},
+				{
+					"fxAsset": "P_art_MOB_blade_flourish_3P",
+					"attachName": "Fx_base",
+					"perspective": "3P"
+				}
+			],
+		"inspectFX": [
+				{
+					"fxAsset": "P_art_MOB_power_inspect_FP",
+					"attachName": "Fx_power_source",
+					"perspective": "1P"
+				}
+			],
+		"lobbyFX": [
+				{
+					"fxAsset": "P_art_MOB_blade_idle_Menu",
+					"attachName": "Fx_base",
+					"perspective": "1P"
+				},
+				{
+					"fxAsset": "P_art_MOB_power_idle_Menu",
+					"attachName": "Fx_power_source",
+					"perspective": "3P"
+				}
+			],
+		"skinAlias_sfxAliases": [
+				{
+					"flavor": "settings/itemflav/sfx_alias/powersource_mobster_sfx.rpak",
+					"featureFlag": ""
+				}
+			],
+		"skinAlias_impactTableAliases": [
+				{
+					"flavor": "settings/itemflav/vfx_alias/artifacts/powersource_mobster_impact.rpak",
+					"featureFlag": ""
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isEmpty": false,
+		"shouldHideIfLocked": false
+	}
+}

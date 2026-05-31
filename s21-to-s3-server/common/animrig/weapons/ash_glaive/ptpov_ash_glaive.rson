@@ -1,0 +1,8 @@
+seqs:
+[
+	animseq\weapons\ash_glaive\ptpov_ash_glaive\draw_to_idle.rseq
+	animseq\weapons\ash_glaive\ptpov_ash_glaive\toss.rseq
+	animseq\weapons\ash_glaive\ptpov_ash_glaive\toss_hold.rseq
+	animseq\weapons\ash_glaive\ptpov_ash_glaive\toss_hold_sprinting.rseq
+	animseq\weapons\ash_glaive\ptpov_ash_glaive\toss_prep_pullout.rseq
+]

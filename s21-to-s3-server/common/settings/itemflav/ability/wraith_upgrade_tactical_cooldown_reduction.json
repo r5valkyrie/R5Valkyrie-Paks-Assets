@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 471706941,
+	"settings": {
+		"assetName": "settings/itemflav/ability/wraith_upgrade_tactical_cooldown_reduction.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00471706941",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#UPGRADE_TACTICAL_COOLDOWN_REDUCTION_NAME",
+		"localizationKey_NAME_SHORT": "#UPGRADE_TYPE_TACTICAL",
+		"localizationKey_DESCRIPTION_LONG": "#UPGRADE_TACTICAL_COOLDOWN_REDUCTION_LONG_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#UPGRADE_TACTICAL_COOLDOWN_REDUCTION_SHORT_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/legend_upgrades/wraith_tacticalupgrade_icon",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_TAC_COOLDOWN_REDUCTION",
+		"passiveWeaponMod": "upgrade_core_tac_cooldown_reduction",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

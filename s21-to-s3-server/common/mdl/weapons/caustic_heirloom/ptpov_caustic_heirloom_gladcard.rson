@@ -1,0 +1,8 @@
+rigs:
+[
+]
+seqs:
+[
+	animseq\weapons\caustic_heirloom\ptpov_caustic_heirloom_gladcard\Caustichammer_gladcards_animated_smash.rseq
+	animseq\weapons\caustic_heirloom\ptpov_caustic_heirloom_gladcard\Caustichammer_gladcards_animated_smash_idle.rseq
+]

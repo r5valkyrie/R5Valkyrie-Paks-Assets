@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 2062847940,
+	"settings": {
+		"assetName": "settings/itemflav/ability/upgrade_revenant_tac_cooldown.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID02062847940",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#UPGRADE_TACTICAL_COOLDOWN_REDUCTION_NAME",
+		"localizationKey_NAME_SHORT": "#UPGRADE_TYPE_TACTICAL",
+		"localizationKey_DESCRIPTION_LONG": "#UPGRADE_TACTICAL_COOLDOWN_REDUCTION_LONG_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#UPGRADE_TACTICAL_COOLDOWN_REDUCTION_SHORT_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/legend_upgrades/revenant_tacticalupgrade_icon",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_MOD_UPGRADE_ONLY",
+		"passiveWeaponMod": "upgrade_tac_one",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

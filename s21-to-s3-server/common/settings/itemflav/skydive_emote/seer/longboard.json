@@ -1,0 +1,31 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_skydive_emote_layout.rpak",
+	"uniqueId": 1186489302,
+	"settings": {
+		"assetName": "settings/itemflav/skydive_emote/seer/longboard.rpak",
+		"itemType": "skydive_emote",
+		"parentItemFlavor": "settings/itemflav/character/seer.rpak",
+		"settingsAssetID": "SAID01186489302",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#skydive_emote_seer_longboard_NAME",
+		"localizationKey_NAME_SHORT": "#skydive_emote_seer_longboard_NAME",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/battlepass/skydive_emote_seer_longboard",
+		"tagIcon": "rui/events/s13e01/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "skydive_emote_seer_longboard",
+		"ownershipTarget": "",
+		"animSequence": "animseq/humans/class/medium/pilot_medium_seer/seer_freefall_emote_longboard.rseq",
+		"video": "media/skydive_emotes/seer_longboard",
+		"bcEvent": "bc_skydive",
+		"multipleOwnershipTargets": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false
+	}
+}

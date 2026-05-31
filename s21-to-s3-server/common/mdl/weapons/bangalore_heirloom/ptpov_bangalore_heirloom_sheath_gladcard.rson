@@ -1,0 +1,8 @@
+rigs:
+[
+]
+seqs:
+[
+	animseq\weapons\bangalore_heirloom\ptpov_bangalore_heirloom_gladcard\Bangaloreknife_gladcard_animated_heirloom_sheath.rseq
+	animseq\weapons\bangalore_heirloom\ptpov_bangalore_heirloom_gladcard\Bangaloreknife_gladcard_animated_heirloom_sheath_idle.rseq
+]

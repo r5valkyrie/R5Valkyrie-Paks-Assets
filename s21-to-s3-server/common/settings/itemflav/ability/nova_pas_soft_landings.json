@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 467463301,
+	"settings": {
+		"assetName": "settings/itemflav/ability/nova_pas_soft_landings.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00467463301",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#GEAR_MANOEUVERING_UNIT",
+		"localizationKey_NAME_SHORT": "#GEAR_MANOEUVERING_UNIT",
+		"localizationKey_DESCRIPTION_LONG": "#GEAR_MANOEUVERING_UNIT_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#GEAR_MANOEUVERING_UNIT_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/passive_icons/passive_nova",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_NOVA",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

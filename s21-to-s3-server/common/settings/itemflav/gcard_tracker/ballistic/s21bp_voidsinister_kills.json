@@ -1,0 +1,33 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_stat_tracker_layout.rpak",
+	"uniqueId": 258726982,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_tracker/ballistic/s21bp_voidsinister_kills.rpak",
+		"itemType": "gladiator_card_stat_tracker",
+		"parentItemFlavor": "settings/itemflav/character/ballistic.rpak",
+		"settingsAssetID": "SAID00258726982",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#gcard_tracker_ballistic_s21bp_voidsinister_kills_NAME",
+		"localizationKey_NAME_SHORT": "#TRACKER_S21BP_VOIDSINISTER_KILLS",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "RARE",
+		"icon": "",
+		"tagIcon": "rui/events/s21bp/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "gcard_tracker_ballistic_s21bp_voidsinister_kills",
+		"ownershipTarget": "",
+		"statRef": "stats.seasons[SAID01452791135].characters[%char%].kills",
+		"valueNumberFormat": "INTEGER",
+		"valueSuffix": "",
+		"backgroundImage": "rui/gladiator_cards/trackers/event/s21bp/s21bp_voidsinister_ballistic",
+		"multipleOwnershipTargets": [
+			],
+		"color0": "<0.023000,0.552000,0.235000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false
+	}
+}

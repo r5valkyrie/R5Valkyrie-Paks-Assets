@@ -1,0 +1,22 @@
+seqs:
+[
+	animseq\weapons\bolo_sword\ptpov_bolo_sword_ash\ads_in_seq.rseq
+	animseq\weapons\bolo_sword\ptpov_bolo_sword_ash\ads_out_onehanded_seq.rseq
+	animseq\weapons\bolo_sword\ptpov_bolo_sword_ash\ads_out_seq.rseq
+	animseq\weapons\bolo_sword\ptpov_bolo_sword_ash\draw_onehanded_seq.rseq
+	animseq\weapons\bolo_sword\ptpov_bolo_sword_ash\draw_seq.rseq
+	animseq\weapons\bolo_sword\ptpov_bolo_sword_ash\drawfirst_onehanded_seq.rseq
+	animseq\weapons\bolo_sword\ptpov_bolo_sword_ash\drawfirst_seq.rseq
+	animseq\weapons\bolo_sword\ptpov_bolo_sword_ash\holster_seq.rseq
+	animseq\weapons\bolo_sword\ptpov_bolo_sword_ash\idle_onehanded_seq.rseq
+	animseq\weapons\bolo_sword\ptpov_bolo_sword_ash\idle_seq.rseq
+	animseq\weapons\bolo_sword\ptpov_bolo_sword_ash\melee_dash_seq.rseq
+	animseq\weapons\bolo_sword\ptpov_bolo_sword_ash\raise_frommelee_seq.rseq
+	animseq\weapons\bolo_sword\ptpov_bolo_sword_ash\raise_onehanded_seq.rseq
+	animseq\weapons\bolo_sword\ptpov_bolo_sword_ash\raise_seq.rseq
+	animseq\weapons\bolo_sword\ptpov_bolo_sword_ash\run_layer.rseq
+	animseq\weapons\bolo_sword\ptpov_bolo_sword_ash\sprintdraw_seq.rseq
+	animseq\weapons\bolo_sword\ptpov_bolo_sword_ash\sprintraise_seq.rseq
+	animseq\weapons\bolo_sword\ptpov_bolo_sword_ash\switch_to_onehanded.rseq
+	animseq\weapons\bolo_sword\ptpov_bolo_sword_ash\switch_to_twohanded.rseq
+]

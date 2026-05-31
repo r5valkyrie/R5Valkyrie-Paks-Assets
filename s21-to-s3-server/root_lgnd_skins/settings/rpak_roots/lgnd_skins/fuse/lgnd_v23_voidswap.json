@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/fuse/lgnd_v23_voidswap.rpak",
+		"roots": [
+				{
+					"asset": "mdl/Humans/class/medium/fuse_lgnd_v23_voidswap_w.rmdl",
+					"featureFlag": "HAS_21_1_RELEASE"
+				},
+				{
+					"asset": "mdl/Weapons/arms/fuse_lgnd_v23_voidswap_v.rmdl",
+					"featureFlag": "HAS_21_1_RELEASE"
+				}
+			]
+	}
+}

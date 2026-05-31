@@ -1,0 +1,12 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_PlayFX_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/fx_mm_ball_hndl_hld_3P.rpak",
+		"devDescription": "",
+		"type": "PlayFX",
+		"particleSystemName": "P_mm_ball_sparks_hndl_hld_3P",
+		"attachPoint": "fx_handle_center",
+		"followAttach": true,
+		"playEndCap": true
+	}
+}

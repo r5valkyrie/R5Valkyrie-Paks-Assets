@@ -1,0 +1,8 @@
+rigs:
+[
+	animrig\weapons\prowler_smg\ptpov_prowler_smg.rrig
+	animrig\weapons\prowler_smg\ptpov_prowler_smg_reactive.rrig
+]
+seqs:
+[
+]

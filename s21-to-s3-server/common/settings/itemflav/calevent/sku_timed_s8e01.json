@@ -1,0 +1,27 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_calevent_skustore_layout.rpak",
+	"uniqueId": 1918741492,
+	"settings": {
+		"assetName": "settings/itemflav/calevent/sku_timed_s8e01.rpak",
+		"itemType": "calevent_skustore",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01918741492",
+		"__featureFlag": "",
+		"devDescription": "Calevent for S8.1 SKU store products.",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"revealUnixTime": "",
+		"hideUnixTime": "",
+		"defaultStartTime": "2021-05-18 10:00:00 -08:00",
+		"defaultFinishTime": "2071-05-18 10:00:00 -08:00",
+		"title": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

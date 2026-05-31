@@ -1,0 +1,11 @@
+seqs:
+[
+	animseq\props\marvin_tray\marvin_tray_animrig\mrvn_lobby_s20_drink_stolen_tray.rseq
+	animseq\props\marvin_tray\marvin_tray_animrig\mrvn_lobby_s20_enter_tray.rseq
+	animseq\props\marvin_tray\marvin_tray_animrig\mrvn_lobby_s20_idle_prowler_tray.rseq
+	animseq\props\marvin_tray\marvin_tray_animrig\mrvn_lobby_s20_idle_surprised_star_tray.rseq
+	animseq\props\marvin_tray\marvin_tray_animrig\mrvn_lobby_s20_idle_surprised_tray.rseq
+	animseq\props\marvin_tray\marvin_tray_animrig\mrvn_lobby_s20_idle_tray.rseq
+	animseq\props\marvin_tray\marvin_tray_animrig\mrvn_lobby_s20_idle_tray_twitch.rseq
+	animseq\props\marvin_tray\marvin_tray_animrig\mrvn_lobby_s20_idle_wave_tray.rseq
+]

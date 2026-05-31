@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 1347274719,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/octane/default.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/octane.rpak",
+		"settingsAssetID": "SAID01347274719",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#CHAR_EMOTE_031",
+		"localizationKey_NAME_SHORT": "#CHAR_EMOTE_031",
+		"localizationKey_DESCRIPTION_LONG": "#CHAR_EMOTE_031",
+		"localizationKey_DESCRIPTION_SHORT": "#CHAR_EMOTE_031",
+		"quality": "RARE",
+		"icon": "rui/menu/buttons/character_emotes/octane/wiggle",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"grxMode": "NONE",
+		"grxRef": "character_emote_octane_rare_wiggle",
+		"ownershipTarget": "",
+		"anim3p": "octane_ground_emote_wiggle",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 20.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

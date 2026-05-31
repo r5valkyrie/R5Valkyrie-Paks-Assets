@@ -1,0 +1,6 @@
+"fieldName","dataType","layoutIndex","helpText"
+"assetName","string","0",""
+"devDescription","string","0",""
+"type","string","0",""
+"skinName","string","0","Skin name to use, must be available in prop's skin list"
+"camoIndex","int","0","Camo index to use"

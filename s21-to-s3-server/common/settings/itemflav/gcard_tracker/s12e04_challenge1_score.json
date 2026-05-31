@@ -1,0 +1,33 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_stat_tracker_layout.rpak",
+	"uniqueId": 2047429420,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_tracker/s12e04_challenge1_score.rpak",
+		"itemType": "gladiator_card_stat_tracker",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID02047429420",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#gcard_tracker_frchallenge_1_NAME",
+		"localizationKey_NAME_SHORT": "#FRCHALLENGE_1_TARGETS_HIT",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "RARE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "gcard_tracker_s12e04_challenge1_score",
+		"ownershipTarget": "",
+		"statRef": "stats.s12e04_challenge_1",
+		"valueNumberFormat": "INTEGER",
+		"valueSuffix": "",
+		"backgroundImage": "rui/events/s12e04/s12e04_stat_tracker",
+		"multipleOwnershipTargets": [
+			],
+		"color0": "<0.224000,0.659000,0.976000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false
+	}
+}

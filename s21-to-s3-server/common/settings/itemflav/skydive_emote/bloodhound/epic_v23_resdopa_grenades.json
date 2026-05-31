@@ -1,0 +1,31 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_skydive_emote_layout.rpak",
+	"uniqueId": 2008128200,
+	"settings": {
+		"assetName": "settings/itemflav/skydive_emote/bloodhound/epic_v23_resdopa_grenades.rpak",
+		"itemType": "skydive_emote",
+		"parentItemFlavor": "settings/itemflav/character/bloodhound.rpak",
+		"settingsAssetID": "SAID02008128200",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#skydive_emote_bloodhound_grenades",
+		"localizationKey_NAME_SHORT": "#skydive_emote_bloodhound_grenades",
+		"localizationKey_DESCRIPTION_LONG": "#skydive_emote_bloodhound_grenades",
+		"localizationKey_DESCRIPTION_SHORT": "#skydive_emote_bloodhound_grenades",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/battlepass/skydive_emote_bloodhound_grenades",
+		"tagIcon": "rui/events/s18bp/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "skydive_emote_bloodhound_epic_v23_resdopa_grenades",
+		"ownershipTarget": "",
+		"animSequence": "animseq/humans/class/medium/pilot_medium_bloodhound/bloodhound_freefall_emote_grenades.rseq",
+		"video": "media/skydive_emotes/bloodhound_grenades",
+		"bcEvent": "bc_skydive",
+		"multipleOwnershipTargets": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false
+	}
+}

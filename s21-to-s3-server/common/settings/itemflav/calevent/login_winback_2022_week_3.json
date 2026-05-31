@@ -1,0 +1,46 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_calevent_login_layout.rpak",
+	"uniqueId": 895544858,
+	"settings": {
+		"assetName": "settings/itemflav/calevent/login_winback_2022_week_3.rpak",
+		"itemType": "calevent_login",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00895544858",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#WINBACK_2022_TITLE",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "#WINBACK_2022_WEEK_3",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"revealUnixTime": "",
+		"hideUnixTime": "",
+		"defaultStartTime": "2022-02-22 10:00:00 -08:00",
+		"defaultFinishTime": "2022-03-01 10:00:00 -08:00",
+		"ceremonyImage": "",
+		"ceremonyTitle": "#WINBACK_2022_TITLE",
+		"ceremonyDesc": "#WINBACK_2022_WEEK_3",
+		"loginRewards": [
+				{
+					"flavor": "settings/itemflav/pack/thematic_valkyrie.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/pack/thematic_valkyrie.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/pack/thematic_valkyrie.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/character/valkyrie.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/pack/cosmetic_legendary.rpak"
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

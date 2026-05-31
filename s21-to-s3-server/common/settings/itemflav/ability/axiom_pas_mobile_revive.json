@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 51526190,
+	"settings": {
+		"assetName": "settings/itemflav/ability/axiom_pas_mobile_revive.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00051526190",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#ABL_PASSIVE_MOBILE_REVIVE",
+		"localizationKey_NAME_SHORT": "#ABL_PASSIVE_MOBILE_REVIVE",
+		"localizationKey_DESCRIPTION_LONG": "#ABL_PASSIVE_MOBILE_REVIVE_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#ABL_PASSIVE_MOBILE_REVIVE_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/passive_icons/passive_axiom",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_AXIOM",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"extraDataSizeIndex": 1,
+	"subLayouts": [
+		"settings_layout/settings_itemtype_artifact_component_power_source_layout/multipleOwnershipTargets.csv",
+		"settings_layout/settings_itemtype_artifact_component_power_source_layout/attackFX.csv",
+		"settings_layout/settings_itemtype_artifact_component_power_source_layout/idleFX.csv",
+		"settings_layout/settings_itemtype_artifact_component_power_source_layout/startupFX.csv",
+		"settings_layout/settings_itemtype_artifact_component_power_source_layout/flourishFX.csv",
+		"settings_layout/settings_itemtype_artifact_component_power_source_layout/inspectFX.csv",
+		"settings_layout/settings_itemtype_artifact_component_power_source_layout/lobbyFX.csv",
+		"settings_layout/settings_itemtype_artifact_component_power_source_layout/skinAlias_sfxAliases.csv",
+		"settings_layout/settings_itemtype_artifact_component_power_source_layout/skinAlias_impactTableAliases.csv"
+	]
+}

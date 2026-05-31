@@ -1,0 +1,44 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_entitlement_layout.rpak",
+	"uniqueId": 1991394341,
+	"settings": {
+		"assetName": "settings/itemflav/entitlement/EMERGENCE_PACK_SEER.rpak",
+		"itemType": "entitlement",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01991394341",
+		"__featureFlag": "",
+		"devDescription": "Seer starter pack",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"entitlementType": "firstparty",
+		"twitchRef": "",
+		"twitchRef": "",
+		"enum": "EMERGENCE_PACK_SEER",
+		"pc": "APEX_EMERGENCE_CONTENT",
+		"ps4": "APS10PACKCONT000",
+		"xb1": "EMERGENCE_PACK_SEER",
+		"switch": "EMERGENCE_PACK_SEER",
+		"pc_offer": "Origin.OFR.50.0004631",
+		"steam_offer": "Steam.OFR.50.0000069",
+		"xb1_offer": "334c5039-3051-3031-c048-30443838e600",
+		"menuTitleText": "#PROMO_SEER_STARTER_PACK_HEADER",
+		"menuDescText": "#PROMO_SEER_STARTER_PACK_TEXT",
+		"menuImageName": "seer_sku_2021",
+		"menuPersistenceVarName": "",
+		"list": [
+				{
+					"flavor": "settings/itemflav/character_skin/seer/rarep_v21_starterpack.rpak",
+					"quantity": 1
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isMenuEnabled": false
+	}
+}

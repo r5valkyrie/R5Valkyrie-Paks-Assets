@@ -1,0 +1,27 @@
+seqs:
+[
+	animseq\weapons\alter_teleporter\alter_teleporter\draw.rseq
+	animseq\weapons\alter_teleporter\alter_teleporter\draw_onehand.rseq
+	animseq\weapons\alter_teleporter\alter_teleporter\draw_to_idlle.rseq
+	animseq\weapons\alter_teleporter\alter_teleporter\draw_to_onehand_idle.rseq
+	animseq\weapons\alter_teleporter\alter_teleporter\draw_to_sprint.rseq
+	animseq\weapons\alter_teleporter\alter_teleporter\holster.rseq
+	animseq\weapons\alter_teleporter\alter_teleporter\idle.rseq
+	animseq\weapons\alter_teleporter\alter_teleporter\idle_air.rseq
+	animseq\weapons\alter_teleporter\alter_teleporter\idle_onehand.rseq
+	animseq\weapons\alter_teleporter\alter_teleporter\idle_sprint.rseq
+	animseq\weapons\alter_teleporter\alter_teleporter\idle_to_onehand_idle.rseq
+	animseq\weapons\alter_teleporter\alter_teleporter\jump.rseq
+	animseq\weapons\alter_teleporter\alter_teleporter\land.rseq
+	animseq\weapons\alter_teleporter\alter_teleporter\land_low.rseq
+	animseq\weapons\alter_teleporter\alter_teleporter\land_low_high.rseq
+	animseq\weapons\alter_teleporter\alter_teleporter\land_low_medium.rseq
+	animseq\weapons\alter_teleporter\alter_teleporter\onehand_idle_to_idle.rseq
+	animseq\weapons\alter_teleporter\alter_teleporter\raise.rseq
+	animseq\weapons\alter_teleporter\alter_teleporter\sprintraise.rseq
+	animseq\weapons\alter_teleporter\alter_teleporter\toss.rseq
+	animseq\weapons\alter_teleporter\alter_teleporter\toss_onehand.rseq
+	animseq\weapons\alter_teleporter\alter_teleporter\toss_overhead.rseq
+	animseq\weapons\alter_teleporter\alter_teleporter\toss_overhead_onehand.rseq
+	animseq\weapons\alter_teleporter\alter_teleporter\zipline_mount.rseq
+]

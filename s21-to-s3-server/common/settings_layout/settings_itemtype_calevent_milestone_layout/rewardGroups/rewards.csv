@@ -1,0 +1,7 @@
+"fieldName","dataType","layoutIndex","helpText"
+"flavor","asset_noprecache","0",""
+"milestoneItemCustomImage","asset_noprecache","0",""
+"milestoneItemGridSizeOverrideRows","int","0","The number of rows for this item to span in the collection items grid."
+"milestoneItemGridSizeOverrideCols","int","0","The number of columns for this item to span in the collection items grid."
+"milestoneItemIsChaseItem","bool","0","If checked, this item will be considered a chase item and will get special UI treatment."
+"milestoneItemIsInItemPool","bool","0","If checked, this item will be counted as part of the item pool and included in the item pool counts."

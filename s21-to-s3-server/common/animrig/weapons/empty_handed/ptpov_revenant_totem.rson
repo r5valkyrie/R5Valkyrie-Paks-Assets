@@ -1,0 +1,32 @@
+seqs:
+[
+	animseq\weapons\empty_handed\ptpov_revenant_totem\fire_totem_base.rseq
+	animseq\weapons\empty_handed\ptpov_revenant_totem\fire_totem_delta.rseq
+	animseq\weapons\empty_handed\ptpov_revenant_totem\fire_totem_delta_alt.rseq
+	animseq\weapons\empty_handed\ptpov_revenant_totem\fire_totem_horror.rseq
+	animseq\weapons\empty_handed\ptpov_revenant_totem\fire_totem_ninjutsu.rseq
+	animseq\weapons\empty_handed\ptpov_revenant_totem\fire_totem_skull.rseq
+	animseq\weapons\empty_handed\ptpov_revenant_totem\fire_totem_witch.rseq
+	animseq\weapons\empty_handed\ptpov_revenant_totem\holster.rseq
+	animseq\weapons\empty_handed\ptpov_revenant_totem\holster_abilityUsed.rseq
+	animseq\weapons\empty_handed\ptpov_revenant_totem\idle.rseq
+	animseq\weapons\empty_handed\ptpov_revenant_totem\idle_airsprint.rseq
+	animseq\weapons\empty_handed\ptpov_revenant_totem\idle_onehanded.rseq
+	animseq\weapons\empty_handed\ptpov_revenant_totem\jump.rseq
+	animseq\weapons\empty_handed\ptpov_revenant_totem\jump_doublejump.rseq
+	animseq\weapons\empty_handed\ptpov_revenant_totem\jump_sliding.rseq
+	animseq\weapons\empty_handed\ptpov_revenant_totem\jump_sprinting.rseq
+	animseq\weapons\empty_handed\ptpov_revenant_totem\land.rseq
+	animseq\weapons\empty_handed\ptpov_revenant_totem\land_high.rseq
+	animseq\weapons\empty_handed\ptpov_revenant_totem\land_low.rseq
+	animseq\weapons\empty_handed\ptpov_revenant_totem\land_med.rseq
+	animseq\weapons\empty_handed\ptpov_revenant_totem\lower.rseq
+	animseq\weapons\empty_handed\ptpov_revenant_totem\raise.rseq
+	animseq\weapons\empty_handed\ptpov_revenant_totem\raise_to_idle.rseq
+	animseq\weapons\empty_handed\ptpov_revenant_totem\sprint.rseq
+	animseq\weapons\empty_handed\ptpov_revenant_totem\sprintjump.rseq
+	animseq\weapons\empty_handed\ptpov_revenant_totem\sprintraise.rseq
+	animseq\weapons\empty_handed\ptpov_revenant_totem\sprintslide.rseq
+	animseq\weapons\empty_handed\ptpov_revenant_totem\switch_to_twohanded.rseq
+	animseq\weapons\empty_handed\ptpov_revenant_totem\zipline_mount.rseq
+]

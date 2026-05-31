@@ -1,0 +1,7 @@
+seqs:
+[
+	animseq\weapons\defender\w_defender\attack_seq.rseq
+	animseq\weapons\defender\w_defender\charge_seq.rseq
+	animseq\weapons\defender\w_defender\idle_seq.rseq
+	animseq\weapons\defender\w_defender\idle_static.rseq
+]

@@ -1,0 +1,10 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_SetPropSkin_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/prop_crypto_heirloom_smear_rt01.rpak",
+		"devDescription": "",
+		"type": "SetPropSkin",
+		"skinName": "smear_rt01",
+		"camoIndex": 0
+	}
+}

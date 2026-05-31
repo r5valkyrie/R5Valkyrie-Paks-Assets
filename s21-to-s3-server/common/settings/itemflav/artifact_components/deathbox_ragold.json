@@ -1,0 +1,38 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_artifact_component_deathbox_layout.rpak",
+	"uniqueId": 705533011,
+	"settings": {
+		"assetName": "settings/itemflav/artifact_components/deathbox_ragold.rpak",
+		"itemType": "artifact_component_deathbox",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00705533011",
+		"__featureFlag": "",
+		"devDescription": "required values are just hardcoded in weapons/mp_weapon_artifact_sword_primary.nut for now",
+		"localizationKey_NAME": "#DEATHBOX_ONE_WINGED_ANGEL",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "MYTHIC",
+		"icon": "rui/menu/melee_customization/deathboxes/deathbox_ragold",
+		"tagIcon": "rui/events/s19me01/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "deathbox_ragold",
+		"ownershipTarget": "",
+		"artifactComponentType": "DEATHBOX",
+		"themeName": "RAGOLD",
+		"componentIcon": "rui/menu/melee_customization/deathboxes/deathbox_ragold",
+		"artifactDeathboxFXName": "P_death_box_fx_gh",
+		"artifactDeathboxModel": "mdl/techart/mshop/props/loot/deathbox/deathbox_lgnd_v23_ragold.rmdl",
+		"video": "media/deathboxes/deathbox_ragold",
+		"spawnSFX": "GoldenHorse_DeathBox_Appear",
+		"multipleOwnershipTargets": [
+			],
+		"artifactMainColor": "<1.000000,1.000000,1.000000>",
+		"artifactSecondaryColor": "<1.000000,1.000000,1.000000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isEmpty": false,
+		"shouldHideIfLocked": true
+	}
+}

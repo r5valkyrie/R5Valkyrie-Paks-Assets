@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 1340402908,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/madmaggie/epic_v23_trickster.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/madmaggie.rpak",
+		"settingsAssetID": "SAID01340402908",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#madmaggie_ground_emote_trickster",
+		"localizationKey_NAME_SHORT": "#madmaggie_ground_emote_trickster",
+		"localizationKey_DESCRIPTION_LONG": "#madmaggie_ground_emote_trickster",
+		"localizationKey_DESCRIPTION_SHORT": "#madmaggie_ground_emote_trickster",
+		"quality": "EPIC",
+		"icon": "rui/hud/character_emotes/madmaggie/icon_character_emote_madmaggie_trickster",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_madmaggie_epic_v23_trickster",
+		"ownershipTarget": "",
+		"anim3p": "madmaggie_ground_emote_trickster",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

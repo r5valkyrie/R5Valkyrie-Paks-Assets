@@ -1,0 +1,43 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_sticker_layout.rpak",
+	"uniqueId": 860467127,
+	"settings": {
+		"assetName": "settings/itemflav/sticker/_empty.rpak",
+		"itemType": "sticker",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00860467127",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "rui/menu/stickers/_empty",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"grxMode": "NONE",
+		"grxRef": "",
+		"ownershipTarget": "",
+		"stickerMaterial": "",
+		"nonDecalStickerMaterial": "",
+		"customSkinMenuBlurb": "",
+		"multipleOwnershipTargets": [
+			],
+		"injectorScales": [
+			],
+		"injectorScale": 0.004357,
+		"shieldCellScales": [
+			],
+		"shieldCellScale": 0.009357,
+		"shieldBatteryScales": [
+			],
+		"shieldBatteryScale": 0.009357,
+		"phoenixKitScales": [
+			],
+		"phoenixKitScale": 0.009357,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": true
+	}
+}

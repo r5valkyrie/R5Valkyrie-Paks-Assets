@@ -1,0 +1,34 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_artifact_component_theme_layout.rpak",
+	"uniqueId": 1240213433,
+	"settings": {
+		"assetName": "settings/itemflav/artifact_components/high_society/high_society_theme.rpak",
+		"itemType": "artifact_component_theme",
+		"parentItemFlavor": "settings/itemflav/loot/melee_weapon/artifact_dagger.rpak",
+		"settingsAssetID": "SAID01240213433",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#highsociety_theme_NAME",
+		"localizationKey_NAME_SHORT": "#highsociety_theme_NAME",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "MYTHIC",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "artifact_dagger_highsociety_theme",
+		"ownershipTarget": "",
+		"artifactComponentType": "THEME",
+		"themeName": "HISOC",
+		"componentIcon": "rui/menu/melee_customization/themes/theme_society",
+		"multipleOwnershipTargets": [
+			],
+		"artifactMainColor": "<1.000000,0.651000,0.008000>",
+		"artifactSecondaryColor": "<0.639000,0.267000,0.000000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isEmpty": false,
+		"shouldHideIfLocked": false
+	}
+}

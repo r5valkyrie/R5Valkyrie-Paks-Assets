@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 297737644,
+	"settings": {
+		"assetName": "settings/itemflav/ability/upgrade_rampart_ult_cooldown.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00297737644",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#UPGRADE_RAMPART_ULT_COOLDOWN_NAME",
+		"localizationKey_NAME_SHORT": "#UPGRADE_TYPE_ULTIMATE",
+		"localizationKey_DESCRIPTION_LONG": "#UPGRADE_RAMPART_ULT_COOLDOWN_LONG_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#UPGRADE_RAMPART_ULT_COOLDOWN_SHORT_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/legend_upgrades/rampart_ultimateupgrade_icon",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_ULT_UPGRADE_ONE",
+		"passiveWeaponMod": "upgrade_core_ult_cooldown_reduction",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

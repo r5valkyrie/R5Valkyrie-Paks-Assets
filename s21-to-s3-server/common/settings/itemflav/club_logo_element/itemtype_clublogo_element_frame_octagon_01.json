@@ -1,0 +1,28 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_club_logo_element_layout.rpak",
+	"uniqueId": 1103325290,
+	"settings": {
+		"assetName": "settings/itemflav/club_logo_element/itemtype_clublogo_element_frame_octagon_01.rpak",
+		"itemType": "club_logo_element",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01103325290",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#CLUBLOGOELEMENT_FRAME_OCTAGON01",
+		"localizationKey_NAME_SHORT": "#CLUBLOGOELEMENT_FRAME_OCTAGON01",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"clubLogoElementImage": "ui/menu/clubs/club_logo_layer_images/clublogo_frame_octagon_01",
+		"clubLogoElementSecondaryColorMask": "",
+		"elementCategory": "CLUBLOGOTYPE_FRAME",
+		"clubLogoElementFrameMask": "ui/menu/clubs/club_logo_layer_images/clublogo_frame_octagon_01_mask",
+		"elementCenterPointAdjustment": 0.000000,
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"clubLogoElementEnabled": true
+	}
+}

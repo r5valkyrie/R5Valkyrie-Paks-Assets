@@ -1,0 +1,14 @@
+{
+	"extraDataSizeIndex": 1,
+	"subLayouts": [
+		"settings_layout/settings_itemtype_battlepass_layout/multipleOwnershipTargets.csv",
+		"settings_layout/settings_itemtype_battlepass_layout/milestoneTierRepLevels.csv",
+		"settings_layout/settings_itemtype_battlepass_layout/milestoneBundleRepLevels.csv",
+		"settings_layout/settings_itemtype_battlepass_layout/bulletTextStandard.csv",
+		"settings_layout/settings_itemtype_battlepass_layout/bulletTextRestricted.csv",
+		"settings_layout/settings_itemtype_battlepass_layout/dailyChallenges.csv",
+		"settings_layout/settings_itemtype_battlepass_layout/weeklyRecurringChallenges.csv",
+		"settings_layout/settings_itemtype_battlepass_layout/weeklyChallenges.csv",
+		"settings_layout/settings_itemtype_battlepass_layout/rewardPopupLevels.csv"
+	]
+}

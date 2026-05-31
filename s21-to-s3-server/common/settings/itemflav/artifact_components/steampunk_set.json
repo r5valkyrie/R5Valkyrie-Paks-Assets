@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_artifact_component_set_layout.rpak",
+	"settings": {
+		"assetName": "settings/itemflav/artifact_components/steampunk_set.rpak",
+		"themeName": "STEAM",
+		"worldModel": "mdl/Weapons/char_artifact/w_set_v23_steam.rmdl",
+		"viewModel": "mdl/Weapons/char_artifact/ptpov_set_v23_steam.rmdl",
+		"blade": "settings/itemflav/artifact_components/steampunk/steampunk_blade.rpak",
+		"theme": "settings/itemflav/artifact_components/steampunk/steampunk_theme.rpak",
+		"powerSource": "settings/itemflav/artifact_components/steampunk/steampunk_power_source.rpak",
+		"deathbox": "settings/itemflav/artifact_components/steampunk/steampunk_deathbox.rpak",
+		"activationEmote": "settings/itemflav/artifact_components/steampunk/steampunk_activation_emote.rpak",
+		"setName": "#Rhodium_Set_NAME",
+		"setImageRef": "dl_store_atfc_rhdmset_sc1m"
+	}
+}

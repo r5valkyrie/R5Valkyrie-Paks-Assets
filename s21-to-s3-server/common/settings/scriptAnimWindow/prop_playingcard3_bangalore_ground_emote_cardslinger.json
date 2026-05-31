@@ -1,0 +1,10 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_SetPropSkin_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/prop_playingcard3_bangalore_ground_emote_cardslinger.rpak",
+		"devDescription": "",
+		"type": "SetPropSkin",
+		"skinName": "",
+		"camoIndex": 0
+	}
+}

@@ -1,0 +1,16 @@
+seqs:
+[
+	animseq\weapons\newcastle_tactical\ptpov_newcastle_tactical\draw_to_idle.rseq
+	animseq\weapons\newcastle_tactical\ptpov_newcastle_tactical\toss.rseq
+	animseq\weapons\newcastle_tactical\ptpov_newcastle_tactical\toss_hold.rseq
+	animseq\weapons\newcastle_tactical\ptpov_newcastle_tactical\toss_hold_fist.rseq
+	animseq\weapons\newcastle_tactical\ptpov_newcastle_tactical\toss_hold_followMe.rseq
+	animseq\weapons\newcastle_tactical\ptpov_newcastle_tactical\toss_hold_homerun.rseq
+	animseq\weapons\newcastle_tactical\ptpov_newcastle_tactical\toss_hold_onehanded.rseq
+	animseq\weapons\newcastle_tactical\ptpov_newcastle_tactical\toss_hold_sprinting.rseq
+	animseq\weapons\newcastle_tactical\ptpov_newcastle_tactical\toss_onehanded.rseq
+	animseq\weapons\newcastle_tactical\ptpov_newcastle_tactical\toss_overhead.rseq
+	animseq\weapons\newcastle_tactical\ptpov_newcastle_tactical\toss_overhead_onehanded.rseq
+	animseq\weapons\newcastle_tactical\ptpov_newcastle_tactical\toss_prep_pullout.rseq
+	animseq\weapons\newcastle_tactical\ptpov_newcastle_tactical\toss_prep_pullout_onehanded.rseq
+]

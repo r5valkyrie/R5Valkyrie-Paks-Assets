@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 1052276368,
+	"settings": {
+		"assetName": "settings/itemflav/ability/upgrade_bangalore_pas_ping_enemy.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01052276368",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#UPGRADE_BANGALORE_PAS_PING_ENEMY_NAME",
+		"localizationKey_NAME_SHORT": "#UPGRADE_TYPE_PASSIVE",
+		"localizationKey_DESCRIPTION_LONG": "#UPGRADE_BANGALORE_PAS_PING_ENEMY_LONG_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#UPGRADE_BANGALORE_PAS_PING_ENEMY_SHORT_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/legend_upgrades/bangalore_coverme_icon",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_PAS_UPGRADE_TWO",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

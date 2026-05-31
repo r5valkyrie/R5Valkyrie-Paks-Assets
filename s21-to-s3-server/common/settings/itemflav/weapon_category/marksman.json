@@ -1,0 +1,24 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_category_layout.rpak",
+	"uniqueId": 929188277,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_category/marksman.rpak",
+		"itemType": "weapon_category",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00929188277",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#weapon_category_marksman_NAME",
+		"localizationKey_NAME_SHORT": "#TAG_MARKSMAN",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "rui/weapon_icons/r5/weapon_3030repeater",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"statsKey": "marksman",
+		"menuZoomOffset": "<5.000000,0.000000,0.000000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

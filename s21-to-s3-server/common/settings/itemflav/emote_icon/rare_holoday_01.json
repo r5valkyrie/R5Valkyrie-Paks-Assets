@@ -1,0 +1,36 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_emote_icon_layout.rpak",
+	"uniqueId": 1214713424,
+	"settings": {
+		"assetName": "settings/itemflav/emote_icon/rare_holoday_01.rpak",
+		"itemType": "emote_icon",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01214713424",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#spray_holoday_01",
+		"localizationKey_NAME_SHORT": "#spray_holoday_01",
+		"localizationKey_DESCRIPTION_LONG": "#spray_holoday_01",
+		"localizationKey_DESCRIPTION_SHORT": "#spray_holoday_01",
+		"quality": "RARE",
+		"icon": "rui/menu/holosprays/hspry_rare_v20_holoday_01",
+		"tagIcon": "rui/events/s07e01/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "emote_icon_rare_holoday_01",
+		"ownershipTarget": "",
+		"anim3p": "",
+		"holoProjectorSprayModel": "mdl/props/holo_spray/spray_rare_v20_holoday_01.rmdl",
+		"quickchatAliasSubName": "",
+		"customSkinMenuBlurb": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<0.000000,0.824000,0.824000>",
+		"holoProjectorEffectColor2": "<0.380000,0.604000,0.816000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": true,
+		"holoProjectorUseEffectColor2": true,
+		"isTheEmpty": false
+	}
+}

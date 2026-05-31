@@ -1,0 +1,9 @@
+seqs:
+[
+	animseq\weapons\defender\ptpov_defender_magicgoth\fire_onehanded.rseq
+	animseq\weapons\defender\ptpov_defender_magicgoth\fire_onehanded_optic_reactive.rseq
+	animseq\weapons\defender\ptpov_defender_magicgoth\fire_onehanded_sniperoptic_reactive.rseq
+	animseq\weapons\defender\ptpov_defender_magicgoth\fire_optic_reactive.rseq
+	animseq\weapons\defender\ptpov_defender_magicgoth\fire_reactive.rseq
+	animseq\weapons\defender\ptpov_defender_magicgoth\idle_reactive_layer.rseq
+]

@@ -1,0 +1,25 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_class_perk_layout.rpak",
+	"uniqueId": 906908308,
+	"settings": {
+		"assetName": "settings/itemflav/class_perk/care_package_insight.rpak",
+		"itemType": "character_perk",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00906908308",
+		"__featureFlag": "",
+		"devDescription": "Class perk to scan care package contents",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "#CARE_PACKAGE_INSIGHT_PERK_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#CARE_PACKAGE_INSIGHT_PERK_SHORT_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/gametype_icons/survival/perk_small_pod",
+		"tagIcon": "rui/hud/gametype_icons/survival/perk_small_pod",
+		"grxMode": "NONE",
+		"perkScriptRef": "CARE_PACKAGE_INSIGHT",
+		"fullmapSmallIcon": "",
+		"localizationKey_PropName": "#PERK_FEATURE_CARE_PACKAGE_INSIGHT",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

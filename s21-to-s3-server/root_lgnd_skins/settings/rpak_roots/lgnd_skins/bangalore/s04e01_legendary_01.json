@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/bangalore/s04e01_legendary_01.rpak",
+		"roots": [
+				{
+					"asset": "mdl/techart/mshop/characters/legends/bangalore/pilot_medium_bangalore_season_04_assimilation_legendary_01.rmdl",
+					"featureFlag": ""
+				},
+				{
+					"asset": "mdl/techart/mshop/characters/legends/bangalore/pov_pilot_medium_bangalore_season4_assimilation_legendary_01.rmdl",
+					"featureFlag": ""
+				}
+			]
+	}
+}

@@ -1,0 +1,8 @@
+seqs:
+[
+	animseq\weapons\empty_handed\ptpov_ballistic_ultimate\ballistic_ult_temp_onehand.rseq
+	animseq\weapons\empty_handed\ptpov_ballistic_ultimate\ballistic_ult_temp_onehand_overhead.rseq
+	animseq\weapons\empty_handed\ptpov_ballistic_ultimate\knucklepunch.rseq
+	animseq\weapons\empty_handed\ptpov_ballistic_ultimate\knucklepunch_overhand.rseq
+	animseq\weapons\empty_handed\ptpov_ballistic_ultimate\toss_prep_pullout_seq.rseq
+]

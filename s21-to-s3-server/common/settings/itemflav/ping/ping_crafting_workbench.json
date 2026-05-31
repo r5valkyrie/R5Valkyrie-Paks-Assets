@@ -1,0 +1,30 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ping_layout.rpak",
+	"uniqueId": 1114054846,
+	"settings": {
+		"assetName": "settings/itemflav/ping/ping_crafting_workbench.rpak",
+		"itemType": "ping",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01114054846",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "rui/hud/gametype_icons/survival/crafting_harvester",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"colorKey": "none",
+		"innerIcon": "rui/hud/ping/icon_ping_crafting_hexagon",
+		"innerShadowIcon": "rui/hud/ping/icon_ping_crafting_hexagon_shadow",
+		"outerIcon": "rui/hud/gametype_icons/survival/crafting_workbench",
+		"shadowIcon": "rui/hud/ping/icon_ping_crafting_workbench_shadow",
+		"animIcon": "rui/hud/ping/icon_ping_crafting_pulse",
+		"defaultColor": "<1.000000,1.000000,1.000000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"drawHeightLine": true
+	}
+}

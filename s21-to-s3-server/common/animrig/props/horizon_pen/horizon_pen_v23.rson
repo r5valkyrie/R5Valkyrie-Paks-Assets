@@ -1,0 +1,8 @@
+seqs:
+[
+	animseq\props\horizon_pen\prop_alter_character_select_pen_drawing.rseq
+	animseq\props\horizon_pen\prop_ptpov_horizon_heirloom_meleeraise_write.bk_seq.rseq
+	animseq\props\horizon_pen\ptpov_horizon_heirloom_firstdraw_laser_pen.rseq
+	animseq\props\horizon_pen\ptpov_horizon_heirloom_pen_inspect.rseq
+	animseq\weapons\horizon_heirloom\ptpov_horizon_heirloom\melee_pen\ptpov_horizon_heirloom_melee_pen_prop.rseq
+]

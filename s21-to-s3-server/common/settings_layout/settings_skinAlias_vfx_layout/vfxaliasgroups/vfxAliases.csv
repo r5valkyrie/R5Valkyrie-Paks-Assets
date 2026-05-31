@@ -1,0 +1,3 @@
+"fieldName","dataType","layoutIndex","helpText"
+"vfxAlias","string","0","The VFX Alias we're defining"
+"vfxReal","string","0","The Real VFX Name"

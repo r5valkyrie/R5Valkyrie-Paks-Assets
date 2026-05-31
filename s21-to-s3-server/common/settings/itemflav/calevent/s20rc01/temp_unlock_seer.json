@@ -1,0 +1,31 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_calevent_temp_unlock_layout.rpak",
+	"uniqueId": 45787822,
+	"settings": {
+		"assetName": "settings/itemflav/calevent/s20rc01/temp_unlock_seer.rpak",
+		"itemType": "calevent_temp_unlock",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00045787822",
+		"__featureFlag": "",
+		"devDescription": "An Event that lets you unlock characters in dev!",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"revealUnixTime": "",
+		"hideUnixTime": "",
+		"defaultStartTime": "2024-02-13 10:00:00 -08:00",
+		"defaultFinishTime": "2024-05-07 10:00:00 -07:00",
+		"characters": [
+				{
+					"itemFlavor": "settings/itemflav/character/seer.rpak"
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

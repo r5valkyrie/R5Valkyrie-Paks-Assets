@@ -1,0 +1,44 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 1565647916,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/alter/alter_basic.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/alter.rpak",
+		"settingsAssetID": "SAID01565647916",
+		"__featureFlag": "",
+		"devDescription": "alter basic yawn and stretch emote",
+		"localizationKey_NAME": "#ground_emote_alter_basic",
+		"localizationKey_NAME_SHORT": "#ground_emote_alter_basic",
+		"localizationKey_DESCRIPTION_LONG": "#ground_emote_alter_basic",
+		"localizationKey_DESCRIPTION_SHORT": "#ground_emote_alter_basic",
+		"quality": "RARE",
+		"icon": "rui/menu/buttons/character_emotes/alter/stretch",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"grxMode": "NONE",
+		"grxRef": "character_emote_shared_lgnd_v23_ragold",
+		"ownershipTarget": "",
+		"anim3p": "alter_ground_emote_basic",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+				{
+					"character": "",
+					"anim3p": ""
+				}
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

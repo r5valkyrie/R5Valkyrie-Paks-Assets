@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 1116922787,
+	"settings": {
+		"assetName": "settings/itemflav/ability/upgrade_newcastle_shield_extra_health.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01116922787",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#UPGRADE_NEWCASTLE_SHIELD_EXTRA_HEALTH_NAME",
+		"localizationKey_NAME_SHORT": "#UPGRADE_TYPE_TACTICAL",
+		"localizationKey_DESCRIPTION_LONG": "#UPGRADE_NEWCASTLE_SHIELD_EXTRA_HEALTH_LONG_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#UPGRADE_NEWCASTLE_SHIELD_EXTRA_HEALTH_SHORT_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/legend_upgrades/newcastle_consolidator_icon",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_TAC_UPGRADE_TWO",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

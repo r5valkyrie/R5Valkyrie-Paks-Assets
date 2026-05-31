@@ -1,0 +1,10 @@
+seqs:
+[
+	animseq\props\ball_rugby_01\ball_rugby_01\ball_fuse_madmaggie_gladcard_animated_tackle.rseq
+	animseq\props\ball_rugby_01\ball_rugby_01\ball_madmaggie_ground_emote_chillaxingrugby_loop.rseq
+	animseq\props\ball_rugby_01\ball_rugby_01\ball_madmaggie_ground_emote_chillaxingrugby_start.rseq
+	animseq\props\ball_rugby_01\ball_rugby_01\ball_rugby_gladcard_animated_tackle.rseq
+	animseq\props\ball_rugby_01\ball_rugby_01\ball_rugby_gladcard_animated_tackle_idle.rseq
+	animseq\props\ball_rugby_01\ball_rugby_01\ball_rugby_marvin_lobby_surprised.rseq
+	animseq\props\ball_rugby_01\ball_rugby_01\prop_madmaggie_gladcard_static_rugby.rseq
+]

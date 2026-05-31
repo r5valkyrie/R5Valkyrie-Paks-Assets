@@ -1,0 +1,8 @@
+"fieldName","dataType","layoutIndex","helpText"
+"buttonImage","asset_noprecache","0",""
+"buttonName","string","0",""
+"buttonImageRestricted","asset_noprecache","0",""
+"buttonNameRestricted","string","0",""
+"customDeeplinkType","string","0",""
+"customDeeplink","string","0",""
+"pageRedirect","int","0","The enum sets what page should open/redirect to"

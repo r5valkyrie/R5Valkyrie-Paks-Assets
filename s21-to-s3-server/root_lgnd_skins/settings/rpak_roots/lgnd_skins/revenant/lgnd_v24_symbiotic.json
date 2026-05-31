@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/revenant/lgnd_v24_symbiotic.rpak",
+		"roots": [
+				{
+					"asset": "mdl/humans/class/heavy/revenant_lgnd_v24_symbiotic_w.rmdl",
+					"featureFlag": "HAS_21_1_RELEASE"
+				},
+				{
+					"asset": "mdl/Weapons/arms/revenant_lgnd_v24_symbiotic_v.rmdl",
+					"featureFlag": "HAS_21_1_RELEASE"
+				}
+			]
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 1876819101,
+	"settings": {
+		"assetName": "settings/itemflav/ability/valk_passive.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01876819101",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#PAS_VALK",
+		"localizationKey_NAME_SHORT": "#PAS_VALK",
+		"localizationKey_DESCRIPTION_LONG": "#PAS_VALK_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#PAS_VALK_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/passive_icons/passive_valk",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_VALK",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

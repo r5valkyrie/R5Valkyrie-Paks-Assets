@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 2044687944,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/caustic/legendary_mixingliquids.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/caustic.rpak",
+		"settingsAssetID": "SAID02044687944",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#CHAR_EMOTE_066",
+		"localizationKey_NAME_SHORT": "#CHAR_EMOTE_066",
+		"localizationKey_DESCRIPTION_LONG": "#CHAR_EMOTE_066",
+		"localizationKey_DESCRIPTION_SHORT": "#CHAR_EMOTE_066",
+		"quality": "LEGENDARY",
+		"icon": "rui/menu/buttons/character_emotes/caustic/mixingliquids",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_caustic_legendary_mixingliquids",
+		"ownershipTarget": "",
+		"anim3p": "caustic_ground_emote_mixingliquids",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 983926014,
+	"settings": {
+		"assetName": "settings/itemflav/ability/alter_tac_phase_door.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00983926014",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#ABL_TAC_PHASE_DOOR",
+		"localizationKey_NAME_SHORT": "#ABL_TAC_PHASE_DOOR",
+		"localizationKey_DESCRIPTION_LONG": "#ABL_TAC_PHASE_DOOR_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#ABL_TAC_PHASE_DOOR_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/tactical_icons/tactical_alter",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "mp_ability_phase_door",
+		"passiveScriptRef": "",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

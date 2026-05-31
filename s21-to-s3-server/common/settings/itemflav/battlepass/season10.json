@@ -1,0 +1,172 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_battlepass_layout.rpak",
+	"uniqueId": 1894614717,
+	"settings": {
+		"assetName": "settings/itemflav/battlepass/season10.rpak",
+		"itemType": "battlepass",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01894614717",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#BP_S10_NAME",
+		"localizationKey_NAME_SHORT": "#BP_S10_STRING",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "battlepass_season10",
+		"ownershipTarget": "",
+		"basicPurchasePack": "settings/itemflav/pack/battle_pass_season10_basic.rpak",
+		"bundlePurchasePack": "settings/itemflav/pack/battle_pass_season10_bundle.rpak",
+		"xpPurchaseFlav": "settings/itemflav/battlepass_purchased_xp/season10_single_level.rpak",
+		"bubblePurchaseFlav": "",
+		"xpBoostFlav": "settings/itemflav/xp_boost/battlepass_season10.rpak",
+		"challengeRerollFlav": "settings/itemflav/challenge_reroll/challenge_reroll_generic.rpak",
+		"rewardScheduleDatatableV2": "",
+		"rewardScheduleDatatable": "datatable/progression/battlepass_season10_schedule.rpak",
+		"milestoneScheduleDatatable": "",
+		"milestoneTierRepImage": "",
+		"milestoneBundleRepImage": "",
+		"storeBundleContentsImage": "",
+		"aboutPurchaseTitle": "",
+		"featureTitle": "#BP_S10_FEATURE_TITLE",
+		"largeLogo": "rui/events/s10bp/season_icon_large",
+		"smallLogo": "rui/events/s10bp/season_icon_small",
+		"xSmallLogo": "rui/events/s10bp/season_icon_xsmall",
+		"bannerImage": "rui/events/s07bp/season_banner",
+		"progressBadge": "settings/itemflav/gcard_badge/account/season10_bplevel.rpak",
+		"rewardsVideo": "media/battle_pass/s10bp/s10_battlepass_preview",
+		"levelUpSound": "UI_Menu_BattlePass_LevelUp_Season10",
+		"multipleOwnershipTargets": [
+			],
+		"milestoneTierRepLevels": [
+			],
+		"milestoneBundleRepLevels": [
+			],
+		"bulletTextStandard": [
+				{
+					"text": "#BP_S10_FEATURE_1"
+				},
+				{
+					"text": "#BP_S10_FEATURE_2"
+				},
+				{
+					"text": "#BP_S10_FEATURE_3"
+				},
+				{
+					"text": "#BP_S10_FEATURE_4"
+				},
+				{
+					"text": "#BP_S10_FEATURE_5"
+				},
+				{
+					"text": "#BP_S10_FEATURE_6"
+				},
+				{
+					"text": "#BP_S10_FEATURE_7"
+				},
+				{
+					"text": "#BP_S10_FEATURE_8"
+				},
+				{
+					"text": "#BP_S10_FEATURE_9"
+				},
+				{
+					"text": "#BP_S10_FEATURE_10"
+				},
+				{
+					"text": "#BP_S10_FEATURE_11"
+				},
+				{
+					"text": "#BP_S10_FEATURE_12"
+				},
+				{
+					"text": "#BP_S10_FEATURE_13"
+				},
+				{
+					"text": "#BP_S10_FEATURE_14"
+				},
+				{
+					"text": "#BP_S10_FEATURE_15"
+				},
+				{
+					"text": "#BP_S10_FEATURE_16"
+				},
+				{
+					"text": "#BP_S10_FEATURE_17"
+				}
+			],
+		"bulletTextRestricted": [
+				{
+					"text": "#BP_S10_FEATURE_RESTRICTED"
+				},
+				{
+					"text": "#BP_S10_FEATURE_5"
+				},
+				{
+					"text": "#BP_S10_FEATURE_6"
+				},
+				{
+					"text": "#BP_S10_FEATURE_7"
+				},
+				{
+					"text": "#BP_S10_FEATURE_8"
+				},
+				{
+					"text": "#BP_S10_FEATURE_9"
+				},
+				{
+					"text": "#BP_S10_FEATURE_10"
+				},
+				{
+					"text": "#BP_S10_FEATURE_11"
+				},
+				{
+					"text": "#BP_S10_FEATURE_12"
+				},
+				{
+					"text": "#BP_S10_FEATURE_13"
+				},
+				{
+					"text": "#BP_S10_FEATURE_14"
+				},
+				{
+					"text": "#BP_S10_FEATURE_15"
+				},
+				{
+					"text": "#BP_S10_FEATURE_16"
+				},
+				{
+					"text": "#BP_S10_FEATURE_17"
+				}
+			],
+		"dailyChallenges": [
+			],
+		"weeklyRecurringChallenges": [
+			],
+		"weeklyChallenges": [
+			],
+		"rewardPopupLevels": [
+				{
+					"popupLevel": 25
+				},
+				{
+					"popupLevel": 50
+				},
+				{
+					"popupLevel": 74
+				},
+				{
+					"popupLevel": 100
+				}
+			],
+		"headerColor": "<0.000000,0.000000,0.000000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"useStarsToProgress": true,
+		"weeklyRecurringResetsEveryWeek": false
+	}
+}

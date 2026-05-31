@@ -1,0 +1,36 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_emote_icon_layout.rpak",
+	"uniqueId": 1516518703,
+	"settings": {
+		"assetName": "settings/itemflav/emote_icon/revenant/s08bp_epic_01.rpak",
+		"itemType": "emote_icon",
+		"parentItemFlavor": "settings/itemflav/character/revenant.rpak",
+		"settingsAssetID": "SAID01516518703",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#spray_epic_v20_revenant_07",
+		"localizationKey_NAME_SHORT": "#spray_epic_v20_revenant_07",
+		"localizationKey_DESCRIPTION_LONG": "#spray_epic_v20_revenant_07",
+		"localizationKey_DESCRIPTION_SHORT": "#spray_epic_v20_revenant_07",
+		"quality": "EPIC",
+		"icon": "rui/menu/holosprays/hspray_epic_v20_revenant_07",
+		"tagIcon": "rui/events/s08bp/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "emote_icon_revenant_s08bp_epic_01",
+		"ownershipTarget": "",
+		"anim3p": "",
+		"holoProjectorSprayModel": "mdl/props/holo_spray/hspray_epic_v20_revenant_07.rmdl",
+		"quickchatAliasSubName": "",
+		"customSkinMenuBlurb": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,0.682000>",
+		"holoProjectorEffectColor2": "<1.000000,0.502000,0.000000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": true,
+		"holoProjectorUseEffectColor2": true,
+		"isTheEmpty": false
+	}
+}

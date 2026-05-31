@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 1927154675,
+	"settings": {
+		"assetName": "settings/itemflav/ability/upgrade_pathfinder_tac_knock_reset.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01927154675",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#UPGRADE_PATHFINDER_TAC_KNOCK_RESET_NAME",
+		"localizationKey_NAME_SHORT": "#UPGRADE_TYPE_TACTICAL",
+		"localizationKey_DESCRIPTION_LONG": "#UPGRADE_PATHFINDER_TAC_KNOCK_RESET_LONG_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#UPGRADE_PATHFINDER_TAC_KNOCK_RESET_SHORT_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/legend_upgrades/pathfinder_grapplegrimreaper_icon",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_KNOCK_TAC_RESET",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

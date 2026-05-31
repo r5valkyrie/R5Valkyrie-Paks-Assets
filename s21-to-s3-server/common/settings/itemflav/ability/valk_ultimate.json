@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 1685930238,
+	"settings": {
+		"assetName": "settings/itemflav/ability/valk_ultimate.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01685930238",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#ABL_SKYWARD",
+		"localizationKey_NAME_SHORT": "#ABL_SKYWARD",
+		"localizationKey_DESCRIPTION_LONG": "#ABL_SKYWARD_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#ABL_SKYWARD_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/ultimate_icons/ultimate_valk",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "mp_ability_valk_skyward",
+		"passiveScriptRef": "",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 459728820,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/revenant/legendary_sparkingwhip.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/revenant.rpak",
+		"settingsAssetID": "SAID00459728820",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#ground_emote_revenant_sparkingwhip_NAME",
+		"localizationKey_NAME_SHORT": "#ground_emote_revenant_sparkingwhip_NAME",
+		"localizationKey_DESCRIPTION_LONG": "#ground_emote_revenant_sparkingwhip_NAME",
+		"localizationKey_DESCRIPTION_SHORT": "#ground_emote_revenant_sparkingwhip_NAME",
+		"quality": "LEGENDARY",
+		"icon": "rui/menu/buttons/character_emotes/revenant/sparks",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_revenant_legendary_sparkingwhip",
+		"ownershipTarget": "",
+		"anim3p": "revenant_ground_emote_sparkingwhip",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

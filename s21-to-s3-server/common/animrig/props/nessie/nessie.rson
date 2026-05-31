@@ -1,0 +1,20 @@
+seqs:
+[
+	animseq\props\nessie\mp_prop_nessie_10_freefall_emote_nessie_delivery.rseq
+	animseq\props\nessie\mp_prop_nessie_1_freefall_emote_nessie_delivery.rseq
+	animseq\props\nessie\mp_prop_nessie_2_freefall_emote_nessie_delivery.rseq
+	animseq\props\nessie\mp_prop_nessie_3_freefall_emote_nessie_delivery.rseq
+	animseq\props\nessie\mp_prop_nessie_4_freefall_emote_nessie_delivery.rseq
+	animseq\props\nessie\mp_prop_nessie_5_freefall_emote_nessie_delivery.rseq
+	animseq\props\nessie\mp_prop_nessie_6_freefall_emote_nessie_delivery.rseq
+	animseq\props\nessie\mp_prop_nessie_7_freefall_emote_nessie_delivery.rseq
+	animseq\props\nessie\mp_prop_nessie_8_freefall_emote_nessie_delivery.rseq
+	animseq\props\nessie\mp_prop_nessie_9_freefall_emote_nessie_delivery.rseq
+	animseq\props\nessie\mp_prop_nessie_freefall_emote_nessie_dance.rseq
+	animseq\props\nessie\nessie\prop_nessie_gadget_horizon_inpsectOrbit.rseq
+	animseq\props\nessie\nessie\prop_nessie_gadget_horizon_inpsectOrbit2.rseq
+	animseq\props\nessie\prop_nessie_caustic_ground_emote_dr_evil.rseq
+	animseq\props\nessie\prop_nessie_ground_emote_nessie_drop.rseq
+	animseq\props\nessie\prop_nessie_ground_emote_nessie_drop_idle.rseq
+	animseq\props\nessie\prop_nessie_ground_emote_nessie_drop_lobby.rseq
+]

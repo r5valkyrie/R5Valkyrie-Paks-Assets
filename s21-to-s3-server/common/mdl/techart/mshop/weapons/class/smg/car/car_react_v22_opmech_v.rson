@@ -1,0 +1,8 @@
+rigs:
+[
+	animrig\weapons\car\car_base_v.rrig
+	animrig\weapons\car\car_base_reactive_v.rrig
+]
+seqs:
+[
+]

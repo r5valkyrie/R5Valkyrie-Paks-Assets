@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 1149933294,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/seer/legendary_trust.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/seer.rpak",
+		"settingsAssetID": "SAID01149933294",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#ground_emote_seer_trust_NAME",
+		"localizationKey_NAME_SHORT": "#ground_emote_seer_trust_NAME",
+		"localizationKey_DESCRIPTION_LONG": "#ground_emote_seer_trust_NAME",
+		"localizationKey_DESCRIPTION_SHORT": "#ground_emote_seer_trust_NAME",
+		"quality": "LEGENDARY",
+		"icon": "rui/menu/buttons/character_emotes/seer/trust",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_seer_legendary_trust",
+		"ownershipTarget": "",
+		"anim3p": "seer_ground_emote_trust",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

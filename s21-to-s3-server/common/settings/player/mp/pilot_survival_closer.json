@@ -1,0 +1,1693 @@
+{
+	"layoutAsset": "settings_layout/settings_player_layout.rpak",
+	"settings": {
+		"gibModels": [
+				{
+					"val": ""
+				},
+				{
+					"val": ""
+				},
+				{
+					"val": ""
+				},
+				{
+					"val": ""
+				},
+				{
+					"val": ""
+				}
+			],
+		"gibModelsSoftened": [
+				{
+					"val": ""
+				},
+				{
+					"val": ""
+				},
+				{
+					"val": ""
+				},
+				{
+					"val": ""
+				},
+				{
+					"val": ""
+				}
+			],
+		"gibAttachments": [
+				{
+					"val": ""
+				},
+				{
+					"val": ""
+				},
+				{
+					"val": ""
+				},
+				{
+					"val": ""
+				},
+				{
+					"val": ""
+				}
+			],
+		"poseSettings": [
+				{
+					"hull_min": "<-16.000000,-16.000000,0.000000>",
+					"hull_max": "<16.000000,16.000000,66.000000>",
+					"viewheight": "<0.000000,0.000000,56.000000>",
+					"firstpersonproxyoffset": "<0.000000,0.000000,-56.000000>",
+					"footstepInterval": 400,
+					"footstepIntervalSprint": 275,
+					"footstepWalkSoundRadius": 100,
+					"footstepRunSoundRadius": 300,
+					"footstepMinSpeed": 30.000000,
+					"lowSpeed": 120.000000,
+					"speed": 173.500000,
+					"sprintspeed": 260.000000,
+					"acceleration": 450.000000,
+					"deceleration": 1250.000000,
+					"lowAcceleration": 2500.000000,
+					"sprintAcceleration": 102.000000,
+					"sprintDeceleration": 1250.000000,
+					"operatorHoverHeight": 0.000000
+				},
+				{
+					"hull_min": "<-16.000000,-16.000000,0.000000>",
+					"hull_max": "<16.000000,16.000000,47.000000>",
+					"viewheight": "<0.000000,0.000000,32.000000>",
+					"firstpersonproxyoffset": "<0.000000,0.000000,-32.000000>",
+					"footstepInterval": 450,
+					"footstepIntervalSprint": 475,
+					"footstepWalkSoundRadius": 0,
+					"footstepRunSoundRadius": 0,
+					"footstepMinSpeed": 20.000000,
+					"lowSpeed": -1.000000,
+					"speed": 80.000000,
+					"sprintspeed": 0.000000,
+					"acceleration": 2500.000000,
+					"deceleration": -1.000000,
+					"lowAcceleration": -1.000000,
+					"sprintAcceleration": -1.000000,
+					"sprintDeceleration": -1.000000,
+					"operatorHoverHeight": 0.000000
+				},
+				{
+					"hull_min": "<-16.000000,-16.000000,0.000000>",
+					"hull_max": "<16.000000,16.000000,72.000000>",
+					"viewheight": "<0.000000,0.000000,14.000000>",
+					"firstpersonproxyoffset": "<0.000000,0.000000,-60.000000>",
+					"footstepInterval": 400,
+					"footstepIntervalSprint": 475,
+					"footstepWalkSoundRadius": 64,
+					"footstepRunSoundRadius": 256,
+					"footstepMinSpeed": 10.000000,
+					"lowSpeed": -1.000000,
+					"speed": 120.000000,
+					"sprintspeed": 0.000000,
+					"acceleration": 2500.000000,
+					"deceleration": -1.000000,
+					"lowAcceleration": -1.000000,
+					"sprintAcceleration": -1.000000,
+					"sprintDeceleration": -1.000000,
+					"operatorHoverHeight": 0.000000
+				},
+				{
+					"hull_min": "<-10.000000,-10.000000,-10.000000>",
+					"hull_max": "<10.000000,10.000000,10.000000>",
+					"viewheight": "<0.000000,0.000000,60.000000>",
+					"firstpersonproxyoffset": "<0.000000,0.000000,-60.000000>",
+					"footstepInterval": 400,
+					"footstepIntervalSprint": 475,
+					"footstepWalkSoundRadius": 64,
+					"footstepRunSoundRadius": 256,
+					"footstepMinSpeed": 10.000000,
+					"lowSpeed": -1.000000,
+					"speed": 120.000000,
+					"sprintspeed": 0.000000,
+					"acceleration": 2500.000000,
+					"deceleration": -1.000000,
+					"lowAcceleration": -1.000000,
+					"sprintAcceleration": -1.000000,
+					"sprintDeceleration": -1.000000,
+					"operatorHoverHeight": 0.000000
+				}
+			],
+		"assetName": "settings/player/mp/pilot_survival_closer.rpak",
+		"printName": "",
+		"shortPrintName": "",
+		"description": "",
+		"subclass": "wallrun",
+		"voice": "wraith",
+		"painDeathSoundType": "CLASS_BANSHEE",
+		"pak": "settings/rpak_roots/lgnd_skins/wraith/classic.rpak",
+		"bodyModel": "mdl/humans/class/light/pilot_light_wraith.rmdl",
+		"loadingBodyModel": "mdl/humans/class/light/pilot_light_wraith_loading.rmdl",
+		"bodyModelRigWeight": "light",
+		"armsModel": "mdl/weapons/arms/pov_pilot_light_wraith.rmdl",
+		"loadingArmsModel": "mdl/weapons/arms/pov_pilot_light_wraith_loading.rmdl",
+		"cockpitModel": "mdl/weapons/arms/human_pov_cockpit.rmdl",
+		"weaponClass": "human",
+		"aiSettingsFile": "",
+		"sp_aiSettingsFile": "",
+		"at_aiSettingsFile": "",
+		"hatchModel": "",
+		"titanCharacterName": "",
+		"readymessage": "",
+		"readyhint": "",
+		"raceOrSex": "race_human_female",
+		"unitframe_icon": "rui/hud/unitframes/pilot_default",
+		"hud_follow_icon": "",
+		"hud_guard_icon": "",
+		"core_building_icon": "",
+		"core_ready_icon": "",
+		"autoprecache_script": "",
+		"execution_anim": "",
+		"startup_sound": "",
+		"fx_jetwash_impactTable": "pilot_boost_jetwash",
+		"fx_hover_friendly": "P_team_jet_hover_HLD",
+		"fx_hover_enemy": "P_enemy_jet_hover_HLD",
+		"sharedEnergyNotUsableSound": "",
+		"sharedEnergyRegenSound": "",
+		"classActivityModifier": "pilot_survival_closer",
+		"footstep_type": "wraith",
+		"rumbleOnJump": "rumble_pilotOnJump",
+		"rumbleOnDoubleJump": "rumble_pilotOnDoubleJump",
+		"rumbleOnWallrunStart": "rumble_pilotOnWallrunStart",
+		"rumbleOnWallrunTimeout": "rumble_pilotOnWallrunTimeout",
+		"rumbleOnWallHangStart": "rumble_pilotOnWallHangStart",
+		"rumbleOnLandingSoft": "rumble_pilotOnLandingSoft",
+		"rumbleOnLandingHard": "rumble_pilotOnLandingHard",
+		"rumbleOnSlideBegin": "rumble_pilotOnSlideBegin",
+		"rumbleOnZiplineAttach": "rumble_pilotOnZiplineAttach",
+		"rumbleOnZiplineDetach": "rumble_pilotOnZiplineDetach",
+		"rumbleOnDodge": "",
+		"landingImpactTable": "pilot_landing",
+		"footstepImpactTable": "pilot_footstep",
+		"dodgeImpactTable": "",
+		"slideEffectTable": "pilot_slide",
+		"aimassist_adspull_centerAttachmentName": "CHESTFOCUS",
+		"aimassist_adspull_headshotAttachmentName": "HEADSHOT",
+		"gibFX": "",
+		"gibSound": "",
+		"sound_superJump": "Player.SuperJump",
+		"sound_superJumpFail": "Player.SuperJumpFail",
+		"sound_dodge_1p": "jumpjet_slide_start_1p",
+		"sound_dodge_3p": "jumpjet_slide_start_3p",
+		"sound_dodgeFail": "",
+		"sound_groundImpact": "Pilot.GroundImpact",
+		"sound_wallrunImpact_1p": "wallrun_impact_1P",
+		"sound_wallrunImpact_3p": "wallrun_impact_3p",
+		"sound_wallHangStart": "Default.WallCling_Attach",
+		"sound_wallHangComplete_1p": "",
+		"sound_wallHangComplete_3p": "",
+		"sound_wallrunSlip": "jumpjet_wallrun_slip_1p",
+		"sound_wallHangSlip": "",
+		"sound_wallrunFall_1p": "",
+		"sound_wallrunFall_3p": "",
+		"sound_wallHangFall": "Default.WallCling_Detach",
+		"sound_standToCrouch_1p": "wraith_crouchdown_1p",
+		"sound_standToCrouch_3p": "wraith_crouchdown_onlygear_3p",
+		"sound_crouchToStand_1p": "wraith_crouchstand_1p",
+		"sound_crouchToStand_3p": "wraith_crouchstand_onlygear_3p",
+		"sound_freefall_start_1p": "",
+		"sound_freefall_start_3p": "",
+		"sound_freefall_body_1p": "",
+		"sound_freefall_body_3p": "player_fallingdescent_windrush_3p",
+		"sound_freefall_finish_1p": "",
+		"sound_freefall_finish_3p": "",
+		"sound_jumpjet_jump_start_1p": "JumpPad_DoubleJump_1P",
+		"sound_jumpjet_jump_start_3p": "",
+		"sound_jumpjet_jump_body_1p": "",
+		"sound_jumpjet_jump_body_3p": "",
+		"sound_jumpjet_jump_finish_1p": "",
+		"sound_jumpjet_jump_finish_3p": "",
+		"sound_jumpjet_jet_start_1p": "JumpPad_DoubleJump_1P",
+		"sound_jumpjet_jet_start_3p": "JumpPad_DoubleJump_3P",
+		"sound_jumpjet_jet_body_1p": "",
+		"sound_jumpjet_jet_body_3p": "",
+		"sound_jumpjet_jet_finish_1p": "",
+		"sound_jumpjet_jet_finish_3p": "",
+		"sound_jumpjet_wallrun_start_1p": "",
+		"sound_jumpjet_wallrun_start_3p": "",
+		"sound_jumpjet_wallrun_body_1p": "",
+		"sound_jumpjet_wallrun_body_3p": "",
+		"sound_jumpjet_wallrun_finish_1p": "",
+		"sound_jumpjet_wallrun_finish_3p": "",
+		"sound_jumpjet_slide_start_1p": "",
+		"sound_jumpjet_slide_start_3p": "",
+		"sound_boost_short_1p": "Boost_Jump_Start_1P",
+		"sound_boost_short_3p": "Boost_Jump_Start_3P",
+		"sound_boost_start_1p": "Boost_Jump_Start_1P",
+		"sound_boost_start_3p": "Boost_Jump_Start_3P",
+		"sound_boost_body_1p": "Boost_Jump_Body_1P",
+		"sound_boost_body_3p": "Boost_Jump_Body_3P",
+		"sound_boost_finish_1p": "Boost_Jump_End_1P",
+		"sound_boost_finish_3p": "Boost_Jump_End_3P",
+		"sound_glide_start_1p": "Boost_Glide_Start_1P",
+		"sound_glide_start_3p": "Boost_Glide_Start_3P",
+		"sound_glide_body_1p": "Boost_Glide_Body_1P",
+		"sound_glide_body_3p": "Boost_Glide_Body_3P",
+		"sound_glide_finish_1p": "Boost_Glide_End_1P",
+		"sound_glide_finish_3p": "Boost_Glide_End_3P",
+		"sound_glide_finish_out_of_glide_1p": "",
+		"sound_glide_finish_out_of_glide_3p": "",
+		"sound_jetpack_start_1p": "Boost_Glide_Start_1P",
+		"sound_jetpack_start_3p": "Boost_Glide_Start_3P",
+		"sound_jetpack_body_1p": "Boost_Glide_Body_1P",
+		"sound_jetpack_body_3p": "Boost_Glide_Body_3P",
+		"sound_jetpack_finish_1p": "Boost_Glide_End_1P",
+		"sound_jetpack_finish_3p": "Boost_Glide_End_3P",
+		"sound_jetpack_finish_out_of_fuel_1p": "",
+		"sound_jetpack_finish_out_of_fuel_3p": "",
+		"sound_jetpack_afterburner_start_1p": "",
+		"sound_jetpack_afterburner_start_3p": "",
+		"sound_jetpack_afterburner_body_1p": "",
+		"sound_jetpack_afterburner_body_3p": "",
+		"sound_jetpack_afterburner_finish_1p": "",
+		"sound_jetpack_afterburner_finish_3p": "",
+		"sound_hover_start_1p": "Boost_Hover_Start_1P",
+		"sound_hover_start_3p": "Boost_Hover_Start_3P",
+		"sound_hover_body_1p": "Boost_Hover_Body_1P",
+		"sound_hover_body_3p": "Boost_Hover_Body_3P",
+		"sound_hover_finish_1p": "Boost_Hover_End_1P",
+		"sound_hover_finish_3p": "Boost_Hover_End_3P",
+		"sound_climb_start_1p": "",
+		"sound_climb_start_3p": "",
+		"sound_climb_body_1p": "",
+		"sound_climb_body_3p": "",
+		"sound_climb_finish_1p": "",
+		"sound_climb_finish_3p": "",
+		"sound_jetwash_start_1p": "Boost_Hover_Start_1P",
+		"sound_jetwash_start_3p": "Boost_Hover_Start_3P",
+		"sound_jetwash_body_1p": "Boost_Hover_Body_1P",
+		"sound_jetwash_body_3p": "Boost_Hover_Body_3P",
+		"sound_jetwash_finish_1p": "Boost_Hover_End_1P",
+		"sound_jetwash_finish_3p": "Boost_Hover_End_3P",
+		"sound_boost_meter_depleted_1p": "",
+		"sound_boost_meter_depleted_3p": "",
+		"sound_boost_meter_recharged_1p": "",
+		"sound_boost_meter_recharged_3p": "",
+		"sound_boost_meter_fail_1p": "",
+		"sound_boost_meter_fail_3p": "",
+		"sound_pain_layer1_start": "",
+		"sound_pain_layer1_loop": "Pilot_Wounded_Loop_1P",
+		"sound_pain_layer1_end": "Pilot_WoundedLoop_End_1P",
+		"sound_pain_layer2_start": "Pilot_Critical_Breath_Start_1P",
+		"sound_pain_layer2_loop": "Pilot_Critical_Breath_Loop_1P",
+		"sound_pain_layer2_end": "Pilot_Wounded_BreathLoop_End_1P",
+		"sound_pain_layer3_start": "",
+		"sound_pain_layer3_loop": "",
+		"sound_pain_layer3_end": "",
+		"sound_grapple_fire_1p": "Pilot_Grapple_Fire",
+		"sound_grapple_fire_3p": "Pilot_Grapple_Fire_3P",
+		"sound_grapple_retract_1p": "Pilot_Grapple_Retract_1P",
+		"sound_grapple_retract_3p": "Pilot_Grapple_Retract_3P",
+		"sound_grapple_traverse_1p": "PIlot_Grapple_Traverse_1P",
+		"sound_grapple_traverse_3p": "Pilot_Grapple_Traverse_3P",
+		"sound_grapple_swing_1p": "PIlot_Grapple_Traverse_1P",
+		"sound_grapple_swing_3p": "Pilot_Grapple_Traverse_3P",
+		"sound_grapple_reel_in_target_1p": "Pilot_Grapple_ReelInTarget_1P",
+		"sound_grapple_reel_in_target_3p": "Pilot_Grapple_ReelInTarget_3P",
+		"sound_grapple_reset_1p": "Pilot_Grapple_Reset",
+		"sound_grapple_reset_3p": "Pilot_Grapple_Reset_3P",
+		"player_sound_fallingEffects_1p": "player_fallingdescent_windrush",
+		"sound_slide_prefix": "wraith_slide",
+		"ui_targetinfo": "ui//targetinfo_survival",
+		"camera_lcd": "",
+		"camera_lcdStartup": "",
+		"headshotFX": "P_headshot_pilot",
+		"viewPunchSpring": "punch_pilot",
+		"generalClass": 2,
+		"fov": 70.000000,
+		"viewmodelfov": 70.000000,
+		"viewmodelDuckOffset": -0.751000,
+		"speedScaleSide": 1.000000,
+		"speedScaleBack": 1.000000,
+		"stepHeight": 22.000000,
+		"stepTestDist": 10.000000,
+		"physicsMass": 100.000000,
+		"physicsIgnoreBelowMass": 10.000000,
+		"physicsSoftBelowMass": 100.000000,
+		"physicsPushMassLimit": 5000.000000,
+		"physicsPushSpeedLimit": 50.000000,
+		"airSpeed": 60.000000,
+		"airAcceleration": 500.000000,
+		"airFriction": 0.000000,
+		"airDrag": 0.000000,
+		"impactSpeed": 380.000000,
+		"modelScale": 1.000000,
+		"health": 100.000000,
+		"healthShield": 0.000000,
+		"healthDoomed": 0.000000,
+		"healthPerSegment": 1500.000000,
+		"powerRegenRate": 10.000000,
+		"armorType": 0,
+		"smartAmmoLockType": 1,
+		"smartAmmoLockTimeModifier": 1.000000,
+		"pitchMaxUp": 89.000000,
+		"pitchMaxDown": 89.000000,
+		"verticalGainCutoff_wallrun": 175.000000,
+		"verticalGainCutoff_doubleJump": 225.000000,
+		"slipAcceleration": 1000.000000,
+		"slipSpeed": 150.000000,
+		"slipAirRestrictDuration": 1.000000,
+		"localGravityBlendTime": 0.500000,
+		"localGravityBlendDistanceMin": 100.000000,
+		"localGravityBlendDistanceMax": 200.000000,
+		"titan_regen_delay": 8.000000,
+		"pushbackScale": 1.000000,
+		"jumpHeight": 56.000000,
+		"antiMultiJumpHeightFrac": 0.300000,
+		"antiMultiJumpTimeMin": 0.150000,
+		"antiMultiJumpTimeMax": 0.750000,
+		"superjumpLimit": 1.000000,
+		"superjumpMinHeight": 112.000000,
+		"superjumpMaxHeight": 200.000000,
+		"superjumpHorzSpeed": 240.000000,
+		"landSlowdownFrac": 0.000000,
+		"landSlowdownDuration": 1.000000,
+		"landSlowdownTimePower": 2.000000,
+		"landSlowdownHeightMin": 300.000000,
+		"landSlowdownHeightMax": 800.000000,
+		"landSlowdownNoSprintFrac": 0.700000,
+		"mantleHeight": 80.000000,
+		"mantleAngleScale": 1.000000,
+		"mantleDurationBelow": 0.700000,
+		"mantleDurationLevel": 0.600000,
+		"mantleDurationAbove": 0.500000,
+		"mantleDurationHigh": 0.350000,
+		"viewkickFallDistMin": 10.000000,
+		"viewkickFallDistMax": 70.000000,
+		"viewkickFallDistMaxScale": 12.000000,
+		"glideDuration": 1.800000,
+		"glideRechargeRate": 5.000000,
+		"glideRechargeDelay": 0.350000,
+		"boostThrust": 1.500000,
+		"boostTightness": 100.000000,
+		"boostDelay": 0.500000,
+		"boostDuration": 0.500000,
+		"boostRodeoSafety": 1.000000,
+		"boostOnGroundSafety": 0.200000,
+		"boostHorizontalDragSpeed": 0.000000,
+		"boostHorizontalDragDelay": -1.000000,
+		"boostHorizontalDragAmount": 10.000000,
+		"boostAutoGlideMeterThreshold": 0.100000,
+		"boostAutoJetpackMeterThreshold": 0.100000,
+		"boostRepeatedBoostMeterCost": 0.000000,
+		"jetpackThrust": 1.200000,
+		"jetpackAfterburnerThrust": -1.000000,
+		"jetpackHorizontalMoveThrust": -1.000000,
+		"jetpackJumpsToActivate": 2,
+		"jetpackHeightToActivate": -1.000000,
+		"jetpackHeightToActivateDelay": 0.000000,
+		"jetpackMeterRate": 2.000000,
+		"jetpackTacticalMeterRate": -1.000000,
+		"jetpackAfterburnerMeterRate": -1.000000,
+		"jetpackTightnessUp": 0.500000,
+		"jetpackTightnessDown": 0.500000,
+		"jetpackTightnessSideways": 0.500000,
+		"jetpackTightnessForwardBack": 1.000000,
+		"jetpackStrafe": 750.000000,
+		"jetpackStrafeTaperStart": 150.000000,
+		"jetpackStrafeTaperFinish": 300.000000,
+		"jetpackVerticalVelocityScaleOnActivation": 0.000000,
+		"jetpackVerticalVelocityScaleOnDeactivation": 1.000000,
+		"jetpackPostEffectTime": 0.000000,
+		"jetpackPostEffectGravity": 1.000000,
+		"jetpackPostEffectDrag": 0.020000,
+		"jetpackMeterOnActivation": 0.000000,
+		"jetpackThrustScaleOnActivation": 1.000000,
+		"jetpackThrustScaleTimeOnActivation": 0.000000,
+		"glideTimeToHoldInputForActivation": -1.000000,
+		"glideThrust": 0.600000,
+		"glideTightnessUp": 0.000000,
+		"glideTightnessDown": 0.300000,
+		"glideMaxSpeed": 0.000000,
+		"glideSpeedDecelerationToMax": 0.000000,
+		"glideStrafeForward": 0.000000,
+		"glideStrafeSideways": 0.000000,
+		"glideStrafeForwardTaperStart": 0.000000,
+		"glideStrafeForwardTaperFinish": 0.000000,
+		"glideStrafeSidewaysTaperStart": 0.000000,
+		"glideStrafeSidewaysTaperFinish": 0.000000,
+		"glideUpwardsBoostDuration": 0.000000,
+		"glideUpwardsBoostFinishVelocity": 0.000000,
+		"glideUpwardsBoostFallActivationSpeed": -1.000000,
+		"airStrafeAcceleration": 0.000000,
+		"airStrafeTaperStart": 0.000000,
+		"airStrafeTaperFinish": 0.000000,
+		"hoverTightnessVertical": 0.020000,
+		"hoverTightnessHorizontal": 0.100000,
+		"hoverMeterRate": 1.000000,
+		"hoverStrafeScale": 3.000000,
+		"hoverSafety": 0.250000,
+		"fx_jetwash_frequency": 0.100000,
+		"fx_jetwash_height": 1000.000000,
+		"climbHeight": 100.000000,
+		"climbFinalJumpUpHeight": 28.000000,
+		"climbSpeedStart": 200.000000,
+		"climbSpeedEnd": 50.000000,
+		"climbAccel": 500.000000,
+		"climbDecel": 300.000000,
+		"climbHorzSpeed": 100.000000,
+		"climbHorzAccel": 100.000000,
+		"climbHorzDecel": 500.000000,
+		"wallrun_timeLimit": 2.000000,
+		"wallrun_hangTimeLimit": 4.000000,
+		"wallrunAdsType": 2,
+		"wallrunCeilingLimit": 0.500000,
+		"wallrunAllowedWallDistance": 17.000000,
+		"wallrunAllowedWallDistanceWallHang": 18.000000,
+		"wallrunUpWallBoost": 250.000000,
+		"wallrunMaxSpeedVertical": 112.000000,
+		"wallrunMaxSpeedHorizontal": 225.000000,
+		"wallrunMaxSpeedHorizontalBackward": 50.000000,
+		"wallrunAccelerateVertical": 450.000000,
+		"wallrunDecelerateVertical": 300.000000,
+		"wallrunAccelerateHorizontal": 200.000000,
+		"wallrunDecelerateHorizontal": 500.000000,
+		"wallrunGravityRampUpTime": 1.000000,
+		"wallrunJumpUpSpeed": 240.000000,
+		"wallrunJumpInputDirSpeed": 75.000000,
+		"wallrunJumpOutwardSpeed": 188.000000,
+		"wallrunSameWallHeight": 0.000000,
+		"wallrun_viewpunch_onStart_basePitch": -1.500000,
+		"wallrun_viewpunch_onStart_randomPitch": 0.500000,
+		"wallrun_viewpunch_onStart_baseYaw": 0.000000,
+		"wallrun_viewpunch_onStart_randomYaw": 0.500000,
+		"wallrun_viewpunch_onStart_baseRoll": 5.000000,
+		"wallrun_viewpunch_onStart_randomRoll": 0.500000,
+		"wallrun_viewpunch_onTimeout_basePitch": -2.500000,
+		"wallrun_viewpunch_onTimeout_randomPitch": 0.500000,
+		"wallrun_viewpunch_onTimeout_baseYaw": 0.000000,
+		"wallrun_viewpunch_onTimeout_randomYaw": 0.500000,
+		"wallrun_viewpunch_onTimeout_baseRoll": 5.000000,
+		"wallrun_viewpunch_onTimeout_randomRoll": 0.500000,
+		"dodgeDuration": 0.100000,
+		"dodgeSpeed": 600.000000,
+		"dodgePowerDrain": 50.000000,
+		"dodgeAnimDuration": 0.500000,
+		"dodgeInterval": 0.600000,
+		"dodgeStopSpeed": 300.000000,
+		"dodgeHeight": 1.000000,
+		"dodgeHeightMax": 1.000000,
+		"dodgeVerticalHeight": 200.000000,
+		"dodgePowerDelay": 0.000000,
+		"dodgeKeepSpeedFrac": 0.000000,
+		"player_slideBoostCooldown": 2.000000,
+		"slideDecel": 100.000000,
+		"slideWantToStopDecel": 400.000000,
+		"slideVelocityDecay": 0.700000,
+		"slideAccel": 50.000000,
+		"slideRequiredStartSpeed": 200.000000,
+		"slideRequiredStartSpeedAir": 90.000000,
+		"slideStopSpeed": 125.000000,
+		"slideMaxStopSpeed": 350.000000,
+		"slideMaxJumpSpeed": 350.000000,
+		"slideSpeedBoost": 150.000000,
+		"slideSpeedBoostCap": 400.000000,
+		"slideJumpHeight": 50.000000,
+		"slideFOVScale": 1.100000,
+		"slideFOVLerpInTime": 0.250000,
+		"slideFOVLerpOutTime": 0.250000,
+		"slideSuperJumpHeight": 65.000000,
+		"slideSuperJumpCooldown": 2.000000,
+		"slideSuperJumpAdditionalMaxClimbHeight": 65.000000,
+		"slideSuperJumpAdditionalVerticalGainCutoff": 200.000000,
+		"grapple_detachOnGrappleDebounceTime": 0.500000,
+		"grapple_autoAimAngle": 10.000000,
+		"grapple_swingType": 0,
+		"grapple_swingGravity": 1.000000,
+		"grapple_swingHoldTime": 0.400000,
+		"grapple_swingMinLength": 150.000000,
+		"grapple_swingAccel": 2000.000000,
+		"grapple_swingMaxSpeed": 1000.000000,
+		"grapple_rollStrength": 1.000000,
+		"grapple_rollMax": 20.000000,
+		"grapple_rollViewAngleMin": 0.000000,
+		"grapple_rollViewAngleMax": 65.000000,
+		"grapple_rollDistanceMin": 0.000000,
+		"grapple_rollDistanceMax": 150.000000,
+		"grapple_attachVerticalBoost": 0.000000,
+		"grapple_detachVerticalBoost": 200.000000,
+		"grapple_detachVerticalMaxSpeed": 200.000000,
+		"grapple_detachHorizontalMaxSpeed": 600.000000,
+		"grapple_detachGravityTime": 0.000000,
+		"grapple_detachGravityScale": 0.500000,
+		"grapple_detachGravitySpeed": 200.000000,
+		"grapple_detachLengthMin": 33.000000,
+		"grapple_detachLengthMax": 50.000000,
+		"grapple_detachAwaySpeed": 500.000000,
+		"grapple_gravityFracMin": 0.250000,
+		"grapple_gravityFracMax": 0.700000,
+		"grapple_detachSpeedLoss": 300.000000,
+		"grapple_detachSpeedLossMin": 460.000000,
+		"grapple_detachLowSpeedThreshold": 250.000000,
+		"grapple_detachLowSpeedMeleeThreshold": 100.000000,
+		"grapple_detachLowSpeedSwingThreshold": 1000.000000,
+		"grapple_detachLowSpeedTime": 1.500000,
+		"grapple_detachLowSpeedWallTime": 1.200000,
+		"grapple_detachLowSpeedGroundTime": 0.700000,
+		"grapple_detachLowSpeedMeleeTime": 1.000000,
+		"grapple_detachLowSpeedSwingTime": 0.200000,
+		"grapple_impactVerticalBoost": 300.000000,
+		"grapple_impactVerticalMaxSpeed": 300.000000,
+		"grapple_speedRampMin": 50.000000,
+		"grapple_speedRampMax": 800.000000,
+		"grapple_speedRampTime": 1.500000,
+		"grapple_swingingSpeedRampMin": 10.000000,
+		"grapple_swingingSpeedRampMax": 800.000000,
+		"grapple_swingingSpeedRampTime": 3.000000,
+		"grapple_accel": 1500.000000,
+		"grapple_decel": 425.000000,
+		"grapple_power_regen_delay": 3.000000,
+		"grapple_power_regen_rate": 100.000000,
+		"grapple_airSpeedMax": 420.000000,
+		"grapple_airAccel": 650.000000,
+		"grapple_lastZiplineCooldown": 0.500000,
+		"skydive_speed_min": 500.000000,
+		"skydive_speed_neutral": 800.000000,
+		"skydive_speed_max": 1400.000000,
+		"skydive_acceleration_min": 30.000000,
+		"skydive_acceleration_max": 600.000000,
+		"skydive_deceleration_min": 100.000000,
+		"skydive_deceleration_max": 400.000000,
+		"skydive_glide_speed": 1200.000000,
+		"skydive_glide_acceleration_min": 7.500000,
+		"skydive_glide_acceleration_max": 150.000000,
+		"skydive_glide_deceleration_min": 25.000000,
+		"skydive_glide_deceleration_max": 100.000000,
+		"skydive_glide_angle": 35.000000,
+		"skydive_pitch_acceleration_min": 30.000000,
+		"skydive_pitch_acceleration_max": 60.000000,
+		"skydive_yaw_smooth_time_min": 0.200000,
+		"skydive_yaw_smooth_time_max": 0.800000,
+		"skydive_anticipate_speed": 250.000000,
+		"skydive_anticipate_acceleration_min": 45.000000,
+		"skydive_anticipate_acceleration_max": 900.000000,
+		"skydive_anticipate_deceleration_min": 150.000000,
+		"skydive_anticipate_deceleration_max": 600.000000,
+		"skydive_anticipate_forward_speed": 350.000000,
+		"skydive_anticipate_forward_acceleration": 500.000000,
+		"skydive_strafe_angle": 35.000000,
+		"skydive_strafe_acceleration_min": 7.500000,
+		"skydive_strafe_acceleration_max": 150.000000,
+		"skydive_anticipate_strafe_acceleration_min": 12.500000,
+		"skydive_anticipate_strafe_acceleration_max": 250.000000,
+		"skydive_forward_pose_parameter_smooth_time": 0.600000,
+		"skydive_side_pose_parameter_smooth_time": 0.300000,
+		"skydive_max_distance_from_ground": 3000.000000,
+		"skydive_max_distance_from_wall": 1200.000000,
+		"skydive_max_distance_from_hover_tank": 600.000000,
+		"skydive_finish_distance": 512.000000,
+		"skydive_slipAcceleration": 1000.000000,
+		"skydive_slipSpeed": 500.000000,
+		"sharedEnergyTotal": 0,
+		"sharedEnergyRegenDelay": 0.000000,
+		"sharedEnergyRegenRate": 0.000000,
+		"deathcamRotateSpeed": 8.000000,
+		"deathcamDistanceMin": 170.000000,
+		"deathcamDistanceMax": 250.000000,
+		"deathcamDistanceGrowRate": 70.000000,
+		"deathcamExtraHeight": 40.000000,
+		"deathcamMinHeight": 30.000000,
+		"deathcamLookdownTime": 2.000000,
+		"deathcamLookdownPitch": 52.000000,
+		"chasecamDistanceMax": 150.000000,
+		"chasecamMaxOrbitDepth": 20.000000,
+		"chasecamMaxPitchUp": -45.000000,
+		"chasecamOffsetUp": 15.000000,
+		"chasecamOffsetRight": 18.000000,
+		"chasecamOffsetForward": 0.000000,
+		"leech_range": 64.000000,
+		"melee_cone_trace_range": 400.000000,
+		"melee_cone_trace_angle": 40.000000,
+		"mountZiplineTime": 0.500000,
+		"useZiplineCooldown": 0.400000,
+		"ziplineSpeed": 600.000000,
+		"ziplineAcceleration": 400.000000,
+		"ziplineJumpOnAcceleration": 1000.000000,
+		"ziplineJumpOffSpeed": 400.000000,
+		"ziplineJumpOffDampScale": 1.000000,
+		"ziplineDetachSpeed": 600.000000,
+		"ziplineMaxVerticalDetachSpeed": 1500.000000,
+		"ziplineRollStrength": 0.700000,
+		"ziplineRollMax": 25.000000,
+		"ziplineRollViewAngleMin": 30.000000,
+		"ziplineRollViewAngleMax": 50.000000,
+		"ziplineViewOffset": "<-16.000000,-6.000000,0.000000>",
+		"swingRollStrength": 0.800000,
+		"swingRollMax": 25.000000,
+		"swingRollViewAngleMin": 30.000000,
+		"swingRollViewAngleMax": 50.000000,
+		"swingRollDistanceMin": 10.000000,
+		"swingRollDistanceMax": 50.000000,
+		"pathGravityAcceleration": 400.000000,
+		"ziprailAcceleration": 150.000000,
+		"minSpeedFraction": 0.570000,
+		"maxSpeedMultiplier": 1.200000,
+		"maxCameraRoll": 40.000000,
+		"viewInfluenceOnJumpDirection": 0.500000,
+		"minJumpOffSpeed": 100.000000,
+		"maxJumpOffSpeed": 550.000000,
+		"maxBankAngle": 120.000000,
+		"bankCurveDist": 1500.000000,
+		"detachDirMaxUpAngle": 26.000000,
+		"detachDirMaxDownAngle": 10.000000,
+		"ziprailDetachSpeed": 450.000000,
+		"ziprailMaxCurvatureRollAngle": 18.000000,
+		"rodeoCooldownTime": 1.500000,
+		"rodeoViewdriftMinTitanSpeed": 80.000000,
+		"rodeoViewdriftMaxTitanSpeed": 300.000000,
+		"rodeoViewdriftPitchScaleMin": 0.500000,
+		"rodeoViewdriftPitchScaleMax": 2.000000,
+		"rodeoViewdriftPitchSpeedMin": 0.500000,
+		"rodeoViewdriftPitchSpeedMax": 3.000000,
+		"rodeoViewdriftYawScaleMin": 0.500000,
+		"rodeoViewdriftYawScaleMax": 1.000000,
+		"rodeoViewdriftYawSpeedMin": 0.500000,
+		"rodeoViewdriftYawSpeedMax": 1.000000,
+		"aimAngleBackwardEnd": -120.000000,
+		"aimAngleForwardStart": -60.000000,
+		"aimAngleForwardEnd": 60.000000,
+		"aimAngleBackwardStart": 120.000000,
+		"cockpitSwayGain": 1.000000,
+		"cockpitSwayMinOriginX": -1.000000,
+		"cockpitSwayMinOriginY": -1.000000,
+		"cockpitSwayMinOriginZ": -1.000000,
+		"cockpitSwayMaxOriginX": 1.000000,
+		"cockpitSwayMaxOriginY": 1.000000,
+		"cockpitSwayMaxOriginZ": 1.000000,
+		"cockpitSwayMinAnglePitch": -0.500000,
+		"cockpitSwayMinAngleYaw": -0.500000,
+		"cockpitSwayMinAngleRoll": -0.500000,
+		"cockpitSwayMaxAnglePitch": 0.500000,
+		"cockpitSwayMaxAngleYaw": 0.500000,
+		"cockpitSwayMaxAngleRoll": 0.500000,
+		"cockpitSwayTurnAngleFactor": -0.600000,
+		"cockpitSwayTurnAngleRollFactor": 0.200000,
+		"cockpitSwayTurnOriginFactor": -0.150000,
+		"cockpitSwayMoveAngleFactor": -0.400000,
+		"cockpitSwayMoveAngleRollFactor": -0.200000,
+		"cockpitSwayMoveOriginFactor": -0.150000,
+		"cockpit_spring_originDamping": 9.000000,
+		"cockpit_spring_originConstant": 65.000000,
+		"cockpit_spring_yawDamping": 9.000000,
+		"cockpit_spring_yawConstant": 65.000000,
+		"cockpit_spring_pitchDamping": 9.000000,
+		"cockpit_spring_pitchConstant": 65.000000,
+		"cockpit_spring_rollDamping": 9.000000,
+		"cockpit_spring_rollConstant": 65.000000,
+		"cockpit_stepJolt_origin": "<0.000000,0.000000,0.000000>",
+		"cockpit_stepJolt_angles": "<0.000000,0.000000,0.000000>",
+		"damageImpulseScale": 1.000000,
+		"damageImpulseScaleAir": 1.000000,
+		"damageImpulseSpeedBoostLimit": 1000.000000,
+		"damageImpulseSpeedLossLimit": 50.000000,
+		"titan_footstep_damage": 5000.000000,
+		"titan_footstep_damage_min_speed": 10.000000,
+		"titan_footstep_damage_height_check_ratio": 0.360000,
+		"titan_footstep_damage_interval": 1.000000,
+		"titan_footstep_damage_dist_interval": 150.000000,
+		"sprintViewOffset": -6.000000,
+		"sprintStartDelay": 0.200000,
+		"sprintStartDuration": 0.800000,
+		"sprintStartFastDuration": 0.200000,
+		"sprintEndDuration": 0.150000,
+		"sprinttiltMaxRoll": 2.000000,
+		"aimassist_bounds_override": -1.000000,
+		"aimassist_adspull_centerRadius": 11.000000,
+		"aimassist_adspull_headshotRadius": 13.000000,
+		"gibSpeed": 400.000000,
+		"gibAngularSpeed": 30.000000,
+		"gibMaxDist": 1024.000000,
+		"jumpNoiseDuration": 1.000000,
+		"jumpNoiseRadius": 300.000000,
+		"superJumpNoiseRadius": 400.000000,
+		"dodgeNoiseRadius": 500.000000,
+		"landingNoiseDuration": 1.000000,
+		"landingNoiseRadius": 300.000000,
+		"hardLandingNoiseRadius": 400.000000,
+		"hardFallDist": 20.000000,
+		"landDistLow": 3.000000,
+		"landDistMedium": 11.000000,
+		"landDistHigh": 33.000000,
+		"magneticRange": 48.000000,
+		"aiEnemy_priority": 10,
+		"camera_lcdStartupTime": 0.000000,
+		"pitchOffsetScale": 9.200000,
+		"gravityScale": 1.000000,
+		"passThroughThickness": 32,
+		"airSlowMoSpeed": 0.150000,
+		"isPrime": false,
+		"healthpacks": true,
+		"crouch": true,
+		"mechanical": false,
+		"canJumpWhileCrouched": false,
+		"doFaceAnim": true,
+		"localGravityFollowsGround": false,
+		"localGravityBlendWhileInAir": true,
+		"localGravityBlendWhileWallrunning": true,
+		"start_with_shields": false,
+		"use_damage_states": false,
+		"keep_title_on_autotitan": false,
+		"rodeo_allow": true,
+		"hasLeftRightEmbarks": false,
+		"jump": true,
+		"doubleJump": false,
+		"player_doubleJumpAirControl": false,
+		"superjumpCanUseAfterWallrun": true,
+		"automantle": true,
+		"mantlePitchLeveling": false,
+		"glideRestoreOnRespawn": false,
+		"glideRechargeOnlyInGroundedState": true,
+		"glideRechargeOnlyWhenFeetOnGround": false,
+		"boostEnabled": false,
+		"boostRepeatedBoostsAreShort": false,
+		"jetpackEnabled": false,
+		"jetpackScriptToActivate": false,
+		"jetpackToggleOn": false,
+		"jetpackToggleOff": true,
+		"jetpackPitchMovement": false,
+		"jetpackFloatLook": false,
+		"jetpackAfterburnerTouchesGround": false,
+		"jetpackAfterburnerBoundToJump": false,
+		"jetpackAfterburnerIsSticky": true,
+		"glideEnabled": false,
+		"glideScriptToActivate": false,
+		"glideHoldInputActivation": false,
+		"glideUpwardsBoostEnabled": true,
+		"glideUpwardsBoostActivateOncePerGlide": false,
+		"airStrafeEnabled": false,
+		"hoverEnabled": false,
+		"fx_jetwash_enabled": true,
+		"climbEnabled": true,
+		"climbingNoSlide": false,
+		"wallrun": false,
+		"wallstickEnabled": false,
+		"wallrunDuckCausesFallOff": true,
+		"wallrunMagnetizeToWall": false,
+		"player_wallrunOneHanded": true,
+		"wallrunSameWallAllowed": true,
+		"dodge": false,
+		"slide": true,
+		"player_slideBoostEnabled": true,
+		"player_slideSuperJumpEnabled": false,
+		"grapple_detachOnGrapple": true,
+		"grapple_touchGroundOnAttach": false,
+		"grapple_touchGroundOnDetach": false,
+		"grapple_disableWeaponsWhenActive": true,
+		"grapple_swing": false,
+		"grapple_swingSticky": true,
+		"skydive_forceAnticipation": false,
+		"sharedEnergyAllowOveruse": false,
+		"context_action_can_melee": true,
+		"context_action_can_use": true,
+		"ziplineCanMelee": false,
+		"quadMoveAnims": false,
+		"sprintAnimOrientToMoveDir": true,
+		"forceAimYawToEye": false,
+		"footstep_type_decoy_suffix": false,
+		"sprint": true,
+		"aimassist_use_short_inner_bounds": false,
+		"aimassist_adspull_noPitchUp": false,
+		"ui_targetinfo_showPortraits": false,
+		"stealthSounds": false
+	},
+	"$modNames": [
+		"pas_wall_runner",
+		"pas_ads_hover",
+		"enable_doublejump",
+		"enable_doublejump_aircontrol",
+		"stim_sprint",
+		"enable_wallrun",
+		"disable_jump_and_gravity",
+		"disable_slide",
+		"disable_targetinfo",
+		"empty_handed_run",
+		"bleedout",
+		"shadow_squad",
+		"fissure_updraft",
+		"context_action_can_use_true",
+		"targetinfo_alliance",
+		"disable_jump",
+		"targetinfo_ffa_squad",
+		"spider_wall",
+		"fast_zipline",
+		"slide_boost",
+		"low_gravity_1",
+		"low_gravity_2",
+		"low_gravity_3",
+		"low_gravity_4"
+	],
+	"$modValues": [
+		{ // originally mapped to offset 2560
+			"index": 0,
+			"type": "float_add",
+			"value": 21.000000,
+			"field": "wallrun_hangTimeLimit"
+		},
+		{ // originally mapped to offset 2556
+			"index": 0,
+			"type": "float_add",
+			"value": 2.500000,
+			"field": "wallrun_timeLimit"
+		},
+		{ // originally mapped to offset 3768
+			"index": 1,
+			"type": "bool",
+			"value": true,
+			"field": "hoverEnabled"
+		},
+		{ // originally mapped to offset 3743
+			"index": 2,
+			"type": "bool",
+			"value": true,
+			"field": "doubleJump"
+		},
+		{ // originally mapped to offset 2072
+			"index": 2,
+			"type": "float_add",
+			"value": 80.000000,
+			"field": "airAcceleration"
+		},
+		{ // originally mapped to offset 3743
+			"index": 3,
+			"type": "bool",
+			"value": true,
+			"field": "doubleJump"
+		},
+		{ // originally mapped to offset 3744
+			"index": 3,
+			"type": "bool",
+			"value": true,
+			"field": "player_doubleJumpAirControl"
+		},
+		{ // originally mapped to offset 2072
+			"index": 3,
+			"type": "float_add",
+			"value": 80.000000,
+			"field": "airAcceleration"
+		},
+		{ // originally mapped to offset 1248
+			"index": 3,
+			"type": "string",
+			"value": "JumpPad_Upgraded_DoubleJump_1P",
+			"field": "sound_jumpjet_jet_start_1p"
+		},
+		{ // originally mapped to offset 1256
+			"index": 3,
+			"type": "string",
+			"value": "JumpPad_Upgraded_DoubleJump_3P",
+			"field": "sound_jumpjet_jet_start_3p"
+		},
+		{ // originally mapped to offset 196
+			"index": 4,
+			"type": "float_add",
+			"value": 22.000000,
+			"field": "poseSettings[0].sprintspeed"
+		},
+		{ // originally mapped to offset 212
+			"index": 4,
+			"type": "float_add",
+			"value": 20.000000,
+			"field": "poseSettings[0].sprintAcceleration"
+		},
+		{ // originally mapped to offset 3772
+			"index": 5,
+			"type": "bool",
+			"value": true,
+			"field": "wallrun"
+		},
+		{ // originally mapped to offset 1200
+			"index": 5,
+			"type": "string",
+			"value": "Jumpjet_Jump_Start_1P",
+			"field": "sound_jumpjet_jump_start_1p"
+		},
+		{ // originally mapped to offset 1208
+			"index": 5,
+			"type": "string",
+			"value": "Jumpjet_Jump_Start_3P",
+			"field": "sound_jumpjet_jump_start_3p"
+		},
+		{ // originally mapped to offset 1216
+			"index": 5,
+			"type": "string",
+			"value": "Jumpjet_Jump_Body_1P",
+			"field": "sound_jumpjet_jump_body_1p"
+		},
+		{ // originally mapped to offset 1224
+			"index": 5,
+			"type": "string",
+			"value": "Jumpjet_Jump_Body_3P",
+			"field": "sound_jumpjet_jump_body_3p"
+		},
+		{ // originally mapped to offset 1232
+			"index": 5,
+			"type": "string",
+			"value": "Jumpjet_Jump_End_1P",
+			"field": "sound_jumpjet_jump_finish_1p"
+		},
+		{ // originally mapped to offset 1240
+			"index": 5,
+			"type": "string",
+			"value": "Jumpjet_Jump_End_3P",
+			"field": "sound_jumpjet_jump_finish_3p"
+		},
+		{ // originally mapped to offset 1248
+			"index": 5,
+			"type": "string",
+			"value": "Jumpjet_Jet_Start_1P",
+			"field": "sound_jumpjet_jet_start_1p"
+		},
+		{ // originally mapped to offset 1256
+			"index": 5,
+			"type": "string",
+			"value": "Jumpjet_Jet_Start_3P",
+			"field": "sound_jumpjet_jet_start_3p"
+		},
+		{ // originally mapped to offset 1264
+			"index": 5,
+			"type": "string",
+			"value": "Jumpjet_Jet_Body_1P",
+			"field": "sound_jumpjet_jet_body_1p"
+		},
+		{ // originally mapped to offset 1272
+			"index": 5,
+			"type": "string",
+			"value": "Jumpjet_Jet_Body_3P",
+			"field": "sound_jumpjet_jet_body_3p"
+		},
+		{ // originally mapped to offset 1280
+			"index": 5,
+			"type": "string",
+			"value": "Jumpjet_Jet_End_1P",
+			"field": "sound_jumpjet_jet_finish_1p"
+		},
+		{ // originally mapped to offset 1288
+			"index": 5,
+			"type": "string",
+			"value": "Jumpjet_Jet_End_3P",
+			"field": "sound_jumpjet_jet_finish_3p"
+		},
+		{ // originally mapped to offset 1296
+			"index": 5,
+			"type": "string",
+			"value": "Jumpjet_Wallrun_Start_1P",
+			"field": "sound_jumpjet_wallrun_start_1p"
+		},
+		{ // originally mapped to offset 1304
+			"index": 5,
+			"type": "string",
+			"value": "Jumpjet_Wallrun_Start_3P",
+			"field": "sound_jumpjet_wallrun_start_3p"
+		},
+		{ // originally mapped to offset 1312
+			"index": 5,
+			"type": "string",
+			"value": "Jumpjet_Wallrun_Body_1P",
+			"field": "sound_jumpjet_wallrun_body_1p"
+		},
+		{ // originally mapped to offset 1320
+			"index": 5,
+			"type": "string",
+			"value": "Jumpjet_Wallrun_Body_3P",
+			"field": "sound_jumpjet_wallrun_body_3p"
+		},
+		{ // originally mapped to offset 1328
+			"index": 5,
+			"type": "string",
+			"value": "Jumpjet_Wallrun_End_1P",
+			"field": "sound_jumpjet_wallrun_finish_1p"
+		},
+		{ // originally mapped to offset 1336
+			"index": 5,
+			"type": "string",
+			"value": "Jumpjet_Wallrun_End_3P",
+			"field": "sound_jumpjet_wallrun_finish_3p"
+		},
+		{ // originally mapped to offset 1096
+			"index": 5,
+			"type": "string",
+			"value": "jumpjet_wallrun_fall_1p",
+			"field": "sound_wallrunFall_1p"
+		},
+		{ // originally mapped to offset 1104
+			"index": 5,
+			"type": "string",
+			"value": "jumpjet_wallrun_fall_3p",
+			"field": "sound_wallrunFall_3p"
+		},
+		{ // originally mapped to offset 1152
+			"index": 5,
+			"type": "string",
+			"value": "Jumpjet_Freefall_Start_1P",
+			"field": "sound_freefall_start_1p"
+		},
+		{ // originally mapped to offset 1160
+			"index": 5,
+			"type": "string",
+			"value": "Jumpjet_Freefall_Start_3P",
+			"field": "sound_freefall_start_3p"
+		},
+		{ // originally mapped to offset 1168
+			"index": 5,
+			"type": "string",
+			"value": "Jumpjet_Freefall_Body_1P",
+			"field": "sound_freefall_body_1p"
+		},
+		{ // originally mapped to offset 1176
+			"index": 5,
+			"type": "string",
+			"value": "Jumpjet_Freefall_Body_3P",
+			"field": "sound_freefall_body_3p"
+		},
+		{ // originally mapped to offset 1184
+			"index": 5,
+			"type": "string",
+			"value": "Jumpjet_Freefall_End_1P",
+			"field": "sound_freefall_finish_1p"
+		},
+		{ // originally mapped to offset 1192
+			"index": 5,
+			"type": "string",
+			"value": "Jumpjet_Freefall_End_3P",
+			"field": "sound_freefall_finish_3p"
+		},
+		{ // originally mapped to offset 1200
+			"index": 5,
+			"type": "string",
+			"value": "Jumpjet_Jump_Start_1P",
+			"field": "sound_jumpjet_jump_start_1p"
+		},
+		{ // originally mapped to offset 1208
+			"index": 5,
+			"type": "string",
+			"value": "Jumpjet_Jump_Start_3P",
+			"field": "sound_jumpjet_jump_start_3p"
+		},
+		{ // originally mapped to offset 1216
+			"index": 5,
+			"type": "string",
+			"value": "Jumpjet_Jump_Body_1P",
+			"field": "sound_jumpjet_jump_body_1p"
+		},
+		{ // originally mapped to offset 1224
+			"index": 5,
+			"type": "string",
+			"value": "Jumpjet_Jump_Body_3P",
+			"field": "sound_jumpjet_jump_body_3p"
+		},
+		{ // originally mapped to offset 1232
+			"index": 5,
+			"type": "string",
+			"value": "Jumpjet_Jump_End_1P",
+			"field": "sound_jumpjet_jump_finish_1p"
+		},
+		{ // originally mapped to offset 1240
+			"index": 5,
+			"type": "string",
+			"value": "Jumpjet_Jump_End_3P",
+			"field": "sound_jumpjet_jump_finish_3p"
+		},
+		{ // originally mapped to offset 3742
+			"index": 6,
+			"type": "bool",
+			"value": false,
+			"field": "jump"
+		},
+		{ // originally mapped to offset 3716
+			"index": 6,
+			"type": "number",
+			"value": 0.001000,
+			"field": "gravityScale"
+		},
+		{ // originally mapped to offset 2172
+			"index": 6,
+			"type": "number",
+			"value": 0.000000,
+			"field": "jumpHeight"
+		},
+		{ // originally mapped to offset 3779
+			"index": 7,
+			"type": "bool",
+			"value": false,
+			"field": "slide"
+		},
+		{ // originally mapped to offset 1976
+			"index": 8,
+			"type": "string",
+			"value": "",
+			"field": "ui_targetinfo"
+		},
+		{ // originally mapped to offset 196
+			"index": 9,
+			"type": "float_add",
+			"value": 40.000000,
+			"field": "poseSettings[0].sprintspeed"
+		},
+		{ // originally mapped to offset 2228
+			"index": 10,
+			"type": "number",
+			"value": 42.000000,
+			"field": "mantleHeight"
+		},
+		{ // originally mapped to offset 2172
+			"index": 11,
+			"type": "float_multipy",
+			"value": 1.400000,
+			"field": "jumpHeight"
+		},
+		{ // originally mapped to offset 3791
+			"index": 11,
+			"type": "bool",
+			"value": false,
+			"field": "context_action_can_use"
+		},
+		{ // originally mapped to offset 196
+			"index": 11,
+			"type": "float_multipy",
+			"value": 1.250000,
+			"field": "poseSettings[0].sprintspeed"
+		},
+		{ // originally mapped to offset 192
+			"index": 11,
+			"type": "float_multipy",
+			"value": 1.250000,
+			"field": "poseSettings[0].speed"
+		},
+		{ // originally mapped to offset 2020
+			"index": 11,
+			"type": "number",
+			"value": 100.000000,
+			"field": "fov"
+		},
+		{ // originally mapped to offset 2768
+			"index": 11,
+			"type": "float_multipy",
+			"value": 1.250000,
+			"field": "slideSpeedBoostCap"
+		},
+		{ // originally mapped to offset 2760
+			"index": 11,
+			"type": "float_multipy",
+			"value": 1.250000,
+			"field": "slideMaxJumpSpeed"
+		},
+		{ // originally mapped to offset 2208
+			"index": 11,
+			"type": "number",
+			"value": 0.000000,
+			"field": "landSlowdownDuration"
+		},
+		{ // originally mapped to offset 2132
+			"index": 11,
+			"type": "number",
+			"value": 5000.000000,
+			"field": "verticalGainCutoff_wallrun"
+		},
+		{ // originally mapped to offset 2520
+			"index": 11,
+			"type": "number",
+			"value": 5000.000000,
+			"field": "climbHeight"
+		},
+		{ // originally mapped to offset 2528
+			"index": 11,
+			"type": "number",
+			"value": 300.000000,
+			"field": "climbSpeedStart"
+		},
+		{ // originally mapped to offset 2236
+			"index": 11,
+			"type": "float_multipy",
+			"value": 0.600000,
+			"field": "mantleDurationBelow"
+		},
+		{ // originally mapped to offset 2240
+			"index": 11,
+			"type": "float_multipy",
+			"value": 0.600000,
+			"field": "mantleDurationLevel"
+		},
+		{ // originally mapped to offset 2244
+			"index": 11,
+			"type": "float_multipy",
+			"value": 0.600000,
+			"field": "mantleDurationAbove"
+		},
+		{ // originally mapped to offset 2248
+			"index": 11,
+			"type": "float_multipy",
+			"value": 0.600000,
+			"field": "mantleDurationHigh"
+		},
+		{ // originally mapped to offset 3792
+			"index": 11,
+			"type": "bool",
+			"value": true,
+			"field": "ziplineCanMelee"
+		},
+		{ // originally mapped to offset 832
+			"index": 11,
+			"type": "string",
+			"value": "ShadowLegend",
+			"field": "footstep_type"
+		},
+		{ // originally mapped to offset 3743
+			"index": 11,
+			"type": "bool",
+			"value": true,
+			"field": "doubleJump"
+		},
+		{ // originally mapped to offset 3772
+			"index": 11,
+			"type": "bool",
+			"value": true,
+			"field": "wallrun"
+		},
+		{ // originally mapped to offset 1200
+			"index": 11,
+			"type": "string",
+			"value": "shadowlegend_jump_default",
+			"field": "sound_jumpjet_jump_start_1p"
+		},
+		{ // originally mapped to offset 1208
+			"index": 11,
+			"type": "string",
+			"value": "shadowlegend_jump_default_3p",
+			"field": "sound_jumpjet_jump_start_3p"
+		},
+		{ // originally mapped to offset 1248
+			"index": 11,
+			"type": "string",
+			"value": "ShadowLegend_Shadow_DoubleJump_1P",
+			"field": "sound_jumpjet_jet_start_1p"
+		},
+		{ // originally mapped to offset 1256
+			"index": 11,
+			"type": "string",
+			"value": "ShadowLegend_Shadow_DoubleJump_3P",
+			"field": "sound_jumpjet_jet_start_3p"
+		},
+		{ // originally mapped to offset 2556
+			"index": 11,
+			"type": "number",
+			"value": 1.750000,
+			"field": "wallrun_timeLimit"
+		},
+		{ // originally mapped to offset 3774
+			"index": 11,
+			"type": "bool",
+			"value": true,
+			"field": "wallrunDuckCausesFallOff"
+		},
+		{ // originally mapped to offset 2568
+			"index": 11,
+			"type": "number",
+			"value": 0.500000,
+			"field": "wallrunCeilingLimit"
+		},
+		{ // originally mapped to offset 2572
+			"index": 11,
+			"type": "number",
+			"value": 17.000000,
+			"field": "wallrunAllowedWallDistance"
+		},
+		{ // originally mapped to offset 2576
+			"index": 11,
+			"type": "number",
+			"value": 18.000000,
+			"field": "wallrunAllowedWallDistanceWallHang"
+		},
+		{ // originally mapped to offset 3776
+			"index": 11,
+			"type": "bool",
+			"value": true,
+			"field": "player_wallrunOneHanded"
+		},
+		{ // originally mapped to offset 2580
+			"index": 11,
+			"type": "number",
+			"value": 250.000000,
+			"field": "wallrunUpWallBoost"
+		},
+		{ // originally mapped to offset 2584
+			"index": 11,
+			"type": "number",
+			"value": 225.000000,
+			"field": "wallrunMaxSpeedVertical"
+		},
+		{ // originally mapped to offset 2588
+			"index": 11,
+			"type": "number",
+			"value": 340.000000,
+			"field": "wallrunMaxSpeedHorizontal"
+		},
+		{ // originally mapped to offset 2596
+			"index": 11,
+			"type": "number",
+			"value": 360.000000,
+			"field": "wallrunAccelerateVertical"
+		},
+		{ // originally mapped to offset 2604
+			"index": 11,
+			"type": "number",
+			"value": 1400.000000,
+			"field": "wallrunAccelerateHorizontal"
+		},
+		{ // originally mapped to offset 2616
+			"index": 11,
+			"type": "number",
+			"value": 230.000000,
+			"field": "wallrunJumpUpSpeed"
+		},
+		{ // originally mapped to offset 2620
+			"index": 11,
+			"type": "number",
+			"value": 75.000000,
+			"field": "wallrunJumpInputDirSpeed"
+		},
+		{ // originally mapped to offset 2624
+			"index": 11,
+			"type": "number",
+			"value": 205.000000,
+			"field": "wallrunJumpOutwardSpeed"
+		},
+		{ // originally mapped to offset 2192
+			"index": 11,
+			"type": "number",
+			"value": 60.000000,
+			"field": "superjumpMinHeight"
+		},
+		{ // originally mapped to offset 2196
+			"index": 11,
+			"type": "number",
+			"value": 60.000000,
+			"field": "superjumpMaxHeight"
+		},
+		{ // originally mapped to offset 2200
+			"index": 11,
+			"type": "number",
+			"value": 180.000000,
+			"field": "superjumpHorzSpeed"
+		},
+		{ // originally mapped to offset 3788
+			"index": 12,
+			"type": "bool",
+			"value": true,
+			"field": "skydive_forceAnticipation"
+		},
+		{ // originally mapped to offset 3096
+			"index": 12,
+			"type": "number",
+			"value": 250.000000,
+			"field": "skydive_anticipate_forward_speed"
+		},
+		{ // originally mapped to offset 3100
+			"index": 12,
+			"type": "number",
+			"value": 500.000000,
+			"field": "skydive_anticipate_forward_acceleration"
+		},
+		{ // originally mapped to offset 3076
+			"index": 12,
+			"type": "number",
+			"value": 150.000000,
+			"field": "skydive_anticipate_speed"
+		},
+		{ // originally mapped to offset 3791
+			"index": 13,
+			"type": "bool",
+			"value": true,
+			"field": "context_action_can_use"
+		},
+		{ // originally mapped to offset 1976
+			"index": 14,
+			"type": "string",
+			"value": "ui/targetinfo_alliance",
+			"field": "ui_targetinfo"
+		},
+		{ // originally mapped to offset 3742
+			"index": 15,
+			"type": "bool",
+			"value": false,
+			"field": "jump"
+		},
+		{ // originally mapped to offset 2172
+			"index": 15,
+			"type": "number",
+			"value": 0.000000,
+			"field": "jumpHeight"
+		},
+		{ // originally mapped to offset 1976
+			"index": 16,
+			"type": "string",
+			"value": "ui/targetinfo_ffa_squad",
+			"field": "ui_targetinfo"
+		},
+		{ // originally mapped to offset 2556
+			"index": 17,
+			"type": "number",
+			"value": 1000000.000000,
+			"field": "wallrun_timeLimit"
+		},
+		{ // originally mapped to offset 3774
+			"index": 17,
+			"type": "bool",
+			"value": true,
+			"field": "wallrunDuckCausesFallOff"
+		},
+		{ // originally mapped to offset 2568
+			"index": 17,
+			"type": "number",
+			"value": 1000000.000000,
+			"field": "wallrunCeilingLimit"
+		},
+		{ // originally mapped to offset 2572
+			"index": 17,
+			"type": "number",
+			"value": 1000000.000000,
+			"field": "wallrunAllowedWallDistance"
+		},
+		{ // originally mapped to offset 3776
+			"index": 17,
+			"type": "bool",
+			"value": true,
+			"field": "player_wallrunOneHanded"
+		},
+		{ // originally mapped to offset 2580
+			"index": 17,
+			"type": "number",
+			"value": 100.000000,
+			"field": "wallrunUpWallBoost"
+		},
+		{ // originally mapped to offset 2584
+			"index": 17,
+			"type": "number",
+			"value": 300.000000,
+			"field": "wallrunMaxSpeedVertical"
+		},
+		{ // originally mapped to offset 2588
+			"index": 17,
+			"type": "number",
+			"value": 500.000000,
+			"field": "wallrunMaxSpeedHorizontal"
+		},
+		{ // originally mapped to offset 2596
+			"index": 17,
+			"type": "number",
+			"value": 400.000000,
+			"field": "wallrunAccelerateVertical"
+		},
+		{ // originally mapped to offset 2604
+			"index": 17,
+			"type": "number",
+			"value": 500.000000,
+			"field": "wallrunAccelerateHorizontal"
+		},
+		{ // originally mapped to offset 2616
+			"index": 17,
+			"type": "number",
+			"value": 75.000000,
+			"field": "wallrunJumpUpSpeed"
+		},
+		{ // originally mapped to offset 2620
+			"index": 17,
+			"type": "number",
+			"value": 75.000000,
+			"field": "wallrunJumpInputDirSpeed"
+		},
+		{ // originally mapped to offset 2624
+			"index": 17,
+			"type": "number",
+			"value": 75.000000,
+			"field": "wallrunJumpOutwardSpeed"
+		},
+		{ // originally mapped to offset 3770
+			"index": 17,
+			"type": "bool",
+			"value": false,
+			"field": "climbEnabled"
+		},
+		{ // originally mapped to offset 2520
+			"index": 17,
+			"type": "number",
+			"value": 0.000000,
+			"field": "climbHeight"
+		},
+		{ // originally mapped to offset 3775
+			"index": 17,
+			"type": "bool",
+			"value": true,
+			"field": "wallrunMagnetizeToWall"
+		},
+		{ // originally mapped to offset 2612
+			"index": 17,
+			"type": "number",
+			"value": 1000000.000000,
+			"field": "wallrunGravityRampUpTime"
+		},
+		{ // originally mapped to offset 2132
+			"index": 17,
+			"type": "number",
+			"value": 32.000000,
+			"field": "verticalGainCutoff_wallrun"
+		},
+		{ // originally mapped to offset 3777
+			"index": 17,
+			"type": "bool",
+			"value": true,
+			"field": "wallrunSameWallAllowed"
+		},
+		{ // originally mapped to offset 3244
+			"index": 18,
+			"type": "number",
+			"value": 1000.000000,
+			"field": "ziplineSpeed"
+		},
+		{ // originally mapped to offset 3248
+			"index": 18,
+			"type": "float_multipy",
+			"value": 0.700000,
+			"field": "ziplineAcceleration"
+		},
+		{ // originally mapped to offset 3252
+			"index": 18,
+			"type": "float_multipy",
+			"value": 0.800000,
+			"field": "ziplineJumpOnAcceleration"
+		},
+		{ // originally mapped to offset 3268
+			"index": 18,
+			"type": "number",
+			"value": 800.000000,
+			"field": "ziplineMaxVerticalDetachSpeed"
+		},
+		{ // originally mapped to offset 2728
+			"index": 19,
+			"type": "number",
+			"value": 15.000000,
+			"field": "slideDecel"
+		},
+		{ // originally mapped to offset 2760
+			"index": 19,
+			"type": "float_add",
+			"value": 200.000000,
+			"field": "slideMaxJumpSpeed"
+		},
+		{ // originally mapped to offset 2764
+			"index": 19,
+			"type": "float_add",
+			"value": -100.000000,
+			"field": "slideSpeedBoost"
+		},
+		{ // originally mapped to offset 2768
+			"index": 19,
+			"type": "float_add",
+			"value": 150.000000,
+			"field": "slideSpeedBoostCap"
+		},
+		{ // originally mapped to offset 2736
+			"index": 19,
+			"type": "number",
+			"value": 0.800000,
+			"field": "slideVelocityDecay"
+		},
+		{ // originally mapped to offset 2724
+			"index": 19,
+			"type": "number",
+			"value": 0.300000,
+			"field": "player_slideBoostCooldown"
+		},
+		{ // originally mapped to offset 2740
+			"index": 19,
+			"type": "float_add",
+			"value": 75.000000,
+			"field": "slideAccel"
+		},
+		{ // originally mapped to offset 2756
+			"index": 19,
+			"type": "number",
+			"value": 125.000000,
+			"field": "slideMaxStopSpeed"
+		},
+		{ // originally mapped to offset 2732
+			"index": 19,
+			"type": "number",
+			"value": 300.000000,
+			"field": "slideWantToStopDecel"
+		},
+		{ // originally mapped to offset 3716
+			"index": 20,
+			"type": "number",
+			"value": 0.850000,
+			"field": "gravityScale"
+		},
+		{ // originally mapped to offset 2172
+			"index": 20,
+			"type": "float_multipy",
+			"value": 1.200000,
+			"field": "jumpHeight"
+		},
+		{ // originally mapped to offset 3716
+			"index": 21,
+			"type": "number",
+			"value": 0.700000,
+			"field": "gravityScale"
+		},
+		{ // originally mapped to offset 2172
+			"index": 21,
+			"type": "float_multipy",
+			"value": 1.400000,
+			"field": "jumpHeight"
+		},
+		{ // originally mapped to offset 3716
+			"index": 22,
+			"type": "number",
+			"value": 0.550000,
+			"field": "gravityScale"
+		},
+		{ // originally mapped to offset 2172
+			"index": 22,
+			"type": "float_multipy",
+			"value": 1.600000,
+			"field": "jumpHeight"
+		},
+		{ // originally mapped to offset 3716
+			"index": 23,
+			"type": "number",
+			"value": 0.400000,
+			"field": "gravityScale"
+		},
+		{ // originally mapped to offset 2172
+			"index": 23,
+			"type": "float_multipy",
+			"value": 1.800000,
+			"field": "jumpHeight"
+		}
+	]
+}

@@ -1,0 +1,8 @@
+rigs:
+[
+	animrig\weapons\caustic_gas_tank\ptpov_caustic_gas_tank_held.rrig
+]
+seqs:
+[
+	animseq\weapons\caustic_gas_tank\ptpov_caustic_gas_tank_freefall\caustic_gastank_freefall_emote_barrelroll.rseq
+]

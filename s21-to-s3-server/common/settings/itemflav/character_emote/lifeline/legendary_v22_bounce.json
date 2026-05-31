@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 476772721,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/lifeline/legendary_v22_bounce.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/lifeline.rpak",
+		"settingsAssetID": "SAID00476772721",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#ground_emote_lifeline_bounce",
+		"localizationKey_NAME_SHORT": "#ground_emote_lifeline_bounce",
+		"localizationKey_DESCRIPTION_LONG": "#ground_emote_lifeline_bounce",
+		"localizationKey_DESCRIPTION_SHORT": "#ground_emote_lifeline_bounce",
+		"quality": "LEGENDARY",
+		"icon": "rui/menu/buttons/character_emotes/lifeline/bounce",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_lifeline_legendary_v22_bounce",
+		"ownershipTarget": "",
+		"anim3p": "lifeline_ground_emote_bounce_start",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "lifeline_ground_emote_bounce_loop",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

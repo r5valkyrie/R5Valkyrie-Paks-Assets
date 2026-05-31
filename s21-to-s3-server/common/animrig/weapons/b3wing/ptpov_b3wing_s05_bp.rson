@@ -1,0 +1,6 @@
+seqs:
+[
+	animseq\b3wing\dmx\animation\fire_reactive_ADS.rseq
+	animseq\weapons\b3wing\ptpov_b3wing\idle_reactive_layer.rseq
+	animseq\weapons\b3wing\ptpov_b3wing\kill_reactive_layer.rseq
+]

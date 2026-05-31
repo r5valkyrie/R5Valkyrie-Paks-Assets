@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 570855122,
+	"settings": {
+		"assetName": "settings/itemflav/ability/wraith_upgrade_faster_phase_walk.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00570855122",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#UPGRADE_WRAITH_TAC_SPEED_NAME",
+		"localizationKey_NAME_SHORT": "#UPGRADE_TYPE_TACTICAL",
+		"localizationKey_DESCRIPTION_LONG": "#UPGRADE_WRAITH_TAC_SPEED_LONG_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#UPGRADE_WRAITH_TAC_SPEED_SHORT_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/legend_upgrades/wraith_quickshift_icon",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_FASTER_TAC_WINDUP",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

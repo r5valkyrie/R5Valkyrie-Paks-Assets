@@ -1,0 +1,10 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_SetPropSkin_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/standardized_tablet_conduit_retheme.rpak",
+		"devDescription": "",
+		"type": "SetPropSkin",
+		"skinName": "conduit_retheme",
+		"camoIndex": 0
+	}
+}

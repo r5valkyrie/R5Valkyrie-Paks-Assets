@@ -1,0 +1,12 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_PlayFX_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/fx_horizon_heirloom_spin.rpak",
+		"devDescription": "",
+		"type": "PlayFX",
+		"particleSystemName": "P_wpn_morning_star_spin",
+		"attachPoint": "FX_CORE",
+		"followAttach": true,
+		"playEndCap": true
+	}
+}

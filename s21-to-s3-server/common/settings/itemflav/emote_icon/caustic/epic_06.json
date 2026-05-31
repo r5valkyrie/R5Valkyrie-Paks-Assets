@@ -1,0 +1,36 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_emote_icon_layout.rpak",
+	"uniqueId": 1276735014,
+	"settings": {
+		"assetName": "settings/itemflav/emote_icon/caustic/epic_06.rpak",
+		"itemType": "emote_icon",
+		"parentItemFlavor": "settings/itemflav/character/caustic.rpak",
+		"settingsAssetID": "SAID01276735014",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#spray_epic_v20_caustic_06",
+		"localizationKey_NAME_SHORT": "#spray_epic_v20_caustic_06",
+		"localizationKey_DESCRIPTION_LONG": "#spray_epic_v20_caustic_06",
+		"localizationKey_DESCRIPTION_SHORT": "#spray_epic_v20_caustic_06",
+		"quality": "EPIC",
+		"icon": "rui/menu/holosprays/hspray_epic_v20_caustic_06",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "emote_icon_caustic_epic_06",
+		"ownershipTarget": "",
+		"anim3p": "",
+		"holoProjectorSprayModel": "mdl/props/holo_spray/hspray_epic_v20_caustic_06.rmdl",
+		"quickchatAliasSubName": "",
+		"customSkinMenuBlurb": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<0.914000,0.624000,0.086000>",
+		"holoProjectorEffectColor2": "<0.729000,1.000000,0.459000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": true,
+		"holoProjectorUseEffectColor2": true,
+		"isTheEmpty": false
+	}
+}

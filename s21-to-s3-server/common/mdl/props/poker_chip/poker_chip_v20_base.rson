@@ -1,0 +1,8 @@
+rigs:
+[
+]
+seqs:
+[
+	animseq\props\poker_chip\poker_chip_v20_base\valkyrie_chip1_gladcard_static_pokerface.rseq
+	animseq\props\poker_chip\poker_chip_v20_base\valkyrie_chip2_gladcard_static_pokerface.rseq
+]

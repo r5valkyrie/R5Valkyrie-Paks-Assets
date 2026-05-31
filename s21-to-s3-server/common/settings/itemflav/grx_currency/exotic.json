@@ -1,0 +1,30 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_account_currency_layout.rpak",
+	"uniqueId": 147654293,
+	"settings": {
+		"assetName": "settings/itemflav/grx_currency/exotic.rpak",
+		"itemType": "account_currency",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00147654293",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#CURRENCY_EXOTIC_SHARDS",
+		"localizationKey_NAME_SHORT": "#CURRENCY_EXOTIC_SHARDS",
+		"localizationKey_DESCRIPTION_LONG": "#EMPTY_STRING",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "LEGENDARY",
+		"icon": "rui/menu/common/currency_exotic",
+		"tagIcon": "",
+		"grxMode": "CURRENCY",
+		"grxMode": "CURRENCY",
+		"grxRef": "exotic",
+		"ownershipTarget": "",
+		"rewardIcon": "rui/menu/buttons/battlepass/currency_exotic",
+		"previewMdl": "mdl/currency/crafting/currency_crafting_artifact.rmdl",
+		"purchaseSound": "UI_Menu_Purchase_Coins",
+		"multipleOwnershipTargets": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

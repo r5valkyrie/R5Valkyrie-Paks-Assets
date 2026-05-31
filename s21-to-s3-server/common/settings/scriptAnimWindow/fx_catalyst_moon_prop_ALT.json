@@ -1,0 +1,12 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_PlayFX_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/fx_catalyst_moon_prop_ALT.rpak",
+		"devDescription": "catalyst_moon_prop",
+		"type": "PlayFX",
+		"particleSystemName": "P_ferro_prop_moon_ALT",
+		"attachPoint": "MOONLOUNGE_FX",
+		"followAttach": true,
+		"playEndCap": false
+	}
+}

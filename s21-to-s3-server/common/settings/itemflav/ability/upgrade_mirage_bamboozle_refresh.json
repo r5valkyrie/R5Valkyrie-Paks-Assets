@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 796339307,
+	"settings": {
+		"assetName": "settings/itemflav/ability/upgrade_mirage_bamboozle_refresh.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00796339307",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#UPGRADE_MIRAGE_BAMBOOZLE_REFRESH_NAME",
+		"localizationKey_NAME_SHORT": "#UPGRADE_TYPE_TACTICAL",
+		"localizationKey_DESCRIPTION_LONG": "#UPGRADE_MIRAGE_BAMBOOZLE_REFRESH_LONG_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#UPGRADE_MIRAGE_BAMBOOZLE_REFRESH_SHORT_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/legend_upgrades/mirage_bamboozlebonus_icon",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_TAC_UPGRADE_TWO",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

@@ -1,0 +1,4 @@
+"fieldName","dataType","layoutIndex","helpText"
+"fxAsset","string","0",""
+"attachName","string","0","The attachment name that the FX will be parented to"
+"perspective","string","0",""

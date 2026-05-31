@@ -1,0 +1,11 @@
+rigs:
+[
+]
+seqs:
+[
+	animseq\props\folding_table\folding_table_prop\playback_cover_table.rseq
+	animseq\props\folding_table\folding_table_prop\playback_flip_table.rseq
+	animseq\props\folding_table\folding_table_prop\table_gladcard_animated_shogi.rseq
+	animseq\props\folding_table\folding_table_prop\table_gladcard_animated_shogi_idle.rseq
+	animseq\props\folding_table\folding_table_prop\valkyrie_table_gladcard_static_pokerface.rseq
+]

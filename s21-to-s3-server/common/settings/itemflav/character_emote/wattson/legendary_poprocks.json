@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 835572313,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/wattson/legendary_poprocks.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/wattson.rpak",
+		"settingsAssetID": "SAID00835572313",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#CHAR_EMOTE_048",
+		"localizationKey_NAME_SHORT": "#CHAR_EMOTE_048",
+		"localizationKey_DESCRIPTION_LONG": "#CHAR_EMOTE_048",
+		"localizationKey_DESCRIPTION_SHORT": "#CHAR_EMOTE_048",
+		"quality": "LEGENDARY",
+		"icon": "rui/menu/buttons/character_emotes/wattson/poprocks",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_wattson_legendary_poprocks",
+		"ownershipTarget": "",
+		"anim3p": "wattson_ground_emote_poprocks",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

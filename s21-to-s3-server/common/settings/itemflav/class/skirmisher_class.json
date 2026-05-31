@@ -1,0 +1,30 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_class_layout.rpak",
+	"uniqueId": 1792988864,
+	"settings": {
+		"assetName": "settings/itemflav/class/skirmisher_class.rpak",
+		"itemType": "character_class",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01792988864",
+		"__featureFlag": "",
+		"devDescription": "Skirmisher Class",
+		"localizationKey_NAME": "#ROLE_SKIRMISHER",
+		"localizationKey_NAME_SHORT": "#SKIRMISHER_SHORT_NAME",
+		"localizationKey_DESCRIPTION_LONG": "#SKIRMISHER_LONG_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#ROLE_SKIRMISHER_SUBTITLE",
+		"quality": "NONE",
+		"icon": "rui/menu/character_select/utility/role_skirmisher",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"role": "SKIRMISHER",
+		"uiColor": "<0.760000,0.660000,0.090000>",
+		"perks": [
+				{
+					"flavor": "settings/itemflav/class_perk/care_package_insight.rpak",
+					"featureFlag": "HAS_PERK_SYSTEM"
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

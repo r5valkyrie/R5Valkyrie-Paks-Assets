@@ -1,0 +1,24 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_category_layout.rpak",
+	"uniqueId": 143499586,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_category/sniper.rpak",
+		"itemType": "weapon_category",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00143499586",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#weapon_category_sniper_NAME",
+		"localizationKey_NAME_SHORT": "#TAG_SNIPER",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "rui/weapon_icons/r5/weapon_longbow",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"statsKey": "sniper",
+		"menuZoomOffset": "<6.000000,0.000000,0.000000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

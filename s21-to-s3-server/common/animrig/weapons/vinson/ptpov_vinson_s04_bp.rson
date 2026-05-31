@@ -1,0 +1,5 @@
+seqs:
+[
+	animseq\weapons\vinson\ptpov_vinson\idle_reactive_layer.rseq
+	animseq\weapons\vinson\ptpov_vinson\kill_reactive_layer.rseq
+]

@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/caustic/s08ace_legendary_01.rpak",
+		"roots": [
+				{
+					"asset": "mdl/Humans/class/heavy/pilot_heavy_caustic_season2_legendary_01.rmdl",
+					"featureFlag": ""
+				},
+				{
+					"asset": "mdl/Weapons/arms/pov_pilot_heavy_caustic_season2_legendary_01.rmdl",
+					"featureFlag": ""
+				}
+			]
+	}
+}

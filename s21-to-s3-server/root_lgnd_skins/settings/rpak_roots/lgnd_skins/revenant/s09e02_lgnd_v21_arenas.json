@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/revenant/s09e02_lgnd_v21_arenas.rpak",
+		"roots": [
+				{
+					"asset": "mdl/humans/class/heavy/revenant_v21_arenas_w.rmdl",
+					"featureFlag": ""
+				},
+				{
+					"asset": "mdl/weapons/arms/revenant_v21_arenas_v.rmdl",
+					"featureFlag": ""
+				}
+			]
+	}
+}

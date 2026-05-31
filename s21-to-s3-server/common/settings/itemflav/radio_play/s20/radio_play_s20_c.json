@@ -1,0 +1,177 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_radio_play_layout.rpak",
+	"uniqueId": 1444022902,
+	"settings": {
+		"assetName": "settings/itemflav/radio_play/s20/radio_play_s20_c.rpak",
+		"itemType": "radio_play",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01444022902",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "rui/events/s17ce02/loadscreen_icon_01",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "radio_play_s20_qc",
+		"ownershipTarget": "",
+		"multipleOwnershipTargets": [
+			],
+		"layers": [
+				{
+					"ruiAnimations": [
+							{
+								"ruiAsset": "ui/radioplay_s20_c.rpak",
+								"sound": "diag_mp_horizon_s20vigHAN",
+								"length": 146.000000
+							}
+						]
+				},
+				{
+					"ruiAnimations": [
+							{
+								"ruiAsset": "",
+								"sound": "",
+								"length": 0.500000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_newton_s20vigHAN_01a_01_01_sub",
+								"length": 4.800000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_horizon_s20vigHAN_02a_01_01_sub",
+								"length": 5.460000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_newton_s20vigHAN_03a_01_01_sub",
+								"length": 2.890000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_ash_s20vigHAN_04a_01_01_sub",
+								"length": 4.620000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_newton_s20vigHAN_05a_01_01_sub",
+								"length": 1.040000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_horizon_s20vigHAN_06a_01_01_sub",
+								"length": 5.320000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_newton_s20vigHAN_07a_01_01_sub",
+								"length": 1.740000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_horizon_s20vigHAN_08a_01_01_sub",
+								"length": 3.320000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_ash_s20vigHAN_09a_01_01_sub",
+								"length": 2.080000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_newton_s20vigHAN_10a_01_01_sub",
+								"length": 0.480000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_horizon_s20vigHAN_11a_01_01_sub",
+								"length": 2.550000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_newton_s20vigHAN_12a_01_01_sub",
+								"length": 2.620000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_horizon_s20vigHAN_13a_01_01_sub",
+								"length": 5.610000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_newton_s20vigHAN_14a_01_01_sub",
+								"length": 6.310000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_horizon_s20vigHAN_15a_01_01_sub",
+								"length": 5.630000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_ash_s20vigHAN_16a_01_01_sub",
+								"length": 2.160000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_horizon_s20vigHAN_17a_01_01_sub",
+								"length": 5.630000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_newton_s20vigHAN_18a_01_01_sub",
+								"length": 7.940000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_horizon_s20vigHAN_19a_01_01_sub",
+								"length": 10.000000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_horizon_s20vigHAN_19b_01_01_sub",
+								"length": 15.750000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_horizon_s20vigHAN_20a_01_01_sub",
+								"length": 11.930000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_newton_s20vigHAN_21a_01_01_sub",
+								"length": 6.930000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_horizon_s20vigHAN_22a_01_01_sub",
+								"length": 2.130000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_newton_s20vigHAN_23a_01_01_sub",
+								"length": 6.950000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_horizon_s20vigHAN_24a_01_01_sub",
+								"length": 8.980000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_newton_s20vigHAN_25a_01_01_sub",
+								"length": 11.000000
+							}
+						]
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

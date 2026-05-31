@@ -1,0 +1,6 @@
+seqs:
+[
+	animseq\props\catalyst_table\catalyst_table_animrig\ballistic_gladcard_animated_modelbuilding_table.rseq
+	animseq\props\catalyst_table\catalyst_table_animrig\ballistic_gladcard_animated_modelbuilding_table_idle.rseq
+	animseq\props\catalyst_table\catalyst_table_animrig\table_catalyst_gladcard_static_tarotplaying.rseq
+]

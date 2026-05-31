@@ -1,0 +1,36 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_emote_icon_layout.rpak",
+	"uniqueId": 371239783,
+	"settings": {
+		"assetName": "settings/itemflav/emote_icon/pathfinder/legendary_01.rpak",
+		"itemType": "emote_icon",
+		"parentItemFlavor": "settings/itemflav/character/pathfinder.rpak",
+		"settingsAssetID": "SAID00371239783",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#spray_pathfinder_legendary_01",
+		"localizationKey_NAME_SHORT": "#spray_pathfinder_legendary_01",
+		"localizationKey_DESCRIPTION_LONG": "#spray_pathfinder_legendary_01",
+		"localizationKey_DESCRIPTION_SHORT": "#spray_pathfinder_legendary_01",
+		"quality": "LEGENDARY",
+		"icon": "rui/menu/holosprays/hspry_lgnd_v20_pathfinder_01_col",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "emote_icon_pathfinder_legendary_01",
+		"ownershipTarget": "",
+		"anim3p": "",
+		"holoProjectorSprayModel": "mdl/props/holo_spray/spray_lgnd_v20_pathfinder_01.rmdl",
+		"quickchatAliasSubName": "",
+		"customSkinMenuBlurb": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<0.110000,1.000000,0.820000>",
+		"holoProjectorEffectColor2": "<0.482000,0.776000,0.992000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": true,
+		"holoProjectorUseEffectColor2": true,
+		"isTheEmpty": false
+	}
+}

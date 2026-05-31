@@ -1,0 +1,3 @@
+"fieldName","dataType","layoutIndex","helpText"
+"name","string","0","Name for this vfx alias group. Convenience only; not used while baking."
+"vfxAliases","array_dynamic","0","VFX Aliases to remap via weapon skin"

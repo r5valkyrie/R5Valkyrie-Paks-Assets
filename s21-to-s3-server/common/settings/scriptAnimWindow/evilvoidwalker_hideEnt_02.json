@@ -1,0 +1,9 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_HideEnt_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/evilvoidwalker_hideEnt_02.rpak",
+		"devDescription": "",
+		"type": "HideEnt",
+		"hideChildren": true
+	}
+}

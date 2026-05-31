@@ -1,0 +1,33 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_stat_tracker_layout.rpak",
+	"uniqueId": 1472883270,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_tracker/horizon/season14_huntersafari_wins.rpak",
+		"itemType": "gladiator_card_stat_tracker",
+		"parentItemFlavor": "settings/itemflav/character/horizon.rpak",
+		"settingsAssetID": "SAID01472883270",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#gcard_tracker_horizon_season14_huntersafari_wins_NAME",
+		"localizationKey_NAME_SHORT": "#TRACKER_SEASON_14_WINS",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "RARE",
+		"icon": "",
+		"tagIcon": "rui/events/s14bp/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "gcard_tracker_horizon_season14_huntersafari_wins",
+		"ownershipTarget": "",
+		"statRef": "stats.seasons[SAID01642977899].characters[%char%].placements_win",
+		"valueNumberFormat": "INTEGER",
+		"valueSuffix": "",
+		"backgroundImage": "rui/gladiator_cards/trackers/event/s14bp/season14_stat_tracker_horizon",
+		"multipleOwnershipTargets": [
+			],
+		"color0": "<0.114000,0.490000,0.298000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false
+	}
+}

@@ -1,0 +1,56 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_entitlement_layout.rpak",
+	"uniqueId": 1916361773,
+	"settings": {
+		"assetName": "settings/itemflav/entitlement/OCTANE_SKU_PACK.rpak",
+		"itemType": "entitlement",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01916361773",
+		"__featureFlag": "",
+		"devDescription": "Octane SKU items",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"entitlementType": "firstparty",
+		"twitchRef": "",
+		"twitchRef": "",
+		"enum": "OCTANE_SKU_PACK",
+		"pc": "APEX_OCTANE_CONTENT",
+		"ps4": "OCTSKU0000000000",
+		"xb1": "OCTANE_EDITION_PACK",
+		"switch": "apexlegoctan",
+		"pc_offer": "Origin.OFR.50.0003972",
+		"steam_offer": "",
+		"xb1_offer": "444c4e39-324a-3034-c052-545147434800",
+		"menuTitleText": "#PROMO_OCTANE_SKU_HEADER",
+		"menuDescText": "#PROMO_OCTANE_SKU_TEXT",
+		"menuImageName": "octane_sku",
+		"menuPersistenceVarName": "octaneSKUAcknowledged",
+		"list": [
+				{
+					"flavor": "settings/itemflav/character_skin/octane/sku03_legendary_01.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/weapon_skin/chargerifle/sku03_legendary_01.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/weapon_charm/charm_apex_theme_v20_assim_spider_metal01.rpak",
+					"quantity": 1
+				},
+				{
+					"flavor": "settings/itemflav/gcard_badge/octane/sku03.rpak",
+					"quantity": 1
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isMenuEnabled": false
+	}
+}

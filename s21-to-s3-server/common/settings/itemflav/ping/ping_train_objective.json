@@ -1,0 +1,30 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ping_layout.rpak",
+	"uniqueId": 580022001,
+	"settings": {
+		"assetName": "settings/itemflav/ping/ping_train_objective.rpak",
+		"itemType": "ping",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00580022001",
+		"__featureFlag": "",
+		"devDescription": "Winter Express Train Objective/n",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"colorKey": "none",
+		"innerIcon": "rui/hud/gametype_icons/survival/locked_objective_icon",
+		"innerShadowIcon": "",
+		"outerIcon": "rui/hud/gametype_icons/survival/objective_icon",
+		"shadowIcon": "",
+		"animIcon": "",
+		"defaultColor": "<0.988000,0.910000,0.345000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"drawHeightLine": false
+	}
+}

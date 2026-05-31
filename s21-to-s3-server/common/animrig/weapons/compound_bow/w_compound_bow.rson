@@ -1,0 +1,7 @@
+seqs:
+[
+	animseq\compound_bow\attack_seq.rseq
+	animseq\compound_bow\dmx\animation\ADS_seq.rseq
+	animseq\compound_bow\dmx\animation\charge_seq.rseq
+	animseq\compound_bow\dmx\animation\idle_seq.rseq
+]

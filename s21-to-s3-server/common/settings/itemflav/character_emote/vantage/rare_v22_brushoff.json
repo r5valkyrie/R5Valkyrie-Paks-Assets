@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 625523920,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/vantage/rare_v22_brushoff.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/vantage.rpak",
+		"settingsAssetID": "SAID00625523920",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#ground_emote_vantage_brushoff",
+		"localizationKey_NAME_SHORT": "#ground_emote_vantage_brushoff",
+		"localizationKey_DESCRIPTION_LONG": "#ground_emote_vantage_brushoff",
+		"localizationKey_DESCRIPTION_SHORT": "#ground_emote_vantage_brushoff",
+		"quality": "RARE",
+		"icon": "rui/menu/buttons/character_emotes/vantage/brushoff",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"grxMode": "NONE",
+		"grxRef": "character_emote_madmaggie_legendary_guitarsmash",
+		"ownershipTarget": "",
+		"anim3p": "vantage_ground_emote_brushoff",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

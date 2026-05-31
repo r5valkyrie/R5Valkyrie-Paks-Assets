@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/wraith/beasthunter_legendary_01.rpak",
+		"roots": [
+				{
+					"asset": "mdl/Humans/class/light/pilot_light_wraith_beast_hunter.rmdl",
+					"featureFlag": ""
+				},
+				{
+					"asset": "mdl/Weapons/arms/pov_pilot_light_wraith_beast_hunter.rmdl",
+					"featureFlag": ""
+				}
+			]
+	}
+}

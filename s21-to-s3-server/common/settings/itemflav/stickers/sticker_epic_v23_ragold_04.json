@@ -1,0 +1,67 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_sticker_layout.rpak",
+	"uniqueId": 354087132,
+	"settings": {
+		"assetName": "settings/itemflav/stickers/sticker_epic_v23_ragold_04.rpak",
+		"itemType": "sticker",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00354087132",
+		"__featureFlag": "HAS_GOLDEN_HORSE_HIDDEN",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#STICKER_epic_v23_ragold_04_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "EPIC",
+		"icon": "rui/menu/stickers/epic/v23/ragold_04/sticker_epic_v23_ragold_04",
+		"tagIcon": "rui/events/s19me01/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "sticker_epic_v23_ragold_04",
+		"ownershipTarget": "",
+		"stickerMaterial": "material/stickers/epic/v23/ragold_04/sticker_epic_v23_ragold_04",
+		"nonDecalStickerMaterial": "material/stickers/ui/epic/v23/ragold_04/sticker_epic_v23_ragold_04",
+		"customSkinMenuBlurb": "",
+		"multipleOwnershipTargets": [
+			],
+		"injectorScales": [
+			],
+		"injectorScale": 0.004357,
+		"shieldCellScales": [
+				{
+					"slot": 2,
+					"scale": 0.007018
+				},
+				{
+					"slot": 3,
+					"scale": 0.007018
+				}
+			],
+		"shieldCellScale": 0.009357,
+		"shieldBatteryScales": [
+				{
+					"slot": 2,
+					"scale": 0.007018
+				},
+				{
+					"slot": 3,
+					"scale": 0.007018
+				}
+			],
+		"shieldBatteryScale": 0.009357,
+		"phoenixKitScales": [
+				{
+					"slot": 2,
+					"scale": 0.007018
+				},
+				{
+					"slot": 3,
+					"scale": 0.007018
+				}
+			],
+		"phoenixKitScale": 0.009357,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false
+	}
+}

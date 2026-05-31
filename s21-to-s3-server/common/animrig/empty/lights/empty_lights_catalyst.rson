@@ -1,0 +1,25 @@
+seqs:
+[
+	animseq\humans\class\char_select_light_default.rseq
+	animseq\humans\class\medium\pilot_medium_catalyst\catalyst_gladcard_animated_brushBack_idle_light.rseq
+	animseq\humans\class\medium\pilot_medium_catalyst\catalyst_gladcard_animated_brushBack_light.rseq
+	animseq\humans\class\medium\pilot_medium_catalyst\catalyst_gladcard_animated_hairflick_idle_light.rseq
+	animseq\humans\class\medium\pilot_medium_catalyst\catalyst_gladcard_animated_hairflick_light.rseq
+	animseq\humans\class\medium\pilot_medium_catalyst\catalyst_gladcard_animated_leanFall_idle_light.rseq
+	animseq\humans\class\medium\pilot_medium_catalyst\catalyst_gladcard_animated_leanFall_light.rseq
+	animseq\humans\class\medium\pilot_medium_catalyst\catalyst_gladcard_animated_orb_idle_light.rseq
+	animseq\humans\class\medium\pilot_medium_catalyst\catalyst_gladcard_animated_orb_light.rseq
+	animseq\humans\class\medium\pilot_medium_catalyst\catalyst_gladcard_animated_pendulum_idle_light.rseq
+	animseq\humans\class\medium\pilot_medium_catalyst\catalyst_gladcard_animated_pendulum_light.rseq
+	animseq\humans\class\medium\pilot_medium_catalyst\catalyst_gladcard_static_armstretch_light.rseq
+	animseq\humans\class\medium\pilot_medium_catalyst\catalyst_gladcard_static_battle_light.rseq
+	animseq\humans\class\medium\pilot_medium_catalyst\catalyst_gladcard_static_coldshoulder_light.rseq
+	animseq\humans\class\medium\pilot_medium_catalyst\catalyst_gladcard_static_common_light.rseq
+	animseq\humans\class\medium\pilot_medium_catalyst\catalyst_gladcard_static_device_light.rseq
+	animseq\humans\class\medium\pilot_medium_catalyst\catalyst_gladcard_static_leap_light.rseq
+	animseq\humans\class\medium\pilot_medium_catalyst\catalyst_gladcard_static_sitting_light.rseq
+	animseq\humans\class\medium\pilot_medium_catalyst\catalyst_gladcard_static_tarot_light.rseq
+	animseq\humans\class\medium\pilot_medium_catalyst\catalyst_gladcard_static_teatime_light.rseq
+	animseq\humans\class\medium\pilot_medium_catalyst\catalyst_gladcard_static_tower_light.rseq
+	animseq\humans\class\medium\pilot_medium_catalyst\char_select_light_custom_catalyst.rseq
+]

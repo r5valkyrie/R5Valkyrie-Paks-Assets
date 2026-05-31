@@ -1,0 +1,10 @@
+seqs:
+[
+	animseq\props\shield_battery\shield_battery\prop_shield_battery_NewCastle_ground_emote_EndzoneDance.rseq
+	animseq\weapons\shield_battery\w_shield_battery\attack_seq.rseq
+	animseq\weapons\shield_battery\w_shield_battery\attack_seq_alt1.rseq
+	animseq\weapons\shield_battery\w_shield_battery\attack_seq_alt2.rseq
+	animseq\weapons\shield_battery\w_shield_battery\attack_seq_alt3.rseq
+	animseq\weapons\shield_battery\w_shield_battery\idle_seq.rseq
+	animseq\weapons\shield_battery\w_shield_battery\mp_pt_firesupport_execution_medium_rspn101_attacker.rseq
+]

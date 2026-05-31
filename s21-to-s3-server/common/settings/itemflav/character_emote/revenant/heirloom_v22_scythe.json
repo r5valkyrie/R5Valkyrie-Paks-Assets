@@ -1,0 +1,65 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 1769509866,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/revenant/heirloom_v22_scythe.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/revenant.rpak",
+		"settingsAssetID": "SAID01769509866",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#ground_emote_revenant_scythe",
+		"localizationKey_NAME_SHORT": "#ground_emote_revenant_scythe",
+		"localizationKey_DESCRIPTION_LONG": "#ground_emote_revenant_scythe",
+		"localizationKey_DESCRIPTION_SHORT": "#ground_emote_revenant_scythe",
+		"quality": "MYTHIC",
+		"icon": "rui/menu/buttons/character_emotes/revenant/scythe",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_revenant_heirloom_v22_scythe",
+		"ownershipTarget": "",
+		"anim3p": "revenant_ground_emote_scythe_intro",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "revenant_ground_emote_scythe_loop",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+				{
+					"sequence": "revenant_ground_emote_scythe_attack01",
+					"weight": 100,
+					"flourishEndsLoop": false
+				},
+				{
+					"sequence": "revenant_ground_emote_scythe_attack02",
+					"weight": 100,
+					"flourishEndsLoop": false
+				},
+				{
+					"sequence": "revenant_ground_emote_scythe_finish01",
+					"weight": 30,
+					"flourishEndsLoop": true
+				},
+				{
+					"sequence": "revenant_ground_emote_scythe_finish02",
+					"weight": 30,
+					"flourishEndsLoop": true
+				},
+				{
+					"sequence": "revenant_ground_emote_scythe_doggy",
+					"weight": 5,
+					"flourishEndsLoop": true
+				}
+			],
+		"cameraHeightOffset": 15.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

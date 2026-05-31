@@ -1,0 +1,10 @@
+seqs:
+[
+	animseq\weapons\empty_handed\ptpov_catalyst_resin_shot\draw_to_idle.rseq
+	animseq\weapons\empty_handed\ptpov_catalyst_resin_shot\toss.rseq
+	animseq\weapons\empty_handed\ptpov_catalyst_resin_shot\toss_02.rseq
+	animseq\weapons\empty_handed\ptpov_catalyst_resin_shot\toss_03.rseq
+	animseq\weapons\empty_handed\ptpov_catalyst_resin_shot\toss_hold.rseq
+	animseq\weapons\empty_handed\ptpov_catalyst_resin_shot\toss_hold_sprinting.rseq
+	animseq\weapons\empty_handed\ptpov_catalyst_resin_shot\toss_prep_pullout.rseq
+]

@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 1755972463,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/rampart/epic_v22_partymask_yoga.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/rampart.rpak",
+		"settingsAssetID": "SAID01755972463",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#character_rampart_yoga",
+		"localizationKey_NAME_SHORT": "#character_rampart_yoga",
+		"localizationKey_DESCRIPTION_LONG": "#character_rampart_yoga",
+		"localizationKey_DESCRIPTION_SHORT": "#character_rampart_yoga",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/character_emotes/rampart/yoga",
+		"tagIcon": "rui/events/s16ce03/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_rampart_epic_v22_partymask_yoga",
+		"ownershipTarget": "",
+		"anim3p": "rampart_ground_emote_yoga",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "rampart_ground_emote_yoga_loop",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

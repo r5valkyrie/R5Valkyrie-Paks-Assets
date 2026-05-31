@@ -1,0 +1,5 @@
+"loadoutCategory","assetPathTemplate","variationMinValue","variationMaxValue"
+"GCARD_STANCES","settings/itemflav/gcard_stance/%char%/rare_%variation%.rpak",1,3
+"GCARD_FRAMES","settings/itemflav/gcard_frame/%char%/common_%variation%.rpak",1,3
+"GCARD_FRAMES","settings/itemflav/gcard_frame/%char%/rare_%variation%.rpak",1,3
+"string","string","int","int"

@@ -1,0 +1,92 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_radio_play_layout.rpak",
+	"uniqueId": 1987661098,
+	"settings": {
+		"assetName": "settings/itemflav/radio_play/s20/radio_play_s20_b.rpak",
+		"itemType": "radio_play",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01987661098",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "rui/events/s17ce02/loadscreen_icon_01",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "radio_play_s20_qb",
+		"ownershipTarget": "",
+		"multipleOwnershipTargets": [
+			],
+		"layers": [
+				{
+					"ruiAnimations": [
+							{
+								"ruiAsset": "ui/radioplay_s20_b.rpak",
+								"sound": "diag_mp_revenant_s20vigRL",
+								"length": 75.000000
+							}
+						]
+				},
+				{
+					"ruiAnimations": [
+							{
+								"ruiAsset": "",
+								"sound": "",
+								"length": 3.540000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_lisaStone_s20vigRL_01a_01_01_sub",
+								"length": 10.640000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_lisaStone_s20vigRL_02a_01_01_sub",
+								"length": 8.590000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_lisaStone_s20vigRL_03a_01_01_sub",
+								"length": 15.500000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_lisaStone_s20vigRL_04a_01_01_sub",
+								"length": 10.240000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_lisaStone_s20vigRL_05a_01_01_sub",
+								"length": 4.770000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_lisaStone_s20vigRL_06a_01_01_sub",
+								"length": 2.280000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_lisaStone_s20vigRL_07a_01_01_sub",
+								"length": 2.610000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_lisaStone_s20vigRL_07b_01_01_sub",
+								"length": 5.850000
+							},
+							{
+								"ruiAsset": "",
+								"sound": "diag_mp_revenant_s20vigRL_08a_01_01_sub",
+								"length": 7.680000
+							}
+						]
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

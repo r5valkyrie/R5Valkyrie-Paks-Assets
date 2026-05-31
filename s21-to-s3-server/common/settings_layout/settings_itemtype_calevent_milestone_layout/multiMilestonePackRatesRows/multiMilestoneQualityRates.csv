@@ -1,0 +1,4 @@
+"fieldName","dataType","layoutIndex","helpText"
+"multiMilestoneItemInfo","string","0",""
+"quality","string","0",""
+"multiMilestoneItemRate","string","0","Leave empty to display the Multi-Pack Item Quality Info in the row."

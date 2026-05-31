@@ -1,0 +1,263 @@
+{
+	"layoutAsset": "settings_layout/settings_skinAlias_sfx_layout.rpak",
+	"settings": {
+		"assetName": "settings/itemflav/sfx_alias/powersource_highsociety_sfx.rpak",
+		"devDescription": "",
+		"type": "",
+		"sfxaliasgroups": [
+				{
+					"name": "DrawHolsterRaise",
+					"sfxAliases": [
+							{
+								"sfxAlias": "Artifact_PS_Crouch_To_Idle",
+								"sfxReal": "Artifact_PS_HighSociety_Crouch_To_Idle"
+							},
+							{
+								"sfxAlias": "Artifact_PS_Crouch_To_Sprint",
+								"sfxReal": "Artifact_PS_HighSociety_Crouch_To_Sprint"
+							},
+							{
+								"sfxAlias": "Artifact_PS_Draw_01",
+								"sfxReal": "Artifact_PS_HighSociety_Draw_01"
+							},
+							{
+								"sfxAlias": "Artifact_PS_Draw_Airsprint",
+								"sfxReal": "Artifact_PS_HighSociety_Draw_Airsprint"
+							},
+							{
+								"sfxAlias": "Artifact_PS_Draw_Reverse",
+								"sfxReal": "Artifact_PS_HighSociety_Draw_Reverse"
+							},
+							{
+								"sfxAlias": "Artifact_PS_Draw_SideSpin",
+								"sfxReal": "Artifact_PS_HighSociety_Draw_SideSpin"
+							},
+							{
+								"sfxAlias": "Artifact_PS_Draw_Spin",
+								"sfxReal": "Artifact_PS_HighSociety_Draw_Spin"
+							},
+							{
+								"sfxAlias": "Artifact_PS_Draw_To_Sprint",
+								"sfxReal": "Artifact_PS_HighSociety_Draw_To_Sprint"
+							},
+							{
+								"sfxAlias": "Artifact_PS_Draw_VerticalSpin",
+								"sfxReal": "Artifact_PS_HighSociety_Draw_VerticalSpin"
+							},
+							{
+								"sfxAlias": "Artifact_PS_DrawFirst",
+								"sfxReal": "Artifact_PS_HighSociety_DrawFirst"
+							},
+							{
+								"sfxAlias": "Artifact_PS_DrawFirst_SwapBlade",
+								"sfxReal": "Artifact_PS_HighSociety_DrawFirst_SwapBlade"
+							},
+							{
+								"sfxAlias": "Artifact_PS_DrawFirst_SwapSource",
+								"sfxReal": "Artifact_PS_HighSociety_DrawFirst_SwapSource"
+							},
+							{
+								"sfxAlias": "Artifact_PS_Drawsprint",
+								"sfxReal": "Artifact_PS_HighSociety_Drawsprint"
+							},
+							{
+								"sfxAlias": "Artifact_PS_Drawsprint_PowerSourceSpinning",
+								"sfxReal": "Artifact_PS_HighSociety_Drawsprint_PowerSourceSpinning"
+							},
+							{
+								"sfxAlias": "Artifact_PS_Drawsprint_Slide",
+								"sfxReal": "Artifact_PS_HighSociety_Drawsprint_Slide"
+							},
+							{
+								"sfxAlias": "Artifact_PS_Drawsprint_Spin",
+								"sfxReal": "Artifact_PS_HighSociety_Drawsprint_Spin"
+							},
+							{
+								"sfxAlias": "Artifact_PS_Drawsprint_Toss",
+								"sfxReal": "Artifact_PS_HighSociety_Drawsprint_Toss"
+							},
+							{
+								"sfxAlias": "Artifact_PS_Holster",
+								"sfxReal": "Artifact_PS_HighSociety_Holster"
+							},
+							{
+								"sfxAlias": "Artifact_PS_Holster_Sprint",
+								"sfxReal": "Artifact_PS_HighSociety_Holster_Sprint"
+							},
+							{
+								"sfxAlias": "Artifact_PS_Idle_To_Crouch",
+								"sfxReal": "Artifact_PS_HighSociety_Idle_To_Crouch"
+							},
+							{
+								"sfxAlias": "Artifact_PS_Idle_To_Sprint",
+								"sfxReal": "Artifact_PS_HighSociety_Idle_To_Sprint"
+							},
+							{
+								"sfxAlias": "Artifact_PS_MeleeRaise_Base",
+								"sfxReal": "Artifact_PS_HighSociety_MeleeRaise_Base"
+							},
+							{
+								"sfxAlias": "Artifact_PS_MeleeRaise_Clap",
+								"sfxReal": "Artifact_PS_HighSociety_MeleeRaise_Clap"
+							},
+							{
+								"sfxAlias": "Artifact_PS_MeleeRaise_Flick",
+								"sfxReal": "Artifact_PS_HighSociety_MeleeRaise_Flick"
+							},
+							{
+								"sfxAlias": "Artifact_PS_MeleeRaise_Quick",
+								"sfxReal": "Artifact_PS_HighSociety_MeleeRaise_Quick"
+							},
+							{
+								"sfxAlias": "Artifact_PS_MeleeRaise_RightHip",
+								"sfxReal": "Artifact_PS_HighSociety_MeleeRaise_RightHip"
+							},
+							{
+								"sfxAlias": "Artifact_PS_MeleeRaise_Wipe",
+								"sfxReal": "Artifact_PS_HighSociety_MeleeRaise_Wipe"
+							},
+							{
+								"sfxAlias": "Artifact_PS_Raise",
+								"sfxReal": "Artifact_PS_HighSociety_Raise"
+							},
+							{
+								"sfxAlias": "Artifact_PS_Raise_Airsprint",
+								"sfxReal": "Artifact_PS_HighSociety_Raise_Airsprint"
+							},
+							{
+								"sfxAlias": "Artifact_PS_Raise_Sprint",
+								"sfxReal": "Artifact_PS_HighSociety_Raise_Sprint"
+							},
+							{
+								"sfxAlias": "Artifact_PS_Sprintraise",
+								"sfxReal": "Artifact_PS_HighSociety_Sprintraise"
+							},
+							{
+								"sfxAlias": "Artifact_PS_Sprintslide",
+								"sfxReal": "Artifact_PS_HighSociety_Sprintslide"
+							}
+						]
+				},
+				{
+					"name": "Inpsects",
+					"sfxAliases": [
+							{
+								"sfxAlias": "Artifact_PS_Inspect_Base",
+								"sfxReal": "Artifact_PS_HighSociety_Inspect_Base"
+							},
+							{
+								"sfxAlias": "Artifact_PS_Inspect_Base_Variant",
+								"sfxReal": "Artifact_PS_HighSociety_Inspect_Base_Variant"
+							},
+							{
+								"sfxAlias": "Artifact_PS_Inspect_Powercore",
+								"sfxReal": "Artifact_PS_HighSociety_Inspect_Powercore"
+							},
+							{
+								"sfxAlias": "Artifact_PS_Inspect_Powercore_Variant",
+								"sfxReal": "Artifact_PS_HighSociety_Inspect_Powercore_Variant"
+							}
+						]
+				},
+				{
+					"name": "Melee",
+					"sfxAliases": [
+							{
+								"sfxAlias": "Artifact_PS_Melee_Crouch",
+								"sfxReal": "Artifact_PS_HighSociety_Melee_Crouch"
+							},
+							{
+								"sfxAlias": "Artifact_PS_Melee_Crouch_Slash",
+								"sfxReal": "Artifact_PS_HighSociety_Melee_Crouch_Slash"
+							},
+							{
+								"sfxAlias": "Artifact_PS_Melee_DoorKick_01",
+								"sfxReal": "Artifact_PS_HighSociety_Melee_DoorKick_01"
+							},
+							{
+								"sfxAlias": "Artifact_PS_Melee_DoorKick_02",
+								"sfxReal": "Artifact_PS_HighSociety_Melee_DoorKick_02"
+							},
+							{
+								"sfxAlias": "Artifact_PS_Melee_Idle_Backhand",
+								"sfxReal": "Artifact_PS_HighSociety_Melee_Idle_Backhand"
+							},
+							{
+								"sfxAlias": "Artifact_PS_Melee_Idle_Poke",
+								"sfxReal": "Artifact_PS_HighSociety_Melee_Idle_Poke"
+							},
+							{
+								"sfxAlias": "Artifact_PS_Melee_Idle_Smack",
+								"sfxReal": "Artifact_PS_HighSociety_Melee_Idle_Smack"
+							},
+							{
+								"sfxAlias": "Artifact_PS_Melee_Idle_Swipe",
+								"sfxReal": "Artifact_PS_HighSociety_Melee_Idle_Swipe"
+							},
+							{
+								"sfxAlias": "Artifact_PS_Melee_Idle_Thrust",
+								"sfxReal": "Artifact_PS_HighSociety_Melee_Idle_Thrust"
+							},
+							{
+								"sfxAlias": "Artifact_PS_Melee_Idle_Uppercut",
+								"sfxReal": "Artifact_PS_HighSociety_Melee_Idle_Uppercut"
+							},
+							{
+								"sfxAlias": "Artifact_PS_Melee_Idle_Vertical",
+								"sfxReal": "Artifact_PS_HighSociety_Melee_Idle_Vertical"
+							},
+							{
+								"sfxAlias": "Artifact_PS_Melee_Jump",
+								"sfxReal": "Artifact_PS_HighSociety_Melee_Jump"
+							},
+							{
+								"sfxAlias": "Artifact_PS_Melee_Jump_Airsprint",
+								"sfxReal": "Artifact_PS_HighSociety_Melee_Jump_Airsprint"
+							},
+							{
+								"sfxAlias": "Artifact_PS_Melee_Slide",
+								"sfxReal": "Artifact_PS_HighSociety_Melee_Slide"
+							},
+							{
+								"sfxAlias": "Artifact_PS_Melee_Sprint_LeftRight",
+								"sfxReal": "Artifact_PS_HighSociety_Melee_Sprint_LeftRight"
+							},
+							{
+								"sfxAlias": "Artifact_PS_Melee_Sprint_Overhand",
+								"sfxReal": "Artifact_PS_HighSociety_Melee_Sprint_Overhand"
+							},
+							{
+								"sfxAlias": "Artifact_PS_Melee_Sprint_TwoHands",
+								"sfxReal": "Artifact_PS_HighSociety_Melee_Sprint_TwoHands"
+							}
+						]
+				},
+				{
+					"name": "Melee3P",
+					"sfxAliases": [
+							{
+								"sfxAlias": "Artifact_PS_Melee_Swing_3p",
+								"sfxReal": "Artifact_PS_HighSociety_Melee_Swing_3p"
+							},
+							{
+								"sfxAlias": "Artifact_PS_Melee_Swing_Spin_3p",
+								"sfxReal": "Artifact_PS_HighSociety_Melee_Swing_Spin_3p"
+							}
+						]
+				},
+				{
+					"name": "ActivationEmote",
+					"sfxAliases": [
+							{
+								"sfxAlias": "Artifact_PS_ActivationEmote",
+								"sfxReal": "Artifact_PS_HighSociety_ActivationEmote"
+							},
+							{
+								"sfxAlias": "Artifact_PS_ActivationEmote_3P",
+								"sfxReal": "Artifact_PS_HighSociety_ActivationEmote_3P"
+							}
+						]
+				}
+			]
+	}
+}

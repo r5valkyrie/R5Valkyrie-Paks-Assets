@@ -1,0 +1,12 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_PlayFX_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/fx_conduit_skydive_scan_screen.rpak",
+		"devDescription": "",
+		"type": "PlayFX",
+		"particleSystemName": "P_con_drop_scan_screen",
+		"attachPoint": "fx_drone_main",
+		"followAttach": true,
+		"playEndCap": true
+	}
+}

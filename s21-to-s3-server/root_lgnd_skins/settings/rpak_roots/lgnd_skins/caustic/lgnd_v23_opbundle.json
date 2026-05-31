@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/caustic/lgnd_v23_opbundle.rpak",
+		"roots": [
+				{
+					"asset": "mdl/humans/class/heavy/caustic_lgnd_v23_opbundle_w.rmdl",
+					"featureFlag": "HAS_21_0_RELEASE"
+				},
+				{
+					"asset": "mdl/Weapons/arms/caustic_lgnd_v23_opbundle_v.rmdl",
+					"featureFlag": "HAS_21_0_RELEASE"
+				}
+			]
+	}
+}

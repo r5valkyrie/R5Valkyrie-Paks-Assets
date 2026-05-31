@@ -1,0 +1,8 @@
+seqs:
+[
+	animseq\props\giftbox\prop_giftbox_bloodhound_ground_emote_giftgiving.rseq
+	animseq\props\giftbox\prop_giftbox_fuse_ground_emote_giftgiving.rseq
+	animseq\props\giftbox\prop_giftbox_octane_ground_emote_giftgiving.rseq
+	animseq\props\giftbox\prop_giftbox_pathfinder_ground_emote_giftgiving.rseq
+	animseq\props\giftbox\prop_giftbox_vantage_ground_emote_giftgiving.rseq
+]

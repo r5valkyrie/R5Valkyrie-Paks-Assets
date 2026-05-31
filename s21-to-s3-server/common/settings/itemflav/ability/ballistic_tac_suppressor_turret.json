@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 1672533485,
+	"settings": {
+		"assetName": "settings/itemflav/ability/ballistic_tac_suppressor_turret.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01672533485",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#WPN_DEBUFF_ZONE",
+		"localizationKey_NAME_SHORT": "#WPN_DEBUFF_ZONE_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "#WPN_DEBUFF_ZONE_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#WPN_DEBUFF_ZONE_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/tactical_icons/tactical_ballistic",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "mp_ability_debuff_zone",
+		"passiveScriptRef": "",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

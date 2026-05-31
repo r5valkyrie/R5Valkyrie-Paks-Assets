@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 1458174635,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/madmaggie/rare_comegetsome.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/madmaggie.rpak",
+		"settingsAssetID": "SAID01458174635",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#CHAR_EMOTE_071",
+		"localizationKey_NAME_SHORT": "#CHAR_EMOTE_071",
+		"localizationKey_DESCRIPTION_LONG": "#CHAR_EMOTE_071",
+		"localizationKey_DESCRIPTION_SHORT": "#CHAR_EMOTE_071",
+		"quality": "RARE",
+		"icon": "rui/menu/buttons/character_emotes/madmaggie/comegetsome",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"grxMode": "NONE",
+		"grxRef": "",
+		"ownershipTarget": "",
+		"anim3p": "madmaggie_ground_emote_comeGetSome",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

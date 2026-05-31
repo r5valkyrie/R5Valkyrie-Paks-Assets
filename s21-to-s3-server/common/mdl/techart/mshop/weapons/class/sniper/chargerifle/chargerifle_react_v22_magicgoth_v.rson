@@ -1,0 +1,8 @@
+rigs:
+[
+	animrig\weapons\defender\ptpov_defender.rrig
+	animrig\weapons\defender\ptpov_defender_magicgoth.rrig
+]
+seqs:
+[
+]

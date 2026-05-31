@@ -1,0 +1,31 @@
+seqs:
+[
+	animseq\humans\class\char_select_light_default.rseq
+	animseq\humans\class\medium\pilot_medium_nova\char_select_light_custom_horizon.rseq
+	animseq\humans\class\medium\pilot_medium_nova\nova_gladcard_animated_aim_idle_light.rseq
+	animseq\humans\class\medium\pilot_medium_nova\nova_gladcard_animated_aim_light.rseq
+	animseq\humans\class\medium\pilot_medium_nova\nova_gladcard_animated_chilling_idle_light.rseq
+	animseq\humans\class\medium\pilot_medium_nova\nova_gladcard_animated_chilling_light.rseq
+	animseq\humans\class\medium\pilot_medium_nova\nova_gladcard_animated_floating_repairs_idle_light.rseq
+	animseq\humans\class\medium\pilot_medium_nova\nova_gladcard_animated_floating_repairs_light.rseq
+	animseq\humans\class\medium\pilot_medium_nova\nova_gladcard_animated_heirloom_idle_light.rseq
+	animseq\humans\class\medium\pilot_medium_nova\nova_gladcard_animated_heirloom_light.rseq
+	animseq\humans\class\medium\pilot_medium_nova\nova_gladcard_animated_inquisitive_idle_light.rseq
+	animseq\humans\class\medium\pilot_medium_nova\nova_gladcard_animated_inquisitive_light.rseq
+	animseq\humans\class\medium\pilot_medium_nova\nova_gladcard_animated_taxiforone_idle_light.rseq
+	animseq\humans\class\medium\pilot_medium_nova\nova_gladcard_animated_taxiforone_light.rseq
+	animseq\humans\class\medium\pilot_medium_nova\nova_gladcard_animated_tropics_idle_light.rseq
+	animseq\humans\class\medium\pilot_medium_nova\nova_gladcard_animated_tropics_light.rseq
+	animseq\humans\class\medium\pilot_medium_nova\nova_gladcard_static_confident_light.rseq
+	animseq\humans\class\medium\pilot_medium_nova\nova_gladcard_static_deep_thought_light.rseq
+	animseq\humans\class\medium\pilot_medium_nova\nova_gladcard_static_greetings_light.rseq
+	animseq\humans\class\medium\pilot_medium_nova\nova_gladcard_static_newt_fix_light.rseq
+	animseq\humans\class\medium\pilot_medium_nova\nova_gladcard_static_newt_float_light.rseq
+	animseq\humans\class\medium\pilot_medium_nova\nova_gladcard_static_newt_hug_light.rseq
+	animseq\humans\class\medium\pilot_medium_nova\Nova_gladcard_static_newt_joy_light.rseq
+	animseq\humans\class\medium\pilot_medium_nova\nova_gladcard_static_pondering_light.rseq
+	animseq\humans\class\medium\pilot_medium_nova\nova_gladcard_static_repulsor_attack_light.rseq
+	animseq\humans\class\medium\pilot_medium_nova\nova_gladcard_static_repulsor_float_light.rseq
+	animseq\humans\class\medium\pilot_medium_nova\nova_gladcard_takingtrip_idle_light.rseq
+	animseq\humans\class\medium\pilot_medium_nova\nova_gladcard_takingtrip_light.rseq
+]

@@ -1,0 +1,78 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_calevent_buffet_layout.rpak",
+	"uniqueId": 812753184,
+	"settings": {
+		"assetName": "settings/itemflav/calevent/s04e01_buffet.rpak",
+		"itemType": "calevent_buffet",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00812753184",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#S04E01_TITLE_SHORT",
+		"localizationKey_NAME_SHORT": "#S04E01_TITLE_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "#S04E01_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#S04E01_TITLE_SHORT",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"revealUnixTime": "",
+		"hideUnixTime": "",
+		"defaultStartTime": "2020-03-03 10:00:00 -08:00",
+		"defaultFinishTime": "2020-03-17 10:00:00 -08:00",
+		"headerIcon": "rui/events/s04e01/challenges_logo",
+		"mainChallengeFlav": "settings/itemflav/challenge/s04e01/main.rpak",
+		"eventChallengeHeaderImage": "",
+		"eventChallengeButtonImage": "",
+		"eventChallengeButtonText": "",
+		"aboutPageBGImage": "",
+		"aboutPageBigIcon": "rui/events/s04e01/about_big_logo",
+		"aboutPageBarImage": "",
+		"aboutPageUnownedRewardBorderImage": "",
+		"aboutPageOwnedRewardBorderImage": "",
+		"aboutPageLineImage": "",
+		"aboutPageTitleText": "#S04E01_TITLE_SHORT",
+		"aboutPageDescText": "#S04E01_DESC",
+		"aboutPageScoreTitleText": "#EARNED_POINTS_COLON",
+		"highlightGamemodeSelectorSlot": "",
+		"bonusChallengeFlavs": [
+			],
+		"dailyChallengeFlavs": [
+			],
+		"hiddenChallengeFlavs": [
+			],
+		"modes": [
+				{
+					"playlistName": "loot_lock_week1",
+					"challenges": [
+						]
+				},
+				{
+					"playlistName": "loot_lock_week2",
+					"challenges": [
+						]
+				}
+			],
+		"badgeFlavs": [
+			],
+		"eventChallengeHeaderColor1": "<1.000000,1.000000,1.000000>",
+		"eventChallengeHeaderColor2": "<0.700000,0.700000,0.700000>",
+		"eventChallengeButtonTextColor": "<1.000000,1.000000,1.000000>",
+		"eventChallengeCategoryButtonTint": "<1.000000,1.000000,1.000000>",
+		"progressBarColor": "<1.200000,1.200000,1.200000>",
+		"progressBarTextColor": "<1.200000,1.200000,1.200000>",
+		"rewardIconColor": "<0.400000,0.400000,0.400000>",
+		"aboutPageBGCol": "<0.094000,0.086000,0.067000>",
+		"aboutPageHeaderTextCol": "<0.478000,0.259000,0.161000>",
+		"aboutPageBodyTextCol": "<0.412000,0.122000,0.035000>",
+		"aboutPageScoreLabelCol": "<0.000000,0.000000,0.000000>",
+		"aboutPageScoreCol": "<0.000000,0.000000,0.000000>",
+		"aboutPageThemeCol": "<0.850000,0.274000,0.146000>",
+		"aboutPageBarTextCol": "<0.000000,0.000000,0.000000>",
+		"aboutPageBarTextOwnedCol": "<0.000000,0.000000,0.000000>",
+		"aboutPageCheckMarkCol": "<0.000000,0.000000,0.000000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"aboutPageShowsModes": false
+	}
+}

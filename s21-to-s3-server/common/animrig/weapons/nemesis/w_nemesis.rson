@@ -1,0 +1,9 @@
+seqs:
+[
+	animseq\weapons\nemesis\w_nemesis\attack_seq.rseq
+	animseq\weapons\nemesis\w_nemesis\attack_seq_alt1.rseq
+	animseq\weapons\nemesis\w_nemesis\attack_seq_alt2.rseq
+	animseq\weapons\nemesis\w_nemesis\attack_seq_alt3.rseq
+	animseq\weapons\nemesis\w_nemesis\idle_seq.rseq
+	animseq\weapons\nemesis\w_nemesis\rspn101_bangalore_execution_disarm.rseq
+]

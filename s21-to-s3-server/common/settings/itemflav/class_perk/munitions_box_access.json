@@ -1,0 +1,25 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_class_perk_layout.rpak",
+	"uniqueId": 122262121,
+	"settings": {
+		"assetName": "settings/itemflav/class_perk/munitions_box_access.rpak",
+		"itemType": "character_perk",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00122262121",
+		"__featureFlag": "",
+		"devDescription": "Class perk to access weapon attachment secret compartment",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "#MUNITIONS_DROP_PERK_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#MUNITIONS_DROP_PERK_SHORT_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/gametype_icons/survival/perk_inworld_assault",
+		"tagIcon": "rui/hud/gametype_icons/survival/perk_inworld_assault",
+		"grxMode": "NONE",
+		"perkScriptRef": "MUNITIONS_BOX",
+		"fullmapSmallIcon": "rui/hud/gametype_icons/survival/perk_minimap_assault_mini",
+		"localizationKey_PropName": "#PERK_FEATURE_MUNITIONS_BOX",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

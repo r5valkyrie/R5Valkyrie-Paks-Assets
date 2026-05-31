@@ -1,0 +1,11 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_SetConvar_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/convar_cloak_brighten_add.rpak",
+		"devDescription": "",
+		"type": "SetConVar",
+		"conVarName": "cloak_pilotBrightenAdd",
+		"startValue": 0.020000,
+		"endValue": -1.000000
+	}
+}

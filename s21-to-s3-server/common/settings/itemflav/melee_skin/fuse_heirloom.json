@@ -1,0 +1,51 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_melee_skin_layout.rpak",
+	"uniqueId": 771582856,
+	"settings": {
+		"assetName": "settings/itemflav/melee_skin/fuse_heirloom.rpak",
+		"itemType": "melee_skin",
+		"parentItemFlavor": "settings/itemflav/loot/melee_weapon/fuse_heirloom.rpak",
+		"settingsAssetID": "SAID00771582856",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#MELEE_SKIN_FUSE_HEIRLOOM_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "#MELEE_SKIN_FUSE_HEIRLOOM_NAME",
+		"quality": "MYTHIC",
+		"icon": "rui/menu/buttons/battlepass/melee_skin_fuse",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "melee_skin_fuse_heirloom",
+		"ownershipTarget": "",
+		"worldModel": "mdl/Weapons/fuse_heirloom/w_fuse_heirloom.rmdl",
+		"viewModel": "mdl/Weapons/fuse_heirloom/ptpov_fuse_heirloom.rmdl",
+		"skinName": "heirloom",
+		"menuAnimSeq": "animseq/weapons/fuse_heirloom/ptpov_fuse_heirloom/menu.rseq",
+		"koSound": "",
+		"storeImage": "rui/menu/heirloom_crafting/heirloom_page_item_fuse",
+		"equipImage": "rui/menu/buttons/melee_skins/fuse_guitar",
+		"multipleOwnershipTargets": [
+			],
+		"artifactConfigIndex": 0,
+		"camoIndex": 0,
+		"menuMdlRot": "<0.000000,0.000000,0.000000>",
+		"battlePassScale": 1.320000,
+		"lootCeremonyScale": 1.100000,
+		"itemInspectScale": 0.430000,
+		"itemInspectOffset": "<-25.000000,0.000000,-15.000000>",
+		"skinAlias_vfxAliases": [
+			],
+		"skinAlias_sfxAliases": [
+			],
+		"skinAlias_bodyGroupAliases": [
+			],
+		"skinAlias_impactTableAliases": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isArtifactConfigPointer": false,
+		"shouldHideIfLocked": false
+	}
+}

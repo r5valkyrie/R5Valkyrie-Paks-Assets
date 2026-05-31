@@ -1,0 +1,31 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_skydive_emote_layout.rpak",
+	"uniqueId": 667465183,
+	"settings": {
+		"assetName": "settings/itemflav/skydive_emote/loba/portjump.rpak",
+		"itemType": "skydive_emote",
+		"parentItemFlavor": "settings/itemflav/character/loba.rpak",
+		"settingsAssetID": "SAID00667465183",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#skydive_emote_loba_portjump_NAME",
+		"localizationKey_NAME_SHORT": "#skydive_emote_loba_portjump_NAME",
+		"localizationKey_DESCRIPTION_LONG": "#skydive_emote_loba_portjump_NAME",
+		"localizationKey_DESCRIPTION_SHORT": "#skydive_emote_loba_portjump_NAME",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/battlepass/skydive_emote_loba_portjump",
+		"tagIcon": "rui/events/s14e01/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "skydive_emote_loba_portjump",
+		"ownershipTarget": "",
+		"animSequence": "animseq/humans/class/medium/pilot_medium_loba/loba_freefall_emote_portjump.rseq",
+		"video": "media/skydive_emotes/loba_portjump",
+		"bcEvent": "bc_skydive",
+		"multipleOwnershipTargets": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false
+	}
+}

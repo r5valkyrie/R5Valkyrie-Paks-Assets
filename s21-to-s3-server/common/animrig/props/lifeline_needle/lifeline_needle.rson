@@ -1,0 +1,7 @@
+seqs:
+[
+	animseq\humans\class\light\pilot_light_support\lifeline_gladcard_static_needle\LifelineNeedle_gladcard_static_needle.rseq
+	animseq\props\lifeline_needle\idle.rseq
+	animseq\props\lifeline_needle\lifeline_gladcard_animated_syringe_prop_needle.rseq
+	animseq\props\lifeline_needle\lifeline_gladcard_animated_syringe_prop_needle_idle.rseq
+]

@@ -1,0 +1,33 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_gladiator_card_stat_tracker_layout.rpak",
+	"uniqueId": 636468261,
+	"settings": {
+		"assetName": "settings/itemflav/gcard_tracker/madmaggie/s20bp_outurbana_wins.rpak",
+		"itemType": "gladiator_card_stat_tracker",
+		"parentItemFlavor": "settings/itemflav/character/madmaggie.rpak",
+		"settingsAssetID": "SAID00636468261",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#gcard_tracker_madmaggie_s20bp_outurbana_wins_NAME",
+		"localizationKey_NAME_SHORT": "#TRACKER_S20BP_OUTURBANA_WINS",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "RARE",
+		"icon": "",
+		"tagIcon": "rui/events/s20bp/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "gcard_tracker_madmaggie_s20bp_outurbana_wins",
+		"ownershipTarget": "",
+		"statRef": "stats.seasons[SAID01518645858].characters[%char%].placements_win",
+		"valueNumberFormat": "INTEGER",
+		"valueSuffix": "",
+		"backgroundImage": "rui/gladiator_cards/trackers/event/s20bp/s20bp_outurbana_madmaggie",
+		"multipleOwnershipTargets": [
+			],
+		"color0": "<0.157000,0.980000,0.761000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false
+	}
+}

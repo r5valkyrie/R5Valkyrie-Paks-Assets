@@ -1,0 +1,7 @@
+seqs:
+[
+	animseq\humans\class\heavy\pilot_heavy_revenant_reborn\revenant_menu_ready_up_opbundle_rebooted.rseq
+	animseq\humans\class\heavy\pilot_heavy_revenant_reborn\revenant_menu_ready_up_opbundle_rebooted_idle.rseq
+	animseq\humans\class\heavy\pilot_heavy_revenant_reborn\revenant_menu_select_opbundle_rebooted.rseq
+	animseq\humans\class\heavy\pilot_heavy_revenant_reborn\revenant_menu_select_opbundle_rebooted_idle.rseq
+]

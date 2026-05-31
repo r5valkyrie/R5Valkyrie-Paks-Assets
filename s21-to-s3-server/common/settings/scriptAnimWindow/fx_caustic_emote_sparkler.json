@@ -1,0 +1,12 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_PlayFX_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/fx_caustic_emote_sparkler.rpak",
+		"devDescription": "",
+		"type": "PlayFX",
+		"particleSystemName": "P_emt_caus_sparkler",
+		"attachPoint": "R_HAND",
+		"followAttach": true,
+		"playEndCap": false
+	}
+}

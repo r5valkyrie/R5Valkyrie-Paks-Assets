@@ -1,0 +1,44 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_entitlement_layout.rpak",
+	"uniqueId": 1036943412,
+	"settings": {
+		"assetName": "settings/itemflav/entitlement/twitch_crypto_skin1.rpak",
+		"itemType": "entitlement",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01036943412",
+		"__featureFlag": "",
+		"devDescription": "Twitch Prime Crypto Skin Reward",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"entitlementType": "twitch_prime",
+		"twitchRef": "twitch_crypto_skin1",
+		"twitchRef": "twitch_crypto_skin1",
+		"enum": "",
+		"pc": "",
+		"ps4": "",
+		"xb1": "",
+		"switch": "",
+		"pc_offer": "",
+		"steam_offer": "",
+		"xb1_offer": "",
+		"menuTitleText": "#TWITCH_PRIME",
+		"menuDescText": "#TWITCH_CRYPTO1_ENTITLEMENT_OWNED",
+		"menuImageName": "twitch_promo_07",
+		"menuPersistenceVarName": "twitchCrypto01Acknowledged",
+		"list": [
+				{
+					"flavor": "settings/itemflav/character_skin/crypto/twitch_rare_01.rpak",
+					"quantity": 1
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isMenuEnabled": false
+	}
+}

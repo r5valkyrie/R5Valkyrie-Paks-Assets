@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_artifact_component_set_layout.rpak",
+	"settings": {
+		"assetName": "settings/itemflav/artifact_components/space_tech_set.rpak",
+		"themeName": "STECH",
+		"worldModel": "mdl/Weapons/char_artifact/w_set_v23_stech.rmdl",
+		"viewModel": "mdl/Weapons/char_artifact/ptpov_set_v23_stech.rmdl",
+		"blade": "settings/itemflav/artifact_components/space_tech/stech_blade.rpak",
+		"theme": "settings/itemflav/artifact_components/space_tech/stech_theme.rpak",
+		"powerSource": "settings/itemflav/artifact_components/space_tech/stech_power_source.rpak",
+		"deathbox": "settings/itemflav/artifact_components/space_tech/space_tech_deathbox.rpak",
+		"activationEmote": "settings/itemflav/artifact_components/space_tech/stech_activation_emote.rpak",
+		"setName": "#Electrum_Set_NAME",
+		"setImageRef": "dl_store_atfc_elctset_303d"
+	}
+}

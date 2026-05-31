@@ -1,0 +1,27 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_calevent_skustore_layout.rpak",
+	"uniqueId": 1146296602,
+	"settings": {
+		"assetName": "settings/itemflav/calevent/sku_timed_s8.rpak",
+		"itemType": "calevent_skustore",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01146296602",
+		"__featureFlag": "",
+		"devDescription": "Calevent for S8 SKU store product (GIBRALTAR_SKU_PACK).",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"revealUnixTime": "",
+		"hideUnixTime": "",
+		"defaultStartTime": "2021-02-16 10:00:00 -08:00",
+		"defaultFinishTime": "2071-02-16 10:00:00 -08:00",
+		"title": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

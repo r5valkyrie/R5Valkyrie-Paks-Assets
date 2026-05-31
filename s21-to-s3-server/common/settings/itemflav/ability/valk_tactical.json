@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 708089048,
+	"settings": {
+		"assetName": "settings/itemflav/ability/valk_tactical.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00708089048",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#ABL_CLUSTER_MISSILE",
+		"localizationKey_NAME_SHORT": "#ABL_CLUSTER_MISSILE",
+		"localizationKey_DESCRIPTION_LONG": "#ABL_CLUSTER_MISSILE_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#ABL_CLUSTER_MISSILE_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/tactical_icons/tactical_valk",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "mp_ability_valk_cluster_missile",
+		"passiveScriptRef": "",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

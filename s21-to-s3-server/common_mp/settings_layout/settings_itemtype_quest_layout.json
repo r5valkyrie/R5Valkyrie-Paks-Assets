@@ -1,0 +1,9 @@
+{
+	"extraDataSizeIndex": 1,
+	"subLayouts": [
+		"settings_layout/settings_itemtype_quest_layout/completionRewards.csv",
+		"settings_layout/settings_itemtype_quest_layout/treasurePacksSchedule.csv",
+		"settings_layout/settings_itemtype_quest_layout/comicPages.csv",
+		"settings_layout/settings_itemtype_quest_layout/missions.csv"
+	]
+}

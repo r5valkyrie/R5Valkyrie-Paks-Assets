@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 618023550,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/revenant/epic_v22_laughingtaunt.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/revenant.rpak",
+		"settingsAssetID": "SAID00618023550",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#ground_emote_revenant_laughingtaunt",
+		"localizationKey_NAME_SHORT": "#ground_emote_revenant_laughingtaunt",
+		"localizationKey_DESCRIPTION_LONG": "#ground_emote_revenant_laughingtaunt",
+		"localizationKey_DESCRIPTION_SHORT": "#ground_emote_revenant_laughingtaunt",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/character_emotes/revenant/killerjoke",
+		"tagIcon": "rui/events/s15lny/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_revenant_epic_v22_laughingtaunt",
+		"ownershipTarget": "",
+		"anim3p": "revenant_ground_emote_laughingtaunt",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

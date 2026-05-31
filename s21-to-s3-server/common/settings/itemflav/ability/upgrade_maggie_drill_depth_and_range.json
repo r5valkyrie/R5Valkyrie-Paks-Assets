@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 501278878,
+	"settings": {
+		"assetName": "settings/itemflav/ability/upgrade_maggie_drill_depth_and_range.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00501278878",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#UPGRADE_MAGGIE_TAC_BIG_DRILL_NAME",
+		"localizationKey_NAME_SHORT": "#UPGRADE_TYPE_TACTICAL",
+		"localizationKey_DESCRIPTION_LONG": "#UPGRADE_MAGGIE_TAC_BIG_DRILL_LONG_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#UPGRADE_MAGGIE_TAC_BIG_DRILL_SHORT_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/legend_upgrades/madmaggie_bigguns_icon",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_TAC_UPGRADE_TWO",
+		"passiveWeaponMod": "upgrade_tac_two",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/rampart/s09bp_legendary_01.rpak",
+		"roots": [
+				{
+					"asset": "mdl/Humans/class/medium/rampart_v21_jpnlegacy_w.rmdl",
+					"featureFlag": ""
+				},
+				{
+					"asset": "mdl/Weapons/arms/rampart_v21_jpnlegacy_v.rmdl",
+					"featureFlag": ""
+				}
+			]
+	}
+}

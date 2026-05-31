@@ -1,0 +1,36 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_calevent_story_challenges_layout.rpak",
+	"uniqueId": 607551379,
+	"settings": {
+		"assetName": "settings/itemflav/calevent/s08_anniversary_challenges.rpak",
+		"itemType": "calevent_story_challenges",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00607551379",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#S08_ANNIV_CHALLENGES_TITLE_SHORT",
+		"localizationKey_NAME_SHORT": "#S08_ANNIV_CHALLENGES_TITLE_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "rui/events/s08ace/item_source_icon",
+		"grxMode": "NONE",
+		"revealUnixTime": "",
+		"hideUnixTime": "",
+		"defaultStartTime": "2021-02-09 08:00:00 -07:00",
+		"defaultFinishTime": "2021-05-04 10:00:00 -07:00",
+		"headerIcon": "",
+		"eventChallengeHeaderImage": "",
+		"storyEventAboutHeroImage": "",
+		"storyCompletionFlavor": "",
+		"storyCompletionQuantity": 1,
+		"challengeGroups": [
+			],
+		"dialogueMessages": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showInChallengeBox": false
+	}
+}

@@ -1,0 +1,53 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_calevent_challenge_set_layout.rpak",
+	"uniqueId": 1600564030,
+	"settings": {
+		"assetName": "settings/itemflav/calevent/welcome2010/challenge_collection_01_set_02.rpak",
+		"itemType": "calevent_challenge_set",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01600564030",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"revealUnixTime": "",
+		"hideUnixTime": "",
+		"defaultStartTime": "2024-05-07 10:00:00 -07:00",
+		"defaultFinishTime": "2024-09-05 10:00:00 -07:00",
+		"mainChallengeFlav": "settings/itemflav/calevent/welcome2010/challenge_collection_01_set_02_meta.rpak",
+		"challenges": [
+				{
+					"challenge": "settings/itemflav/challenge/welcome_2010/welcome_2010_deal_damage_set_b.rpak"
+				},
+				{
+					"challenge": "settings/itemflav/challenge/welcome_2010/welcome_2010_restore_health_set_b.rpak"
+				},
+				{
+					"challenge": "settings/itemflav/challenge/welcome_2010/welcome_2010_br_game_played_set_b.rpak"
+				},
+				{
+					"challenge": "settings/itemflav/challenge/welcome_2010/welcome_2010_top_10_finish_set_b.rpak"
+				},
+				{
+					"challenge": "settings/itemflav/challenge/welcome_2010/welcome_2010_equip_weapon_attachment_set_b.rpak"
+				},
+				{
+					"challenge": "settings/itemflav/challenge/welcome_2010/welcome_2010_restore_shields_set_b.rpak"
+				},
+				{
+					"challenge": "settings/itemflav/challenge/welcome_2010/welcome_2010_survive_ring_set_b.rpak"
+				},
+				{
+					"challenge": "settings/itemflav/challenge/welcome_2010/welcome_2010_slide_3_set_b.rpak"
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

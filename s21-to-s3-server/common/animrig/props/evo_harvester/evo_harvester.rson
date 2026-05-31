@@ -1,0 +1,9 @@
+seqs:
+[
+	animseq\props\evo_harvester\evo_harvester_close_idle.rseq
+	animseq\props\evo_harvester\evo_harvester_close_to_open.rseq
+	animseq\props\evo_harvester\evo_harvester_empty_idle.rseq
+	animseq\props\evo_harvester\evo_harvester_full_to_empty.rseq
+	animseq\props\evo_harvester\evo_harvester_open_idle.rseq
+	animseq\props\evo_harvester\evo_harvester_open_to_close.rseq
+]

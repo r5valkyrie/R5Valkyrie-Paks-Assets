@@ -1,0 +1,44 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_entitlement_layout.rpak",
+	"uniqueId": 2119600692,
+	"settings": {
+		"assetName": "settings/itemflav/entitlement/algs_2020_mirage_tracker.rpak",
+		"itemType": "entitlement",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID02119600692",
+		"__featureFlag": "",
+		"devDescription": "Twitch Drops Mirage gladiator card wins tracker/n",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "rui/events/algs/item_source_icon",
+		"grxMode": "NONE",
+		"entitlementType": "twitch_drops",
+		"twitchRef": "algs_2020_mirage_tracker",
+		"twitchRef": "algs_2020_mirage_tracker",
+		"enum": "",
+		"pc": "",
+		"ps4": "",
+		"xb1": "",
+		"switch": "",
+		"pc_offer": "",
+		"steam_offer": "",
+		"xb1_offer": "",
+		"menuTitleText": "#TWITCH_DROPS",
+		"menuDescText": "#TWITCH_DROP_MIRAGE_TRACKER_ENTITLEMENT_OWNED",
+		"menuImageName": "redemption_algs_winter_2021",
+		"menuPersistenceVarName": "algs_2020_mirage_trackerAcknowledged",
+		"list": [
+				{
+					"flavor": "settings/itemflav/gcard_tracker/mirage/twitch04_career_wins.rpak",
+					"quantity": 1
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isMenuEnabled": false
+	}
+}

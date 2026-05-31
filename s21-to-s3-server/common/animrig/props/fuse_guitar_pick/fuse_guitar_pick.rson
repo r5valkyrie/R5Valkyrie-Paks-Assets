@@ -1,0 +1,6 @@
+seqs:
+[
+	animseq\props\fuse_guitar_pick\fuse_guitar_pick\prop_pick_fuse_heirloom_firstdraw.rseq
+	animseq\props\fuse_guitar_pick\fuse_guitar_pick\prop_pick_fuse_heirloom_inspect_basic.rseq
+	animseq\props\fuse_guitar_pick\fuse_guitar_pick\prop_pick_fuse_heirloom_inspect_pick.rseq
+]

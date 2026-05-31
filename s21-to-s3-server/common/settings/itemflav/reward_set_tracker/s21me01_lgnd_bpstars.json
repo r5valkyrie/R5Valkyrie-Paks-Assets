@@ -1,0 +1,29 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_reward_set_tracker_layout.rpak",
+	"uniqueId": 619652088,
+	"settings": {
+		"assetName": "settings/itemflav/reward_set_tracker/s21me01_lgnd_bpstars.rpak",
+		"itemType": "reward_set_tracker",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00619652088",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#reward_set_tracker_s21me01_lgnd_bpstars_NAME",
+		"localizationKey_NAME_SHORT": "#reward_set_tracker_s21me01_lgnd_bstars_NAME_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "#reward_set_tracker_s21me01_lgnd_bpstars_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#reward_set_tracker_s21me01_lgnd_bpstars_DESC_SHORT",
+		"quality": "LEGENDARY",
+		"icon": "",
+		"tagIcon": "rui/events/s20me01/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "s21me01_lgnd_bpstars_1",
+		"ownershipTarget": "",
+		"filterType": "settings/itemflav/voucher/store_offers/bp_stars_1.rpak",
+		"rewardCeremonyDisplayImage": "rui/events/s19me01/120bpstars",
+		"multipleOwnershipTargets": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

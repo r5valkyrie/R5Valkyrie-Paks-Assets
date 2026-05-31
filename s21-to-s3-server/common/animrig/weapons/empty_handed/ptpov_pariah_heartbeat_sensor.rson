@@ -1,0 +1,22 @@
+seqs:
+[
+	animseq\weapons\empty_handed\ptpov_pariah_heartbeat_sensor\charge_seq_core.rseq
+	animseq\weapons\empty_handed\ptpov_pariah_heartbeat_sensor\charge_seq_core_onehanded.rseq
+	animseq\weapons\empty_handed\ptpov_pariah_heartbeat_sensor\charge_seq_empty.rseq
+	animseq\weapons\empty_handed\ptpov_pariah_heartbeat_sensor\charge_seq_empty_onehanded.rseq
+	animseq\weapons\empty_handed\ptpov_pariah_heartbeat_sensor\draw_empty.rseq
+	animseq\weapons\empty_handed\ptpov_pariah_heartbeat_sensor\draw_empty_onehanded.rseq
+	animseq\weapons\empty_handed\ptpov_pariah_heartbeat_sensor\draw_hands_up.rseq
+	animseq\weapons\empty_handed\ptpov_pariah_heartbeat_sensor\draw_hands_up_onehanded.rseq
+	animseq\weapons\empty_handed\ptpov_pariah_heartbeat_sensor\fire_holster_seq.rseq
+	animseq\weapons\empty_handed\ptpov_pariah_heartbeat_sensor\fire_holster_seq_empty.rseq
+	animseq\weapons\empty_handed\ptpov_pariah_heartbeat_sensor\fire_holster_seq_empty_onehanded.rseq
+	animseq\weapons\empty_handed\ptpov_pariah_heartbeat_sensor\fire_holster_seq_onehanded.rseq
+	animseq\weapons\empty_handed\ptpov_pariah_heartbeat_sensor\jump.rseq
+	animseq\weapons\empty_handed\ptpov_pariah_heartbeat_sensor\land.rseq
+	animseq\weapons\empty_handed\ptpov_pariah_heartbeat_sensor\land_high.rseq
+	animseq\weapons\empty_handed\ptpov_pariah_heartbeat_sensor\land_low.rseq
+	animseq\weapons\empty_handed\ptpov_pariah_heartbeat_sensor\land_med.rseq
+	animseq\weapons\empty_handed\ptpov_pariah_heartbeat_sensor\trans_draw_to_charge_handsUp.rseq
+	animseq\weapons\empty_handed\ptpov_pariah_heartbeat_sensor\trans_draw_to_charge_handsUp_onehanded.rseq
+]

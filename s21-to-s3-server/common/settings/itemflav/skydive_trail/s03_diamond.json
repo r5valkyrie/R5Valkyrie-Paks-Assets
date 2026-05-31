@@ -1,0 +1,109 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_skydive_trail_layout.rpak",
+	"uniqueId": 1739506211,
+	"settings": {
+		"assetName": "settings/itemflav/skydive_trail/s03_diamond.rpak",
+		"itemType": "skydive_trail",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01739506211",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#S03_DIAMOND",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "skydive_trail_ranked02_diamond",
+		"ownershipTarget": "",
+		"DropSequenceLaunch1P": "Survival_Season3_DropSequence_Launch_Diamond_1P",
+		"DropSequenceLaunch3P": "Survival_Season3_DropSequence_Launch_Diamond_3p",
+		"DropSequenceTravel1P": "Survival_Season3_DropSequence_Travel_Diamond_1P",
+		"DropSequenceTravel3P": "Survival_DropSequence_Travel_3P",
+		"DropSequenceLandStart1P": "Survival_DropSequence_Land_Start_1P",
+		"DropSequenceLandStart3P": "Survival_DropSequence_Land_Start_3P",
+		"DropSequenceLandStop1P": "Survival_DropSequence_Land_Stop_1P",
+		"DropSequenceLandStop3P": "Survival_DropSequence_Land_Stop_3P",
+		"InGameFlightLaunch1P": "Survival_InGameFlight_Launch_1P",
+		"InGameFlightLaunch3P": "Survival_InGameFlight_Launch_3P",
+		"InGameFlightTravel1P": "Survival_Season3_DropSequence_Travel_Diamond_1P",
+		"InGameFlightTravel3P": "Survival_InGameFlight_Travel_3P",
+		"InGameFlightLandStart1P": "Survival_InGameFlight_Land_Start_1P",
+		"InGameFlightLandStart3P": "Survival_InGameFlight_Land_Start_3P",
+		"InGameFlightLandStop1P": "Survival_InGameFlight_Land_Stop_1P",
+		"InGameFlightLandStop3P": "Survival_InGameFlight_Land_Stop_3P",
+		"DropSequenceCameraTransition1P": "Survival_DropSequence_CameraTransition_1P",
+		"video": "media/skydive_trails/skydive_trail_series_02_diamond",
+		"multipleOwnershipTargets": [
+			],
+		"smokeColorFXPackage": [
+				{
+					"fxAsset": "P_rank_trl_long_Dmd_s4",
+					"attachName": "vent_center",
+					"controlPoint": "<0.000000,0.000000,0.000000>",
+					"useCustomControlPoint": false
+				}
+			],
+		"friendlyJumpJetFXPackage": [
+				{
+					"fxAsset": "P_rank_trl_jj_team_Dmd_s4",
+					"attachName": "vent_left",
+					"controlPoint": "<165.000000,182.000000,255.000000>",
+					"useCustomControlPoint": true
+				},
+				{
+					"fxAsset": "P_rank_trl_jj_team_Dmd_s4",
+					"attachName": "vent_right",
+					"controlPoint": "<165.000000,182.000000,255.000000>",
+					"useCustomControlPoint": true
+				},
+				{
+					"fxAsset": "P_rank_trl_body_Dmd_s4",
+					"attachName": "vent_center",
+					"controlPoint": "<0.000000,0.000000,0.000000>",
+					"useCustomControlPoint": false
+				}
+			],
+		"enemyJumpJetFXPackage": [
+				{
+					"fxAsset": "P_skydive_jumpjet_enemy_rank",
+					"attachName": "vent_left",
+					"controlPoint": "<165.000000,182.000000,255.000000>",
+					"useCustomControlPoint": true
+				},
+				{
+					"fxAsset": "P_skydive_jumpjet_enemy_rank",
+					"attachName": "vent_right",
+					"controlPoint": "<165.000000,182.000000,255.000000>",
+					"useCustomControlPoint": true
+				},
+				{
+					"fxAsset": "P_rank_trl_body_Dmd_s4",
+					"attachName": "vent_center",
+					"controlPoint": "<0.000000,0.000000,0.000000>",
+					"useCustomControlPoint": false
+				}
+			],
+		"jumpJetLandFXPackage": [
+				{
+					"fxAsset": "P_skydive_jumpjet_land_rank",
+					"attachName": "vent_left",
+					"controlPoint": "<165.000000,182.000000,255.000000>",
+					"useCustomControlPoint": true
+				},
+				{
+					"fxAsset": "P_skydive_jumpjet_land_rank",
+					"attachName": "vent_right",
+					"controlPoint": "<165.000000,182.000000,255.000000>",
+					"useCustomControlPoint": true
+				}
+			],
+		"props": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

@@ -1,0 +1,30 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_account_currency_layout.rpak",
+	"uniqueId": 1041875129,
+	"settings": {
+		"assetName": "settings/itemflav/grx_currency/premium.rpak",
+		"itemType": "account_currency",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01041875129",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#CURRENCY_PREMIUM",
+		"localizationKey_NAME_SHORT": "#CURRENCY_PREMIUM",
+		"localizationKey_DESCRIPTION_LONG": "#EMPTY_STRING",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "LEGENDARY",
+		"icon": "rui/menu/common/currency_premium",
+		"tagIcon": "",
+		"grxMode": "CURRENCY",
+		"grxMode": "CURRENCY",
+		"grxRef": "premium",
+		"ownershipTarget": "",
+		"rewardIcon": "rui/menu/buttons/battlepass/currency_coins",
+		"previewMdl": "mdl/menu/coin.rmdl",
+		"purchaseSound": "UI_Menu_Purchase_Coins",
+		"multipleOwnershipTargets": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

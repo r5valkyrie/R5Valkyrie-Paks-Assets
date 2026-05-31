@@ -1,0 +1,39 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_boost_type_layout.rpak",
+	"uniqueId": 376936466,
+	"settings": {
+		"assetName": "settings/itemflav/boost_type/accxp_template.rpak",
+		"itemType": "boost_type",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00376936466",
+		"__featureFlag": "",
+		"devDescription": "Basic Account XP Boost Type template - meant to be reused/defined with playlist boosts",
+		"localizationKey_NAME": "#PROGRESSION_MODIFIERS_ACCOUNT_GLOBAL_TITLE",
+		"localizationKey_NAME_SHORT": "#PROGRESSION_MODIFIERS_ACCOUNT_GLOBAL_TITLE",
+		"localizationKey_DESCRIPTION_LONG": "#PROGRESSION_MODIFIERS_ACCOUNT_GLOBAL_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#PROGRESSION_MODIFIERS_ACCOUNT_GLOBAL_DESC",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"typeId": "accxp_template",
+		"condition_party": "FALSE",
+		"boostReqDescription": "",
+		"uiModifierSummary": "#PROGRESSION_MODIFIERS_PERCENTAGE_ADD",
+		"uiBadgeIconSmall": "",
+		"effects": [
+			],
+		"conditions_gamemode": [
+			],
+		"conditions_region": [
+			],
+		"conditions_platform": [
+			],
+		"boostCategory": 0,
+		"uiModifierSummaryAmount": 0.000000,
+		"uiColor": "<0.000000,0.000000,0.000000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isDevType": false
+	}
+}

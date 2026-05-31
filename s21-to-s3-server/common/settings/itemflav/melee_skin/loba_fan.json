@@ -1,0 +1,51 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_melee_skin_layout.rpak",
+	"uniqueId": 3832492,
+	"settings": {
+		"assetName": "settings/itemflav/melee_skin/loba_fan.rpak",
+		"itemType": "melee_skin",
+		"parentItemFlavor": "settings/itemflav/loot/melee_weapon/loba_fan.rpak",
+		"settingsAssetID": "SAID00003832492",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#MELEE_SKIN_loba_HEIRLOOM_NAME",
+		"localizationKey_NAME_SHORT": "#MELEE_SKIN_loba_HEIRLOOM_NAME",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "#MELEE_SKIN_loba_HEIRLOOM_NAME",
+		"quality": "MYTHIC",
+		"icon": "rui/menu/buttons/battlepass/melee_skin_loba",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "melee_skin_loba_fan",
+		"ownershipTarget": "",
+		"worldModel": "mdl/Weapons/loba_heirloom/w_loba_heirloom.rmdl",
+		"viewModel": "mdl/Weapons/loba_heirloom/ptpov_loba_heirloom.rmdl",
+		"skinName": "fan",
+		"menuAnimSeq": "animseq/weapons/loba_heirloom/ptpov_loba_heirloom/menu.rseq",
+		"koSound": "",
+		"storeImage": "rui/menu/heirloom_crafting/heirloom_page_item_loba",
+		"equipImage": "rui/menu/buttons/melee_skins/loba_fan",
+		"multipleOwnershipTargets": [
+			],
+		"artifactConfigIndex": 0,
+		"camoIndex": 0,
+		"menuMdlRot": "<0.000000,0.000000,0.000000>",
+		"battlePassScale": 2.300000,
+		"lootCeremonyScale": 1.800000,
+		"itemInspectScale": 0.900000,
+		"itemInspectOffset": "<0.000000,0.000000,-250.000000>",
+		"skinAlias_vfxAliases": [
+			],
+		"skinAlias_sfxAliases": [
+			],
+		"skinAlias_bodyGroupAliases": [
+			],
+		"skinAlias_impactTableAliases": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isArtifactConfigPointer": false,
+		"shouldHideIfLocked": false
+	}
+}

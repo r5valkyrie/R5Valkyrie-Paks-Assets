@@ -1,0 +1,284 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_calevent_event_shop_layout.rpak",
+	"uniqueId": 1112079851,
+	"settings": {
+		"assetName": "settings/itemflav/calevent/s19me01/event_shop.rpak",
+		"itemType": "calevent_event_shop",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01112079851",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#S19ME01_TITLE_LONG",
+		"localizationKey_NAME_SHORT": "#S19ME01_TITLE_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "rui/events/s19me01/item_source_icon",
+		"grxMode": "NONE",
+		"revealUnixTime": "",
+		"hideUnixTime": "",
+		"defaultStartTime": "2024-01-09 10:00:00 -08:00",
+		"defaultFinishTime": "2024-01-30 10:00:00 -08:00",
+		"mainChallengeFlav": "settings/itemflav/challenge/s19me01/main.rpak",
+		"eventShopCurrencyFlav": "settings/itemflav/grx_currency/s19me01_coin.rpak",
+		"eventShopCurrencyVoucherFlav": "settings/itemflav/voucher/s19me01/currency_reward.rpak",
+		"eventShopCurrencyRewardSequence": "rewardseq_s19me01_currency",
+		"eventShopTotalCurrencyPersistenceVar": "goldenHorseEventCurrencyTotal",
+		"eventShopTotalCurrencyStat": "stats.s19gh_event_currency_total",
+		"eventShopButtonText": "#S19ME01_EVENT_SHOP_BUTTON_TEXT",
+		"rewardsLocString": "#EVENTS_EVENT_SHOP_REWARDS_TITLE_2",
+		"gridLocString": "#S19ME01_EVENT_SHOP_GRID_INFO",
+		"sweepstakesPrizeImage": "",
+		"eventShopGRXOfferLocation": "s19me01_event_shop",
+		"eventShopGridToolTipBodyText": "#EVENTS_EVENT_SHOP_GRID_BODY",
+		"eventShopGridToolTipBodySetsText": "#EVENTS_EVENT_SHOP_GRID_BODY_SETS",
+		"eventShopGridToolTipBodyInsufficientText": "#EVENTS_EVENT_SHOP_GRID_BODY_INSUFFICIENT",
+		"eventShopGridToolTipSubtitleDailyLimitText": "#EVENTS_EVENT_SHOP_GRID_SUBTITLE_DAILY_LIMIT",
+		"eventShopGridToolTipCounterAvailableText": "#EVENTS_EVENT_SHOP_GRID_COUNTER_AVAILABLE",
+		"eventShopGridToolTipCounterDailyLimitText": "#EVENTS_EVENT_SHOP_GRID_COUNTER_DAILY_LIMIT",
+		"eventShopGridToolTipBodySweepstakesText": "#EVENTS_EVENT_SHOP_GRID_BODY_SWEEPSTAKES",
+		"eventShopGridToolTipBody2Text": "#EVENTS_EVENT_SHOP_MILESTONE_BODY_2",
+		"eventMainIcon": "rui/events/s19me01/event_main_icon",
+		"leftCornerHeaderBg": "rui/events/s19me01/left_corner_header_bg",
+		"introPagePanelBg": "rui/events/s19me01/intro_page_panel_bg",
+		"eventShopLobbyButtonImage": "rui/events/s19me01/event_tracker_button",
+		"eventShopLobbyHeaderBackgroundImage": "rui/events/s19me01/challenge_panel_event_header",
+		"rightPanelBg": "rui/events/s19me01/right_panel_bg",
+		"eventShopPageItemsBg": "rui/events/s19me01/shop_page_items_bg",
+		"eventShopCurrencyProgression": 1,
+		"dailyChallengeFlavs": [
+				{
+					"dailyChallengeFlav": "settings/itemflav/challenge/s19me01/games_played_gh.rpak"
+				},
+				{
+					"dailyChallengeFlav": "settings/itemflav/challenge/s19me01/damage_done_any_mode.rpak"
+				},
+				{
+					"dailyChallengeFlav": "settings/itemflav/challenge/s19me01/kills_or_assists_any_mode.rpak"
+				},
+				{
+					"dailyChallengeFlav": "settings/itemflav/challenge/s19me01/shields_restored.rpak"
+				},
+				{
+					"dailyChallengeFlav": "settings/itemflav/challenge/s19me01/top_10_finish.rpak"
+				}
+			],
+		"eventChallengeFlavs": [
+				{
+					"eventChallengeFlav": "settings/itemflav/challenge/s19me01/damage_done_with_sword.rpak"
+				},
+				{
+					"eventChallengeFlav": "settings/itemflav/challenge/s19me01/kills_with_sword.rpak"
+				},
+				{
+					"eventChallengeFlav": "settings/itemflav/challenge/s19me01/enemies_launched_with_sword.rpak"
+				},
+				{
+					"eventChallengeFlav": "settings/itemflav/challenge/s19me01/limit_breaks_activated.rpak"
+				},
+				{
+					"eventChallengeFlav": "settings/itemflav/challenge/s19me01/damage_blocked_with_sword.rpak"
+				},
+				{
+					"eventChallengeFlav": "settings/itemflav/challenge/s19me01/red_nessies_summoned.rpak"
+				},
+				{
+					"eventChallengeFlav": "settings/itemflav/challenge/s19me01/blue_life_healed.rpak"
+				},
+				{
+					"eventChallengeFlav": "settings/itemflav/challenge/s19me01/green_damage_done.rpak"
+				},
+				{
+					"eventChallengeFlav": "settings/itemflav/challenge/s19me01/purple_crit_damage_done.rpak"
+				},
+				{
+					"eventChallengeFlav": "settings/itemflav/challenge/s19me01/yellow_time_scanned.rpak"
+				}
+			],
+		"badgeFlavs": [
+				{
+					"badgeFlav": "settings/itemflav/gcard_badge/account/s19me01_b4.rpak",
+					"badgeSize": 118
+				},
+				{
+					"badgeFlav": "settings/itemflav/gcard_badge/account/s19me01_b3.rpak",
+					"badgeSize": 118
+				},
+				{
+					"badgeFlav": "settings/itemflav/gcard_badge/account/s19me01_b2.rpak",
+					"badgeSize": 118
+				},
+				{
+					"badgeFlav": "settings/itemflav/gcard_badge/account/s19me01_b1.rpak",
+					"badgeSize": 118
+				}
+			],
+		"rewardFlavs": [
+			],
+		"offerFlavs": [
+				{
+					"offerFlav": "settings/itemflav/pack/cosmetic_epic.rpak",
+					"offerGridIcon": "rui/events/s19me01/reward_packs_epic",
+					"isSweepstakesOffer": false,
+					"isLockedOffer": false,
+					"isFeaturedOffer": false
+				},
+				{
+					"offerFlav": "settings/itemflav/pack/cosmetic_event_s19me01.rpak",
+					"offerGridIcon": "rui/events/s19me01/event_pack_offer_icon",
+					"isSweepstakesOffer": false,
+					"isLockedOffer": false,
+					"isFeaturedOffer": false
+				},
+				{
+					"offerFlav": "settings/itemflav/gcard_badge/account/s19me01_b5.rpak",
+					"offerGridIcon": "rui/events/s19me01/event_badge_offer_icon",
+					"isSweepstakesOffer": false,
+					"isLockedOffer": false,
+					"isFeaturedOffer": false
+				},
+				{
+					"offerFlav": "settings/itemflav/pack/cosmetic_rare.rpak",
+					"offerGridIcon": "rui/events/s19me01/reward_packs",
+					"isSweepstakesOffer": false,
+					"isLockedOffer": false,
+					"isFeaturedOffer": false
+				},
+				{
+					"offerFlav": "settings/itemflav/pack/thematic_crypto.rpak",
+					"offerGridIcon": "rui/events/s19me01/thematic_crypto_offer_icon",
+					"isSweepstakesOffer": false,
+					"isLockedOffer": false,
+					"isFeaturedOffer": false
+				},
+				{
+					"offerFlav": "settings/itemflav/pack/thematic_wraith.rpak",
+					"offerGridIcon": "rui/events/s19me01/thematic_wraith_offer_icon",
+					"isSweepstakesOffer": false,
+					"isLockedOffer": false,
+					"isFeaturedOffer": false
+				},
+				{
+					"offerFlav": "settings/itemflav/pack/thematic_horizon.rpak",
+					"offerGridIcon": "rui/events/s19me01/thematic_horizon_offer_icon",
+					"isSweepstakesOffer": false,
+					"isLockedOffer": false,
+					"isFeaturedOffer": false
+				},
+				{
+					"offerFlav": "settings/itemflav/voucher/store_offers/bp_stars_1.rpak",
+					"offerGridIcon": "rui/events/s19me01/reward_bpstars",
+					"isSweepstakesOffer": false,
+					"isLockedOffer": false,
+					"isFeaturedOffer": false
+				},
+				{
+					"offerFlav": "settings/itemflav/weapon_charm/charm_apex_theme_v23_ragold_ragold01.rpak",
+					"offerGridIcon": "rui/events/s19me01/charm_01_offer_icon",
+					"isSweepstakesOffer": false,
+					"isLockedOffer": false,
+					"isFeaturedOffer": false
+				},
+				{
+					"offerFlav": "settings/itemflav/emote_icon/ragold/epic_v23_ragold_07.rpak",
+					"offerGridIcon": "rui/events/s19me01/holospray_07_offer_icon",
+					"isSweepstakesOffer": false,
+					"isLockedOffer": false,
+					"isFeaturedOffer": false
+				},
+				{
+					"offerFlav": "settings/itemflav/weapon_charm/charm_apex_theme_v23_ragold_ragold02.rpak",
+					"offerGridIcon": "rui/events/s19me01/charm_02_offer_icon",
+					"isSweepstakesOffer": false,
+					"isLockedOffer": false,
+					"isFeaturedOffer": false
+				},
+				{
+					"offerFlav": "settings/itemflav/character_skin/lifeline/epicp_v23_ragold.rpak",
+					"offerGridIcon": "rui/events/s19me01/lifeline_skin_offer_icon",
+					"isSweepstakesOffer": false,
+					"isLockedOffer": false,
+					"isFeaturedOffer": true
+				},
+				{
+					"offerFlav": "settings/itemflav/emote_icon/ragold/epic_v23_ragold_08.rpak",
+					"offerGridIcon": "rui/events/s19me01/holospray_08_offer_icon",
+					"isSweepstakesOffer": false,
+					"isLockedOffer": false,
+					"isFeaturedOffer": false
+				},
+				{
+					"offerFlav": "settings/itemflav/weapon_charm/charm_apex_theme_v23_ragold_ragold03.rpak",
+					"offerGridIcon": "rui/events/s19me01/charm_03_offer_icon",
+					"isSweepstakesOffer": false,
+					"isLockedOffer": false,
+					"isFeaturedOffer": true
+				},
+				{
+					"offerFlav": "settings/itemflav/stickers/sticker_epic_v23_ragold_01.rpak",
+					"offerGridIcon": "rui/events/s19me01/sticker_01_offer_icon",
+					"isSweepstakesOffer": false,
+					"isLockedOffer": false,
+					"isFeaturedOffer": false
+				},
+				{
+					"offerFlav": "settings/itemflav/emote_icon/ragold/epic_v23_ragold_09.rpak",
+					"offerGridIcon": "rui/events/s19me01/holospray_09_offer_icon",
+					"isSweepstakesOffer": false,
+					"isLockedOffer": false,
+					"isFeaturedOffer": false
+				},
+				{
+					"offerFlav": "settings/itemflav/weapon_charm/charm_apex_theme_v23_ragold_ragold04.rpak",
+					"offerGridIcon": "rui/events/s19me01/charm_04_offer_icon",
+					"isSweepstakesOffer": false,
+					"isLockedOffer": false,
+					"isFeaturedOffer": false
+				},
+				{
+					"offerFlav": "settings/itemflav/weapon_skin/mastiff/epicp_v23_ragold.rpak",
+					"offerGridIcon": "rui/events/s19me01/mastiff_skin_offer_icon",
+					"isSweepstakesOffer": false,
+					"isLockedOffer": false,
+					"isFeaturedOffer": true
+				}
+			],
+		"tutorialItems": [
+				{
+					"tutorialIcon": "rui/events/s19me01/about_rewardshop_image_01",
+					"tutorialTitleLocString": "#S19ME01_ABOUT_TITLE_1",
+					"tutorialBodyTextLocString": "#S19ME01_ABOUT_DESC_1"
+				},
+				{
+					"tutorialIcon": "rui/events/s19me01/about_rewardshop_image_02",
+					"tutorialTitleLocString": "#S19ME01_ABOUT_TITLE_2",
+					"tutorialBodyTextLocString": "#S19ME01_ABOUT_DESC_2"
+				},
+				{
+					"tutorialIcon": "rui/events/s19me01/about_rewardshop_image_03",
+					"tutorialTitleLocString": "#S19ME01_ABOUT_TITLE_3",
+					"tutorialBodyTextLocString": "#S19ME01_ABOUT_DESC_3"
+				}
+			],
+		"radioPlayFlavs": [
+			],
+		"leftCornerHeaderBGDarkening": 0.400000,
+		"eventShopBarsColor": "<0.259000,0.600000,0.549000>",
+		"eventShopLinesColor": "<0.259000,0.600000,0.549000>",
+		"eventShopLeftPanelTitleColor": "<1.000000,1.000000,1.000000>",
+		"eventShopLeftPanelEventNameColor": "<0.667000,0.267000,0.329000>",
+		"eventShopLeftPanelTimeRemainingColor": "<0.725000,0.725000,0.725000>",
+		"eventShopTooltipsColor": "<0.259000,0.600000,0.549000>",
+		"rightPanelBgColor": "<0.000000,0.000000,0.000000>",
+		"rightPanelOpacity": 0.700000,
+		"leftPanelOpacity": 0.700000,
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showEventChallengesInLobby": false,
+		"isWeeklyRotatingOffers": true,
+		"leftCornerHeaderBgBlur": true,
+		"rightPanelBgBlur": true,
+		"leftPanelBlur": true
+	}
+}

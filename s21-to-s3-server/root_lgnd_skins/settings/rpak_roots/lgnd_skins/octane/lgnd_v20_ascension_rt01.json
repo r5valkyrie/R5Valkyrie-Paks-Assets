@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/octane/lgnd_v20_ascension_rt01.rpak",
+		"roots": [
+				{
+					"asset": "mdl/humans/class/medium/octane_v20_highfashion_w.rmdl",
+					"featureFlag": ""
+				},
+				{
+					"asset": "mdl/Weapons/arms/octane_v20_highfashion_v.rmdl",
+					"featureFlag": ""
+				}
+			]
+	}
+}

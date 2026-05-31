@@ -1,0 +1,12 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_PlayFX_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/fx_nova_execution_repulsor_grenade_flash_01.rpak",
+		"devDescription": "",
+		"type": "PlayFX",
+		"particleSystemName": "P_repulsor_execution_flash",
+		"attachPoint": "L_HAND_NO_OFFSET",
+		"followAttach": true,
+		"playEndCap": false
+	}
+}

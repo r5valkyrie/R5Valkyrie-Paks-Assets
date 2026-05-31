@@ -1,0 +1,8 @@
+rigs:
+[
+]
+seqs:
+[
+	animseq\creatures\bird\parrot\Bird_cleaning_idle.rseq
+	animseq\creatures\bird\parrot\parrot_ground_emote_birdcall.rseq
+]

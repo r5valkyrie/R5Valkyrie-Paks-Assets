@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 714367585,
+	"settings": {
+		"assetName": "settings/itemflav/ability/vantage_ult_sniper.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00714367585",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#ABL_ULT_SNIPER",
+		"localizationKey_NAME_SHORT": "#ABL_ULT_SNIPER_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "#ABL_ULT_SNIPER_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#ABL_ULT_SNIPER_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/ultimate_icons/ultimate_vantage",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "mp_ability_sniper_ult",
+		"passiveScriptRef": "",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

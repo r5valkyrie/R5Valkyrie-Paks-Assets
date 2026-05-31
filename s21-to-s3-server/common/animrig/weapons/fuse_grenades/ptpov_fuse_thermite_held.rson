@@ -1,0 +1,38 @@
+seqs:
+[
+	animseq\weapons\fuse_grenades\ptpov_fuse_thermite_held\draw_onehanded_seq.rseq
+	animseq\weapons\fuse_grenades\ptpov_fuse_thermite_held\draw_seq.rseq
+	animseq\weapons\fuse_grenades\ptpov_fuse_thermite_held\drawfirst_seq.rseq
+	animseq\weapons\fuse_grenades\ptpov_fuse_thermite_held\holster_onehanded_seq.rseq
+	animseq\weapons\fuse_grenades\ptpov_fuse_thermite_held\holster_seq.rseq
+	animseq\weapons\fuse_grenades\ptpov_fuse_thermite_held\idle_onehanded_seq.rseq
+	animseq\weapons\fuse_grenades\ptpov_fuse_thermite_held\idle_seq.rseq
+	animseq\weapons\fuse_grenades\ptpov_fuse_thermite_held\idle_seq_crouch.rseq
+	animseq\weapons\fuse_grenades\ptpov_fuse_thermite_held\inspect.rseq
+	animseq\weapons\fuse_grenades\ptpov_fuse_thermite_held\jump.rseq
+	animseq\weapons\fuse_grenades\ptpov_fuse_thermite_held\land.rseq
+	animseq\weapons\fuse_grenades\ptpov_fuse_thermite_held\land_high.rseq
+	animseq\weapons\fuse_grenades\ptpov_fuse_thermite_held\land_low.rseq
+	animseq\weapons\fuse_grenades\ptpov_fuse_thermite_held\land_med.rseq
+	animseq\weapons\fuse_grenades\ptpov_fuse_thermite_held\lower_onehanded_seq.rseq
+	animseq\weapons\fuse_grenades\ptpov_fuse_thermite_held\lower_seq.rseq
+	animseq\weapons\fuse_grenades\ptpov_fuse_thermite_held\raise_melee.rseq
+	animseq\weapons\fuse_grenades\ptpov_fuse_thermite_held\raise_onehanded_seq.rseq
+	animseq\weapons\fuse_grenades\ptpov_fuse_thermite_held\raise_seq.rseq
+	animseq\weapons\fuse_grenades\ptpov_fuse_thermite_held\regrip_to_crouch.rseq
+	animseq\weapons\fuse_grenades\ptpov_fuse_thermite_held\regrip_to_idle.rseq
+	animseq\weapons\fuse_grenades\ptpov_fuse_thermite_held\sprintdraw_seq.rseq
+	animseq\weapons\fuse_grenades\ptpov_fuse_thermite_held\sprinting_seq.rseq
+	animseq\weapons\fuse_grenades\ptpov_fuse_thermite_held\sprintraise_seq.rseq
+	animseq\weapons\fuse_grenades\ptpov_fuse_thermite_held\sprintraise_seq_slide.rseq
+	animseq\weapons\fuse_grenades\ptpov_fuse_thermite_held\toss_hold_onehanded_seq.rseq
+	animseq\weapons\fuse_grenades\ptpov_fuse_thermite_held\toss_hold_seq.rseq
+	animseq\weapons\fuse_grenades\ptpov_fuse_thermite_held\toss_onehanded_seq.rseq
+	animseq\weapons\fuse_grenades\ptpov_fuse_thermite_held\toss_overhead_onehanded_seq.rseq
+	animseq\weapons\fuse_grenades\ptpov_fuse_thermite_held\toss_overhead_seq.rseq
+	animseq\weapons\fuse_grenades\ptpov_fuse_thermite_held\toss_prep_pullout_onehanded_seq.rseq
+	animseq\weapons\fuse_grenades\ptpov_fuse_thermite_held\toss_prep_pullout_seq.rseq
+	animseq\weapons\fuse_grenades\ptpov_fuse_thermite_held\toss_prep_pullout_to_toss_hold.rseq
+	animseq\weapons\fuse_grenades\ptpov_fuse_thermite_held\toss_seq.rseq
+	animseq\weapons\fuse_grenades\ptpov_fuse_thermite_held\toss_to_holster_transition.rseq
+]

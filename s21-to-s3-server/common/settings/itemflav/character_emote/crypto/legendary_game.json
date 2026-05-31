@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 184673330,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/crypto/legendary_game.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/crypto.rpak",
+		"settingsAssetID": "SAID00184673330",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#CHAR_EMOTE_012",
+		"localizationKey_NAME_SHORT": "#CHAR_EMOTE_012",
+		"localizationKey_DESCRIPTION_LONG": "#CHAR_EMOTE_012",
+		"localizationKey_DESCRIPTION_SHORT": "#CHAR_EMOTE_012",
+		"quality": "LEGENDARY",
+		"icon": "rui/menu/buttons/character_emotes/crypto/game",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_crypto_legendary_game",
+		"ownershipTarget": "",
+		"anim3p": "crypto_ground_emote_game",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

@@ -1,0 +1,3 @@
+"fieldName","dataType","layoutIndex","helpText"
+"name","string","0","Name for this sfx alias group. Convenience only; not used while baking."
+"sfxAliases","array_dynamic","0","SFX Aliases to remap via weapon skin"

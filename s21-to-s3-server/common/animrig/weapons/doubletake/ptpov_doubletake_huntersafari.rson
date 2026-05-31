@@ -1,0 +1,6 @@
+seqs:
+[
+	animseq\weapons\doubletake\ptpov_doubletake_huntersafari\fire_reactive.rseq
+	animseq\weapons\doubletake\ptpov_doubletake_huntersafari\fire_reactive_onehanded.rseq
+	animseq\weapons\doubletake\ptpov_doubletake_huntersafari\idle_reactive_layer.rseq
+]

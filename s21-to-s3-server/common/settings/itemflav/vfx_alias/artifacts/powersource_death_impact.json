@@ -1,0 +1,19 @@
+{
+	"layoutAsset": "settings_layout/settings_skinAlias_impactTable_layout.rpak",
+	"settings": {
+		"assetName": "settings/itemflav/vfx_alias/artifacts/powersource_death_impact.rpak",
+		"devDescription": "",
+		"type": "",
+		"impacttablealiasgroups": [
+				{
+					"name": "DEATH",
+					"impactTableAliases": [
+							{
+								"impactTableAlias": "melee_artifact_Death",
+								"impactTableReal": "melee_artifact"
+							}
+						]
+				}
+			]
+	}
+}

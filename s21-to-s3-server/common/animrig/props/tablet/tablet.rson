@@ -1,0 +1,14 @@
+seqs:
+[
+	animseq\props\horizon_tablet\prop_tablet_conduit_gladcard_animated_proleague.rseq
+	animseq\props\horizon_tablet\prop_tablet_conduit_gladcard_animated_proleague_idle.rseq
+	animseq\props\tablet\tablet\prop_seer_sickle_inspect_tablet.rseq
+	animseq\props\tablet\tablet\prop_seer_sickle_inspect_tablet_2.rseq
+	animseq\props\tablet\tablet\prop_seer_sickle_inspect_tablet_3.rseq
+	animseq\props\tablet\tablet\prop_seer_sickle_inspect_tablet_4.rseq
+	animseq\props\tablet\tablet\prop_seer_sickle_inspect_tablet_5.rseq
+	animseq\props\tablet\tablet\prop_seer_sickle_inspect_tablet_6.rseq
+	animseq\props\tablet\tablet\tablet_conduit_execution_selfie.rseq
+	animseq\props\tablet\tablet\tablet_conduit_menu_lobby_center_selfie.rseq
+	animseq\props\tablet\tablet\tablet_conduit_slide_UA_selfie.rseq
+]

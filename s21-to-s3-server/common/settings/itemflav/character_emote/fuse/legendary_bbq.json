@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 52989316,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/fuse/legendary_bbq.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/fuse.rpak",
+		"settingsAssetID": "SAID00052989316",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#CHAR_EMOTE_065",
+		"localizationKey_NAME_SHORT": "#CHAR_EMOTE_065",
+		"localizationKey_DESCRIPTION_LONG": "#CHAR_EMOTE_065",
+		"localizationKey_DESCRIPTION_SHORT": "#CHAR_EMOTE_065",
+		"quality": "LEGENDARY",
+		"icon": "rui/menu/buttons/character_emotes/fuse/bbq",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_fuse_legendary_bbq",
+		"ownershipTarget": "",
+		"anim3p": "fuse_ground_emote_bbq",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

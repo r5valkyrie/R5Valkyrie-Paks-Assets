@@ -1,0 +1,8 @@
+seqs:
+[
+	animseq\props\book_01\book_01_w\book_vantage_gladcard_animated_chillandshoot.rseq
+	animseq\props\book_01\book_01_w\book_vantage_gladcard_animated_chillandshoot_idle.rseq
+	animseq\props\book_01\book_01_w\book_vantage_gladcard_static_reading.rseq
+	animseq\props\book_01\book_01_w\catalyst_ground_emote_moonLounge_book.rseq
+	animseq\props\book_01\book_01_w\catalyst_ground_emote_moonLounge_book_loop.rseq
+]

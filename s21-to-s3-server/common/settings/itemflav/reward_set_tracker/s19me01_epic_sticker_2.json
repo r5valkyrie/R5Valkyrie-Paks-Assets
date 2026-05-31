@@ -1,0 +1,29 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_reward_set_tracker_layout.rpak",
+	"uniqueId": 1936113160,
+	"settings": {
+		"assetName": "settings/itemflav/reward_set_tracker/s19me01_epic_sticker_2.rpak",
+		"itemType": "reward_set_tracker",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01936113160",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#reward_set_tracker_s19me01_epic_sticker_2_NAME",
+		"localizationKey_NAME_SHORT": "#reward_set_tracker_s19me01_epic_sticker_2_NAME_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "#reward_set_tracker_s19me01_epic_sticker_2_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#reward_set_tracker_s19me01_epic_sticker_2_DESC_SHORT",
+		"quality": "EPIC",
+		"icon": "",
+		"tagIcon": "rui/events/s19me01/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "s19me01_epic_sticker_2",
+		"ownershipTarget": "",
+		"filterType": "settings/itemflav/sticker/_empty.rpak",
+		"rewardCeremonyDisplayImage": "rui/events/s19me01/epic_sticker_2",
+		"multipleOwnershipTargets": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

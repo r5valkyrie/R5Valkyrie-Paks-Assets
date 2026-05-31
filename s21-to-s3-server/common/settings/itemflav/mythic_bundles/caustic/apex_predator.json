@@ -1,0 +1,56 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_mythic_bundle_layout.rpak",
+	"uniqueId": 1590390442,
+	"settings": {
+		"assetName": "settings/itemflav/mythic_bundles/caustic/apex_predator.rpak",
+		"itemType": "mythic_bundle",
+		"parentItemFlavor": "settings/itemflav/character/caustic.rpak",
+		"settingsAssetID": "SAID01590390442",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#pack_mythic_caustic_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "MYTHIC",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"parentItemFlavor": "settings/itemflav/character/caustic.rpak",
+		"challengeAsset": "settings/itemflav/challenge/mythic/caustic/apex_predator.rpak",
+		"executionAsset": "settings/itemflav/character_execution/caustic/mythic.rpak",
+		"skydivetrailAsset": "",
+		"baseSkinName": "#S16CE03_APEX_CONTAGION_BASE_NAME",
+		"skinsByTier": [
+				{
+					"skinAsset": "settings/itemflav/character_skin/caustic/mythic_v22_pilot_level01.rpak",
+					"unlocksAt": 1.000000
+				},
+				{
+					"skinAsset": "settings/itemflav/character_skin/caustic/mythic_v22_pilot_level02.rpak",
+					"unlocksAt": 2.000000
+				},
+				{
+					"skinAsset": "settings/itemflav/character_skin/caustic/mythic_v22_pilot_level03.rpak",
+					"unlocksAt": 3.000000
+				}
+			],
+		"storeImagesByTier": [
+				{
+					"storeImage": "rui/menu/heirloom_crafting/mythic_heirloomshop_menuicon_caustic_t1",
+					"unlocksAt": 1.000000
+				},
+				{
+					"storeImage": "rui/menu/heirloom_crafting/mythic_heirloomshop_menuicon_caustic_t2",
+					"unlocksAt": 2.000000
+				},
+				{
+					"storeImage": "rui/menu/heirloom_crafting/mythic_heirloomshop_menuicon_caustic_t3",
+					"unlocksAt": 3.000000
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isExecutionUsableOnTier1AndTier2": false
+	}
+}

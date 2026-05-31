@@ -1,0 +1,4 @@
+"fieldName","dataType","layoutIndex","helpText"
+"characterRef","asset_noprecache","0",""
+"animSeq","asset_noprecache","0",""
+"featureFlag","string","0","This row will be ignored if the specified feature flag is disabled."

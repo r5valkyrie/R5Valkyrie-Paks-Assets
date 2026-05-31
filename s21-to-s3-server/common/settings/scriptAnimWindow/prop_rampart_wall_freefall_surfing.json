@@ -1,0 +1,20 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_CreateProp_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/prop_rampart_wall_freefall_surfing.rpak",
+		"devDescription": "",
+		"type": "CreateProp",
+		"selectModelFrom": "HARD_CODED",
+		"modelName": "mdl/props/rampart_cover_wall/rampart_cover_wall.rmdl",
+		"modelScriptKey": "lifeline_drone",
+		"attachPoint": "REF",
+		"animSequence": "animseq/props/rampart_cover_wall/rampart_cover_wall/prop_rampart_wall_freefall_emote_surfing.rseq",
+		"scriptCallbackKey": "",
+		"scale": 1.000000,
+		"additionalAnims": [
+			],
+		"propBodygroups": [
+			],
+		"syncCycle": true
+	}
+}

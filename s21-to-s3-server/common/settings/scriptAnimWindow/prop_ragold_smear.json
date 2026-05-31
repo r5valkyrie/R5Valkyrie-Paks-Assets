@@ -1,0 +1,10 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_SetPropSkin_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/prop_ragold_smear.rpak",
+		"devDescription": "",
+		"type": "SetPropSkin",
+		"skinName": "ragold_artifact_smear",
+		"camoIndex": 0
+	}
+}

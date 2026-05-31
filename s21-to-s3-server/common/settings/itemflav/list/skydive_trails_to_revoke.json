@@ -1,0 +1,139 @@
+{
+	"layoutAsset": "settings_layout/settings_itemflavorlist_base_layout.rpak",
+	"uniqueId": 1664173812,
+	"settings": {
+		"assetName": "settings/itemflav/list/skydive_trails_to_revoke.rpak",
+		"shortName": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"associatedPackFlav": "",
+		"list": [
+				{
+					"flavor": "settings/itemflav/skydive_trail/s04_apex_predator.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/skydive_trail/s04_diamond.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/skydive_trail/s04_master.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/skydive_trail/s05_apex_predator.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/skydive_trail/s05_diamond.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/skydive_trail/s05_master.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/skydive_trail/s06_apex_predator.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/skydive_trail/s06_diamond.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/skydive_trail/s06_master.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/skydive_trail/s07_apex_predator.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/skydive_trail/s07_diamond.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/skydive_trail/s07_master.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/skydive_trail/s08_apex_predator.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/skydive_trail/s08_diamond.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/skydive_trail/s08_master.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/skydive_trail/s09_apex_predator.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/skydive_trail/s09_diamond.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/skydive_trail/s09_master.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/skydive_trail/s10_apex_predator.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/skydive_trail/s10_diamond.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/skydive_trail/s10_master.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/skydive_trail/s11_diamond.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/skydive_trail/s11_master.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/skydive_trail/s11_apex_predator.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/skydive_trail/s12_diamond.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/skydive_trail/s12_master.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/skydive_trail/s12_apex_predator.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/skydive_trail/s13_diamond.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/skydive_trail/s13_master.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/skydive_trail/s13_apex_predator.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/skydive_trail/s14_diamond.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/skydive_trail/s14_master.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/skydive_trail/s14_apex_predator.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/skydive_trail/s15_diamond.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/skydive_trail/s15_master.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/skydive_trail/s15_apex_predator.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/skydive_trail/s16_diamond.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/skydive_trail/s16_master.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/skydive_trail/s16_apex_predator.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/skydive_trail/s17_diamond.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/skydive_trail/s17_master.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/skydive_trail/s17_apex_predator.rpak"
+				}
+			],
+		"hasAssociatedPack": false
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/pathfinder/s06bp_legendary_01.rpak",
+		"roots": [
+				{
+					"asset": "mdl/Humans/class/heavy/pathfinder_v20_bp_w.rmdl",
+					"featureFlag": ""
+				},
+				{
+					"asset": "mdl/Weapons/arms/pathfinder_v20_bp_v.rmdl",
+					"featureFlag": ""
+				}
+			]
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/revenant/s07e01_legendary_01.rpak",
+		"roots": [
+				{
+					"asset": "mdl/humans/class/heavy/revenant_v20_winter_w.rmdl",
+					"featureFlag": ""
+				},
+				{
+					"asset": "mdl/Weapons/arms/revenant_v20_winter_v.rmdl",
+					"featureFlag": ""
+				}
+			]
+	}
+}

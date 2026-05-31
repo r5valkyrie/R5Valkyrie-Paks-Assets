@@ -1,0 +1,5 @@
+"fieldName","dataType","layoutIndex","helpText"
+"reward","asset_noprecache","0",""
+"milestoneRewardCustomImage","asset_noprecache","0",""
+"milestoneRewardCustomName","string","0",""
+"milestoneLevel","int","0","The level at which the reward is granted."

@@ -1,0 +1,85 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_calevent_base_event_layout.rpak",
+	"uniqueId": 1608920830,
+	"settings": {
+		"assetName": "settings/itemflav/calevent/s19me01/base_event.rpak",
+		"itemType": "calevent_base_event",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01608920830",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#S19ME01_EVENT",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"revealUnixTime": "",
+		"hideUnixTime": "",
+		"defaultStartTime": "2024-01-09 10:00:00 -08:00",
+		"defaultFinishTime": "2024-01-30 10:00:00 -08:00",
+		"mainLandingImage": "rui/gladiator_cards/badges/s19me01_b5",
+		"buttonBackgroundImage": "rui/events/s19me01/intro_page_panel_bg",
+		"landingPageTitleSize": 62,
+		"landingPageTitleColor": "<1.000000,1.000000,1.000000>",
+		"landingPageTitleOutlineInnerColor": "<0.000000,0.000000,0.000000>",
+		"landingPageTitleOutlineInnerAlpha": 0.900000,
+		"landingPageTitleOutlineOuterColor": "<0.000000,0.000000,0.000000>",
+		"landingPageTitleOutlineOuterAlpha": 0.600000,
+		"landingPageTitleOutlineWidth": 3.500000,
+		"backgroundDarkeningOpacity": 0.500000,
+		"landingPageSubtitleSize": 50,
+		"landingPageSubtitleColor": "<0.000000,0.000000,0.000000>",
+		"buttonData": [
+				{
+					"buttonImage": "rui/events/s19me01/titlescreen_item_collection",
+					"buttonName": "#S19ME01_LANDING_PAGE_BUTTON_PACKS_NAME",
+					"buttonImageRestricted": "rui/events/s19me01/titlescreen_item_overview",
+					"buttonNameRestricted": "#S19ME01_LANDING_PAGE_BUTTON_PACKS_NAME_RESTRICTED",
+					"customDeeplinkType": "",
+					"customDeeplink": "",
+					"pageRedirect": 0
+				},
+				{
+					"buttonImage": "rui/events/s19me01/titlescreen_item_overview",
+					"buttonName": "#S19ME01_LANDING_PAGE_BUTTON_COLLECTION_NAME",
+					"buttonImageRestricted": "rui/events/s19me01/titlescreen_item_regional_alternate",
+					"buttonNameRestricted": "",
+					"customDeeplinkType": "",
+					"customDeeplink": "",
+					"pageRedirect": 0
+				},
+				{
+					"buttonImage": "rui/events/s19me01/titlescreen_item_itemshop",
+					"buttonName": "#S19ME01_LANDING_PAGE_BUTTON_SHOP_NAME",
+					"buttonImageRestricted": "",
+					"buttonNameRestricted": "",
+					"customDeeplinkType": "",
+					"customDeeplink": "",
+					"pageRedirect": 0
+				},
+				{
+					"buttonImage": "rui/events/s19me01/titlescreen_item_store",
+					"buttonName": "#S19ME01_LANDING_PAGE_BUTTON_EVENT_STORE_NAME",
+					"buttonImageRestricted": "",
+					"buttonNameRestricted": "",
+					"customDeeplinkType": "",
+					"customDeeplink": "",
+					"pageRedirect": 0
+				},
+				{
+					"buttonImage": "rui/events/s19me01/titlescreen_item_gamemode",
+					"buttonName": "#S19ME01_LANDING_PAGE_BUTTON_GAMEMODE_NAME",
+					"buttonImageRestricted": "",
+					"buttonNameRestricted": "",
+					"customDeeplinkType": "",
+					"customDeeplink": "",
+					"pageRedirect": 0
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

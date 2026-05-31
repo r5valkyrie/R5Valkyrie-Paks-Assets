@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/wattson/lgnd_v22_opmech.rpak",
+		"roots": [
+				{
+					"asset": "mdl/Humans/class/light/wattson_v22_opmech_w.rmdl",
+					"featureFlag": ""
+				},
+				{
+					"asset": "mdl/Weapons/arms/wattson_v22_opmech_v.rmdl",
+					"featureFlag": ""
+				}
+			]
+	}
+}

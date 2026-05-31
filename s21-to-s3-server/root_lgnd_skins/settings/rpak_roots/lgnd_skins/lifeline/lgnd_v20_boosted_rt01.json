@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/lifeline/lgnd_v20_boosted_rt01.rpak",
+		"roots": [
+				{
+					"asset": "mdl/humans/class/light/lifeline_v20_heist_w.rmdl",
+					"featureFlag": ""
+				},
+				{
+					"asset": "mdl/Weapons/arms/lifeline_v20_heist_v.rmdl",
+					"featureFlag": ""
+				}
+			]
+	}
+}

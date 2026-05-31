@@ -1,0 +1,72 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_calevent_story_challenges_layout.rpak",
+	"uniqueId": 1721070927,
+	"settings": {
+		"assetName": "settings/itemflav/calevent/s21alter/s21_alter_challenges.rpak",
+		"itemType": "calevent_story_challenges",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01721070927",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#S21ALTER_CHALLENGES_CATEGORY_TITLE_SHORT",
+		"localizationKey_NAME_SHORT": "#S21ALTER_CHALLENGES_CATEGORY_TITLE_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"revealUnixTime": "",
+		"hideUnixTime": "",
+		"defaultStartTime": "2024-05-07 10:00:00 -07:00",
+		"defaultFinishTime": "2024-05-21 10:00:00 -07:00",
+		"headerIcon": "",
+		"eventChallengeHeaderImage": "",
+		"storyEventAboutHeroImage": "",
+		"storyCompletionFlavor": "",
+		"storyCompletionQuantity": 1,
+		"challengeGroups": [
+				{
+					"aboutScreenshotImage": "",
+					"aboutTitle": "",
+					"aboutDesc": "",
+					"hasSeenAboutChallengesPersistentVarName": "",
+					"requiredChallengesPersistentVarName": "",
+					"hasSeenChallengesPersistentVarName": "",
+					"requiredStartTime": "2024-05-07 10:00:00 -07:00",
+					"prologueLobbyDesc": "",
+					"prologuePersistentVarName": "",
+					"radioVignetteBk": "",
+					"radioVignetteMilesEvent": "",
+					"playlistName": "",
+					"requiredChallengesPersistentVarNameCount": 1,
+					"challenges": [
+							{
+								"challengeFlav": "settings/itemflav/challenge/alter/damage_done.rpak"
+							},
+							{
+								"challengeFlav": "settings/itemflav/challenge/alter/deathbox_items_seized.rpak"
+							},
+							{
+								"challengeFlav": "settings/itemflav/challenge/alter/surfaces_breached.rpak"
+							},
+							{
+								"challengeFlav": "settings/itemflav/challenge/alter/allies_regrouped.rpak"
+							},
+							{
+								"challengeFlav": "settings/itemflav/challenge/alter/breach_killer.rpak"
+							},
+							{
+								"challengeFlav": "settings/itemflav/challenge/alter/complete_alter_challenges.rpak"
+							}
+						],
+					"isPrologue": false
+				}
+			],
+		"dialogueMessages": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showInChallengeBox": false
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"extraDataSizeIndex": 0,
+	"subLayouts": [
+		"settings_layout/settings_itemtype_challenge_layout/tiers/characters.csv",
+		"settings_layout/settings_itemtype_challenge_layout/tiers/rewards.csv"
+	]
+}

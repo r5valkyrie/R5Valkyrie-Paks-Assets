@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/octane/lgnd_v23_raga.rpak",
+		"roots": [
+				{
+					"asset": "mdl/Humans/class/medium/octane_v23_raga_w.rmdl",
+					"featureFlag": "HAS_19_0_RELEASE"
+				},
+				{
+					"asset": "mdl/weapons/arms/octane_v23_raga_v.rmdl",
+					"featureFlag": "HAS_19_0_RELEASE"
+				}
+			]
+	}
+}

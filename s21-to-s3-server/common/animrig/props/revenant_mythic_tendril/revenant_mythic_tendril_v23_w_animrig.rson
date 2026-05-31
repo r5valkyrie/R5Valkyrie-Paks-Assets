@@ -1,0 +1,11 @@
+seqs:
+[
+	animseq\props\revenant_tendrils\prop_revenant_prestige_execution_tendril_five.rseq
+	animseq\props\revenant_tendrils\prop_revenant_prestige_execution_tendril_four.rseq
+	animseq\props\revenant_tendrils\prop_revenant_prestige_execution_tendril_one.rseq
+	animseq\props\revenant_tendrils\prop_revenant_prestige_execution_tendril_one_loot.rseq
+	animseq\props\revenant_tendrils\prop_revenant_prestige_execution_tendril_three.rseq
+	animseq\props\revenant_tendrils\prop_revenant_prestige_execution_tendril_three_loot.rseq
+	animseq\props\revenant_tendrils\prop_revenant_prestige_execution_tendril_two.rseq
+	animseq\props\revenant_tendrils\prop_revenant_prestige_execution_tendril_two_loot.rseq
+]

@@ -1,0 +1,198 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_artifact_component_blade_layout.rpak",
+	"uniqueId": 741848346,
+	"settings": {
+		"assetName": "settings/itemflav/artifact_components/steampunk/steampunk_blade.rpak",
+		"itemType": "artifact_component_blade",
+		"parentItemFlavor": "settings/itemflav/loot/melee_weapon/artifact_dagger.rpak",
+		"settingsAssetID": "SAID00741848346",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#steampunk_blade_NAME",
+		"localizationKey_NAME_SHORT": "#steampunk_blade_NAME",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "#MELEE_SKIN_ARTIFACT_DAGGER_NAME",
+		"quality": "MYTHIC",
+		"icon": "rui/menu/buttons/battlepass/melee_skin_bangalore",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "artifact_dagger_steampunk_blade",
+		"ownershipTarget": "",
+		"artifactComponentType": "BLADE",
+		"themeName": "STEAM",
+		"componentIcon": "rui/menu/melee_customization/blades/blade_steam",
+		"multipleOwnershipTargets": [
+			],
+		"artifactMainColor": "<0.839000,0.824000,0.455000>",
+		"artifactSecondaryColor": "<0.467000,0.318000,0.239000>",
+		"fxControlPoints": [
+				{
+					"controlPointName": "",
+					"controlPoint": "<7.800000,0.000000,2.300000>",
+					"controlPointNumber": 1
+				},
+				{
+					"controlPointName": "",
+					"controlPoint": "<9.500000,0.000000,2.300000>",
+					"controlPointNumber": 2
+				},
+				{
+					"controlPointName": "",
+					"controlPoint": "<10.500000,0.000000,1.800000>",
+					"controlPointNumber": 3
+				},
+				{
+					"controlPointName": "",
+					"controlPoint": "<12.500000,0.000000,1.800000>",
+					"controlPointNumber": 4
+				},
+				{
+					"controlPointName": "",
+					"controlPoint": "<15.000000,0.000000,1.600000>",
+					"controlPointNumber": 5
+				},
+				{
+					"controlPointName": "",
+					"controlPoint": "<17.000000,0.000000,1.500000>",
+					"controlPointNumber": 6
+				},
+				{
+					"controlPointName": "",
+					"controlPoint": "<18.500000,0.000000,1.000000>",
+					"controlPointNumber": 7
+				},
+				{
+					"controlPointName": "",
+					"controlPoint": "<20.200001,0.000000,0.120000>",
+					"controlPointNumber": 8
+				},
+				{
+					"controlPointName": "",
+					"controlPoint": "<7.800000,0.000000,-2.300000>",
+					"controlPointNumber": 9
+				},
+				{
+					"controlPointName": "",
+					"controlPoint": "<9.500000,0.000000,-2.300000>",
+					"controlPointNumber": 10
+				},
+				{
+					"controlPointName": "",
+					"controlPoint": "<10.500000,0.000000,-1.800000>",
+					"controlPointNumber": 11
+				},
+				{
+					"controlPointName": "",
+					"controlPoint": "<12.500000,0.000000,-1.800000>",
+					"controlPointNumber": 12
+				},
+				{
+					"controlPointName": "",
+					"controlPoint": "<15.000000,0.000000,-1.600000>",
+					"controlPointNumber": 13
+				},
+				{
+					"controlPointName": "",
+					"controlPoint": "<17.000000,0.000000,-1.500000>",
+					"controlPointNumber": 14
+				},
+				{
+					"controlPointName": "",
+					"controlPoint": "<18.500000,0.000000,-1.000000>",
+					"controlPointNumber": 15
+				},
+				{
+					"controlPointName": "",
+					"controlPoint": "<20.100000,0.000000,-0.120000>",
+					"controlPointNumber": 16
+				}
+			],
+		"lobbyFxControlPoints": [
+				{
+					"controlPointName": "",
+					"controlPoint": "<7.800000,0.000000,2.300000>",
+					"controlPointNumber": 1
+				},
+				{
+					"controlPointName": "",
+					"controlPoint": "<9.500000,0.000000,2.300000>",
+					"controlPointNumber": 2
+				},
+				{
+					"controlPointName": "",
+					"controlPoint": "<10.500000,0.000000,1.800000>",
+					"controlPointNumber": 3
+				},
+				{
+					"controlPointName": "",
+					"controlPoint": "<12.500000,0.000000,1.800000>",
+					"controlPointNumber": 4
+				},
+				{
+					"controlPointName": "",
+					"controlPoint": "<15.000000,0.000000,1.600000>",
+					"controlPointNumber": 5
+				},
+				{
+					"controlPointName": "",
+					"controlPoint": "<17.000000,0.000000,1.500000>",
+					"controlPointNumber": 6
+				},
+				{
+					"controlPointName": "",
+					"controlPoint": "<18.500000,0.000000,1.000000>",
+					"controlPointNumber": 7
+				},
+				{
+					"controlPointName": "",
+					"controlPoint": "<20.100000,0.000000,0.120000>",
+					"controlPointNumber": 8
+				},
+				{
+					"controlPointName": "",
+					"controlPoint": "<7.800000,0.000000,-2.500000>",
+					"controlPointNumber": 9
+				},
+				{
+					"controlPointName": "",
+					"controlPoint": "<9.500000,0.000000,-2.500000>",
+					"controlPointNumber": 10
+				},
+				{
+					"controlPointName": "",
+					"controlPoint": "<10.500000,0.000000,-2.000000>",
+					"controlPointNumber": 11
+				},
+				{
+					"controlPointName": "",
+					"controlPoint": "<12.500000,0.000000,-2.000000>",
+					"controlPointNumber": 12
+				},
+				{
+					"controlPointName": "",
+					"controlPoint": "<15.000000,0.000000,-1.800000>",
+					"controlPointNumber": 13
+				},
+				{
+					"controlPointName": "",
+					"controlPoint": "<17.000000,0.000000,-1.700000>",
+					"controlPointNumber": 14
+				},
+				{
+					"controlPointName": "",
+					"controlPoint": "<18.500000,0.000000,-1.200000>",
+					"controlPointNumber": 15
+				},
+				{
+					"controlPointName": "",
+					"controlPoint": "<20.100000,0.000000,-0.320000>",
+					"controlPointNumber": 16
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isEmpty": false,
+		"shouldHideIfLocked": false
+	}
+}

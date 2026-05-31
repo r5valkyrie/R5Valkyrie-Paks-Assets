@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/pathfinder/s09e02_lgnd_v21_arenas.rpak",
+		"roots": [
+				{
+					"asset": "mdl/Humans/class/heavy/pathfinder_v21_arenas_w.rmdl",
+					"featureFlag": ""
+				},
+				{
+					"asset": "mdl/Weapons/arms/pathfinder_v21_arenas_v.rmdl",
+					"featureFlag": ""
+				}
+			]
+	}
+}

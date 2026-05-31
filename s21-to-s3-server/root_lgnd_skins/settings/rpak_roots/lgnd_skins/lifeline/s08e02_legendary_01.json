@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/lifeline/s08e02_legendary_01.rpak",
+		"roots": [
+				{
+					"asset": "mdl/Humans/class/light/pilot_light_lifeline_season2_legendary_01.rmdl",
+					"featureFlag": ""
+				},
+				{
+					"asset": "mdl/Weapons/arms/pov_pilot_light_support_season2_legendary_01.rmdl",
+					"featureFlag": ""
+				}
+			]
+	}
+}

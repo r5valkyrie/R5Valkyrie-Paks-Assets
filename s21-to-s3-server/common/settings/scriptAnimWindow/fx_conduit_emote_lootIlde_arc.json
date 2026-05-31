@@ -1,0 +1,12 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_PlayFX_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/fx_conduit_emote_lootIlde_arc.rpak",
+		"devDescription": "",
+		"type": "PlayFX",
+		"particleSystemName": "P_con_emote_lootidle_arc",
+		"attachPoint": "L_Hand",
+		"followAttach": true,
+		"playEndCap": false
+	}
+}

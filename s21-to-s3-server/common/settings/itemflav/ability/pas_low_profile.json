@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 1417963865,
+	"settings": {
+		"assetName": "settings/itemflav/ability/pas_low_profile.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01417963865",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#PAS_LOW_PROFILE",
+		"localizationKey_NAME_SHORT": "#PAS_LOW_PROFILE",
+		"localizationKey_DESCRIPTION_LONG": "#PAS_LOW_PROFILE_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#PAS_LOW_PROFILE_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/passive_icons/low_profile",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_LOW_PROFILE",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

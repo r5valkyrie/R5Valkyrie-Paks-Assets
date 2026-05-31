@@ -1,0 +1,40 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_character_emote_layout.rpak",
+	"uniqueId": 1745340477,
+	"settings": {
+		"assetName": "settings/itemflav/character_emote/lifeline/epic_v23_evilvoidwalker.rpak",
+		"itemType": "character_emote",
+		"parentItemFlavor": "settings/itemflav/character/lifeline.rpak",
+		"settingsAssetID": "SAID01745340477",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#ground_emote_lifeline_evilvoidwalker",
+		"localizationKey_NAME_SHORT": "#ground_emote_lifeline_evilvoidwalker",
+		"localizationKey_DESCRIPTION_LONG": "#ground_emote_lifeline_evilvoidwalker",
+		"localizationKey_DESCRIPTION_SHORT": "#ground_emote_lifeline_evilvoidwalker",
+		"quality": "EPIC",
+		"icon": "rui/hud/character_emotes/lifeline/icon_character_emote_lifeline_evilvoidwalker",
+		"tagIcon": "rui/events/s21bp/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "character_emote_lifeline_epic_v23_evilvoidwalker",
+		"ownershipTarget": "",
+		"anim3p": "lifeline_ground_emote_evilvoidwalker",
+		"holoProjectorSprayModel": "",
+		"quickchatAliasSubName": "",
+		"anim3pLoop": "",
+		"multipleOwnershipTargets": [
+			],
+		"holoProjectorEffectColor1": "<1.000000,1.000000,1.000000>",
+		"holoProjectorEffectColor2": "<1.000000,1.000000,1.000000>",
+		"overrideAnims": [
+			],
+		"flourishSequences": [
+			],
+		"cameraHeightOffset": 0.000000,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"useHoloProjector": false,
+		"holoProjectorUseEffectColor2": false
+	}
+}

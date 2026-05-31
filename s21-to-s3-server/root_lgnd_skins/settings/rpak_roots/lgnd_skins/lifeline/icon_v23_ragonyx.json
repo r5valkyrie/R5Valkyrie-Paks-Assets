@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/lifeline/icon_v23_ragonyx.rpak",
+		"roots": [
+				{
+					"asset": "mdl/techart/mshop/characters/legends/lifeline/lifeline_v23_ragonyx_w.rmdl",
+					"featureFlag": ""
+				},
+				{
+					"asset": "mdl/techart/mshop/characters/legends/lifeline/lifeline_v23_ragonyx_v.rmdl",
+					"featureFlag": ""
+				}
+			]
+	}
+}

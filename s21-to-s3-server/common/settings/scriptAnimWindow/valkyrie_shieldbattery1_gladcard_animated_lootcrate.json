@@ -1,0 +1,20 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_CreateProp_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/valkyrie_shieldbattery1_gladcard_animated_lootcrate.rpak",
+		"devDescription": "",
+		"type": "CreateProp",
+		"selectModelFrom": "HARD_CODED",
+		"modelName": "mdl/props/shield_battery/shield_battery.rmdl",
+		"modelScriptKey": "lifeline_drone",
+		"attachPoint": "REF",
+		"animSequence": "animseq/props/shield_battery/shield_battery/valkyrie_shieldbattery1_gladcard_animated_lootcrate.rseq",
+		"scriptCallbackKey": "",
+		"scale": 1.000000,
+		"additionalAnims": [
+			],
+		"propBodygroups": [
+			],
+		"syncCycle": true
+	}
+}

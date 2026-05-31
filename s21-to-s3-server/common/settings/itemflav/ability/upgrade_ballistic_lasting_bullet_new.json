@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 633387806,
+	"settings": {
+		"assetName": "settings/itemflav/ability/upgrade_ballistic_lasting_bullet_new.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00633387806",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#UPGRADE_BALLISTIC_TAC_LASTING_BULLET_NAME",
+		"localizationKey_NAME_SHORT": "#UPGRADE_TYPE_TACTICAL",
+		"localizationKey_DESCRIPTION_LONG": "#UPGRADE_BALLISTIC_TAC_LASTING_BULLET_LONG_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#UPGRADE_BALLISTIC_TAC_LASTING_BULLET_SHORT_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/legend_upgrades/ballistic_lastingbullet_icon",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_TAC_UPGRADE_ONE",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

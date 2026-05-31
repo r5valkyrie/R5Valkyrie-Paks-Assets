@@ -1,0 +1,8 @@
+{
+	"extraDataSizeIndex": 1,
+	"subLayouts": [
+		"settings_layout/settings_itemtype_calevent_themedshop_layout/challenges.csv",
+		"settings_layout/settings_itemtype_calevent_themedshop_layout/aboutTextStandard.csv",
+		"settings_layout/settings_itemtype_calevent_themedshop_layout/aboutTextRestricted.csv"
+	]
+}

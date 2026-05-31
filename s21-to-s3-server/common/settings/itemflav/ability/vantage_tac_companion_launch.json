@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 164177036,
+	"settings": {
+		"assetName": "settings/itemflav/ability/vantage_tac_companion_launch.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00164177036",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#ABL_TAC_VANTAGE",
+		"localizationKey_NAME_SHORT": "#ABL_TAC_VANTAGE",
+		"localizationKey_DESCRIPTION_LONG": "#ABL_TAC_VANTAGE_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#ABL_TAC_VANTAGE_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/tactical_icons/tactical_vantage",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "mp_ability_companion_launch_entry",
+		"passiveScriptRef": "",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

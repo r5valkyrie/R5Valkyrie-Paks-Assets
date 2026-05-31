@@ -1,0 +1,31 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_skydive_emote_layout.rpak",
+	"uniqueId": 352248372,
+	"settings": {
+		"assetName": "settings/itemflav/skydive_emote/seer/epic_v23_resdopa_backflip.rpak",
+		"itemType": "skydive_emote",
+		"parentItemFlavor": "settings/itemflav/character/seer.rpak",
+		"settingsAssetID": "SAID00352248372",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#skydive_emote_seer_backflip",
+		"localizationKey_NAME_SHORT": "#skydive_emote_seer_backflip",
+		"localizationKey_DESCRIPTION_LONG": "#skydive_emote_seer_backflip",
+		"localizationKey_DESCRIPTION_SHORT": "#skydive_emote_seer_backflip",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/battlepass/skydive_emote_backflip",
+		"tagIcon": "rui/events/s18bp/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "skydive_emote_seer_epic_v23_resdopa_backflip",
+		"ownershipTarget": "",
+		"animSequence": "animseq/humans/class/medium/pilot_medium_seer/seer_freefall_emote_backflip.rseq",
+		"video": "media/skydive_emotes/seer_backflip",
+		"bcEvent": "bc_skydive",
+		"multipleOwnershipTargets": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false
+	}
+}

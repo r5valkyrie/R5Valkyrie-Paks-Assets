@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 815755220,
+	"settings": {
+		"assetName": "settings/itemflav/ability/bangalore_tac_grenade_bangalore.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00815755220",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#WPN_GRENADE_BANGALORE",
+		"localizationKey_NAME_SHORT": "#WPN_GRENADE_BANGALORE",
+		"localizationKey_DESCRIPTION_LONG": "#WPN_GRENADE_BANGALORE_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#WPN_GRENADE_BANGALORE_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/tactical_icons/tactical_bangalore",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "mp_weapon_grenade_bangalore",
+		"passiveScriptRef": "",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

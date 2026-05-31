@@ -1,0 +1,67 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_sticker_layout.rpak",
+	"uniqueId": 2092253511,
+	"settings": {
+		"assetName": "settings/itemflav/stickers/sticker_lgnd_v23_outnoir_02.rpak",
+		"itemType": "sticker",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID02092253511",
+		"__featureFlag": "HAS_20_1_RELEASE",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#STICKER_lgnd_v23_outnoir_02_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "LEGENDARY",
+		"icon": "rui/menu/stickers/legendary/v23/outnoir_02/sticker_lgnd_v23_outnoir_02",
+		"tagIcon": "rui/events/s20me01/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "sticker_lgnd_v23_outnoir_02",
+		"ownershipTarget": "",
+		"stickerMaterial": "material/stickers/legendary/v23/outnoir_02/sticker_lgnd_v23_outnoir_02",
+		"nonDecalStickerMaterial": "material/stickers/ui/legendary/v23/outnoir_02/sticker_lgnd_v23_outnoir_02",
+		"customSkinMenuBlurb": "",
+		"multipleOwnershipTargets": [
+			],
+		"injectorScales": [
+			],
+		"injectorScale": 0.004357,
+		"shieldCellScales": [
+				{
+					"slot": 2,
+					"scale": 0.007018
+				},
+				{
+					"slot": 3,
+					"scale": 0.007018
+				}
+			],
+		"shieldCellScale": 0.009357,
+		"shieldBatteryScales": [
+				{
+					"slot": 2,
+					"scale": 0.007018
+				},
+				{
+					"slot": 3,
+					"scale": 0.007018
+				}
+			],
+		"shieldBatteryScale": 0.009357,
+		"phoenixKitScales": [
+				{
+					"slot": 2,
+					"scale": 0.007018
+				},
+				{
+					"slot": 3,
+					"scale": 0.007018
+				}
+			],
+		"phoenixKitScale": 0.009357,
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false
+	}
+}

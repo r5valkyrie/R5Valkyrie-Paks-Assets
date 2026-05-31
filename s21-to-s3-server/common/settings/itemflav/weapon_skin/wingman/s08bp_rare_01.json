@@ -1,0 +1,51 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_weapon_skin_layout.rpak",
+	"uniqueId": 332301778,
+	"settings": {
+		"assetName": "settings/itemflav/weapon_skin/wingman/s08bp_rare_01.rpak",
+		"itemType": "weapon_skin",
+		"parentItemFlavor": "settings/itemflav/loot/main_weapon/wingman.rpak",
+		"settingsAssetID": "SAID00332301778",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#SKIN_866",
+		"localizationKey_NAME_SHORT": "#SKIN_866",
+		"localizationKey_DESCRIPTION_LONG": "#SKIN_866",
+		"localizationKey_DESCRIPTION_SHORT": "#SKIN_866",
+		"quality": "RARE",
+		"icon": "rui/menu/battlepass/weapon_icons/icon_bps1_weapon_wingman",
+		"tagIcon": "rui/events/s08bp/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "weapon_skin_wingman_s08bp_rare_01",
+		"ownershipTarget": "",
+		"worldModel": "mdl/weapons/b3wing/w_b3wing.rmdl",
+		"viewModel": "mdl/weapons/b3wing/ptpov_b3wing.rmdl",
+		"skinName": "common/rare mask",
+		"exclusiveFunc": "",
+		"unlockFuncKey": "",
+		"video": "",
+		"customSkinMenuBlurb": "",
+		"multipleOwnershipTargets": [
+			],
+		"camoIndex": 331,
+		"hackyRUISchemeIdentifier": 0,
+		"featureReactsToKillsLevels": [
+			],
+		"skinAlias_vfxAliases": [
+			],
+		"skinAlias_sfxAliases": [
+			],
+		"skinAlias_bodyGroupAliases": [
+			],
+		"skinAlias_impactTableAliases": [
+			],
+		"isNetworked": true,
+		"isTheFavoriteSentinel": false,
+		"exclusive": false,
+		"shouldHideIfLocked": false,
+		"forceFullWeaponIcon": false,
+		"featureReactsToKills": false,
+		"forceVideoInspect": false
+	}
+}

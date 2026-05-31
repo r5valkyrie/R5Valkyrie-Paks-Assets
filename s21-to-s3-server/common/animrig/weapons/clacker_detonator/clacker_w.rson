@@ -1,0 +1,5 @@
+seqs:
+[
+	animseq\weapons\clacker_detonator\clacker_lifeline_activate_clackerULT.rseq
+	animseq\weapons\clacker_detonator\clacker_lifeline_idle_clackerULT.rseq
+]

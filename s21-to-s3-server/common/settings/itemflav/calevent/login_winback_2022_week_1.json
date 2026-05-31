@@ -1,0 +1,43 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_calevent_login_layout.rpak",
+	"uniqueId": 1502694169,
+	"settings": {
+		"assetName": "settings/itemflav/calevent/login_winback_2022_week_1.rpak",
+		"itemType": "calevent_login",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01502694169",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#WINBACK_2022_TITLE",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "#WINBACK_2022_WEEK_1",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"revealUnixTime": "",
+		"hideUnixTime": "",
+		"defaultStartTime": "2022-02-08 10:00:00 -08:00",
+		"defaultFinishTime": "2022-02-15 10:00:00 -08:00",
+		"ceremonyImage": "",
+		"ceremonyTitle": "#WINBACK_2022_TITLE",
+		"ceremonyDesc": "#WINBACK_2022_WEEK_1",
+		"loginRewards": [
+				{
+					"flavor": "settings/itemflav/pack/thematic_octane.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/pack/thematic_octane.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/pack/thematic_octane.rpak"
+				},
+				{
+					"flavor": "settings/itemflav/character/octane.rpak"
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

@@ -1,0 +1,55 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_melee_skin_layout.rpak",
+	"uniqueId": 1517007105,
+	"settings": {
+		"assetName": "settings/itemflav/melee_skin/revenant_scythe_rt01.rpak",
+		"itemType": "melee_skin",
+		"parentItemFlavor": "settings/itemflav/loot/melee_weapon/revenant_scythe_rt01.rpak",
+		"settingsAssetID": "SAID01517007105",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#MELEE_SKIN_REVENANT_SCYTHE_RT01_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "#MELEE_SKIN_REVENANT_SCYTHE_RT01_NAME",
+		"quality": "MYTHIC",
+		"icon": "rui/menu/buttons/battlepass/melee_skin_revenant",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "melee_skin_revenant_scythe_rt01",
+		"ownershipTarget": "",
+		"worldModel": "mdl/weapons/revenant_heirloom/revenant_heirloom_v21_base_w.rmdl",
+		"viewModel": "mdl/weapons/revenant_heirloom/revenant_heirloom_v21_base_v.rmdl",
+		"skinName": "scythe_rt01",
+		"menuAnimSeq": "animseq/weapons/revenant_heirloom/ptpov_revenant_heirloom/menu_rt01.rseq",
+		"koSound": "",
+		"storeImage": "rui/menu/heirloom_crafting/heirloom_page_item_revenant_02",
+		"equipImage": "rui/menu/buttons/melee_skins/revenant_scythe_rt01",
+		"multipleOwnershipTargets": [
+			],
+		"artifactConfigIndex": 0,
+		"camoIndex": 0,
+		"menuMdlRot": "<0.000000,0.000000,0.000000>",
+		"battlePassScale": 0.900000,
+		"lootCeremonyScale": 0.710000,
+		"itemInspectScale": 0.300000,
+		"itemInspectOffset": "<0.000000,0.000000,-75.000000>",
+		"skinAlias_vfxAliases": [
+				{
+					"flavor": "settings/itemflav/vfx_alias/revenant_scythe_rt01.rpak",
+					"featureFlag": ""
+				}
+			],
+		"skinAlias_sfxAliases": [
+			],
+		"skinAlias_bodyGroupAliases": [
+			],
+		"skinAlias_impactTableAliases": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isArtifactConfigPointer": false,
+		"shouldHideIfLocked": false
+	}
+}

@@ -1,0 +1,18 @@
+rigs:
+[
+]
+seqs:
+[
+	animseq\creatures\spider\ai_spider_core\ai_spider_core\spdr_fuse_gladcard_animated_tropics_03.rseq
+	animseq\creatures\spider\ai_spider_core\ai_spider_core\spdr_fuse_gladcard_animated_tropics_04.rseq
+	animseq\creatures\spider\ai_spider_core\ai_spider_core\spdr_lifeline_gladcard_animated_tropics_01.rseq
+	animseq\creatures\spider\ai_spider_core\ai_spider_core\spdr_lifeline_gladcard_animated_tropics_01_idle.rseq
+	animseq\creatures\spider\ai_spider_core\ai_spider_core\spdr_lifeline_gladcard_animated_tropics_02.rseq
+	animseq\creatures\spider\ai_spider_core\ai_spider_core\spdr_lifeline_gladcard_animated_tropics_02_idle.rseq
+	animseq\props\spider\spider_gladcard\spdr_ash_gladcard_animated_tropics_06.rseq
+	animseq\props\spider\spider_gladcard\spdr_ash_gladcard_animated_tropics_06_idle.rseq
+	animseq\props\spider\spider_gladcard\spdr_fuse_gladcard_animated_tropics_03_idle.rseq
+	animseq\props\spider\spider_gladcard\spdr_fuse_gladcard_animated_tropics_04_idle.rseq
+	animseq\props\spider\spider_gladcard\spdr_nova_gladcard_animated_tropics_05.rseq
+	animseq\props\spider\spider_gladcard\spdr_nova_gladcard_animated_tropics_05_idle.rseq
+]

@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 2057969131,
+	"settings": {
+		"assetName": "settings/itemflav/ability/upgrade_conduit_deathbox_battery_count.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID02057969131",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#UPGRADE_CONDUIT_PASSIVE_BATTERY_COUNT_NAME",
+		"localizationKey_NAME_SHORT": "#UPGRADE_TYPE_PASSIVE",
+		"localizationKey_DESCRIPTION_LONG": "#UPGRADE_CONDUIT_PASSIVE_BATTERY_COUNT_LONG_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#UPGRADE_CONDUIT_PASSIVE_BATTERY_COUNT_SHORT_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/legend_upgrades/common_shieldinclined_icon",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "",
+		"passiveScriptRef": "PAS_DEATHBOX_BATTERY_COUNT",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

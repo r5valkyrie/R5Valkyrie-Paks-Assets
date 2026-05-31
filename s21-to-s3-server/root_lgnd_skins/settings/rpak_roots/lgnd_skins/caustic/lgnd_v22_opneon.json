@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/caustic/lgnd_v22_opneon.rpak",
+		"roots": [
+				{
+					"asset": "mdl/humans/class/heavy/caustic_v22_opneon_w.rmdl",
+					"featureFlag": ""
+				},
+				{
+					"asset": "mdl/Weapons/arms/caustic_v22_opneon_v.rmdl",
+					"featureFlag": ""
+				}
+			]
+	}
+}

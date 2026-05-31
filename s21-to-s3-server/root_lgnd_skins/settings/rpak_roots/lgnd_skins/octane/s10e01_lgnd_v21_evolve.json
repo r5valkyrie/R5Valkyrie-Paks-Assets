@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/octane/s10e01_lgnd_v21_evolve.rpak",
+		"roots": [
+				{
+					"asset": "mdl/content/r2/models/Humans/class/medium/octane/dmx/octane_lgnd_v21_evolve_w.rmdl",
+					"featureFlag": ""
+				},
+				{
+					"asset": "mdl/content/r2/models/Humans/class/medium/octane/dmx/octane_lgnd_v21_evolve_v.rmdl",
+					"featureFlag": ""
+				}
+			]
+	}
+}

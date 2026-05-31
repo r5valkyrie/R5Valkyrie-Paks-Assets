@@ -1,0 +1,51 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_melee_skin_layout.rpak",
+	"uniqueId": 260534220,
+	"settings": {
+		"assetName": "settings/itemflav/melee_skin/valkyrie_spear.rpak",
+		"itemType": "melee_skin",
+		"parentItemFlavor": "settings/itemflav/loot/melee_weapon/valkyrie_spear.rpak",
+		"settingsAssetID": "SAID00260534220",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#MELEE_SKIN_VALKYRIE_SPEAR_NAME",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "#MELEE_SKIN_VALKYRIE_SPEAR_NAME",
+		"quality": "MYTHIC",
+		"icon": "rui/menu/buttons/battlepass/melee_skin_valkyrie",
+		"tagIcon": "",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "melee_skin_valkyrie_spear",
+		"ownershipTarget": "",
+		"worldModel": "mdl/weapons/valkyrie_heirloom/valkyrie_heirloom_base_w.rmdl",
+		"viewModel": "mdl/weapons/valkyrie_heirloom/valkyrie_heirloom_v22_base_v.rmdl",
+		"skinName": "spear",
+		"menuAnimSeq": "animseq/weapons/valkyrie_heirloom/ptpov_valkyrie_heirloom/menu.rseq",
+		"koSound": "",
+		"storeImage": "rui/menu/heirloom_crafting/heirloom_page_item_valkyrie",
+		"equipImage": "rui/menu/buttons/melee_skins/valkyrie_spear",
+		"multipleOwnershipTargets": [
+			],
+		"artifactConfigIndex": 0,
+		"camoIndex": 0,
+		"menuMdlRot": "<0.000000,0.000000,0.000000>",
+		"battlePassScale": 0.640000,
+		"lootCeremonyScale": 0.800000,
+		"itemInspectScale": 0.450000,
+		"itemInspectOffset": "<-30.000000,0.000000,-140.000000>",
+		"skinAlias_vfxAliases": [
+			],
+		"skinAlias_sfxAliases": [
+			],
+		"skinAlias_bodyGroupAliases": [
+			],
+		"skinAlias_impactTableAliases": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isArtifactConfigPointer": false,
+		"shouldHideIfLocked": false
+	}
+}

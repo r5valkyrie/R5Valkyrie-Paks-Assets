@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 456984344,
+	"settings": {
+		"assetName": "settings/itemflav/ability/space_elevator_tac.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00456984344",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#WPN_SPACE_ELEVATOR",
+		"localizationKey_NAME_SHORT": "#WPN_SPACE_ELEVATOR_SHORT",
+		"localizationKey_DESCRIPTION_LONG": "#WPN_SPACE_ELEVATOR_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#WPN_SPACE_ELEVATOR_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/tactical_icons/tactical_nova",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "mp_ability_space_elevator_tac",
+		"passiveScriptRef": "",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

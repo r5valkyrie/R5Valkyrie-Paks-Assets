@@ -1,0 +1,77 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_challenge_layout.rpak",
+	"uniqueId": 1199033309,
+	"settings": {
+		"assetName": "settings/itemflav/challenge/s15/weekly_s15challenge_w03_05.rpak",
+		"itemType": "challenge",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01199033309",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"typeOfMetaChallenge": "CHALLENGE_SET",
+		"challengeSet": "",
+		"challengeCollection": "",
+		"rewardCampaign": "",
+		"timeSpan": "SEASON_WEEKLY",
+		"autogenSlot": "SLOT_00",
+		"autogenScriptHook": "ON_PLAYER_WIN",
+		"difficulty": "MEDIUM",
+		"mode": "BATTLE_ROYALE",
+		"modeAlt": "EXCEPT_BR",
+		"grxRewardSequenceRef": "",
+		"weekNumber": 3,
+		"tiers": [
+				{
+					"description": "#CHALLENGE_KNOCKDOWNS_ANY3_CHARACTERS",
+					"statRef": "stats.characters[%char%].dooms",
+					"descriptionAlt": "",
+					"statRefAlt": "stats.characters[%char%].dooms_all_modes_non_br",
+					"progressAccrual": "startAtZero",
+					"matchRequirement": "none",
+					"goalVal": 20,
+					"goalValAlt": 40,
+					"characters": [
+							{
+								"flavor": "settings/itemflav/character/wraith.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/character/wattson.rpak"
+							},
+							{
+								"flavor": "settings/itemflav/character/mirage.rpak"
+							}
+						],
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/voucher/challenge_reward_stars_5.rpak",
+								"quantity": 1
+							}
+						],
+					"convertSecondsToMinutesDisplay": false
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isMetaChallenge": false,
+		"autoGenerateStatBacker": false,
+		"isBoostEnabled": false,
+		"isEitherOr": true,
+		"isRerollEnabled": true,
+		"isPremium": false,
+		"isGoldenScheme": false,
+		"maxOneTierPerMatch": false,
+		"lastTierIsInfinite": false,
+		"pinnedLocal": false,
+		"excludeFromPostMatchSummary": false,
+		"hasGRXRewardSequenceForPDEF": false,
+		"grxRewardSequenceAllowsSkipAhead": false
+	}
+}

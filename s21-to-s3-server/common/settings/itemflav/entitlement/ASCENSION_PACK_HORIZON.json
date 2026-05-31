@@ -1,0 +1,44 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_entitlement_layout.rpak",
+	"uniqueId": 1362370612,
+	"settings": {
+		"assetName": "settings/itemflav/entitlement/ASCENSION_PACK_HORIZON.rpak",
+		"itemType": "entitlement",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01362370612",
+		"__featureFlag": "",
+		"devDescription": "Horizon starter pack",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"entitlementType": "firstparty",
+		"twitchRef": "",
+		"twitchRef": "",
+		"enum": "ASCENSION_PACK_HORIZON",
+		"pc": "APEX_ASCENSION_CONTENT",
+		"ps4": "ASCPAC0000000000",
+		"xb1": "ASCENSION_PACK_HORIZON",
+		"switch": "ASCENSION_PACK_HORIZON",
+		"pc_offer": "Origin.OFR.50.0004385",
+		"steam_offer": "",
+		"xb1_offer": "575a4d39-3432-3034-c037-5a4e424c3e00",
+		"menuTitleText": "#PROMO_HORIZON_STARTER_PACK_HEADER",
+		"menuDescText": "#PROMO_HORIZON_STARTER_PACK_TEXT",
+		"menuImageName": "s07_starter_horizon",
+		"menuPersistenceVarName": "",
+		"list": [
+				{
+					"flavor": "settings/itemflav/character_skin/horizon/starterpack_rare_01.rpak",
+					"quantity": 1
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isMenuEnabled": false
+	}
+}

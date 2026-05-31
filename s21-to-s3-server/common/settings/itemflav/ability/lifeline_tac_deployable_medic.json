@@ -1,0 +1,26 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_ability_layout.rpak",
+	"uniqueId": 1626771234,
+	"settings": {
+		"assetName": "settings/itemflav/ability/lifeline_tac_deployable_medic.rpak",
+		"itemType": "ability",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID01626771234",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#WPN_DEPLOYABLE_MEDIC",
+		"localizationKey_NAME_SHORT": "#WPN_DEPLOYABLE_MEDIC",
+		"localizationKey_DESCRIPTION_LONG": "#WPN_DEPLOYABLE_MEDIC_LONGDESC",
+		"localizationKey_DESCRIPTION_SHORT": "#WPN_DEPLOYABLE_MEDIC_DESC",
+		"quality": "NONE",
+		"icon": "rui/hud/tactical_icons/tactical_lifeline",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"weaponClassname": "mp_weapon_deployable_medic",
+		"passiveScriptRef": "",
+		"passiveWeaponMod": "",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"showDetails": true
+	}
+}

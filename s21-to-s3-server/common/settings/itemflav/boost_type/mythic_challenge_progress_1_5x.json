@@ -1,0 +1,45 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_boost_type_layout.rpak",
+	"uniqueId": 586345104,
+	"settings": {
+		"assetName": "settings/itemflav/boost_type/mythic_challenge_progress_1_5x.rpak",
+		"itemType": "boost_type",
+		"parentItemFlavor": "",
+		"settingsAssetID": "SAID00586345104",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#PROGRESSION_MODIFIERS_MASTERY_PRESTIGE_TITLE",
+		"localizationKey_NAME_SHORT": "#PROGRESSION_MODIFIERS_MASTERY_PRESTIGE_TITLE",
+		"localizationKey_DESCRIPTION_LONG": "#PROGRESSION_MODIFIERS_MASTERY_PRESTIGE_DESC",
+		"localizationKey_DESCRIPTION_SHORT": "#PROGRESSION_MODIFIERS_MASTERY_PRESTIGE_DESC",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"typeId": "mythic_challenge_progress_1_5x",
+		"condition_party": "FALSE",
+		"boostReqDescription": "#PROGRESSION_MODIFIERS_MASTERY_PRESTIGE_REQ",
+		"uiModifierSummary": "#PROGRESSION_MODIFIERS_PERCENTAGE_ADD",
+		"uiBadgeIconSmall": "",
+		"effects": [
+				{
+					"property": "MYTHIC_PROGRESS",
+					"modifierType": 2,
+					"amount": 1.500000,
+					"calculationType": 0
+				}
+			],
+		"conditions_gamemode": [
+			],
+		"conditions_region": [
+			],
+		"conditions_platform": [
+			],
+		"boostCategory": 2,
+		"uiModifierSummaryAmount": 50.000000,
+		"uiColor": "<0.000000,0.000000,0.000000>",
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isDevType": false
+	}
+}

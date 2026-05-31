@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/pathfinder/s03e03_legendary_01.rpak",
+		"roots": [
+				{
+					"asset": "mdl/Humans/class/heavy/pilot_heavy_pathfinder_s03_butler.rmdl",
+					"featureFlag": ""
+				},
+				{
+					"asset": "mdl/Weapons/arms/pov_pilot_heavy_pathfinder_s03_butler.rmdl",
+					"featureFlag": ""
+				}
+			]
+	}
+}

@@ -1,0 +1,93 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_challenge_layout.rpak",
+	"uniqueId": 1317023574,
+	"settings": {
+		"assetName": "settings/itemflav/challenge/mythic/bloodhound/apex_predator.rpak",
+		"itemType": "challenge",
+		"parentItemFlavor": "settings/itemflav/mythic_bundles/bloodhound/apex_predator.rpak",
+		"settingsAssetID": "SAID01317023574",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"typeOfMetaChallenge": "CHALLENGE_SET",
+		"challengeSet": "",
+		"challengeCollection": "",
+		"rewardCampaign": "",
+		"timeSpan": "MYTHIC",
+		"autogenSlot": "SLOT_00",
+		"autogenScriptHook": "ON_PLAYER_WIN",
+		"difficulty": "MEDIUM",
+		"mode": "ANY",
+		"modeAlt": "BATTLE_ROYALE",
+		"grxRewardSequenceRef": "",
+		"weekNumber": 0,
+		"tiers": [
+				{
+					"description": "#CHALLENGE_DAMAGE_DONE_AS",
+					"statRef": "stats.characters[%char%].damage_done_any_mode",
+					"descriptionAlt": "",
+					"statRefAlt": "",
+					"progressAccrual": "startAtZero",
+					"matchRequirement": "none",
+					"goalVal": 30000,
+					"goalValAlt": 0,
+					"characters": [
+							{
+								"flavor": "settings/itemflav/character/bloodhound.rpak"
+							}
+						],
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/character_skin/bloodhound/mythic_v21_pilot_level02.rpak",
+								"quantity": 1
+							}
+						],
+					"convertSecondsToMinutesDisplay": false
+				},
+				{
+					"description": "#CHALLENGE_DAMAGE_DONE_AS",
+					"statRef": "stats.characters[%char%].damage_done_any_mode",
+					"descriptionAlt": "",
+					"statRefAlt": "",
+					"progressAccrual": "addProgressFromPrevTier",
+					"matchRequirement": "none",
+					"goalVal": 100000,
+					"goalValAlt": 0,
+					"characters": [
+							{
+								"flavor": "settings/itemflav/character/bloodhound.rpak"
+							}
+						],
+					"rewards": [
+							{
+								"flavor": "settings/itemflav/character_skin/bloodhound/mythic_v21_pilot_level03.rpak",
+								"quantity": 1
+							}
+						],
+					"convertSecondsToMinutesDisplay": false
+				}
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isMetaChallenge": false,
+		"autoGenerateStatBacker": false,
+		"isBoostEnabled": true,
+		"isEitherOr": false,
+		"isRerollEnabled": true,
+		"isPremium": false,
+		"isGoldenScheme": false,
+		"maxOneTierPerMatch": false,
+		"lastTierIsInfinite": false,
+		"pinnedLocal": false,
+		"excludeFromPostMatchSummary": false,
+		"hasGRXRewardSequenceForPDEF": false,
+		"grxRewardSequenceAllowsSkipAhead": false
+	}
+}

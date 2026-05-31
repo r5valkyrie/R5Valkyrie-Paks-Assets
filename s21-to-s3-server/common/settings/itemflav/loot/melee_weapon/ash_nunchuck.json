@@ -1,0 +1,54 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_melee_weapon_layout.rpak",
+	"uniqueId": 1191608696,
+	"settings": {
+		"assetName": "settings/itemflav/loot/melee_weapon/ash_nunchuck.rpak",
+		"itemType": "melee_weapon",
+		"parentItemFlavor": "settings/itemflav/character/ash.rpak",
+		"settingsAssetID": "SAID01191608696",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "",
+		"localizationKey_NAME_SHORT": "",
+		"localizationKey_DESCRIPTION_LONG": "",
+		"localizationKey_DESCRIPTION_SHORT": "",
+		"quality": "NONE",
+		"icon": "",
+		"tagIcon": "",
+		"grxMode": "NONE",
+		"meleeWeaponType": "HEIRLOOM",
+		"configurationFramework": "SKIN_ONLY",
+		"mainWeaponClassname": "mp_weapon_ash_heirloom_primary",
+		"offhandWeaponClassname": "melee_ash_heirloom",
+		"deathbox": "",
+		"menuAnimSeq": "",
+		"koSound": "",
+		"storeImage": "",
+		"equipImage": "",
+		"legends": [
+				{
+					"flavor": "settings/itemflav/character/ash.rpak",
+					"featureFlag": ""
+				}
+			],
+		"skins": [
+				{
+					"flavor": "settings/itemflav/melee_skin/ash_nunchuck.rpak",
+					"featureFlag": ""
+				}
+			],
+		"componentSets": [
+			],
+		"menuMdlRot": "<0.000000,0.000000,0.000000>",
+		"skinAlias_sfxAliases": [
+			],
+		"battlePassScale": 2.600000,
+		"lootCeremonyScale": 1.800000,
+		"itemInspectScale": 1.000000,
+		"itemInspectOffset": "<0.000000,0.000000,0.000000>",
+		"scriptAnimWindowFXControls": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false
+	}
+}

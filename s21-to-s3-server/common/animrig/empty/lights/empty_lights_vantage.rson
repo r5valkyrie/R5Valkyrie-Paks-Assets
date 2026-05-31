@@ -1,0 +1,25 @@
+seqs:
+[
+	animseq\humans\class\char_select_light_default.rseq
+	animseq\humans\class\medium\pilot_medium_vantage\char_select_light_custom_vantage.rseq
+	animseq\humans\class\medium\pilot_medium_vantage\vantage_gladcard_animated_assemble_idle_light.rseq
+	animseq\humans\class\medium\pilot_medium_vantage\vantage_gladcard_animated_assemble_light.rseq
+	animseq\humans\class\medium\pilot_medium_vantage\vantage_gladcard_animated_chew_idle_light.rseq
+	animseq\humans\class\medium\pilot_medium_vantage\vantage_gladcard_animated_chew_light.rseq
+	animseq\humans\class\medium\pilot_medium_vantage\vantage_gladcard_animated_dance_idle_light.rseq
+	animseq\humans\class\medium\pilot_medium_vantage\vantage_gladcard_animated_dance_light.rseq
+	animseq\humans\class\medium\pilot_medium_vantage\vantage_gladcard_animated_wakeup_idle_light.rseq
+	animseq\humans\class\medium\pilot_medium_vantage\vantage_gladcard_animated_wakeup_light.rseq
+	animseq\humans\class\medium\pilot_medium_vantage\vantage_gladcard_static_boostSnipe_light.rseq
+	animseq\humans\class\medium\pilot_medium_vantage\vantage_gladcard_static_common_light.rseq
+	animseq\humans\class\medium\pilot_medium_vantage\vantage_gladcard_static_curiousEcho_light.rseq
+	animseq\humans\class\medium\pilot_medium_vantage\vantage_gladcard_static_dancing_light.rseq
+	animseq\humans\class\medium\pilot_medium_vantage\vantage_gladcard_static_echoWhistle_light.rseq
+	animseq\humans\class\medium\pilot_medium_vantage\vantage_gladcard_static_eyepiece_light.rseq
+	animseq\humans\class\medium\pilot_medium_vantage\vantage_gladcard_static_feedEcho_light.rseq
+	animseq\humans\class\medium\pilot_medium_vantage\vantage_gladcard_static_reading_light.rseq
+	animseq\humans\class\medium\pilot_medium_vantage\vantage_gladcard_static_standSnipe_light.rseq
+	animseq\humans\class\medium\pilot_medium_vantage\vantage_gladcard_static_whistle_light.rseq
+	animseq\humans\class\medium\pilot_medium_vantage\vantage_gladcards_animated_chillandshoot_idle_light.rseq
+	animseq\humans\class\medium\pilot_medium_vantage\vantage_gladcards_animated_chillandshoot_light.rseq
+]

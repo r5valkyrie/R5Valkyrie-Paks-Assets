@@ -1,0 +1,12 @@
+{
+	"layoutAsset": "settings_layout/settings_scriptAnimWindowArguments_PlayFX_layout.rpak",
+	"settings": {
+		"assetName": "settings/scriptAnimWindow/fx_valk_jet_ult_dlight.rpak",
+		"devDescription": "",
+		"type": "PlayFX",
+		"particleSystemName": "P_valk_ult_dlight",
+		"attachPoint": "vent_center",
+		"followAttach": true,
+		"playEndCap": false
+	}
+}

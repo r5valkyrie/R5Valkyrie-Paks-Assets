@@ -1,0 +1,8 @@
+"statTrackerAssetPathTemplate","statTrackerMinValue","statTrackerMaxValue"
+"settings/itemflav/gcard_tracker/%char%/games_played.rpak",2,20
+"settings/itemflav/gcard_tracker/%char%/kills.rpak",1,20
+"settings/itemflav/gcard_tracker/%char%/damage_done.rpak",100,2000
+"settings/itemflav/gcard_tracker/%char%/headshots.rpak",1,20
+"settings/itemflav/gcard_tracker/%char%/revives.rpak",1,5
+"settings/itemflav/gcard_tracker/%char%/placements_top_3.rpak",1,5
+"string","int","int"

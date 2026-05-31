@@ -1,0 +1,16 @@
+{
+	"layoutAsset": "settings_layout/settings_rpak_root_layout.rpak",
+	"settings": {
+		"assetName": "settings/rpak_roots/lgnd_skins/revenant/lgnd_v23_revarmy.rpak",
+		"roots": [
+				{
+					"asset": "mdl/humans/class/heavy/revenant_v23_revarmy_w.rmdl",
+					"featureFlag": "HAS_GAMEMODE_SHADOW_ARMY"
+				},
+				{
+					"asset": "mdl/Weapons/arms/revenant_v23_revarmy_v.rmdl",
+					"featureFlag": "HAS_GAMEMODE_SHADOW_ARMY"
+				}
+			]
+	}
+}

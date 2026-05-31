@@ -1,0 +1,31 @@
+{
+	"layoutAsset": "settings_layout/settings_itemtype_skydive_emote_layout.rpak",
+	"uniqueId": 896640002,
+	"settings": {
+		"assetName": "settings/itemflav/skydive_emote/caustic/deathbox_ride.rpak",
+		"itemType": "skydive_emote",
+		"parentItemFlavor": "settings/itemflav/character/caustic.rpak",
+		"settingsAssetID": "SAID00896640002",
+		"__featureFlag": "",
+		"devDescription": "PLEASE DESCRIBE",
+		"localizationKey_NAME": "#skydive_emote_caustic_deathbox_ride",
+		"localizationKey_NAME_SHORT": "#skydive_emote_caustic_deathbox_ride",
+		"localizationKey_DESCRIPTION_LONG": "#skydive_emote_caustic_deathbox_ride",
+		"localizationKey_DESCRIPTION_SHORT": "#skydive_emote_caustic_deathbox_ride",
+		"quality": "EPIC",
+		"icon": "rui/menu/buttons/battlepass/skydive_emote_deathbox_ride",
+		"tagIcon": "rui/events/s21me01/item_source_icon",
+		"grxMode": "REGULAR",
+		"grxMode": "REGULAR",
+		"grxRef": "skydive_emote_caustic_deathbox_ride",
+		"ownershipTarget": "",
+		"animSequence": "animseq/humans/class/heavy/pilot_heavy_caustic/caustic_freefall_emote_deathbox_ride.rseq",
+		"video": "media/skydive_emotes/caustic_deathboxride",
+		"bcEvent": "bc_skydive",
+		"multipleOwnershipTargets": [
+			],
+		"isNetworked": false,
+		"isTheFavoriteSentinel": false,
+		"isTheEmpty": false
+	}
+}
