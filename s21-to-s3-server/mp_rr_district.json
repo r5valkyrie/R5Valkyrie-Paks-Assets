@@ -13,6 +13,23 @@
     },
     {
       "_type": "mdl_",
+      "_path": "mdl/props/district_horizontal_launcher/district_horizontal_launcher_base_w.rmdl",
+      "$animrigs": [
+        "animrig/props/district_horizontal_launcher/district_horizontal_launcher.rrig"
+      ]
+    },
+    {
+      "_type": "arig",
+      "_path": "animrig/props/district_horizontal_launcher/district_horizontal_launcher.rrig",
+      "$sequences": [
+        "animseq/props/district_horizontal_launcher/district_horizontal_launcher_fireA.rseq",
+        "animseq/props/district_horizontal_launcher/district_horizontal_launcher_fireB.rseq",
+        "animseq/props/district_horizontal_launcher/district_horizontal_launcher_fireC.rseq",
+        "animseq/props/district_horizontal_launcher/district_horizontal_launcher_static.rseq"
+      ]
+    },
+    {
+      "_type": "mdl_",
       "_path": "mdl/angel_city/box_small_01_burned.rmdl"
     },
     {
